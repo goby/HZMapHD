@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <ArcGIS/ArcGIS.h>
 
-@interface ZGSViewController : UIViewController
+@interface ZGSViewController : UIViewController<AGSMapViewLayerDelegate,
+                                                AGSLocationDisplayInfoTemplateDelegate,
+                                                AGSCalloutDelegate,
+                                                AGSMapViewTouchDelegate,
+                                                UIActionSheetDelegate>
+
+@property (weak, nonatomic) IBOutlet AGSMapView *mapView;
 
 @end
