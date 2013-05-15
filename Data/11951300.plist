@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>62b3e353-17e8-4c36-b4a4-1b48ac171e0e</string><key>stan_name</key><string>下城区体育馆</string><key>multi_info</key><string> </string><key>x</key><string>80376.9375</string><key>y</key><string>85350.6641</string></dict>
+<dict>
+<key>identifier</key><string>8d4349c3-3f4f-496f-a339-2d3b078a2413</string><key>stan_name</key><string>杭州游泳馆</string><key>multi_info</key><string> </string><key>x</key><string>80183.3594</string><key>y</key><string>83251.4688</string></dict>
+<dict>
+<key>identifier</key><string>cbdb2e8c-0098-48d3-992a-41ccda04ffb7</string><key>stan_name</key><string>杭州体育馆</string><key>multi_info</key><string> </string><key>x</key><string>80726.1094</string><key>y</key><string>83014.2422</string></dict>
+<dict>
+<key>identifier</key><string>168311a2-3fdb-4c01-afcf-0713dd338409</string><key>stan_name</key><string>门球场</string><key>multi_info</key><string> </string><key>x</key><string>76633.0469</string><key>y</key><string>82646.2266</string></dict>
+<dict>
+<key>identifier</key><string>d3f381a2-0736-445c-bb45-821fdf687f74</string><key>stan_name</key><string>黄龙体育馆</string><key>multi_info</key><string> </string><key>x</key><string>77112.5938</string><key>y</key><string>82700.1172</string></dict>
+<dict>
+<key>identifier</key><string>a64e6a7c-4a95-4456-8b28-4ba5bf6231e7</string><key>stan_name</key><string>西湖体育馆</string><key>multi_info</key><string> </string><key>x</key><string>76630.1875</string><key>y</key><string>82747.5938</string></dict>
+<dict>
+<key>identifier</key><string>ae6277de-63c1-4033-b63a-0a1b4dbd2c87</string><key>stan_name</key><string>足球场</string><key>multi_info</key><string> </string><key>x</key><string>76926.9922</string><key>y</key><string>82781.3906</string></dict>
+<dict>
+<key>identifier</key><string>754be400-4267-49b8-9d8f-04f39c270f28</string><key>stan_name</key><string>浙江省人民体育场</string><key>multi_info</key><string> </string><key>x</key><string>80780.75</string><key>y</key><string>82784.4297</string></dict>
+<dict>
+<key>identifier</key><string>f99936c7-0eae-42da-97a2-78279b901d22</string><key>stan_name</key><string>浙江省体育训练中心</string><key>multi_info</key><string> </string><key>x</key><string>92145.7983</string><key>y</key><string>81066.7150</string></dict>
+<dict>
+<key>identifier</key><string>7d5421e6-520d-48bc-b8cb-17d974a9b996</string><key>stan_name</key><string>黄龙体育中心动力物管处</string><key>multi_info</key><string> </string><key>x</key><string>76768.6406</string><key>y</key><string>82938.2578</string></dict>
+<dict>
+<key>identifier</key><string>0ad95883-57fb-44ff-947d-b4d49c52ebe1</string><key>stan_name</key><string>临平游泳池</string><key>multi_info</key><string> </string><key>x</key><string>93926.9475</string><key>y</key><string>100004.3055</string></dict>
+<dict>
+<key>identifier</key><string>36cead1e-fc2e-41e5-b5de-34fe05c14593</string><key>stan_name</key><string>娃哈哈小学游泳馆</string><key>multi_info</key><string> </string><key>x</key><string>79752.6406</string><key>y</key><string>79963.8516</string></dict>
+<dict>
+<key>identifier</key><string>fc81125d-2402-47c9-b782-999b76b29c1a</string><key>stan_name</key><string>浙江大学华家池校区游泳池</string><key>multi_info</key><string> </string><key>x</key><string>82529.1172</string><key>y</key><string>83018.9375</string></dict>
+<dict>
+<key>identifier</key><string>4b9f57fe-b515-4ea1-916c-b6c6c7a2d2e0</string><key>stan_name</key><string>杭州城东公园游泳场</string><key>multi_info</key><string> </string><key>x</key><string>82294.1840</string><key>y</key><string>83020.19</string></dict>
+<dict>
+<key>identifier</key><string>dde6eb0c-6d8f-4cc0-b88e-1366bb240e97</string><key>stan_name</key><string>浙宾诚龙游泳俱乐部游泳池</string><key>multi_info</key><string> </string><key>x</key><string>76305.6590</string><key>y</key><string>78745.48</string></dict>
+<dict>
+<key>identifier</key><string>b6f518af-9c44-4b43-9c5e-52aec493a544</string><key>stan_name</key><string>金都花园游泳池</string><key>multi_info</key><string> </string><key>x</key><string>73612.12</string><key>y</key><string>83685.8320</string></dict>
+<dict>
+<key>identifier</key><string>02930d90-ed21-43bf-afb1-5ea519213c78</string><key>stan_name</key><string>浙大玉泉校区游泳池</string><key>multi_info</key><string> </string><key>x</key><string>76249.5130</string><key>y</key><string>82183.7340</string></dict>
+<dict>
+<key>identifier</key><string>11907829-9395-426c-be81-09bb5388a140</string><key>stan_name</key><string>浙江大学逸夫体育馆</string><key>multi_info</key><string> </string><key>x</key><string>83097.7980</string><key>y</key><string>82703.7660</string></dict>
+<dict>
+<key>identifier</key><string>1d04bd2a-3b04-4f67-917f-0f535a8535a8</string><key>stan_name</key><string>政苑游泳管</string><key>multi_info</key><string> </string><key>x</key><string>74067.5810</string><key>y</key><string>85936.6850</string></dict>
+<dict>
+<key>identifier</key><string>17c87e37-ad59-43dc-92ab-75c916190293</string><key>stan_name</key><string>四季青小学操场</string><key>multi_info</key><string> </string><key>x</key><string>83071.7030</string><key>y</key><string>80241.6950</string></dict>
+<dict>
+<key>identifier</key><string>a1f8b4d3-5d25-42b3-8eb0-d9cb9bdc9c9f</string><key>stan_name</key><string>科技学院操场</string><key>multi_info</key><string> </string><key>x</key><string>76238.5230</string><key>y</key><string>83537.2110</string></dict>
+</array>
+</plist>

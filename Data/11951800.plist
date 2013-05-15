@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>d58394b6-3694-44a3-b135-ba1dcc623aa0</string><key>stan_name</key><string>璇山下公园</string><key>multi_info</key><string> </string><key>x</key><string>84066.2120</string><key>y</key><string>47650.0969</string></dict>
+<dict>
+<key>identifier</key><string>7cf6b401-3642-4368-9b85-2d095b21a6c2</string><key>stan_name</key><string>龙井山园</string><key>multi_info</key><string> </string><key>x</key><string>74963.2344</string><key>y</key><string>77407.1563</string></dict>
+<dict>
+<key>identifier</key><string>95865b82-71d9-4fa6-9a92-f359dae1e374</string><key>stan_name</key><string>海洋公园</string><key>multi_info</key><string> </string><key>x</key><string>79092.3906</string><key>y</key><string>78948.5703</string></dict>
+<dict>
+<key>identifier</key><string>418bac54-d88f-48ff-97e3-4c039b5b9f1d</string><key>stan_name</key><string>钱江新城CBD公园</string><key>multi_info</key><string> </string><key>x</key><string>84593.9690</string><key>y</key><string>79420.8960</string></dict>
+<dict>
+<key>identifier</key><string>03d52f21-ff4e-4538-8dfb-bc3aa48eaaa8</string><key>stan_name</key><string>少儿乐园</string><key>multi_info</key><string> </string><key>x</key><string>79691.2656</string><key>y</key><string>84921.8750</string></dict>
+<dict>
+<key>identifier</key><string>40aeb313-4af2-4037-9096-1a6dd5bb8633</string><key>stan_name</key><string>杭州萧山新大地园艺场</string><key>multi_info</key><string> </string><key>x</key><string>106682.61</string><key>y</key><string>81226.1119</string></dict>
+<dict>
+<key>identifier</key><string>cf3b802d-0e8f-4001-859d-ce9faa010e90</string><key>stan_name</key><string>梦幻沙滩公园</string><key>multi_info</key><string> </string><key>x</key><string>56046.2020</string><key>y</key><string>80228.6940</string></dict>
+<dict>
+<key>identifier</key><string>548c2c51-d445-4d43-a965-01421b604af8</string><key>stan_name</key><string>双溪漂流游乐场</string><key>multi_info</key><string> </string><key>x</key><string>49497.4610</string><key>y</key><string>97056.7120</string></dict>
+<dict>
+<key>identifier</key><string>60b63619-d385-4c85-a79f-24e60fc6bf02</string><key>stan_name</key><string>儿童公园</string><key>multi_info</key><string> </string><key>x</key><string>92520.3795</string><key>y</key><string>100329.1814</string></dict>
+</array>
+</plist>

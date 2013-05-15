@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>c86894f9-e1d3-41f7-ad83-6068bc48454b</string><key>stan_name</key><string>杭州市老干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79752.8203</string><key>y</key><string>82272.1562</string></dict>
+<dict>
+<key>identifier</key><string>0298dd9e-dc8f-4497-8c15-ad6b4b2a6149</string><key>stan_name</key><string>杭州市青少年杂技团</string><key>multi_info</key><string> </string><key>x</key><string>80440.7784</string><key>y</key><string>80337.1145</string></dict>
+<dict>
+<key>identifier</key><string>45016302-6dd3-4670-887c-73b621c114b1</string><key>stan_name</key><string>浙江省老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79066.8984</string><key>y</key><string>82419.5391</string></dict>
+<dict>
+<key>identifier</key><string>e80871b6-fddc-4180-953b-5ab88f8de04b</string><key>stan_name</key><string>杭州棋院</string><key>multi_info</key><string> </string><key>x</key><string>79281.3151</string><key>y</key><string>81608.8363</string></dict>
+<dict>
+<key>identifier</key><string>88b93d7c-a492-4824-adc1-0437739c1b8d</string><key>stan_name</key><string>西湖区少年宫</string><key>multi_info</key><string> </string><key>x</key><string>76356.9922</string><key>y</key><string>81686.0078</string></dict>
+<dict>
+<key>identifier</key><string>6ee9a820-f0d4-4965-af48-d4dbbb5d4c27</string><key>stan_name</key><string>杭州文龙青少年体育俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>80961.3857</string><key>y</key><string>82575.0596</string></dict>
+<dict>
+<key>identifier</key><string>621b95fd-e215-4f0d-9ac8-c04f07a2aa48</string><key>stan_name</key><string>杭州市上城区青少年宫</string><key>multi_info</key><string> </string><key>x</key><string>80331.6563</string><key>y</key><string>80694.1094</string></dict>
+<dict>
+<key>identifier</key><string>75dc7230-f97b-48d7-996f-ef3173b14be3</string><key>stan_name</key><string>西湖区老干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>76294.4994</string><key>y</key><string>81740.6919</string></dict>
+<dict>
+<key>identifier</key><string>715ffe0d-27b4-4977-bb15-648512446767</string><key>stan_name</key><string>杭州市下城区青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79974.9766</string><key>y</key><string>82655.3125</string></dict>
+<dict>
+<key>identifier</key><string>a1949b93-a0d2-4bfa-a53d-050bf76b434c</string><key>stan_name</key><string>文化中心</string><key>multi_info</key><string> </string><key>x</key><string>69309.4766</string><key>y</key><string>79827.5703</string></dict>
+<dict>
+<key>identifier</key><string>64f58c00-b22e-4241-9cc7-032beb5a2da1</string><key>stan_name</key><string>上城区青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80772.6953</string><key>y</key><string>79833.5547</string></dict>
+<dict>
+<key>identifier</key><string>4a45df9b-7a1b-450d-aa9e-cc5221f1b9a9</string><key>stan_name</key><string>老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>81757.0937</string><key>y</key><string>80903.6875</string></dict>
+<dict>
+<key>identifier</key><string>7bd640eb-3ea9-4346-96c8-bd9dbd9f78bc</string><key>stan_name</key><string>杭州市青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>78927.9141</string><key>y</key><string>81993.3828</string></dict>
+<dict>
+<key>identifier</key><string>c7b35cae-085d-44b1-8a32-4b4ec9cfd3af</string><key>stan_name</key><string>上城区文化馆</string><key>multi_info</key><string> </string><key>x</key><string>80493.4453</string><key>y</key><string>79957.6719</string></dict>
+<dict>
+<key>identifier</key><string>e8b043e3-36fc-4291-8e6a-c2deba7e1557</string><key>stan_name</key><string>浙江省妇女儿童活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80600.9530</string><key>y</key><string>81046.8667</string></dict>
+<dict>
+<key>identifier</key><string>819e59b5-4065-4813-869e-78f52534c938</string><key>stan_name</key><string>杭州市青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79069.4109</string><key>y</key><string>82015.8074</string></dict>
+<dict>
+<key>identifier</key><string>f00cb997-6c80-4bd1-9680-6193a0316a71</string><key>stan_name</key><string>星光老年之家</string><key>multi_info</key><string> </string><key>x</key><string>83902.2813</string><key>y</key><string>82911.6172</string></dict>
+<dict>
+<key>identifier</key><string>8ca389a6-9fa2-465b-aa81-bc2fad51f2c1</string><key>stan_name</key><string>杭州市工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>80241.4219</string><key>y</key><string>81082.6016</string></dict>
+<dict>
+<key>identifier</key><string>995c7802-d522-44f0-8932-f22334e9210c</string><key>stan_name</key><string>萧山市南阳镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>106786.8609</string><key>y</key><string>82068.7391</string></dict>
+<dict>
+<key>identifier</key><string>796f549d-013c-40c8-9bfa-e40ce81362bf</string><key>stan_name</key><string>浙大教工活动中心</string><key>multi_info</key><string> </string><key>x</key><string>76325.8906</string><key>y</key><string>82169.7813</string></dict>
+<dict>
+<key>identifier</key><string>d33e1828-af20-4247-af2a-88f114a7584e</string><key>stan_name</key><string>星光老年之家</string><key>multi_info</key><string> </string><key>x</key><string>83792.0859</string><key>y</key><string>83303.6172</string></dict>
+<dict>
+<key>identifier</key><string>1aea75af-97bd-4bca-8359-938954c60223</string><key>stan_name</key><string>采荷文体活动中心</string><key>multi_info</key><string> </string><key>x</key><string>83159.6650</string><key>y</key><string>81225.6050</string></dict>
+<dict>
+<key>identifier</key><string>184e2aff-81da-475f-9c67-6a55ca303ed7</string><key>stan_name</key><string>文化站礼堂</string><key>multi_info</key><string> </string><key>x</key><string>83135.9531</string><key>y</key><string>82180.3594</string></dict>
+<dict>
+<key>identifier</key><string>71778928-0217-4afa-b47d-4db5560b4183</string><key>stan_name</key><string>余杭文体中心</string><key>multi_info</key><string> </string><key>x</key><string>58136.3260</string><key>y</key><string>83336.2580</string></dict>
+<dict>
+<key>identifier</key><string>c832ddbc-1cb8-4d6a-85c5-739263fde71c</string><key>stan_name</key><string>下城区老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79617.3047</string><key>y</key><string>82249.3594</string></dict>
+<dict>
+<key>identifier</key><string>364a8a2c-d0d2-42a5-b15e-b9ad68bff9fb</string><key>stan_name</key><string>余杭老干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>92729.5806</string><key>y</key><string>100479.9026</string></dict>
+<dict>
+<key>identifier</key><string>a5b08e4a-1f97-4446-8ed8-136145ad128c</string><key>stan_name</key><string>瓶窑镇文体艺术中心</string><key>multi_info</key><string> </string><key>x</key><string>61672.7741</string><key>y</key><string>96628.8919</string></dict>
+<dict>
+<key>identifier</key><string>0f553c59-783d-4b15-ae42-ccf3d35f2a77</string><key>stan_name</key><string>瓶窑镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>61703.7870</string><key>y</key><string>96765.9389</string></dict>
+<dict>
+<key>identifier</key><string>d8c012f1-4f1b-4b6e-8cdd-5144db49a269</string><key>stan_name</key><string>仁和镇文化体育中心</string><key>multi_info</key><string> </string><key>x</key><string>73007.7159</string><key>y</key><string>102166.28</string></dict>
+<dict>
+<key>identifier</key><string>199a3360-6fa7-461d-ad25-f7a86deabbf5</string><key>stan_name</key><string>黄湖工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>45756.7199</string><key>y</key><string>102543.3231</string></dict>
+<dict>
+<key>identifier</key><string>796969f1-c839-4895-a009-a1cf4b276b16</string><key>stan_name</key><string>老年文化乐苑</string><key>multi_info</key><string> </string><key>x</key><string>92404.6829</string><key>y</key><string>92166.3937</string></dict>
+<dict>
+<key>identifier</key><string>694d024c-9d50-4e60-958e-0f7502b476a5</string><key>stan_name</key><string>工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>40877.6170</string><key>y</key><string>103241.2240</string></dict>
+<dict>
+<key>identifier</key><string>7903f44e-b659-4788-878f-c659e107201e</string><key>stan_name</key><string>东风杭州汽车有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72101.7370</string><key>y</key><string>92315.1250</string></dict>
+<dict>
+<key>identifier</key><string>b69a214b-1876-4b9f-8063-59194f285043</string><key>stan_name</key><string>浙江杭钢动力有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81025.1145</string><key>y</key><string>92345.6452</string></dict>
+<dict>
+<key>identifier</key><string>f346a738-1aaf-47a3-b339-4e014733e0d5</string><key>stan_name</key><string>文化馆</string><key>multi_info</key><string> </string><key>x</key><string>93606.2711</string><key>y</key><string>104746.7374</string></dict>
+<dict>
+<key>identifier</key><string>29eb9402-742f-455d-ae8b-b7966b2641ef</string><key>stan_name</key><string>余杭区青少年宫</string><key>multi_info</key><string> </string><key>x</key><string>92735.8646</string><key>y</key><string>99942.8938</string></dict>
+<dict>
+<key>identifier</key><string>8136357c-bab6-4972-8c58-6c05c6201be7</string><key>stan_name</key><string>余杭区老干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>92691.8899</string><key>y</key><string>99961.9524</string></dict>
+<dict>
+<key>identifier</key><string>1da7d84d-01fb-464a-9c53-893981470bd4</string><key>stan_name</key><string>塘栖镇文体中心</string><key>multi_info</key><string> </string><key>x</key><string>82428.3520</string><key>y</key><string>105536.6751</string></dict>
+<dict>
+<key>identifier</key><string>56cdb9ba-b120-47b4-8a54-bbb3892efcc3</string><key>stan_name</key><string>栖工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>82064.5390</string><key>y</key><string>105986.1549</string></dict>
+<dict>
+<key>identifier</key><string>29f58ce1-1169-4fc4-9b29-b4804a48c83c</string><key>stan_name</key><string>上塘街道文体活动中心</string><key>multi_info</key><string> </string><key>x</key><string>78517.5910</string><key>y</key><string>89710.6109</string></dict>
+<dict>
+<key>identifier</key><string>e8713851-872b-47a5-a571-e491854b03cd</string><key>stan_name</key><string>余杭区乔司镇文化广播电视体育中心</string><key>multi_info</key><string> </string><key>x</key><string>91619.8298</string><key>y</key><string>91526.3586</string></dict>
+<dict>
+<key>identifier</key><string>9d1fd873-ba70-41a1-ab0c-105d4c45826c</string><key>stan_name</key><string>杭州市半山镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>81910.9255</string><key>y</key><string>91744.5160</string></dict>
+<dict>
+<key>identifier</key><string>3aa6dc4f-dea5-45ac-87e7-99ff40ac369d</string><key>stan_name</key><string>三墩古龙俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>72100.4063</string><key>y</key><string>88302.0938</string></dict>
+<dict>
+<key>identifier</key><string>4dac5a47-c10d-4689-abb8-2bdd4fcf4825</string><key>stan_name</key><string>半山村老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>82728.8697</string><key>y</key><string>91795.2755</string></dict>
+<dict>
+<key>identifier</key><string>f092d53c-c10f-4463-a2cc-2ea9883c1ac8</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>83833.6172</string><key>y</key><string>87254.4844</string></dict>
+<dict>
+<key>identifier</key><string>c77ae695-19d4-47ab-a607-41ae017e7682</string><key>stan_name</key><string>老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>78741.2656</string><key>y</key><string>89285.2813</string></dict>
+<dict>
+<key>identifier</key><string>c31a578e-f013-4b80-adba-5f7e79837c0f</string><key>stan_name</key><string>三塘小区文体活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80273.3832</string><key>y</key><string>87309.7844</string></dict>
+<dict>
+<key>identifier</key><string>c561f70f-1afb-4a14-b66a-bb510e62d08a</string><key>stan_name</key><string>工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>72271.9609</string><key>y</key><string>88630.3438</string></dict>
+<dict>
+<key>identifier</key><string>1cdf1250-f08e-4cff-8520-7bdad22fa70a</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>84890.75</string><key>y</key><string>71418.1250</string></dict>
+<dict>
+<key>identifier</key><string>acb2e96b-c476-4b23-9a83-031f130d9eca</string><key>stan_name</key><string>龙坞镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>69533.9375</string><key>y</key><string>73255.7578</string></dict>
+<dict>
+<key>identifier</key><string>fe28e584-ede0-4fb6-bf1f-79abcbce5cd4</string><key>stan_name</key><string>航民文化中心</string><key>multi_info</key><string> </string><key>x</key><string>107747.2030</string><key>y</key><string>72928.2641</string></dict>
+<dict>
+<key>identifier</key><string>825796ce-d0c3-40f8-98a5-e8fbfe26232f</string><key>stan_name</key><string>瓜沥镇文化体育中心</string><key>multi_info</key><string> </string><key>x</key><string>108291.3860</string><key>y</key><string>72959.1169</string></dict>
+<dict>
+<key>identifier</key><string>a1bef99c-2878-4cb7-b280-1943bdc5bc23</string><key>stan_name</key><string>农贸菜场</string><key>multi_info</key><string> </string><key>x</key><string>83835.7969</string><key>y</key><string>72921.0234</string></dict>
+<dict>
+<key>identifier</key><string>94397e83-68ca-4ffd-83ba-1c8172ea357d</string><key>stan_name</key><string>宁围镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>91310.3620</string><key>y</key><string>76689.0890</string></dict>
+<dict>
+<key>identifier</key><string>6b74995f-2796-462c-a501-d7aeb34178c5</string><key>stan_name</key><string>宁新文体中心</string><key>multi_info</key><string> </string><key>x</key><string>92297.6710</string><key>y</key><string>77666.9309</string></dict>
+<dict>
+<key>identifier</key><string>6f40372d-c9a6-4dbd-899e-2fb3bb803f8b</string><key>stan_name</key><string>江城文化宫</string><key>multi_info</key><string> </string><key>x</key><string>80872.4844</string><key>y</key><string>78504.7656</string></dict>
+<dict>
+<key>identifier</key><string>96a4632d-fd5d-4d40-9014-3ece9220a51d</string><key>stan_name</key><string>九堡镇蚕桑社区星光老年之家</string><key>multi_info</key><string> </string><key>x</key><string>89296.4710</string><key>y</key><string>87788.7060</string></dict>
+<dict>
+<key>identifier</key><string>d42fb260-2b84-415e-81d5-a449eda5e5ad</string><key>stan_name</key><string>党湾镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>117038.85</string><key>y</key><string>78106.0379</string></dict>
+<dict>
+<key>identifier</key><string>daf3eb50-5635-4067-b163-4ed682e6a94e</string><key>stan_name</key><string>文化宫</string><key>multi_info</key><string> </string><key>x</key><string>81217.7813</string><key>y</key><string>86194.6875</string></dict>
+<dict>
+<key>identifier</key><string>d4468dc0-2106-4542-849b-36fed2a102e7</string><key>stan_name</key><string>下城区青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80561.5697</string><key>y</key><string>83893.9211</string></dict>
+<dict>
+<key>identifier</key><string>0ca33544-dcc7-4780-bfe6-812003035fe0</string><key>stan_name</key><string>儿童艺术中心</string><key>multi_info</key><string> </string><key>x</key><string>79015.0781</string><key>y</key><string>83981.9375</string></dict>
+<dict>
+<key>identifier</key><string>23a0b774-638c-43f8-8f34-60281da28b47</string><key>stan_name</key><string>活动中心</string><key>multi_info</key><string> </string><key>x</key><string>72445.8438</string><key>y</key><string>86836.3906</string></dict>
+<dict>
+<key>identifier</key><string>aeab1892-15a9-4885-84aa-64595773e03e</string><key>stan_name</key><string>五常街道工人文化馆</string><key>multi_info</key><string> </string><key>x</key><string>68003.5908</string><key>y</key><string>81761.1630</string></dict>
+<dict>
+<key>identifier</key><string>4c7e2cf2-badd-4153-a4d2-781dba9d8c13</string><key>stan_name</key><string>活动中心</string><key>multi_info</key><string> </string><key>x</key><string>82537.4531</string><key>y</key><string>85048.1484</string></dict>
+<dict>
+<key>identifier</key><string>b5dc8144-482b-4e38-ab44-d56e132a1c85</string><key>stan_name</key><string>省农科院老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>82873.4717</string><key>y</key><string>87053.0345</string></dict>
+<dict>
+<key>identifier</key><string>b6607663-559b-42eb-8d8b-760f54ce1511</string><key>stan_name</key><string>杭州市军队离休退休干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>75863.2341</string><key>y</key><string>85254.2279</string></dict>
+<dict>
+<key>identifier</key><string>ebd8001f-3533-4290-895b-0e172ca179f5</string><key>stan_name</key><string>余杭工人文化宫</string><key>multi_info</key><string> </string><key>x</key><string>58448.2790</string><key>y</key><string>83147.46</string></dict>
+<dict>
+<key>identifier</key><string>4d1fa3a2-9fd5-4a3b-ba50-f01d91ff020f</string><key>stan_name</key><string>星光老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>77516.1719</string><key>y</key><string>85959.4531</string></dict>
+<dict>
+<key>identifier</key><string>bd03e406-bec9-41bf-9081-984732549c62</string><key>stan_name</key><string>西湖区青少年宫</string><key>multi_info</key><string> </string><key>x</key><string>74858.5055</string><key>y</key><string>84394.1791</string></dict>
+<dict>
+<key>identifier</key><string>78a26279-4df2-4799-a51b-fad53f439e6a</string><key>stan_name</key><string>拱墅区青少年宫</string><key>multi_info</key><string> </string><key>x</key><string>78044.7188</string><key>y</key><string>85519.2969</string></dict>
+<dict>
+<key>identifier</key><string>6e84e8ee-29eb-4f69-92ec-87aa64f62068</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>81000.2188</string><key>y</key><string>86118.6328</string></dict>
+<dict>
+<key>identifier</key><string>6e7c6d02-7a4e-42eb-88ba-183cce300342</string><key>stan_name</key><string>老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80186.2384</string><key>y</key><string>87480.3772</string></dict>
+<dict>
+<key>identifier</key><string>955ff87b-db0d-4a4a-9842-fa9bb637f80f</string><key>stan_name</key><string>浙江省老年体育活动中心</string><key>multi_info</key><string> </string><key>x</key><string>76728.1170</string><key>y</key><string>82668.79</string></dict>
+<dict>
+<key>identifier</key><string>dfd7319b-649f-436b-8bf5-940a57b7efd7</string><key>stan_name</key><string>西湖区北山街道沿山河社区退管人员活动中心</string><key>multi_info</key><string> </string><key>x</key><string>78017.9810</string><key>y</key><string>82958.5970</string></dict>
+<dict>
+<key>identifier</key><string>0bc046d8-16af-473a-9b42-b4588818dee9</string><key>stan_name</key><string>社区文化艺术中心</string><key>multi_info</key><string> </string><key>x</key><string>80912.7920</string><key>y</key><string>83781.3580</string></dict>
+<dict>
+<key>identifier</key><string>df5a66db-1919-46ef-be03-310f31d46857</string><key>stan_name</key><string>三里亭社区星光老年之家</string><key>multi_info</key><string> </string><key>x</key><string>82610.2110</string><key>y</key><string>85379.1480</string></dict>
+<dict>
+<key>identifier</key><string>d09ed3c5-5581-45eb-a1b0-ddeaee00e96a</string><key>stan_name</key><string>中北社区活动室</string><key>multi_info</key><string> </string><key>x</key><string>80359.68</string><key>y</key><string>81973.5620</string></dict>
+<dict>
+<key>identifier</key><string>6409ff51-d4de-40dc-9dd3-edb1d3c9009a</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>82599.50</string><key>y</key><string>81433.8830</string></dict>
+<dict>
+<key>identifier</key><string>f560e29a-0e7d-4f1b-97a0-d8ea7df9c2da</string><key>stan_name</key><string>勤丰社区老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>76119.6560</string><key>y</key><string>86597.2810</string></dict>
+<dict>
+<key>identifier</key><string>fdad4cd2-8230-495d-9c4d-64e2cece797d</string><key>stan_name</key><string>商教苑社区活动室</string><key>multi_info</key><string> </string><key>x</key><string>82492.50</string><key>y</key><string>80305.4920</string></dict>
+<dict>
+<key>identifier</key><string>5afcf23e-940c-49cf-84f1-e9b26db270ff</string><key>stan_name</key><string>复兴街社区老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>80031.7730</string><key>y</key><string>76349.75</string></dict>
+<dict>
+<key>identifier</key><string>e14f03c7-9dfb-4841-91eb-19f4c85c902c</string><key>stan_name</key><string>活动室</string><key>multi_info</key><string> </string><key>x</key><string>82783.4770</string><key>y</key><string>80176.3830</string></dict>
+<dict>
+<key>identifier</key><string>0ac7f03a-3cc3-4f20-83f8-456d41ff8723</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>79551.3050</string><key>y</key><string>82620.1090</string></dict>
+<dict>
+<key>identifier</key><string>9ff1e166-0240-4031-9e91-575761c8c963</string><key>stan_name</key><string>新凯苑社区老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>82345.0080</string><key>y</key><string>81062.1640</string></dict>
+<dict>
+<key>identifier</key><string>2cba2b93-d83c-4d58-8df4-30e3138fdfa2</string><key>stan_name</key><string>江汀社区活动室</string><key>multi_info</key><string> </string><key>x</key><string>83674.8750</string><key>y</key><string>80081.2420</string></dict>
+<dict>
+<key>identifier</key><string>f37559d1-abee-4e31-bddb-fc205a1ccb3f</string><key>stan_name</key><string>社区便民服务网点</string><key>multi_info</key><string> </string><key>x</key><string>81093.0620</string><key>y</key><string>83175.2970</string></dict>
+<dict>
+<key>identifier</key><string>4022dbd7-6182-4287-9f71-e2666c2d93bf</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>86989.3520</string><key>y</key><string>87460.1560</string></dict>
+<dict>
+<key>identifier</key><string>3002b40a-18a9-41eb-8244-16562f5e7548</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>81547.6250</string><key>y</key><string>78786.1020</string></dict>
+<dict>
+<key>identifier</key><string>6828dcc3-309e-4b76-ac58-759f58dec560</string><key>stan_name</key><string>社区保障站</string><key>multi_info</key><string> </string><key>x</key><string>80177.3980</string><key>y</key><string>79831.68</string></dict>
+<dict>
+<key>identifier</key><string>5cb49975-92ad-4fa6-af54-5a9b5fdf627c</string><key>stan_name</key><string>原老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>89499.4610</string><key>y</key><string>86760.7730</string></dict>
+<dict>
+<key>identifier</key><string>5f316580-a85e-4aec-b734-e7cf638a53ff</string><key>stan_name</key><string>老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>85285.5940</string><key>y</key><string>88411.2730</string></dict>
+<dict>
+<key>identifier</key><string>30faaa16-f1a6-4e4a-979b-2459302b6c64</string><key>stan_name</key><string>电脑房</string><key>multi_info</key><string> </string><key>x</key><string>79687.82</string><key>y</key><string>85713.2660</string></dict>
+<dict>
+<key>identifier</key><string>d4fd2921-f0de-47a8-8d67-b91c74502bfa</string><key>stan_name</key><string>老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>85094.3910</string><key>y</key><string>92634.8050</string></dict>
+<dict>
+<key>identifier</key><string>74fc8f95-13c4-4f13-8028-9ca90e248f62</string><key>stan_name</key><string>高沙村老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>96411.0680</string><key>y</key><string>88332.14</string></dict>
+<dict>
+<key>identifier</key><string>c8bdcf32-0028-4bd9-a54b-dbbf8991f51b</string><key>stan_name</key><string>老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>95054.21</string><key>y</key><string>87336.3310</string></dict>
+<dict>
+<key>identifier</key><string>162902c5-25b1-4ea9-bed7-7c342afa49c6</string><key>stan_name</key><string>东江嘴老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80256.0230</string><key>y</key><string>65333.3690</string></dict>
+<dict>
+<key>identifier</key><string>7f1d5150-2c83-4e23-9116-61c373ec803f</string><key>stan_name</key><string>协同村老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>85928.9530</string><key>y</key><string>74536.8670</string></dict>
+<dict>
+<key>identifier</key><string>61e6e8a7-0b76-4805-bf9b-e064fd5ee3fc</string><key>stan_name</key><string>栖霞岭社区老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>77126.14</string><key>y</key><string>81224.9070</string></dict>
+<dict>
+<key>identifier</key><string>4a3f83ae-1c71-42ed-8134-82b2b26f9e84</string><key>stan_name</key><string>沿山河社区老年活动室</string><key>multi_info</key><string> </string><key>x</key><string>77889.0670</string><key>y</key><string>82933.5830</string></dict>
+<dict>
+<key>identifier</key><string>dd7184b3-48e3-4213-90cd-2590631e9e69</string><key>stan_name</key><string>杭州大学老年干部活动中心</string><key>multi_info</key><string> </string><key>x</key><string>77932.18</string><key>y</key><string>83028.8150</string></dict>
+<dict>
+<key>identifier</key><string>0b60343d-7d05-478f-8f26-9854fd4a5166</string><key>stan_name</key><string>浙江大学西溪校区离退休活动室</string><key>multi_info</key><string> </string><key>x</key><string>80923.3950</string><key>y</key><string>83166.6470</string></dict>
+<dict>
+<key>identifier</key><string>609bf4c2-411a-44fd-9cff-542f639fe5ba</string><key>stan_name</key><string>下城区老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>80088.4980</string><key>y</key><string>81750.05</string></dict>
+<dict>
+<key>identifier</key><string>7fc3e5f0-3f4d-42a0-b40d-88ff3db8e162</string><key>stan_name</key><string>翠苑街道三区社区星光老人之家</string><key>multi_info</key><string> </string><key>x</key><string>75932.4780</string><key>y</key><string>85276.6870</string></dict>
+<dict>
+<key>identifier</key><string>d9c2dcf2-fd19-43e4-876d-aa05c602b9b9</string><key>stan_name</key><string>骆家庄老年文化活动中心</string><key>multi_info</key><string> </string><key>x</key><string>72928.8560</string><key>y</key><string>84760.4210</string></dict>
+<dict>
+<key>identifier</key><string>3ba85e97-0998-43b4-aaa7-0ea6f721c068</string><key>stan_name</key><string>杭州市古荡街道离退休职工活动中心</string><key>multi_info</key><string> </string><key>x</key><string>74599.8480</string><key>y</key><string>84422.6760</string></dict>
+<dict>
+<key>identifier</key><string>36a3666f-fd95-40f2-ad99-75ccdb92f1cb</string><key>stan_name</key><string>杭州大关青少年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>79724.0240</string><key>y</key><string>86106.7590</string></dict>
+<dict>
+<key>identifier</key><string>e692a014-58cc-47a0-94bc-1ad383efb701</string><key>stan_name</key><string>文新街道天天青年中心</string><key>multi_info</key><string> </string><key>x</key><string>73117.9880</string><key>y</key><string>83972.0750</string></dict>
+<dict>
+<key>identifier</key><string>78623807-9c83-4e3b-8ab4-7238d04402d0</string><key>stan_name</key><string>珊瑚沙老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>73859.94</string><key>y</key><string>71102.6220</string></dict>
+<dict>
+<key>identifier</key><string>6767411b-17e8-4c6c-b0e9-e2726d56072f</string><key>stan_name</key><string>沈家村老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>81558.2570</string><key>y</key><string>87938.8690</string></dict>
+<dict>
+<key>identifier</key><string>a3211c50-55ee-4e46-8f2a-69dbb117d172</string><key>stan_name</key><string>杭州市西湖区转塘镇凌家桥老年活动中心</string><key>multi_info</key><string> </string><key>x</key><string>71614.9995</string><key>y</key><string>68407.9368</string></dict>
+<dict>
+<key>identifier</key><string>31cc29a8-ab55-4b5b-a5aa-765ba1c8c276</string><key>stan_name</key><string>楼塔管村文化娱乐中心</string><key>multi_info</key><string> </string><key>x</key><string>78465.2040</string><key>y</key><string>43241.3291</string></dict>
+<dict>
+<key>identifier</key><string>cd6bf2db-27dd-4514-a4c5-4cc53862fbe4</string><key>stan_name</key><string>四季青街道文体中心</string><key>multi_info</key><string> </string><key>x</key><string>84806.8450</string><key>y</key><string>82194.0370</string></dict>
+<dict>
+<key>identifier</key><string>e32045c9-6f97-4939-a2b2-bc071baf8d60</string><key>stan_name</key><string>方溪村文化中心</string><key>multi_info</key><string> </string><key>x</key><string>77134.0821</string><key>y</key><string>50784.6281</string></dict>
+<dict>
+<key>identifier</key><string>a9a4e82e-9514-4893-aa0e-695446286e71</string><key>stan_name</key><string>云石农民文化宫</string><key>multi_info</key><string> </string><key>x</key><string>78267.0770</string><key>y</key><string>52452.7749</string></dict>
+<dict>
+<key>identifier</key><string>f95f6fbe-299c-4d95-b7e0-bae95b7c26a7</string><key>stan_name</key><string>沈村文化中心</string><key>multi_info</key><string> </string><key>x</key><string>79031.6150</string><key>y</key><string>53092.6549</string></dict>
+<dict>
+<key>identifier</key><string>8b30a0fd-5d2c-4146-92f7-3ff20b138bc6</string><key>stan_name</key><string>临浦文化馆</string><key>multi_info</key><string> </string><key>x</key><string>88002.1020</string><key>y</key><string>58139.8470</string></dict>
+<dict>
+<key>identifier</key><string>36b0e831-be42-4943-a0f0-5b0244ec1b9a</string><key>stan_name</key><string>信源文体中心</string><key>multi_info</key><string> </string><key>x</key><string>113900.6541</string><key>y</key><string>71115.5650</string></dict>
+<dict>
+<key>identifier</key><string>b77f8414-e20a-4767-95db-fbbf8fb50ad2</string><key>stan_name</key><string>衙前镇文化中心</string><key>multi_info</key><string> </string><key>x</key><string>103505.7170</string><key>y</key><string>71005.2730</string></dict>
+<dict>
+<key>identifier</key><string>831c0c49-e9b6-4bfa-bfe1-8a2107fee56b</string><key>stan_name</key><string>解放村文化体育中心</string><key>multi_info</key><string> </string><key>x</key><string>111697.5930</string><key>y</key><string>74194.8101</string></dict>
+<dict>
+<key>identifier</key><string>ea7ffce2-eb1a-453f-9015-2b32d786ca5c</string><key>stan_name</key><string>新沙村老年活动所</string><key>multi_info</key><string> </string><key>x</key><string>77269.0484</string><key>y</key><string>67013.3872</string></dict>
+</array>
+</plist>

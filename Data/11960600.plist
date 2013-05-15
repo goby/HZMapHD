@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>06aff439-9072-4a41-b499-186a4ccffe92</string><key>stan_name</key><string>浙江国际旅游卫生保健中心</string><key>multi_info</key><string> </string><key>x</key><string>80688.8047</string><key>y</key><string>81096.7753</string></dict>
+<dict>
+<key>identifier</key><string>ccf49676-c950-46ed-973f-efcb36f1e600</string><key>stan_name</key><string>拱墅区疾病预防控制和妇幼保健中心</string><key>multi_info</key><string> </string><key>x</key><string>77608.8942</string><key>y</key><string>85416.8683</string></dict>
+<dict>
+<key>identifier</key><string>3fdb0767-c232-4917-afc8-3fed015f1edb</string><key>stan_name</key><string>卫生防疫站</string><key>multi_info</key><string> </string><key>x</key><string>92622.0007</string><key>y</key><string>99810.2350</string></dict>
+<dict>
+<key>identifier</key><string>639def4d-3a72-4f6b-bce3-ba0607f63718</string><key>stan_name</key><string>杭州市滨江区卫生监督所</string><key>multi_info</key><string> </string><key>x</key><string>85913.1641</string><key>y</key><string>73515.8144</string></dict>
+<dict>
+<key>identifier</key><string>6289c5fb-021e-4936-aaa2-cf6a701ed5d5</string><key>stan_name</key><string>浙江省疾控中心</string><key>multi_info</key><string> </string><key>x</key><string>81884.1484</string><key>y</key><string>81138.4706</string></dict>
+<dict>
+<key>identifier</key><string>cc8ae0bb-bc7b-4616-ac23-ba9b646cb3dc</string><key>stan_name</key><string>杭州市森林病虫防治检疫站</string><key>multi_info</key><string> </string><key>x</key><string>80814.3871</string><key>y</key><string>80209.5690</string></dict>
+<dict>
+<key>identifier</key><string>1eb3e931-7498-481e-9d59-e2e4625f2543</string><key>stan_name</key><string>杭州市西湖区疾病防止控制中心</string><key>multi_info</key><string> </string><key>x</key><string>76479.2844</string><key>y</key><string>81499.4261</string></dict>
+<dict>
+<key>identifier</key><string>9fdda5d8-a508-4963-9fa2-fc21a5672f65</string><key>stan_name</key><string>西湖区卫生监督局</string><key>multi_info</key><string> </string><key>x</key><string>76464.4766</string><key>y</key><string>81506.8457</string></dict>
+<dict>
+<key>identifier</key><string>e4a4ee9a-0ee4-4c98-b099-889aea1320e0</string><key>stan_name</key><string>杭州市上城区疾病预防控制中心</string><key>multi_info</key><string> </string><key>x</key><string>81555.5825</string><key>y</key><string>80877.7350</string></dict>
+<dict>
+<key>identifier</key><string>805d278b-1808-44da-8a26-8ee39520f9cf</string><key>stan_name</key><string>杭州市下城区疾病预防控制中心</string><key>multi_info</key><string> </string><key>x</key><string>80346.8339</string><key>y</key><string>81869.2096</string></dict>
+</array>
+</plist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>6608ab6d-59f5-4ea5-8d2e-7c7f4ab27caa</string><key>stan_name</key><string>中国人民解放军</string><key>multi_info</key><string> </string><key>x</key><string>72662.57</string><key>y</key><string>74061.8120</string></dict>
+<dict>
+<key>identifier</key><string>e756abc0-7944-4a4e-95a6-6c4f10a124a6</string><key>stan_name</key><string>武警军用仓库</string><key>multi_info</key><string> </string><key>x</key><string>71177.5230</string><key>y</key><string>78687.9530</string></dict>
+<dict>
+<key>identifier</key><string>c3b249d2-898e-4972-bb6c-71506cbaa6c6</string><key>stan_name</key><string>国家海洋二所</string><key>multi_info</key><string> </string><key>x</key><string>77480.5469</string><key>y</key><string>84009.5156</string></dict>
+<dict>
+<key>identifier</key><string>fd509fce-6080-4a15-9f24-5f1c43850fcd</string><key>stan_name</key><string>国家统计局浙江调查总队</string><key>multi_info</key><string> </string><key>x</key><string>77097.8466</string><key>y</key><string>84117.3031</string></dict>
+<dict>
+<key>identifier</key><string>fd771b41-d265-4f78-ad27-6b85e6f0b072</string><key>stan_name</key><string>中华人民共和国浙江海事局</string><key>multi_info</key><string> </string><key>x</key><string>78871.2716</string><key>y</key><string>84343.9125</string></dict>
+<dict>
+<key>identifier</key><string>b7ff8b2e-cff7-43d7-bc53-98e76f263b93</string><key>stan_name</key><string>国家纺织服装产品质量监督检验中心</string><key>multi_info</key><string> </string><key>x</key><string>76538.3482</string><key>y</key><string>83218.2410</string></dict>
+<dict>
+<key>identifier</key><string>eae66494-37f3-440f-9a3b-9b9bd3c8ea7c</string><key>stan_name</key><string>中华人民共和国缉私局</string><key>multi_info</key><string> </string><key>x</key><string>77130.9963</string><key>y</key><string>82971.8680</string></dict>
+<dict>
+<key>identifier</key><string>d9a16cd8-6b2b-4117-ada3-57e84ae7c0a0</string><key>stan_name</key><string>中国人民政治 协商会议杭州市委员会</string><key>multi_info</key><string> </string><key>x</key><string>80330.1337</string><key>y</key><string>82972.6454</string></dict>
+<dict>
+<key>identifier</key><string>1f2ed5da-ec8b-46da-a166-84dc82538cd9</string><key>stan_name</key><string>国家职业技能鉴定所</string><key>multi_info</key><string> </string><key>x</key><string>78357.5748</string><key>y</key><string>83363.5524</string></dict>
+<dict>
+<key>identifier</key><string>ac6ef170-8fa2-4e52-9f2e-037d00195a54</string><key>stan_name</key><string>杭州海关余杭办事处</string><key>multi_info</key><string> </string><key>x</key><string>93316.3203</string><key>y</key><string>101784.1214</string></dict>
+<dict>
+<key>identifier</key><string>730eee89-92bb-4e4b-9717-93e5a105a0d2</string><key>stan_name</key><string>浙江杭州中山国家粮食储备库</string><key>multi_info</key><string> </string><key>x</key><string>79578.3125</string><key>y</key><string>90772.8750</string></dict>
+<dict>
+<key>identifier</key><string>1f32a813-08c0-4a06-adf4-8838b3118d8d</string><key>stan_name</key><string>浙江杭州半山国家粮食储备库</string><key>multi_info</key><string> </string><key>x</key><string>79199.3516</string><key>y</key><string>90930.3047</string></dict>
+<dict>
+<key>identifier</key><string>abc94f86-a1e9-45c1-9a71-a762af356512</string><key>stan_name</key><string>铁道部第十四局三处</string><key>multi_info</key><string> </string><key>x</key><string>85755.1250</string><key>y</key><string>88993.7422</string></dict>
+</array>
+</plist>

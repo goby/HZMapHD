@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>873e0bd3-7407-43de-a34b-d4632f14ab56</string><key>stan_name</key><string>杭州九堡医用设备公司</string><key>multi_info</key><string> </string><key>x</key><string>87949.7891</string><key>y</key><string>88255.1719</string></dict>
+<dict>
+<key>identifier</key><string>8a3b3f0b-006b-4d96-b904-83984ffad645</string><key>stan_name</key><string>杭州市龙德医用器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85459.1641</string><key>y</key><string>88325.6016</string></dict>
+<dict>
+<key>identifier</key><string>2f3a4ba6-1987-4e29-8d49-917e2c352254</string><key>stan_name</key><string>丁桥兽医站</string><key>multi_info</key><string> </string><key>x</key><string>85878.0859</string><key>y</key><string>91860.2344</string></dict>
+<dict>
+<key>identifier</key><string>1b7549ec-9603-47cd-8cdd-60996f346721</string><key>stan_name</key><string>杭州通九自动化技术设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61773.2940</string><key>y</key><string>87987.7990</string></dict>
+<dict>
+<key>identifier</key><string>6b8a6f17-3e59-4094-9122-4ce737ee167f</string><key>stan_name</key><string>浙江诗洁生物制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70201.4206</string><key>y</key><string>88523.5541</string></dict>
+<dict>
+<key>identifier</key><string>6a2147c3-c004-4414-87c8-2b905bd3b9aa</string><key>stan_name</key><string>浙江新欣医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79605.8393</string><key>y</key><string>90418.4702</string></dict>
+<dict>
+<key>identifier</key><string>207c748b-13c6-4edf-b6e2-16f30de212b2</string><key>stan_name</key><string>眼力健杭州制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98318.7242</string><key>y</key><string>87126.6661</string></dict>
+<dict>
+<key>identifier</key><string>c1fc162e-fc02-470d-a4fa-f778f9d63416</string><key>stan_name</key><string>浙江爱生药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96922.8081</string><key>y</key><string>87130.5440</string></dict>
+<dict>
+<key>identifier</key><string>dbadfa3a-bba7-4c20-a95b-5bc956b8f861</string><key>stan_name</key><string>艾健医疗器械（杭州）有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69800.2287</string><key>y</key><string>88574.4284</string></dict>
+<dict>
+<key>identifier</key><string>005760d2-a12b-4c17-8143-73b8af2d2c1c</string><key>stan_name</key><string>杭州迪生医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79905.79</string><key>y</key><string>90591.1820</string></dict>
+<dict>
+<key>identifier</key><string>74e4c3d1-39fe-4a17-94b3-014ae4ee2b37</string><key>stan_name</key><string>浙江万马药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75317.3906</string><key>y</key><string>87252.3594</string></dict>
+<dict>
+<key>identifier</key><string>466f9732-ca33-42ef-b621-ec011b3643d4</string><key>stan_name</key><string>杭州四方医疗器械公司</string><key>multi_info</key><string> </string><key>x</key><string>82346.5013</string><key>y</key><string>89266.7418</string></dict>
+<dict>
+<key>identifier</key><string>bbb30f46-17f0-4387-ba45-89efdda0fdbf</string><key>stan_name</key><string>浙江惠松制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89242.5674</string><key>y</key><string>89238.1704</string></dict>
+<dict>
+<key>identifier</key><string>dcd18b70-d39a-46eb-ac77-e09f7888b6e4</string><key>stan_name</key><string>浙江万丰企业集团制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>113268.0689</string><key>y</key><string>87320.7789</string></dict>
+<dict>
+<key>identifier</key><string>fc02440f-2466-41c5-8834-914052223234</string><key>stan_name</key><string>中联大药房</string><key>multi_info</key><string> </string><key>x</key><string>72463.3594</string><key>y</key><string>88670.8516</string></dict>
+<dict>
+<key>identifier</key><string>ace18049-7e1b-471c-a586-08eed13c7ded</string><key>stan_name</key><string>杭州福达医用设备厂</string><key>multi_info</key><string> </string><key>x</key><string>86289.7457</string><key>y</key><string>90811.9075</string></dict>
+<dict>
+<key>identifier</key><string>885c8947-ee9c-4500-bc27-6e35d509e44c</string><key>stan_name</key><string>浙江万马药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75335.6406</string><key>y</key><string>87362.1797</string></dict>
+<dict>
+<key>identifier</key><string>0d7f30ed-fd86-45c0-ab1f-e2b841f7229e</string><key>stan_name</key><string>杭州奥杰医疗器材公司</string><key>multi_info</key><string> </string><key>x</key><string>75772.8984</string><key>y</key><string>87399.8984</string></dict>
+<dict>
+<key>identifier</key><string>fbd0078a-c7b7-40c0-9c20-272b498268d4</string><key>stan_name</key><string>杭州龙达新科生物制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90026.0924</string><key>y</key><string>89457.7236</string></dict>
+<dict>
+<key>identifier</key><string>5d9f343c-7e38-4211-89f1-a8d720c5e474</string><key>stan_name</key><string>浙江生命制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89463.3386</string><key>y</key><string>88825.5647</string></dict>
+<dict>
+<key>identifier</key><string>04ec624a-794e-4d53-bb2a-3d880d9bb1c7</string><key>stan_name</key><string>杭州高得医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83000.2531</string><key>y</key><string>88886.8825</string></dict>
+<dict>
+<key>identifier</key><string>668fab61-864f-42c0-aa83-f25af7f9a00f</string><key>stan_name</key><string>杭州默沙东制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74813.1292</string><key>y</key><string>88938.9537</string></dict>
+<dict>
+<key>identifier</key><string>5f338f81-450f-48d4-8d37-bea23719a99b</string><key>stan_name</key><string>杭州旺华药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83186.2685</string><key>y</key><string>88960.6631</string></dict>
+<dict>
+<key>identifier</key><string>b63fdba2-36c5-4dee-ba1a-8411d988293d</string><key>stan_name</key><string>杭州康洁尔药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83197.4609</string><key>y</key><string>88974.1484</string></dict>
+<dict>
+<key>identifier</key><string>e3ecbc6c-417b-4c70-9d6e-49f2bca3fff5</string><key>stan_name</key><string>杭州东楼生物营养有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75572.4230</string><key>y</key><string>42023.8120</string></dict>
+<dict>
+<key>identifier</key><string>81207a81-ead8-4a1d-b179-3e5a476f64be</string><key>stan_name</key><string>杭州瑞邦医疗用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78911.0920</string><key>y</key><string>43185.8990</string></dict>
+<dict>
+<key>identifier</key><string>91346179-ca72-4511-af63-1c8d937e07d7</string><key>stan_name</key><string>康乐生物制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95203.1810</string><key>y</key><string>72253.3299</string></dict>
+<dict>
+<key>identifier</key><string>fbd88f25-b886-4847-9acb-74f74a7a02df</string><key>stan_name</key><string>杭州常青保健食品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58477.0630</string><key>y</key><string>72282.9671</string></dict>
+<dict>
+<key>identifier</key><string>1d700807-b69a-44eb-b203-25314c45bd19</string><key>stan_name</key><string>萧山市医药公司瓜沥药品分公司</string><key>multi_info</key><string> </string><key>x</key><string>107784.3361</string><key>y</key><string>72366.3750</string></dict>
+<dict>
+<key>identifier</key><string>f1867e11-3380-4b1c-9fab-68db87d31317</string><key>stan_name</key><string>杭州潘山实业集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82330.6440</string><key>y</key><string>58076.3659</string></dict>
+<dict>
+<key>identifier</key><string>ae65f286-364a-44a4-af1b-189e40be2d95</string><key>stan_name</key><string>杭州萧山医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86765.5053</string><key>y</key><string>59381.8581</string></dict>
+<dict>
+<key>identifier</key><string>340062c7-c0bf-4289-9731-d4e73968b709</string><key>stan_name</key><string>杭州杨驰医疗用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86519.1249</string><key>y</key><string>65605.5230</string></dict>
+<dict>
+<key>identifier</key><string>9f5d02bd-372d-4400-85ec-a08f91f1f57c</string><key>stan_name</key><string>杭州爱大制药公司</string><key>multi_info</key><string> </string><key>x</key><string>84021.71</string><key>y</key><string>80677.4140</string></dict>
+<dict>
+<key>identifier</key><string>5e80e9b2-c003-4773-b4b8-2a7cd77f4e43</string><key>stan_name</key><string>杭州美芙医药科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68283.4779</string><key>y</key><string>66685.3021</string></dict>
+<dict>
+<key>identifier</key><string>70937860-2118-43df-8b9c-ae68586fa238</string><key>stan_name</key><string>浙江九杭州胡庆余堂药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83666.6320</string><key>y</key><string>80515.81</string></dict>
+<dict>
+<key>identifier</key><string>31642a57-fce6-4964-a348-0e4ab1060731</string><key>stan_name</key><string>杭州杰佳保健用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94342.3319</string><key>y</key><string>68937.65</string></dict>
+<dict>
+<key>identifier</key><string>451a90c6-0ef8-4dd1-9d95-0eb590ddee2f</string><key>stan_name</key><string>萧山医药中药分公司</string><key>multi_info</key><string> </string><key>x</key><string>94699.6170</string><key>y</key><string>71912.7711</string></dict>
+<dict>
+<key>identifier</key><string>84d46ca7-4c1f-4c0a-8801-a225a1cc2632</string><key>stan_name</key><string>杭州江南胃胆病研究所</string><key>multi_info</key><string> </string><key>x</key><string>85210.1797</string><key>y</key><string>73701.2578</string></dict>
+<dict>
+<key>identifier</key><string>b7ca2fb2-06d3-4b7c-91b8-55434bf48dfc</string><key>stan_name</key><string>杭州市康恩贝制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81061.3750</string><key>y</key><string>73227.2656</string></dict>
+<dict>
+<key>identifier</key><string>7d62e60c-0e98-48d3-95d6-b66eb1ab4b45</string><key>stan_name</key><string>浙江省耀江药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78861.9219</string><key>y</key><string>72916.75</string></dict>
+<dict>
+<key>identifier</key><string>295ecf64-e169-4f77-b15f-ecfdb0cc82dd</string><key>stan_name</key><string>杭州生物医药科技创业园</string><key>multi_info</key><string> </string><key>x</key><string>79933.4922</string><key>y</key><string>72951.5156</string></dict>
+<dict>
+<key>identifier</key><string>39066827-7f6c-4046-ad08-9898fa7d3ca9</string><key>stan_name</key><string>浙江亚克药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79830.1797</string><key>y</key><string>72971.1719</string></dict>
+<dict>
+<key>identifier</key><string>ffe6ff11-8f42-4fcb-81e2-a45afc83bece</string><key>stan_name</key><string>杭州天福医药保健品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91535.4540</string><key>y</key><string>74744.5940</string></dict>
+<dict>
+<key>identifier</key><string>5a930888-a9c1-43f5-b352-e74c31baf4fc</string><key>stan_name</key><string>开发药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91684.2660</string><key>y</key><string>74890.3330</string></dict>
+<dict>
+<key>identifier</key><string>83d41b02-e930-43d0-ba4b-63e68ab47a78</string><key>stan_name</key><string>杭州华锦药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>106835.8673</string><key>y</key><string>76058.0180</string></dict>
+<dict>
+<key>identifier</key><string>d06f29d4-fde4-4f70-99b8-d8720e662369</string><key>stan_name</key><string>九洲通集团杭州医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100164.2481</string><key>y</key><string>77782.9930</string></dict>
+<dict>
+<key>identifier</key><string>394d0067-6e04-4727-99a4-2cb5a4247e74</string><key>stan_name</key><string>浙江英特药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80280.2891</string><key>y</key><string>77239.4219</string></dict>
+<dict>
+<key>identifier</key><string>08ca8e55-a4f7-43a5-85da-99d7cbed13dc</string><key>stan_name</key><string>杭州立鑫医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68997.2066</string><key>y</key><string>78602.4491</string></dict>
+<dict>
+<key>identifier</key><string>c32a480a-dd6e-4a29-a5f5-678ed6f68afe</string><key>stan_name</key><string>杭州科奥生物医药科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73637.9037</string><key>y</key><string>82782.9323</string></dict>
+<dict>
+<key>identifier</key><string>8b29ee79-397d-40f2-8816-2e445a5a6f1d</string><key>stan_name</key><string>杭豫泰</string><key>multi_info</key><string> </string><key>x</key><string>80578.4531</string><key>y</key><string>79906.5078</string></dict>
+<dict>
+<key>identifier</key><string>ea7b2ac4-cc3f-4618-9a24-0070748432e1</string><key>stan_name</key><string>浙江省美容医学卫生培训中心</string><key>multi_info</key><string> </string><key>x</key><string>80016.5115</string><key>y</key><string>81001.4340</string></dict>
+<dict>
+<key>identifier</key><string>1786676d-6fca-4317-ae37-ced3c9a4092e</string><key>stan_name</key><string>杭州华氏医药有限公司药品配送中心</string><key>multi_info</key><string> </string><key>x</key><string>71697.2906</string><key>y</key><string>81026.8542</string></dict>
+<dict>
+<key>identifier</key><string>7fbdb986-9a6e-4ac7-95ae-543ea5bcae3e</string><key>stan_name</key><string>杭州百康科技医疗有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75330.5470</string><key>y</key><string>82949.6314</string></dict>
+<dict>
+<key>identifier</key><string>a151f570-ae00-48e0-a772-1df602eeb461</string><key>stan_name</key><string>浙江大学技术实业公司医疗器械部</string><key>multi_info</key><string> </string><key>x</key><string>71478.1953</string><key>y</key><string>80197.7734</string></dict>
+<dict>
+<key>identifier</key><string>537612fa-bb9a-4704-8546-dad9dcd741f2</string><key>stan_name</key><string>太平医药用品厂</string><key>multi_info</key><string> </string><key>x</key><string>38943.6790</string><key>y</key><string>100521.09</string></dict>
+<dict>
+<key>identifier</key><string>4554bd19-a7b2-4b11-938d-6726dde85930</string><key>stan_name</key><string>太平药厂</string><key>multi_info</key><string> </string><key>x</key><string>39078.8940</string><key>y</key><string>100525.4499</string></dict>
+<dict>
+<key>identifier</key><string>a403634b-bdbc-4de9-a77a-06655b6f633d</string><key>stan_name</key><string>杭州津诚有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72510.4079</string><key>y</key><string>101089.4999</string></dict>
+<dict>
+<key>identifier</key><string>40f9c0bd-cdf6-41fa-b87a-784b85596790</string><key>stan_name</key><string>华兴实业集团杭州利人药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>56513.0240</string><key>y</key><string>97486.8380</string></dict>
+<dict>
+<key>identifier</key><string>e2fb00ee-489d-479f-9582-a7fae17590fc</string><key>stan_name</key><string>杭州动物药品厂</string><key>multi_info</key><string> </string><key>x</key><string>56277.2560</string><key>y</key><string>97502.4199</string></dict>
+<dict>
+<key>identifier</key><string>99063148-c730-4fbc-b455-e8b79000577e</string><key>stan_name</key><string>杭州仁春堂药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94014.4143</string><key>y</key><string>101854.1905</string></dict>
+<dict>
+<key>identifier</key><string>aa332aeb-6ec6-4556-a19b-15e2f30133f5</string><key>stan_name</key><string>杭州天力药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94006.4930</string><key>y</key><string>101913.2012</string></dict>
+<dict>
+<key>identifier</key><string>21b8e1eb-5bad-4b54-a802-d859b311ebb3</string><key>stan_name</key><string>杭州郎氏中医中草药种植基地</string><key>multi_info</key><string> </string><key>x</key><string>55740.1660</string><key>y</key><string>98162.3349</string></dict>
+<dict>
+<key>identifier</key><string>b98821df-31b8-471a-812a-a32935fe2146</string><key>stan_name</key><string>浙江明珠运动保健品</string><key>multi_info</key><string> </string><key>x</key><string>75432.0420</string><key>y</key><string>98730.2720</string></dict>
+<dict>
+<key>identifier</key><string>a5dc0a93-7b6c-4aed-946f-d0e6376c32f7</string><key>stan_name</key><string>高科技新型医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89010.0260</string><key>y</key><string>103902.1470</string></dict>
+<dict>
+<key>identifier</key><string>86db718a-803c-4c90-9cfa-c263bdded0a7</string><key>stan_name</key><string>高科技新型医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88930.3011</string><key>y</key><string>103964.4080</string></dict>
+<dict>
+<key>identifier</key><string>c63fdeb2-927d-4a0c-8aa6-03cf991a80cd</string><key>stan_name</key><string>浙江天元生物药业股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>49219.56</string><key>y</key><string>92466.6370</string></dict>
+<dict>
+<key>identifier</key><string>1c562fd4-38a1-413a-870f-df8ec1357992</string><key>stan_name</key><string>杭州新星制药厂</string><key>multi_info</key><string> </string><key>x</key><string>77944.5312</string><key>y</key><string>92532.7656</string></dict>
+<dict>
+<key>identifier</key><string>c094e37f-df41-4fda-bdb9-bee9e95c2375</string><key>stan_name</key><string>高科技新型医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88879.3511</string><key>y</key><string>104070.3230</string></dict>
+<dict>
+<key>identifier</key><string>159e4c26-4314-464c-b8f3-c80e9353b90a</string><key>stan_name</key><string>杭州市中达医药包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81060.6101</string><key>y</key><string>104562.8920</string></dict>
+<dict>
+<key>identifier</key><string>b69bcb8e-e332-431f-bb25-64e7b74e8549</string><key>stan_name</key><string>华东医药股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74526.7031</string><key>y</key><string>89054.7187</string></dict>
+<dict>
+<key>identifier</key><string>4d5bf2f4-efc2-4931-9ee6-bd4edf1b117d</string><key>stan_name</key><string>浙江浙大生命药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89359.7250</string><key>y</key><string>88733.8130</string></dict>
+<dict>
+<key>identifier</key><string>59390b27-fa0c-42fd-81da-decba59c3c1d</string><key>stan_name</key><string>杭州康尔医药科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94501.5580</string><key>y</key><string>78056.97</string></dict>
+<dict>
+<key>identifier</key><string>59f9ca52-46c1-4c5b-819c-79e60cba39c3</string><key>stan_name</key><string>振德医药</string><key>multi_info</key><string> </string><key>x</key><string>91296.6690</string><key>y</key><string>79516.3970</string></dict>
+<dict>
+<key>identifier</key><string>561c0b74-9a1e-4608-a088-8857b1086315</string><key>stan_name</key><string>杭州天诚药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93765.7881</string><key>y</key><string>79128.9051</string></dict>
+<dict>
+<key>identifier</key><string>084caae8-c741-4852-ad5f-109fe1f1b879</string><key>stan_name</key><string>杭州惠松制药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100671.4759</string><key>y</key><string>86146.0067</string></dict>
+<dict>
+<key>identifier</key><string>03f9a56a-e985-4ab9-972b-01d781606d07</string><key>stan_name</key><string>泰尔茂医疗产品杭州有限公司宿舍</string><key>multi_info</key><string> </string><key>x</key><string>98133.6072</string><key>y</key><string>86619.5730</string></dict>
+<dict>
+<key>identifier</key><string>6ecb2020-049e-47ed-8025-8afaa053a79f</string><key>stan_name</key><string>泰尔茂医疗产品（杭州）有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98367.0504</string><key>y</key><string>86693.4195</string></dict>
+<dict>
+<key>identifier</key><string>fedcfdee-966a-4012-a0b8-8b17a42e0dbb</string><key>stan_name</key><string>杭州春江自动化研究所</string><key>multi_info</key><string> </string><key>x</key><string>75916.2079</string><key>y</key><string>86838.0756</string></dict>
+<dict>
+<key>identifier</key><string>9417f47c-e9c9-4b7e-a725-8a7d0e804d6c</string><key>stan_name</key><string>浙江省药品检验所</string><key>multi_info</key><string> </string><key>x</key><string>82577.8281</string><key>y</key><string>84998.4531</string></dict>
+<dict>
+<key>identifier</key><string>230730ca-2010-49dc-8bef-c7a06c591db4</string><key>stan_name</key><string>杭康药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99885.8478</string><key>y</key><string>85595.6365</string></dict>
+<dict>
+<key>identifier</key><string>939e59f7-bb2c-4474-a480-4c413fe1ff8f</string><key>stan_name</key><string>杭州国光药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100108.6132</string><key>y</key><string>85604.8198</string></dict>
+<dict>
+<key>identifier</key><string>9ed2ebc0-1663-4787-bc1c-e3ff23155d77</string><key>stan_name</key><string>浙江大学药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99598.2907</string><key>y</key><string>85635.5664</string></dict>
+<dict>
+<key>identifier</key><string>dbce3ba1-f839-422a-99a8-9445d5dc70a6</string><key>stan_name</key><string>杭州南洋制药公司</string><key>multi_info</key><string> </string><key>x</key><string>89228.1650</string><key>y</key><string>85642.80</string></dict>
+<dict>
+<key>identifier</key><string>91d68c66-dd11-4d54-a44a-e3c1865d0ac5</string><key>stan_name</key><string>浙江医药股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76050.9766</string><key>y</key><string>86923.8438</string></dict>
+<dict>
+<key>identifier</key><string>aec40509-0990-4528-afae-6715b4d0b3a1</string><key>stan_name</key><string>华安医药保健用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68241.5985</string><key>y</key><string>80026.7739</string></dict>
+<dict>
+<key>identifier</key><string>987af00d-0add-4cff-8e73-50abb07daaa0</string><key>stan_name</key><string>杭州民生药业集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76655.0547</string><key>y</key><string>85789.0625</string></dict>
+<dict>
+<key>identifier</key><string>d002435d-b5e5-4178-b504-e8c5cf9864d0</string><key>stan_name</key><string>浙江省卫生医药发展有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81169.6819</string><key>y</key><string>83050.3540</string></dict>
+<dict>
+<key>identifier</key><string>145b75e4-a896-4483-96fc-a2e5ebc932a0</string><key>stan_name</key><string>杭州六六视觉医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80738.8555</string><key>y</key><string>83058.2550</string></dict>
+<dict>
+<key>identifier</key><string>8d7cfd29-e6e6-453b-bb30-4ceb6da1333a</string><key>stan_name</key><string>浙江大学医学仪器有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97072.3057</string><key>y</key><string>85798.2462</string></dict>
+<dict>
+<key>identifier</key><string>77d43b9a-3c8b-4a84-8a64-08f1f9caf35a</string><key>stan_name</key><string>浙江金牛农药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96553.3943</string><key>y</key><string>84276.7151</string></dict>
+<dict>
+<key>identifier</key><string>a49dbe1d-cedb-411d-841a-5b26abab8f5e</string><key>stan_name</key><string>杭州茜尔兰卫生用品厂</string><key>multi_info</key><string> </string><key>x</key><string>85678.2620</string><key>y</key><string>84280.6890</string></dict>
+<dict>
+<key>identifier</key><string>009c28e0-4b44-4cca-9b48-fbed93767219</string><key>stan_name</key><string>杭州海纳医疗机械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100206.7431</string><key>y</key><string>85913.5814</string></dict>
+<dict>
+<key>identifier</key><string>eda8dd45-49b2-4d3f-8951-c7a545949efe</string><key>stan_name</key><string>能可爱心医疗有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100729.5665</string><key>y</key><string>85319.5006</string></dict>
+<dict>
+<key>identifier</key><string>3fe61073-d73b-4198-9cc8-486fb931b84e</string><key>stan_name</key><string>浙江康莱特药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98549.4433</string><key>y</key><string>86397.2378</string></dict>
+<dict>
+<key>identifier</key><string>6a987ced-b28c-4507-af65-f51702ca0912</string><key>stan_name</key><string>中舟健康乐园</string><key>multi_info</key><string> </string><key>x</key><string>80579.5311</string><key>y</key><string>86448.2357</string></dict>
+<dict>
+<key>identifier</key><string>46319b45-bc69-4812-b7d0-ead1b6da20d9</string><key>stan_name</key><string>杭州中药饮片厂</string><key>multi_info</key><string> </string><key>x</key><string>76888.9766</string><key>y</key><string>85994.9922</string></dict>
+<dict>
+<key>identifier</key><string>a07e8277-73bd-477c-ba64-7478f662d1f1</string><key>stan_name</key><string>浙江省医药工业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77933.6721</string><key>y</key><string>84663.8596</string></dict>
+<dict>
+<key>identifier</key><string>9742fca2-330e-4417-b8eb-6409cff02844</string><key>stan_name</key><string>杭州美亚药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75525.5906</string><key>y</key><string>86570.6839</string></dict>
+<dict>
+<key>identifier</key><string>f44777ae-c461-4ea1-9814-1ce47a147285</string><key>stan_name</key><string>浙江手心医学化学用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>103075.7299</string><key>y</key><string>82278.0140</string></dict>
+<dict>
+<key>identifier</key><string>472b6733-f245-45cd-9ea4-fbe1a9192bbd</string><key>stan_name</key><string>杭州市红十字会</string><key>multi_info</key><string> </string><key>x</key><string>80146.3168</string><key>y</key><string>81405.0359</string></dict>
+<dict>
+<key>identifier</key><string>7a3a212c-a32a-401d-a70a-8769da95e65e</string><key>stan_name</key><string>动物药厂</string><key>multi_info</key><string> </string><key>x</key><string>82520.9922</string><key>y</key><string>83435.2734</string></dict>
+<dict>
+<key>identifier</key><string>d0dcada7-9bce-4434-a0ee-d791eb83fa06</string><key>stan_name</key><string>杭州泰华合成药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102717.4170</string><key>y</key><string>82389.4331</string></dict>
+<dict>
+<key>identifier</key><string>67ae3dd8-4d3c-45a6-919b-3edec7ea3130</string><key>stan_name</key><string>杭州市江干区四季青兽医站</string><key>multi_info</key><string> </string><key>x</key><string>85472.7810</string><key>y</key><string>83474.0270</string></dict>
+<dict>
+<key>identifier</key><string>3b0af4c0-40bb-4131-9ea6-b28379a536fd</string><key>stan_name</key><string>华东医药公司</string><key>multi_info</key><string> </string><key>x</key><string>81181.4453</string><key>y</key><string>80450.7422</string></dict>
+<dict>
+<key>identifier</key><string>de42255b-8a05-4b2e-8bfa-74e70d2558c6</string><key>stan_name</key><string>杭州萧山万丰医药有限责任公司</string><key>multi_info</key><string> </string><key>x</key><string>103531.56</string><key>y</key><string>81507.4420</string></dict>
+<dict>
+<key>identifier</key><string>ec39d5e0-663a-4ed3-8c49-e019d9017997</string><key>stan_name</key><string>浙江省中药研究所有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73670.3829</string><key>y</key><string>81539.7969</string></dict>
+<dict>
+<key>identifier</key><string>2855ce71-b895-46c2-a022-a73aef5bb9be</string><key>stan_name</key><string>杭州荣立医药科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75842.0059</string><key>y</key><string>83493.8303</string></dict>
+<dict>
+<key>identifier</key><string>b9f48d01-f9f6-4362-9abd-bfa6cd1e2b45</string><key>stan_name</key><string>浙江尽心医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81573.1591</string><key>y</key><string>80454.4653</string></dict>
+<dict>
+<key>identifier</key><string>727b6e59-0798-4bae-9a4f-e0b6c4320524</string><key>stan_name</key><string>浙江申新药业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73646.7109</string><key>y</key><string>81547.2578</string></dict>
+<dict>
+<key>identifier</key><string>700b0dff-03b0-4728-b296-f3fda26578ab</string><key>stan_name</key><string>浙江省国投医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79901.2452</string><key>y</key><string>82514.7541</string></dict>
+<dict>
+<key>identifier</key><string>0a00d418-4a31-454b-a3a1-f81f9dbd8fcf</string><key>stan_name</key><string>浙江明月医药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79901.7197</string><key>y</key><string>82515.0555</string></dict>
+<dict>
+<key>identifier</key><string>1e7a41b9-ff43-418e-b9ae-fe322790fb29</string><key>stan_name</key><string>浙江省医疗器械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79901.7407</string><key>y</key><string>82515.2781</string></dict>
+<dict>
+<key>identifier</key><string>593f962a-9bbc-4dca-97e4-99963e7c6fab</string><key>stan_name</key><string>浙江省医疗机械贸易中心</string><key>multi_info</key><string> </string><key>x</key><string>79901.2745</string><key>y</key><string>82514.9899</string></dict>
+<dict>
+<key>identifier</key><string>6f740a85-ca11-46ad-95d5-5c472b7f21ae</string><key>stan_name</key><string>中国青春宝集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73793.7398</string><key>y</key><string>81730.5503</string></dict>
+<dict>
+<key>identifier</key><string>234e1633-d69c-4e00-969e-362226278cf8</string><key>stan_name</key><string>杭州艾迪康医学检验中心</string><key>multi_info</key><string> </string><key>x</key><string>73448.7309</string><key>y</key><string>82708.0124</string></dict>
+<dict>
+<key>identifier</key><string>896f064f-0dc1-424e-8d5b-ea349dbbece0</string><key>stan_name</key><string>杭州艾迪康医学检验中心</string><key>multi_info</key><string> </string><key>x</key><string>73427.0041</string><key>y</key><string>82732.2365</string></dict>
+<dict>
+<key>identifier</key><string>55a8efcc-2dd3-4578-a961-5b1dfe2ca640</string><key>stan_name</key><string>登峰营养品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83035.9219</string><key>y</key><string>79857.2656</string></dict>
+<dict>
+<key>identifier</key><string>e2c9d644-e02f-45df-b5e5-823560d5a7e6</string><key>stan_name</key><string>浙江省医药保健品进出口有限责任公司</string><key>multi_info</key><string> </string><key>x</key><string>80333.8178</string><key>y</key><string>81887.6518</string></dict>
+</array>
+</plist>

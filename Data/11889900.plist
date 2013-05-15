@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>e86986ad-5b88-4ac5-a5a7-9e3abf7d69dd</string><key>stan_name</key><string>邮电大楼</string><key>multi_info</key><string> </string><key>x</key><string>78970.7891</string><key>y</key><string>73047.5625</string></dict>
+<dict>
+<key>identifier</key><string>414411d9-0ff4-448a-801c-bfdbcdeffbf0</string><key>stan_name</key><string>省电信局一九三微波发射站生活区</string><key>multi_info</key><string> </string><key>x</key><string>73762.8530</string><key>y</key><string>77167.2060</string></dict>
+<dict>
+<key>identifier</key><string>f66370bd-c310-49c6-ba9c-bb412ea7b0e9</string><key>stan_name</key><string>电信局</string><key>multi_info</key><string> </string><key>x</key><string>69498.4063</string><key>y</key><string>73820.1641</string></dict>
+<dict>
+<key>identifier</key><string>fac36cc0-99f3-4c1e-861f-9efe1363fb8c</string><key>stan_name</key><string>通信铁件厂</string><key>multi_info</key><string> </string><key>x</key><string>66482.8516</string><key>y</key><string>69320.1016</string></dict>
+<dict>
+<key>identifier</key><string>600f8b79-3c78-4ad3-883b-e3134e71bbe3</string><key>stan_name</key><string>杭州萧山华联通讯器材厂</string><key>multi_info</key><string> </string><key>x</key><string>107170.1243</string><key>y</key><string>70611.4290</string></dict>
+<dict>
+<key>identifier</key><string>dd894abd-0774-413f-bd6f-dafe6cf7865a</string><key>stan_name</key><string>杭州伊普通讯设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82985.6797</string><key>y</key><string>71845.9688</string></dict>
+<dict>
+<key>identifier</key><string>65674cb4-4528-45ce-9eda-653d2c08102b</string><key>stan_name</key><string>杭州通慧海宜电讯设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92046.2869</string><key>y</key><string>77461.2730</string></dict>
+<dict>
+<key>identifier</key><string>97374be1-1155-4af5-bad9-677a61c7bb49</string><key>stan_name</key><string>浙江省邮电器材厂</string><key>multi_info</key><string> </string><key>x</key><string>81724.4219</string><key>y</key><string>78543.4609</string></dict>
+<dict>
+<key>identifier</key><string>12eca0fd-af50-4892-8f7f-7e7f391463c3</string><key>stan_name</key><string>浙江省邮政车辆厂</string><key>multi_info</key><string> </string><key>x</key><string>76184.4922</string><key>y</key><string>83230.8047</string></dict>
+<dict>
+<key>identifier</key><string>3c1848f5-ac97-4d1e-94d4-4b20ba0ae0e9</string><key>stan_name</key><string>杭州星熠通讯设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72276.9808</string><key>y</key><string>81409.9557</string></dict>
+<dict>
+<key>identifier</key><string>58d6d797-8e44-49d4-8665-86d31afa74ca</string><key>stan_name</key><string>浙江省通信管理局</string><key>multi_info</key><string> </string><key>x</key><string>80003.1250</string><key>y</key><string>83018.1797</string></dict>
+<dict>
+<key>identifier</key><string>aefa8072-4a58-4c21-91c2-5a25a050f815</string><key>stan_name</key><string>杭州西子光电网络有限公司</string><key>multi_info</key><string> </string><key>x</key><string>63297.8090</string><key>y</key><string>94291.0680</string></dict>
+</array>
+</plist>

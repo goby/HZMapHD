@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>85cb8c28-0a85-49d7-b187-64179f6561da</string><key>stan_name</key><string>杭州恒丰净化设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75253.8430</string><key>y</key><string>86063.1158</string></dict>
+<dict>
+<key>identifier</key><string>cc37082f-16f4-4dc9-8431-9fa98cb4b1a4</string><key>stan_name</key><string>英科隆生物技术有限公</string><key>multi_info</key><string> </string><key>x</key><string>53683.3010</string><key>y</key><string>83762.3040</string></dict>
+<dict>
+<key>identifier</key><string>49e85ec4-c5a5-42cf-91fd-34d05bac1510</string><key>stan_name</key><string>杭州花盛复合材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>64431.6431</string><key>y</key><string>86085.3271</string></dict>
+<dict>
+<key>identifier</key><string>04b2769a-717e-45ab-9e05-37ee4e4682fa</string><key>stan_name</key><string>杭州百江液化气储罐厂</string><key>multi_info</key><string> </string><key>x</key><string>88487.7040</string><key>y</key><string>86085.8940</string></dict>
+<dict>
+<key>identifier</key><string>a3bbf91e-35bc-4e30-8563-4e29d517b96c</string><key>stan_name</key><string>杭州电化集团有限公司叶绿素厂</string><key>multi_info</key><string> </string><key>x</key><string>75356.4370</string><key>y</key><string>86087.3559</string></dict>
+<dict>
+<key>identifier</key><string>9482fcff-ed0f-485a-958a-7a3918899a0d</string><key>stan_name</key><string>杭州化学试剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75357.1804</string><key>y</key><string>86088.4478</string></dict>
+<dict>
+<key>identifier</key><string>94f304e2-b980-459c-809f-d170dd67e289</string><key>stan_name</key><string>杭州华春化纤染织有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96804.0093</string><key>y</key><string>86597.0877</string></dict>
+<dict>
+<key>identifier</key><string>f3fcbf8f-77f3-492a-97f8-4347562d6a0b</string><key>stan_name</key><string>杭州兴宝染整有限公司</string><key>multi_info</key><string> </string><key>x</key><string>101426.7990</string><key>y</key><string>80266.8739</string></dict>
+<dict>
+<key>identifier</key><string>4659aa80-4afe-452d-84ef-6a0d8cac31b2</string><key>stan_name</key><string>杭州兴甬复合材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>54383.7631</string><key>y</key><string>80268.6019</string></dict>
+<dict>
+<key>identifier</key><string>9710822c-29c7-42ac-9413-627815b4ff27</string><key>stan_name</key><string>北京水八零生态科技有限公司(杭州)分公司</string><key>multi_info</key><string> </string><key>x</key><string>80827.3880</string><key>y</key><string>80292.0376</string></dict>
+<dict>
+<key>identifier</key><string>e0668923-545f-49c4-9c35-a4200aa3baa0</string><key>stan_name</key><string>嫩枝化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111258.4724</string><key>y</key><string>81380.5179</string></dict>
+<dict>
+<key>identifier</key><string>b2995bf5-b18b-44ca-ab92-2de8f8a21898</string><key>stan_name</key><string>杭州安耐杰科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72217.5567</string><key>y</key><string>81396.2725</string></dict>
+<dict>
+<key>identifier</key><string>00ef17e9-bad9-4650-b876-4a8256987438</string><key>stan_name</key><string>浙江联达化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>103641.7710</string><key>y</key><string>83458.9230</string></dict>
+<dict>
+<key>identifier</key><string>fa22cc62-2919-4b76-a4bb-b33bbb993970</string><key>stan_name</key><string>杭州飞翔气体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>60321.0620</string><key>y</key><string>83551.0320</string></dict>
+<dict>
+<key>identifier</key><string>bcaa01e6-986d-4601-a41c-037f35fc2f18</string><key>stan_name</key><string>福尔得生物科技公司</string><key>multi_info</key><string> </string><key>x</key><string>75897.1901</string><key>y</key><string>83563.1811</string></dict>
+<dict>
+<key>identifier</key><string>b01ea8ff-ef5f-4ad7-9984-d607a92e7ceb</string><key>stan_name</key><string>杭州顺源轮胎制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111764.07</string><key>y</key><string>83574.5330</string></dict>
+<dict>
+<key>identifier</key><string>c61dade7-df57-4f47-b31e-6e98d56289ad</string><key>stan_name</key><string>浙江物产燃料集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80888.5234</string><key>y</key><string>81575.7344</string></dict>
+<dict>
+<key>identifier</key><string>1aaab994-a55f-46b2-8020-97f9ecdf097e</string><key>stan_name</key><string>杭州吉华江东有限公司</string><key>multi_info</key><string> </string><key>x</key><string>122729.4099</string><key>y</key><string>82531.42</string></dict>
+<dict>
+<key>identifier</key><string>b83764e3-f796-4919-bc8a-02e2e5fe79e0</string><key>stan_name</key><string>杭州三益生化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85940.5440</string><key>y</key><string>83018.7790</string></dict>
+<dict>
+<key>identifier</key><string>a5c62cf4-5f76-470c-93ca-511f60b817a8</string><key>stan_name</key><string>杭州古荡玻璃钢厂</string><key>multi_info</key><string> </string><key>x</key><string>74392.2812</string><key>y</key><string>82553.4141</string></dict>
+<dict>
+<key>identifier</key><string>d13b6001-91ed-470f-9db2-11966e0ddaa8</string><key>stan_name</key><string>杭州滕野生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58834.4050</string><key>y</key><string>82565.0319</string></dict>
+<dict>
+<key>identifier</key><string>9c6ee860-bc0f-4a35-9dc9-7db0b622465c</string><key>stan_name</key><string>杭州阳成塑胶厂</string><key>multi_info</key><string> </string><key>x</key><string>103661.8040</string><key>y</key><string>80706.4341</string></dict>
+<dict>
+<key>identifier</key><string>ad6f4b93-642f-4527-9673-f130c5c670e8</string><key>stan_name</key><string>艾康生物技术（杭州）有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73765.8920</string><key>y</key><string>82658.1282</string></dict>
+<dict>
+<key>identifier</key><string>8305fc5f-8c59-489e-986a-5c7c7310cac4</string><key>stan_name</key><string>杭州建民喷塑有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70223.2245</string><key>y</key><string>79664.1293</string></dict>
+<dict>
+<key>identifier</key><string>32be45e8-d168-4db4-a56c-e585e831f05a</string><key>stan_name</key><string>杭州伟伟生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86647.8751</string><key>y</key><string>79671.2379</string></dict>
+<dict>
+<key>identifier</key><string>2cf003c4-bc92-450c-b1ec-7c7457c826ca</string><key>stan_name</key><string>浙江舒奇蒙能源科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102117.9421</string><key>y</key><string>81808.1299</string></dict>
+<dict>
+<key>identifier</key><string>27eb8262-0545-4e78-969c-b92ebe9a2c6d</string><key>stan_name</key><string>圣大太阳能技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99124.0590</string><key>y</key><string>79730.5671</string></dict>
+<dict>
+<key>identifier</key><string>feda5935-2c59-4117-9fdc-600459080d80</string><key>stan_name</key><string>恒河高分子</string><key>multi_info</key><string> </string><key>x</key><string>70181.3594</string><key>y</key><string>79755.4766</string></dict>
+<dict>
+<key>identifier</key><string>ea28dbb6-0fa9-4b56-a157-c8cdac44d41c</string><key>stan_name</key><string>杭州近江金属材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82929.7735</string><key>y</key><string>79771.8767</string></dict>
+<dict>
+<key>identifier</key><string>62b00724-f09a-433a-a4e1-7ca45e8b10d6</string><key>stan_name</key><string>杭州西湖电镀有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68600.4453</string><key>y</key><string>79843.6250</string></dict>
+<dict>
+<key>identifier</key><string>e2deff31-aac9-4e0f-8a49-fbc0466c78ac</string><key>stan_name</key><string>余杭区杭石交通能源有限任公司</string><key>multi_info</key><string> </string><key>x</key><string>59376.9531</string><key>y</key><string>80843.4891</string></dict>
+<dict>
+<key>identifier</key><string>34c6ff0b-fd24-45a2-ad75-0bce3f636eed</string><key>stan_name</key><string>依恩表面技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72006.5841</string><key>y</key><string>81889.3451</string></dict>
+<dict>
+<key>identifier</key><string>eee24685-9546-448f-90e7-6f712e4c0fc4</string><key>stan_name</key><string>弗沃德效果颜料</string><key>multi_info</key><string> </string><key>x</key><string>122647.6260</string><key>y</key><string>81892.0170</string></dict>
+<dict>
+<key>identifier</key><string>81fb047f-3515-45c0-b454-258d4396e331</string><key>stan_name</key><string>忠兴涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>89081.39</string><key>y</key><string>82762.9230</string></dict>
+<dict>
+<key>identifier</key><string>c4a18af0-9558-4156-868e-c889826b7487</string><key>stan_name</key><string>杭州萧山东方印染有限公司</string><key>multi_info</key><string> </string><key>x</key><string>103311.91</string><key>y</key><string>70377.9690</string></dict>
+<dict>
+<key>identifier</key><string>a1dc23be-3836-49c0-a4a0-8897526a4643</string><key>stan_name</key><string>杭州紫东化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93954.1649</string><key>y</key><string>70394.1701</string></dict>
+<dict>
+<key>identifier</key><string>36fb7f16-3881-4282-90cd-be3c2ea1859d</string><key>stan_name</key><string>杭州联佳化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102088.6461</string><key>y</key><string>70470.4140</string></dict>
+<dict>
+<key>identifier</key><string>fb14ac9f-1eb4-4865-bb82-6d699a3f0f23</string><key>stan_name</key><string>双龙喷涂</string><key>multi_info</key><string> </string><key>x</key><string>73310.1328</string><key>y</key><string>70507.9766</string></dict>
+<dict>
+<key>identifier</key><string>e128fd51-4b48-4051-9f03-afac3b32ba78</string><key>stan_name</key><string>浙江恒逸集团聚合物有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102906.9269</string><key>y</key><string>70535.0039</string></dict>
+<dict>
+<key>identifier</key><string>d807c67c-3da0-42cf-afe8-0e62428bc7b9</string><key>stan_name</key><string>长河助剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83510.4297</string><key>y</key><string>70639.2344</string></dict>
+<dict>
+<key>identifier</key><string>603ff771-a751-4179-af2b-8a2683ca08c6</string><key>stan_name</key><string>杭州中丽化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>109664.7960</string><key>y</key><string>72645.6821</string></dict>
+<dict>
+<key>identifier</key><string>bc770f59-22ee-404f-b028-1a6925215af8</string><key>stan_name</key><string>申联化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116269.9480</string><key>y</key><string>72697.5149</string></dict>
+<dict>
+<key>identifier</key><string>e048c41b-1710-412f-baa1-2027c7c52514</string><key>stan_name</key><string>泰林生物技术设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80814.2930</string><key>y</key><string>72739.7018</string></dict>
+<dict>
+<key>identifier</key><string>f1df152a-fed0-40be-b107-b6931186dd28</string><key>stan_name</key><string>杭州江南冶炼有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81794.6172</string><key>y</key><string>71420.9688</string></dict>
+<dict>
+<key>identifier</key><string>0fa0c486-ea6c-4c03-8dee-9289afa3cea6</string><key>stan_name</key><string>杭州萧山荣达化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116864.7970</string><key>y</key><string>71632.8380</string></dict>
+<dict>
+<key>identifier</key><string>c248d0d9-58f9-4686-8174-92de77fad8cd</string><key>stan_name</key><string>萧山物资再生利用有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94351.0170</string><key>y</key><string>71682.9380</string></dict>
+<dict>
+<key>identifier</key><string>bee8d28c-2b07-4cf7-adfb-80de2e4a13c8</string><key>stan_name</key><string>杭州华创实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99340.7094</string><key>y</key><string>71890.6840</string></dict>
+<dict>
+<key>identifier</key><string>956c7319-c30c-44a2-b81a-21a1101c3b48</string><key>stan_name</key><string>杭州棉花油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79005.4609</string><key>y</key><string>71902.0625</string></dict>
+<dict>
+<key>identifier</key><string>87c51a4a-d771-4c42-b1c2-1065b0ce4744</string><key>stan_name</key><string>杭州华艺氧气制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77360.8039</string><key>y</key><string>40122.9779</string></dict>
+<dict>
+<key>identifier</key><string>695cc677-96e9-4a87-ae01-734d01c390f8</string><key>stan_name</key><string>晨萧化纤原料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77718.58</string><key>y</key><string>43521.0930</string></dict>
+<dict>
+<key>identifier</key><string>516febc6-56c7-487c-9e8a-fdb4df02646b</string><key>stan_name</key><string>杭州启明星生物营养有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79314.53</string><key>y</key><string>44787.0260</string></dict>
+<dict>
+<key>identifier</key><string>be70e590-6d0a-422c-bc90-8f001cb713df</string><key>stan_name</key><string>杭州启明星生物营养有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79270.20</string><key>y</key><string>44806.2280</string></dict>
+<dict>
+<key>identifier</key><string>5180c681-4ba7-44bf-9d69-3a36f30ab9ec</string><key>stan_name</key><string>杭州萧山吉昌纸业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81630.8930</string><key>y</key><string>47511.7651</string></dict>
+<dict>
+<key>identifier</key><string>0aa2391d-255f-43e3-8052-c2d4ee634f82</string><key>stan_name</key><string>杭州洁天环保科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86757.6269</string><key>y</key><string>47702.8819</string></dict>
+<dict>
+<key>identifier</key><string>24c56fc4-0e80-4530-9a59-9d9c11f4e34d</string><key>stan_name</key><string>杭州创源废物回收有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89518.2720</string><key>y</key><string>47786.0289</string></dict>
+<dict>
+<key>identifier</key><string>a835c228-6dd6-4947-a826-323d45f7d2b9</string><key>stan_name</key><string>杭州王涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87353.8301</string><key>y</key><string>49244.7470</string></dict>
+<dict>
+<key>identifier</key><string>f0071d03-3d64-46bd-aa9f-2d000f3c3828</string><key>stan_name</key><string>浙江佳为环境科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87124.8151</string><key>y</key><string>49436.2841</string></dict>
+<dict>
+<key>identifier</key><string>0c548b0b-4552-43f3-b6e8-5892c45e181f</string><key>stan_name</key><string>杭州萧山蒲阳油料供应开发公司</string><key>multi_info</key><string> </string><key>x</key><string>87581.0910</string><key>y</key><string>50986.1540</string></dict>
+<dict>
+<key>identifier</key><string>1829f90e-8bc7-4916-9a2b-c6526f5a4621</string><key>stan_name</key><string>杭州萧山森隆热处理厂</string><key>multi_info</key><string> </string><key>x</key><string>87280.80</string><key>y</key><string>51636.7130</string></dict>
+<dict>
+<key>identifier</key><string>44884b25-0ac1-4325-a2ee-935264ae4d06</string><key>stan_name</key><string>云峰涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>78166.6290</string><key>y</key><string>52445.7590</string></dict>
+<dict>
+<key>identifier</key><string>71fa2c34-4c9e-437b-bc5e-afcfa1715397</string><key>stan_name</key><string>杭州南方电镀有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83242.3141</string><key>y</key><string>52839.1180</string></dict>
+<dict>
+<key>identifier</key><string>4c7bf436-374e-43d0-abfa-29691bec0f25</string><key>stan_name</key><string>华隆煤炭陶土有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89610.3091</string><key>y</key><string>56710.9991</string></dict>
+<dict>
+<key>identifier</key><string>1b496d53-b530-46dc-a65d-c3728e9581ea</string><key>stan_name</key><string>杭州荣杰化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>117559.3650</string><key>y</key><string>72232.7760</string></dict>
+<dict>
+<key>identifier</key><string>31075470-8f27-424a-ae65-8321bb63b825</string><key>stan_name</key><string>杭州天辰生物制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120031.2980</string><key>y</key><string>72434.8950</string></dict>
+<dict>
+<key>identifier</key><string>5d94b9b0-3085-4d56-bfd3-1563f57d3b26</string><key>stan_name</key><string>杭州天辰生物制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>119962.7590</string><key>y</key><string>72440.8980</string></dict>
+<dict>
+<key>identifier</key><string>f7cbf839-9278-44de-ae63-71bbb8a34490</string><key>stan_name</key><string>马尼托瓦(中国）制冷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81481.3549</string><key>y</key><string>73041.6493</string></dict>
+<dict>
+<key>identifier</key><string>ab6782de-da00-4c44-9ae8-a29615e1ede9</string><key>stan_name</key><string>瓜沥永福化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>109004.71</string><key>y</key><string>73551.4490</string></dict>
+<dict>
+<key>identifier</key><string>82f3aed5-de8e-4bc0-8270-a792f6d07385</string><key>stan_name</key><string>萧山虹翔化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>104458.5654</string><key>y</key><string>73580.3480</string></dict>
+<dict>
+<key>identifier</key><string>1f5e5261-40c3-42e9-a319-382f8e999f7d</string><key>stan_name</key><string>杭州萧山金丰炉料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88645.6560</string><key>y</key><string>57575.2569</string></dict>
+<dict>
+<key>identifier</key><string>b96d0e24-a433-4add-b245-e179ad30aecd</string><key>stan_name</key><string>萧山联发电化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86180.6996</string><key>y</key><string>58831.3530</string></dict>
+<dict>
+<key>identifier</key><string>59a2de1a-c1a5-4979-b7e1-e675617c06ae</string><key>stan_name</key><string>萧山联发电化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86520.1767</string><key>y</key><string>59106.0670</string></dict>
+<dict>
+<key>identifier</key><string>c5e9ce6b-4dd1-4443-bfa8-1befa1e4dec9</string><key>stan_name</key><string>杭州溢香源生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91892.5009</string><key>y</key><string>66690.9440</string></dict>
+<dict>
+<key>identifier</key><string>52b9eae1-14f3-4742-808d-26255b0e7f16</string><key>stan_name</key><string>美达涂料</string><key>multi_info</key><string> </string><key>x</key><string>80477.4844</string><key>y</key><string>72039.3906</string></dict>
+<dict>
+<key>identifier</key><string>d41e6f93-9b3d-4089-be46-97d544a6ff6a</string><key>stan_name</key><string>强帮涂料</string><key>multi_info</key><string> </string><key>x</key><string>80502.7109</string><key>y</key><string>72061.3984</string></dict>
+<dict>
+<key>identifier</key><string>b0c0a25f-878c-494e-a92f-691fc31f236f</string><key>stan_name</key><string>杭州德盛化纤织造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>104158.4510</string><key>y</key><string>72144.1960</string></dict>
+<dict>
+<key>identifier</key><string>ada5c7c2-dccc-46f0-8ed0-24068b28ac25</string><key>stan_name</key><string>杭州航民热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107088.1426</string><key>y</key><string>73658.2701</string></dict>
+<dict>
+<key>identifier</key><string>06795387-9e4c-45f7-a6fe-a72655172387</string><key>stan_name</key><string>杭州航民热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>106765.4553</string><key>y</key><string>73684.6091</string></dict>
+<dict>
+<key>identifier</key><string>802dee84-afa7-4a06-b56e-6ee147034580</string><key>stan_name</key><string>杭州翔盛热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>113109.9780</string><key>y</key><string>73301.3031</string></dict>
+<dict>
+<key>identifier</key><string>2542f008-6284-4d3e-bc9f-f7e84f5d4f0b</string><key>stan_name</key><string>高新科技</string><key>multi_info</key><string> </string><key>x</key><string>80932.7188</string><key>y</key><string>73436.5703</string></dict>
+<dict>
+<key>identifier</key><string>1be7e4d5-96ae-495a-8daf-a8573136a935</string><key>stan_name</key><string>杭州泛邦植物细胞工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>60194.6850</string><key>y</key><string>73492.0750</string></dict>
+<dict>
+<key>identifier</key><string>22a5729e-961d-400f-8dd3-4c02ed930da6</string><key>stan_name</key><string>杭州航民热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107115.5421</string><key>y</key><string>73510.7251</string></dict>
+<dict>
+<key>identifier</key><string>2aabd291-b128-4c26-ba0f-2de24d9e4dc0</string><key>stan_name</key><string>杭州龙达差别化聚脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96699.9620</string><key>y</key><string>72965.5550</string></dict>
+<dict>
+<key>identifier</key><string>18f9d03a-f743-4d3f-a311-85efab39ae9e</string><key>stan_name</key><string>杭州和合玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>115533.4209</string><key>y</key><string>74531.9350</string></dict>
+<dict>
+<key>identifier</key><string>fb340985-cb26-4791-817b-bc3c6c3568f0</string><key>stan_name</key><string>杭州江南化纤织造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91763.0240</string><key>y</key><string>74575.2340</string></dict>
+<dict>
+<key>identifier</key><string>e58c5447-a73a-4ba0-9c8c-0273f9ff7d62</string><key>stan_name</key><string>荣盛化纤集团</string><key>multi_info</key><string> </string><key>x</key><string>121582.3740</string><key>y</key><string>74717.7291</string></dict>
+<dict>
+<key>identifier</key><string>2cf95d3b-6d40-48c0-b23f-e1d6de35c1ff</string><key>stan_name</key><string>杭州之江玻璃厂</string><key>multi_info</key><string> </string><key>x</key><string>82705.1953</string><key>y</key><string>74748.4531</string></dict>
+<dict>
+<key>identifier</key><string>2f333bc7-df59-4c05-99e2-1f6ea74b4295</string><key>stan_name</key><string>杭州万利橡胶厂</string><key>multi_info</key><string> </string><key>x</key><string>82176.6328</string><key>y</key><string>74901.2734</string></dict>
+<dict>
+<key>identifier</key><string>54a00d7d-9660-4620-958d-b8bb983ef4ef</string><key>stan_name</key><string>杭州钱江助剂厂</string><key>multi_info</key><string> </string><key>x</key><string>82819.25</string><key>y</key><string>75034.4219</string></dict>
+<dict>
+<key>identifier</key><string>89a2399f-5be3-4e2f-ba40-2c9957f4da2b</string><key>stan_name</key><string>杭州萧山道远化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93555.6220</string><key>y</key><string>76008.9471</string></dict>
+<dict>
+<key>identifier</key><string>3ad67901-8522-4e54-b0df-acfe8073a5a9</string><key>stan_name</key><string>博顿生物检验技术（杭州）有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89442.7720</string><key>y</key><string>76062.81</string></dict>
+<dict>
+<key>identifier</key><string>8f3266f7-a455-4abc-8432-1e25ba2fa168</string><key>stan_name</key><string>萧山开源化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111587.4380</string><key>y</key><string>76387.1220</string></dict>
+<dict>
+<key>identifier</key><string>aa2a71e9-8399-4a5c-a35f-d34be1473c93</string><key>stan_name</key><string>长沙制线有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111602.4240</string><key>y</key><string>76283.24</string></dict>
+<dict>
+<key>identifier</key><string>8f2f7715-edeb-4c80-b44f-0bc2e1583ac1</string><key>stan_name</key><string>杭州萧山燃料有限公司瓜沥煤厂</string><key>multi_info</key><string> </string><key>x</key><string>108021.6514</string><key>y</key><string>75355.1081</string></dict>
+<dict>
+<key>identifier</key><string>a14fcff8-05fb-4689-8d7c-72d09efdd634</string><key>stan_name</key><string>杭州中天玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88785.4351</string><key>y</key><string>75566.4090</string></dict>
+<dict>
+<key>identifier</key><string>5ed51a18-1c9f-456d-b71d-044886419bbe</string><key>stan_name</key><string>永利化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>110083.0994</string><key>y</key><string>75934.8180</string></dict>
+<dict>
+<key>identifier</key><string>d7269865-2718-464e-8baf-b86aee9f29c8</string><key>stan_name</key><string>杭州凯利化纤公司</string><key>multi_info</key><string> </string><key>x</key><string>109139.3694</string><key>y</key><string>77762.5470</string></dict>
+<dict>
+<key>identifier</key><string>275d6b07-7303-4ebc-b188-83c120e9e6b1</string><key>stan_name</key><string>青松印染有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95909.6591</string><key>y</key><string>77814.0269</string></dict>
+<dict>
+<key>identifier</key><string>85c506c0-f6d2-4845-90f3-3c70ef37c6d4</string><key>stan_name</key><string>杭州白浪助剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97191.2721</string><key>y</key><string>77828.6240</string></dict>
+<dict>
+<key>identifier</key><string>ba09d536-107f-4e4f-9c6d-4271f0ec1aad</string><key>stan_name</key><string>恒盛涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>103737.9854</string><key>y</key><string>76822.7280</string></dict>
+<dict>
+<key>identifier</key><string>336b64ec-b728-4812-a960-27a70f37dafd</string><key>stan_name</key><string>杭州萧山炳宪化纤制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>105934.3993</string><key>y</key><string>76893.9890</string></dict>
+<dict>
+<key>identifier</key><string>88690ef0-ab79-47c8-a2dc-a32c7d9f2569</string><key>stan_name</key><string>杭州同舟沥青有限公司</string><key>multi_info</key><string> </string><key>x</key><string>54847.8890</string><key>y</key><string>77113.1230</string></dict>
+<dict>
+<key>identifier</key><string>3e0d8e35-026c-4d49-9655-6cdc7e69d40f</string><key>stan_name</key><string>萧山国安化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>106358.4173</string><key>y</key><string>77284.5940</string></dict>
+<dict>
+<key>identifier</key><string>b3349a82-6a25-47e1-8780-976a8ab5eefc</string><key>stan_name</key><string>杭州绿色星球涂料科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120829.2401</string><key>y</key><string>77492.8401</string></dict>
+<dict>
+<key>identifier</key><string>620b2b89-5bbf-4706-b80f-20300ce32cca</string><key>stan_name</key><string>杭州远大物资回收利用有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80185.1543</string><key>y</key><string>86745.4741</string></dict>
+<dict>
+<key>identifier</key><string>40f3b0da-c83a-4a02-9d1e-085e85701719</string><key>stan_name</key><string>杭州助剂厂</string><key>multi_info</key><string> </string><key>x</key><string>83706.8980</string><key>y</key><string>83888.8050</string></dict>
+<dict>
+<key>identifier</key><string>5db4dd25-ed42-4c05-af3e-5f8ada9a327c</string><key>stan_name</key><string>杭州和欣聚氨酯有限公司</string><key>multi_info</key><string> </string><key>x</key><string>56052.1090</string><key>y</key><string>83890.7080</string></dict>
+<dict>
+<key>identifier</key><string>081c564a-b017-4121-ad92-1a2e1cb7d7ae</string><key>stan_name</key><string>顺帆化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>57058.7920</string><key>y</key><string>83892.5690</string></dict>
+<dict>
+<key>identifier</key><string>39278288-11ff-4b05-8103-6e0acab8a4b0</string><key>stan_name</key><string>杭州萧山瓜沥金凯化纤有限工司</string><key>multi_info</key><string> </string><key>x</key><string>105826.3613</string><key>y</key><string>77696.8630</string></dict>
+<dict>
+<key>identifier</key><string>00d34974-708f-4ff5-a18b-97d3d84e1698</string><key>stan_name</key><string>杭州展宏纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102791.4127</string><key>y</key><string>78592.7440</string></dict>
+<dict>
+<key>identifier</key><string>0368dc46-5fce-474a-a629-d4f19f2b69c5</string><key>stan_name</key><string>浙江中威电源科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61608.9209</string><key>y</key><string>78409.9820</string></dict>
+<dict>
+<key>identifier</key><string>11b7498b-d34b-48b7-b2c7-ec1e852c04b7</string><key>stan_name</key><string>浙江三元热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116824.9520</string><key>y</key><string>78458.7020</string></dict>
+<dict>
+<key>identifier</key><string>612e2347-2bb2-473d-9d67-3bd7a9515603</string><key>stan_name</key><string>传化大地园艺生物科技中心</string><key>multi_info</key><string> </string><key>x</key><string>97007.7013</string><key>y</key><string>78455.7660</string></dict>
+<dict>
+<key>identifier</key><string>1a111bce-4656-43e0-9232-4ff6b5743159</string><key>stan_name</key><string>杭州市种子公司</string><key>multi_info</key><string> </string><key>x</key><string>89845.8810</string><key>y</key><string>87635.5930</string></dict>
+<dict>
+<key>identifier</key><string>1935c3fb-e69d-45af-9b26-b717356895f6</string><key>stan_name</key><string>三元热电厂</string><key>multi_info</key><string> </string><key>x</key><string>116877.4926</string><key>y</key><string>78535.9210</string></dict>
+<dict>
+<key>identifier</key><string>f4739a19-f1e3-492a-95a0-cd8017cfe642</string><key>stan_name</key><string>浙江正凯化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>112523.6640</string><key>y</key><string>77882.5071</string></dict>
+<dict>
+<key>identifier</key><string>0df3e02f-5ed2-47b3-a4d1-01d77a31295a</string><key>stan_name</key><string>浙江日华化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97090.2440</string><key>y</key><string>77884.4730</string></dict>
+<dict>
+<key>identifier</key><string>957e12cf-4f08-4b01-91a4-c14c4e6dcc01</string><key>stan_name</key><string>赛德克有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98153.6730</string><key>y</key><string>77912.0791</string></dict>
+<dict>
+<key>identifier</key><string>4c3c3862-1e21-4000-9828-6dd894e0fe8e</string><key>stan_name</key><string>杭州岑岭石矿</string><key>multi_info</key><string> </string><key>x</key><string>58188.3049</string><key>y</key><string>77963.0179</string></dict>
+<dict>
+<key>identifier</key><string>7fcf3805-4032-4ed1-a950-e6f4e627fcff</string><key>stan_name</key><string>浙江红剑集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>101521.1820</string><key>y</key><string>78182.8341</string></dict>
+<dict>
+<key>identifier</key><string>0f208880-d0d8-4a71-b3e9-f02a6fbc15cc</string><key>stan_name</key><string>翁卫军化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>103410.0894</string><key>y</key><string>78680.8639</string></dict>
+<dict>
+<key>identifier</key><string>f49024b8-29dd-43f0-b6ea-3a090e48c248</string><key>stan_name</key><string>杭州大明荧光材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87197.8410</string><key>y</key><string>66712.1390</string></dict>
+<dict>
+<key>identifier</key><string>ed073692-b00d-4473-b964-d2e3be67f61c</string><key>stan_name</key><string>萧山钱江绝缘材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102405.4383</string><key>y</key><string>75378.4460</string></dict>
+<dict>
+<key>identifier</key><string>51a55176-5fac-4d1d-8d97-e6cb40b6a4dd</string><key>stan_name</key><string>浙江江南涤化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94578.0360</string><key>y</key><string>73773.1170</string></dict>
+<dict>
+<key>identifier</key><string>09551b78-5eec-4698-8f8f-7e789d30372d</string><key>stan_name</key><string>浙江中力特种玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98273.9710</string><key>y</key><string>73783.4341</string></dict>
+<dict>
+<key>identifier</key><string>ef999c88-ea5a-45fe-80b4-add989b5ea2f</string><key>stan_name</key><string>众成化纤</string><key>multi_info</key><string> </string><key>x</key><string>103441.1331</string><key>y</key><string>68405.6770</string></dict>
+<dict>
+<key>identifier</key><string>11a0f017-453d-4f9d-a171-966ad35f044a</string><key>stan_name</key><string>杭州天元涤纶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100528.0363</string><key>y</key><string>71133.8660</string></dict>
+<dict>
+<key>identifier</key><string>4b028e27-2d48-4369-977f-eff3265b4f69</string><key>stan_name</key><string>杭州华大基因研究中心</string><key>multi_info</key><string> </string><key>x</key><string>76281.9050</string><key>y</key><string>74448.1250</string></dict>
+<dict>
+<key>identifier</key><string>fc59cf9c-9583-4a00-8135-6f9189f4dbf8</string><key>stan_name</key><string>佳诚化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>104190.4680</string><key>y</key><string>71151.2040</string></dict>
+<dict>
+<key>identifier</key><string>1594efe3-3357-46df-b573-c7bb23f64aaf</string><key>stan_name</key><string>杭州金福康生物有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81449.0156</string><key>y</key><string>71151.8359</string></dict>
+<dict>
+<key>identifier</key><string>90541028-24fa-4563-8f76-ffe99915014c</string><key>stan_name</key><string>杭州强邦涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80284.2422</string><key>y</key><string>71160.1406</string></dict>
+<dict>
+<key>identifier</key><string>4371eb8f-c475-417c-8474-0bc06cf31913</string><key>stan_name</key><string>杭州浦建生物医学技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80371.6719</string><key>y</key><string>71021.4297</string></dict>
+<dict>
+<key>identifier</key><string>7eb4991a-c665-4573-950a-6b27913773b9</string><key>stan_name</key><string>萧山兴惠化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100122.5213</string><key>y</key><string>71081.0070</string></dict>
+<dict>
+<key>identifier</key><string>8462917a-3fce-40e4-a3de-eeaf8f6e4c14</string><key>stan_name</key><string>杭州萧山油墨厂</string><key>multi_info</key><string> </string><key>x</key><string>85568.1177</string><key>y</key><string>55761.01</string></dict>
+<dict>
+<key>identifier</key><string>9355fcee-b583-44b0-931f-8452878bac18</string><key>stan_name</key><string>杭州绿强环保设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90744.3850</string><key>y</key><string>56402.0860</string></dict>
+<dict>
+<key>identifier</key><string>a977eaa5-77d0-4c1c-b55e-6124f9142a19</string><key>stan_name</key><string>采石场</string><key>multi_info</key><string> </string><key>x</key><string>83693.4089</string><key>y</key><string>56462.3230</string></dict>
+<dict>
+<key>identifier</key><string>0615c61b-6a78-4ac6-b679-b4ca6f8f9678</string><key>stan_name</key><string>百力兴胶凝料</string><key>multi_info</key><string> </string><key>x</key><string>90289.6379</string><key>y</key><string>56553.0301</string></dict>
+<dict>
+<key>identifier</key><string>d59ee517-eb18-4c33-9afc-e35406e6c0d3</string><key>stan_name</key><string>萧山桥南热处理厂</string><key>multi_info</key><string> </string><key>x</key><string>87516.4816</string><key>y</key><string>56612.4459</string></dict>
+<dict>
+<key>identifier</key><string>2be4cc3b-0268-4b0b-8d07-a1622c1ed209</string><key>stan_name</key><string>杭州科达涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>70918.9688</string><key>y</key><string>65233.6133</string></dict>
+<dict>
+<key>identifier</key><string>78821e48-b5bd-4de2-8ff9-f95059e36f1c</string><key>stan_name</key><string>杭州萧山化学试剂厂</string><key>multi_info</key><string> </string><key>x</key><string>87189.4070</string><key>y</key><string>68162.3469</string></dict>
+<dict>
+<key>identifier</key><string>9dbff848-652c-494c-a648-9912f67bd83b</string><key>stan_name</key><string>萧山联发电化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86328.0997</string><key>y</key><string>59231.0769</string></dict>
+<dict>
+<key>identifier</key><string>480d4c3a-c3e8-4bbb-97d6-399ed5f51287</string><key>stan_name</key><string>萧山市方正化纤织造厂</string><key>multi_info</key><string> </string><key>x</key><string>81942.5079</string><key>y</key><string>59788.3150</string></dict>
+<dict>
+<key>identifier</key><string>cc74cbd7-1779-41fa-90ec-296ddfef5851</string><key>stan_name</key><string>杭州雪域生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91344.2640</string><key>y</key><string>61790.4910</string></dict>
+<dict>
+<key>identifier</key><string>d9d03237-0b4e-444a-a0d1-4ddcdb2f2d5c</string><key>stan_name</key><string>杭州得宝涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85167.3759</string><key>y</key><string>64569.9020</string></dict>
+<dict>
+<key>identifier</key><string>ce04e45d-2a3c-455f-be3d-b1e813a69185</string><key>stan_name</key><string>前章化纤布厂</string><key>multi_info</key><string> </string><key>x</key><string>86695.5709</string><key>y</key><string>64853.8411</string></dict>
+<dict>
+<key>identifier</key><string>3d1ebf36-bcd8-4977-8681-0f28d08d9fd6</string><key>stan_name</key><string>浙江兴合再生资源有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82618.4320</string><key>y</key><string>97541.3810</string></dict>
+<dict>
+<key>identifier</key><string>f6e8dcb4-af55-44a6-9803-25ba0daaa5bc</string><key>stan_name</key><string>杭州华信生物工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82742.5540</string><key>y</key><string>97558.9070</string></dict>
+<dict>
+<key>identifier</key><string>ca8fabb6-bed9-4ff4-af68-132fae18beee</string><key>stan_name</key><string>杭州荣彩实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>113007.7720</string><key>y</key><string>94054.6090</string></dict>
+<dict>
+<key>identifier</key><string>a2f5917a-14a1-4000-aeae-dd33583460ac</string><key>stan_name</key><string>杭州众望化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84233.35</string><key>y</key><string>97437.3250</string></dict>
+<dict>
+<key>identifier</key><string>1204683d-d635-4eb3-9474-f4e19e09de2c</string><key>stan_name</key><string>杭州有光能源科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65255.5110</string><key>y</key><string>97685.1221</string></dict>
+<dict>
+<key>identifier</key><string>62ffd007-33e0-4435-9b80-7175f202defd</string><key>stan_name</key><string>杭州宏达晶体纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71859.91</string><key>y</key><string>102125.3549</string></dict>
+<dict>
+<key>identifier</key><string>b5d6b67a-c708-437a-8b0d-a0628c208f5f</string><key>stan_name</key><string>杭州紫云能源综合利用开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81471.3257</string><key>y</key><string>94259.29</string></dict>
+<dict>
+<key>identifier</key><string>5e8ce352-9741-4bb5-854e-283a7d3b4823</string><key>stan_name</key><string>杭州富华热处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87039.2991</string><key>y</key><string>94332.3187</string></dict>
+<dict>
+<key>identifier</key><string>4ce9f65c-62f7-4b60-bef4-64c02783e910</string><key>stan_name</key><string>杭州双利金属</string><key>multi_info</key><string> </string><key>x</key><string>79914.5861</string><key>y</key><string>94376.1068</string></dict>
+<dict>
+<key>identifier</key><string>ea7c102b-ff6f-4590-ac57-463683d0a4ab</string><key>stan_name</key><string>杭州溶解乙炔厂</string><key>multi_info</key><string> </string><key>x</key><string>54046.5240</string><key>y</key><string>97857.8680</string></dict>
+<dict>
+<key>identifier</key><string>5ef08f5d-21ce-4981-89f8-3d7521ecd400</string><key>stan_name</key><string>浙江中强化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79186.6440</string><key>y</key><string>97891.0690</string></dict>
+<dict>
+<key>identifier</key><string>6d6f2c9f-43cf-47b0-9185-fa993e2eb8d7</string><key>stan_name</key><string>杭州陆丰特种喷涂厂</string><key>multi_info</key><string> </string><key>x</key><string>64588.2020</string><key>y</key><string>97931.3280</string></dict>
+<dict>
+<key>identifier</key><string>9e648a14-31c7-4a2f-a1da-f93228548c13</string><key>stan_name</key><string>杭州家新橡胶制品厂</string><key>multi_info</key><string> </string><key>x</key><string>47344.9410</string><key>y</key><string>102150.4940</string></dict>
+<dict>
+<key>identifier</key><string>8a88def7-ad45-41eb-9576-82f4db6d3599</string><key>stan_name</key><string>杭州一韦涂料化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72932.2139</string><key>y</key><string>102732.0461</string></dict>
+<dict>
+<key>identifier</key><string>e1b7f787-e8c4-4b4d-bf3c-358da6394397</string><key>stan_name</key><string>浙江中新能源发展公司中山供应站</string><key>multi_info</key><string> </string><key>x</key><string>82158.8060</string><key>y</key><string>91999.6493</string></dict>
+<dict>
+<key>identifier</key><string>6b07a517-f6c6-40e3-8077-9e57e579af63</string><key>stan_name</key><string>杭州万事达润滑油厂</string><key>multi_info</key><string> </string><key>x</key><string>85254.6220</string><key>y</key><string>92011.1216</string></dict>
+<dict>
+<key>identifier</key><string>71a241d7-e3d2-4dc9-9a13-023218f839f9</string><key>stan_name</key><string>浙江新世纪再生资源开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79374.0708</string><key>y</key><string>92073.1163</string></dict>
+<dict>
+<key>identifier</key><string>92922ac3-a9b1-4edf-9cea-de0b610b02ef</string><key>stan_name</key><string>杭州华光焊料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69661.2670</string><key>y</key><string>94411.4020</string></dict>
+<dict>
+<key>identifier</key><string>79531727-c47e-4cf8-af4c-213c2f868221</string><key>stan_name</key><string>杭州华源前线能源设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80006.2730</string><key>y</key><string>102958.95</string></dict>
+<dict>
+<key>identifier</key><string>1bb8bd6d-c25f-4b51-91f3-2acce008d2c2</string><key>stan_name</key><string>杭州顺龙纺织塑胶涂层有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92341.9507</string><key>y</key><string>103007.4217</string></dict>
+<dict>
+<key>identifier</key><string>26c1aae1-30eb-4c33-885f-45808c247f56</string><key>stan_name</key><string>杭州钢铁集团公司</string><key>multi_info</key><string> </string><key>x</key><string>82033.3330</string><key>y</key><string>92111.4940</string></dict>
+<dict>
+<key>identifier</key><string>3182b8a5-512b-4b3c-af2b-5683d58d8d2a</string><key>stan_name</key><string>杭州紫恒矿微有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80051.4490</string><key>y</key><string>92155.2633</string></dict>
+<dict>
+<key>identifier</key><string>cce58f5a-e011-4b58-92f5-c498f37e19f3</string><key>stan_name</key><string>杭州康胜燃料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77927.8906</string><key>y</key><string>94559.7266</string></dict>
+<dict>
+<key>identifier</key><string>785ad70e-c33e-4b59-a885-7e79ac281a2e</string><key>stan_name</key><string>博大生物</string><key>multi_info</key><string> </string><key>x</key><string>64627.9120</string><key>y</key><string>94621.86</string></dict>
+<dict>
+<key>identifier</key><string>ac975899-d4b6-45ee-be12-5f06066f975c</string><key>stan_name</key><string>劳武矿厂</string><key>multi_info</key><string> </string><key>x</key><string>71891.9780</string><key>y</key><string>103272.7270</string></dict>
+<dict>
+<key>identifier</key><string>51910cdc-1b13-48e6-b672-59319a615f1b</string><key>stan_name</key><string>杭州名将润滑油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85109.8805</string><key>y</key><string>92183.5496</string></dict>
+<dict>
+<key>identifier</key><string>8fed1ee2-dcc4-4927-9231-a02e1b30bb30</string><key>stan_name</key><string>杭州天农生物营养技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75552.8740</string><key>y</key><string>99060.6959</string></dict>
+<dict>
+<key>identifier</key><string>ae75f596-df93-411d-9acc-4e3595fcbc2a</string><key>stan_name</key><string>宁电新瑞生物技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75640.10</string><key>y</key><string>99081.0990</string></dict>
+<dict>
+<key>identifier</key><string>b08af48a-28a7-42ef-8ac7-60c991c6791a</string><key>stan_name</key><string>浙江省火电建设公司</string><key>multi_info</key><string> </string><key>x</key><string>78716.1047</string><key>y</key><string>92295.8610</string></dict>
+<dict>
+<key>identifier</key><string>7ea3c68d-b9f1-4e10-afd4-130ed44b2d45</string><key>stan_name</key><string>杭州大联润滑油厂</string><key>multi_info</key><string> </string><key>x</key><string>76332.6080</string><key>y</key><string>92298.8519</string></dict>
+<dict>
+<key>identifier</key><string>860aae8e-afa5-447f-9fcf-93044bc17b2e</string><key>stan_name</key><string>杭州科润超纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73875.32</string><key>y</key><string>92424.1770</string></dict>
+<dict>
+<key>identifier</key><string>e62670f8-d086-4035-abd3-8d14f7eba06e</string><key>stan_name</key><string>杭州鼎成铝业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>64268.3480</string><key>y</key><string>94962.7390</string></dict>
+<dict>
+<key>identifier</key><string>2d44af76-deea-4b7e-aa49-c1056b86a923</string><key>stan_name</key><string>杭州永升耐火材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83502.7780</string><key>y</key><string>99288.8801</string></dict>
+<dict>
+<key>identifier</key><string>bbff23d3-0693-481c-ba42-f085e600b694</string><key>stan_name</key><string>余杭福顺涂层有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90369.1532</string><key>y</key><string>99411.0492</string></dict>
+<dict>
+<key>identifier</key><string>c37caf72-cd50-4502-b9aa-8dbcb1fb6473</string><key>stan_name</key><string>杭州余杭液化气储备站</string><key>multi_info</key><string> </string><key>x</key><string>77225.3460</string><key>y</key><string>104073.9620</string></dict>
+<dict>
+<key>identifier</key><string>5e27e44c-ed76-4c6d-ac37-898570fc8848</string><key>stan_name</key><string>杭州余杭宏美宝晶生化</string><key>multi_info</key><string> </string><key>x</key><string>78708.4110</string><key>y</key><string>104241.4160</string></dict>
+<dict>
+<key>identifier</key><string>f78e74ea-e020-410c-a21e-5d63f23b56cb</string><key>stan_name</key><string>杭州康桥造纸厂</string><key>multi_info</key><string> </string><key>x</key><string>78172.5580</string><key>y</key><string>92508.1107</string></dict>
+<dict>
+<key>identifier</key><string>04c72249-ac89-4853-8aa6-230dcee5f312</string><key>stan_name</key><string>杭州钱江助剂厂</string><key>multi_info</key><string> </string><key>x</key><string>83124.2187</string><key>y</key><string>92568.7812</string></dict>
+<dict>
+<key>identifier</key><string>04ac2b03-5666-4fea-ad74-40b1d9515f19</string><key>stan_name</key><string>杭州华能润滑油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61444.2470</string><key>y</key><string>95346.7330</string></dict>
+<dict>
+<key>identifier</key><string>a7a66e51-1e20-42c8-bdc4-212b60c7056c</string><key>stan_name</key><string>杭州恒基油墨涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83573.0830</string><key>y</key><string>99544.5870</string></dict>
+<dict>
+<key>identifier</key><string>0572d3c2-d5aa-46dd-871d-c4f997cf6b7e</string><key>stan_name</key><string>杭州大地农药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85637.0530</string><key>y</key><string>99703.6270</string></dict>
+<dict>
+<key>identifier</key><string>24b43343-3702-4843-be50-471e4e217710</string><key>stan_name</key><string>杭州恒润凡士林制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77324.7410</string><key>y</key><string>104325.83</string></dict>
+<dict>
+<key>identifier</key><string>6ba3d5b1-057a-4e0d-9171-eb1d02dda0fc</string><key>stan_name</key><string>杭州华仙涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83434.6170</string><key>y</key><string>104565.0379</string></dict>
+<dict>
+<key>identifier</key><string>8851b3f8-30a8-4e42-b6c5-346c1d2edc08</string><key>stan_name</key><string>杭州金田珠光颜料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80160.43</string><key>y</key><string>104579.1880</string></dict>
+<dict>
+<key>identifier</key><string>eb5ae4d9-8aa7-44ee-aff1-d71c5d736445</string><key>stan_name</key><string>杭州余杭潘板碳酸钙厂</string><key>multi_info</key><string> </string><key>x</key><string>55326.1930</string><key>y</key><string>92598.6070</string></dict>
+<dict>
+<key>identifier</key><string>c9368042-4ec9-4e74-973f-a8ead70cd0fc</string><key>stan_name</key><string>杭州上官冷柱型钢有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73855.3569</string><key>y</key><string>92616.3880</string></dict>
+<dict>
+<key>identifier</key><string>9e377757-2b39-453b-870f-b0f26498f290</string><key>stan_name</key><string>杭州双羽化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91870.9273</string><key>y</key><string>92629.8085</string></dict>
+<dict>
+<key>identifier</key><string>f1151592-82ae-45a7-b8b9-eda1601f14f0</string><key>stan_name</key><string>杭州乔司特种化纤制品厂</string><key>multi_info</key><string> </string><key>x</key><string>91836.7628</string><key>y</key><string>92646.3397</string></dict>
+<dict>
+<key>identifier</key><string>2725fe89-aed7-459f-b0ec-8e3de322ddd1</string><key>stan_name</key><string>杭州长命乳胶海绵有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65506.2540</string><key>y</key><string>95473.7829</string></dict>
+<dict>
+<key>identifier</key><string>a941065d-e775-47db-b662-a673c86708fd</string><key>stan_name</key><string>矿冶公司</string><key>multi_info</key><string> </string><key>x</key><string>92715.7219</string><key>y</key><string>99835.9205</string></dict>
+<dict>
+<key>identifier</key><string>25547add-f673-46ac-ab53-dd49843071aa</string><key>stan_name</key><string>化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>93905.3068</string><key>y</key><string>104773.3386</string></dict>
+<dict>
+<key>identifier</key><string>af7d0d87-2990-4e41-80f0-c82e2c9d583a</string><key>stan_name</key><string>运河热处理</string><key>multi_info</key><string> </string><key>x</key><string>74959.5291</string><key>y</key><string>92717.8880</string></dict>
+<dict>
+<key>identifier</key><string>add07ef1-7724-4432-8258-14d1f6ea8afc</string><key>stan_name</key><string>杭州炼油厂康桥股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77044.9375</string><key>y</key><string>92852.8672</string></dict>
+<dict>
+<key>identifier</key><string>c1c644f7-77e5-4c7a-aff0-bbac1df92873</string><key>stan_name</key><string>杭州江滨生物技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86851.6907</string><key>y</key><string>95678.2270</string></dict>
+<dict>
+<key>identifier</key><string>640ceaea-d925-47a6-b9c6-0ea1d6800b3c</string><key>stan_name</key><string>余杭瓶窑镇六头石矿</string><key>multi_info</key><string> </string><key>x</key><string>59492.5090</string><key>y</key><string>99893.4471</string></dict>
+<dict>
+<key>identifier</key><string>5024fa08-39f7-4712-9465-54e07f3f1039</string><key>stan_name</key><string>杭州精鼎玻璃制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72370.7421</string><key>y</key><string>99910.0830</string></dict>
+<dict>
+<key>identifier</key><string>c220c98e-7b3d-4148-9c3e-fb633e3277a8</string><key>stan_name</key><string>杭州塘栖热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79858.7010</string><key>y</key><string>104955.1740</string></dict>
+<dict>
+<key>identifier</key><string>583b9ec2-5fc8-4776-98d7-91cb9ffe2d4f</string><key>stan_name</key><string>杭州争光树脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80155.3390</string><key>y</key><string>105076.9820</string></dict>
+<dict>
+<key>identifier</key><string>f84d5c3e-5ac4-4303-ab04-644dcaee4ab2</string><key>stan_name</key><string>杭州生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80732.73</string><key>y</key><string>105267.0799</string></dict>
+<dict>
+<key>identifier</key><string>7bb4f1a7-98f0-469a-811e-f85184503a2c</string><key>stan_name</key><string>天蓝玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107388.9580</string><key>y</key><string>93072.4949</string></dict>
+<dict>
+<key>identifier</key><string>78a418a2-baf0-4e04-9a77-801cc2a26823</string><key>stan_name</key><string>金都苗木基地</string><key>multi_info</key><string> </string><key>x</key><string>65739.3810</string><key>y</key><string>95763.1390</string></dict>
+<dict>
+<key>identifier</key><string>ff68f060-2027-4d43-b837-1e644c263378</string><key>stan_name</key><string>杭州灵强润滑油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>52007.8310</string><key>y</key><string>100112.9010</string></dict>
+<dict>
+<key>identifier</key><string>4cc47567-6fc7-4c44-99c2-7484addf6bd5</string><key>stan_name</key><string>热电厂</string><key>multi_info</key><string> </string><key>x</key><string>93553.2126</string><key>y</key><string>105452.8087</string></dict>
+<dict>
+<key>identifier</key><string>38425951-03a9-4574-a158-bf4cf85bd3b3</string><key>stan_name</key><string>杭州恒享生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81206.8741</string><key>y</key><string>105900.1711</string></dict>
+<dict>
+<key>identifier</key><string>85a9dff3-96a0-445c-bf23-727b407b9460</string><key>stan_name</key><string>浙江杭钢动力有限公司热电厂</string><key>multi_info</key><string> </string><key>x</key><string>80399.9940</string><key>y</key><string>93172.5583</string></dict>
+<dict>
+<key>identifier</key><string>c43e06aa-7571-40e4-a58d-909019757752</string><key>stan_name</key><string>杭州联兴节能有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78808.1411</string><key>y</key><string>93304.6062</string></dict>
+<dict>
+<key>identifier</key><string>6772b0fa-fa0d-491e-bb00-d2615df6e96a</string><key>stan_name</key><string>杭州西田工贸有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78291.0313</string><key>y</key><string>93306.0781</string></dict>
+<dict>
+<key>identifier</key><string>a2b8d9cb-f432-435c-944d-1fe00f2159e4</string><key>stan_name</key><string>杭州蓝天天燃气发电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76587.1320</string><key>y</key><string>96046.0320</string></dict>
+<dict>
+<key>identifier</key><string>9207b95a-faa8-488d-80cd-0a1b35cf1339</string><key>stan_name</key><string>浙江灯塔种猪有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71751.5920</string><key>y</key><string>106421.0540</string></dict>
+<dict>
+<key>identifier</key><string>fd664a33-2435-4ec4-9a4f-70cbb15f8adb</string><key>stan_name</key><string>杭州明敏涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87821.7815</string><key>y</key><string>93312.3103</string></dict>
+<dict>
+<key>identifier</key><string>0883fbb1-ff95-4e42-af01-ca3c48572b23</string><key>stan_name</key><string>杭州电达消毒设备厂</string><key>multi_info</key><string> </string><key>x</key><string>70016.4329</string><key>y</key><string>93382.6910</string></dict>
+<dict>
+<key>identifier</key><string>1e66a3b7-50fe-4124-a650-dcee4bf55d44</string><key>stan_name</key><string>杭州凯洁分离技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69983.7593</string><key>y</key><string>89703.6628</string></dict>
+<dict>
+<key>identifier</key><string>ac5d4b05-cae8-4132-a93a-4da0a33564b3</string><key>stan_name</key><string>杭州人民玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78415.2885</string><key>y</key><string>89769.0061</string></dict>
+<dict>
+<key>identifier</key><string>ae4b366c-6e24-4bc7-ae92-53fe8a8240e2</string><key>stan_name</key><string>杭州绿兴环保材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82837.7225</string><key>y</key><string>91451.9369</string></dict>
+<dict>
+<key>identifier</key><string>1511e2a9-ba8c-40be-8985-c7e7ccfa3b2d</string><key>stan_name</key><string>强伟润滑油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61456.7330</string><key>y</key><string>89036.5511</string></dict>
+<dict>
+<key>identifier</key><string>4789c0f2-a891-40b8-9fbd-b18013f11f41</string><key>stan_name</key><string>杭州美亚水处理科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82258.6618</string><key>y</key><string>89058.9674</string></dict>
+<dict>
+<key>identifier</key><string>656e8fac-8567-4afb-baab-bd864e1e189d</string><key>stan_name</key><string>杭州华妍化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>108938.3890</string><key>y</key><string>89736.0169</string></dict>
+<dict>
+<key>identifier</key><string>4a001e1f-68b1-4f8d-8683-b2de74842520</string><key>stan_name</key><string>丰乐化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>118005.0667</string><key>y</key><string>91529.16</string></dict>
+<dict>
+<key>identifier</key><string>4841e8f9-5d9b-440d-9efd-6bc15bb8a7f2</string><key>stan_name</key><string>森禾种业杭州分公司</string><key>multi_info</key><string> </string><key>x</key><string>84876.3894</string><key>y</key><string>91542.8933</string></dict>
+<dict>
+<key>identifier</key><string>18a713f8-0611-42e3-9959-9fd0aa9298fa</string><key>stan_name</key><string>杭州金立有机氟厂</string><key>multi_info</key><string> </string><key>x</key><string>69944.7891</string><key>y</key><string>91656.1172</string></dict>
+<dict>
+<key>identifier</key><string>8bf4132f-5383-4631-89fc-2b04db2dfc3b</string><key>stan_name</key><string>杭州金英塑料制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80088.7031</string><key>y</key><string>87674.6406</string></dict>
+<dict>
+<key>identifier</key><string>91000bdd-747d-4b94-a4c2-72a6169d832d</string><key>stan_name</key><string>浙江省康脉生物技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>67957.9453</string><key>y</key><string>87744.1016</string></dict>
+<dict>
+<key>identifier</key><string>f52b94d2-fc03-41ad-a00c-9a529e17ee3f</string><key>stan_name</key><string>杭州蓝孔雀化学纤维股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74255.2188</string><key>y</key><string>88272.4766</string></dict>
+<dict>
+<key>identifier</key><string>7a8a3c4d-7cae-4ec5-89c5-1fc4741b71b3</string><key>stan_name</key><string>中美合资杭州埃夫朗生化制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74816.1774</string><key>y</key><string>89867.6821</string></dict>
+<dict>
+<key>identifier</key><string>218243a6-a816-480a-b1eb-b6de542077b9</string><key>stan_name</key><string>杭州第二化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>73793.6563</string><key>y</key><string>89915.6563</string></dict>
+<dict>
+<key>identifier</key><string>55a4a881-17db-4bcb-a830-395ee7b98aed</string><key>stan_name</key><string>杭州伯乐制冷设备有限公司厂</string><key>multi_info</key><string> </string><key>x</key><string>94511.9420</string><key>y</key><string>91740.0110</string></dict>
+<dict>
+<key>identifier</key><string>dd7b1a2e-542e-44a3-a7fc-1383376304e0</string><key>stan_name</key><string>博大生物公司</string><key>multi_info</key><string> </string><key>x</key><string>75188.5078</string><key>y</key><string>88309.9375</string></dict>
+<dict>
+<key>identifier</key><string>d345707c-738c-4203-983a-a429c20f3f06</string><key>stan_name</key><string>杭州美轩防火材料厂</string><key>multi_info</key><string> </string><key>x</key><string>80776.5152</string><key>y</key><string>89922.9012</string></dict>
+<dict>
+<key>identifier</key><string>a2982b4b-341f-461b-9b47-4b348892badf</string><key>stan_name</key><string>杭州硫酸铝公司</string><key>multi_info</key><string> </string><key>x</key><string>77703.6562</string><key>y</key><string>91801.3750</string></dict>
+<dict>
+<key>identifier</key><string>e4b0e61a-3320-444b-8dde-a8505018b25f</string><key>stan_name</key><string>杭州钢铁集团公司</string><key>multi_info</key><string> </string><key>x</key><string>81588.2011</string><key>y</key><string>91828.3477</string></dict>
+<dict>
+<key>identifier</key><string>416d6a1e-e2fc-4211-8c5b-66f8255f7f08</string><key>stan_name</key><string>杭州萧山吉华聚氨酯染化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>101493.5360</string><key>y</key><string>78709.7890</string></dict>
+<dict>
+<key>identifier</key><string>2dd6dbb1-2125-4779-a5e5-8c7d12dc60bd</string><key>stan_name</key><string>杭州中记玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102384.8713</string><key>y</key><string>78719.2539</string></dict>
+<dict>
+<key>identifier</key><string>8a9db8b2-ced3-4589-be52-76f54fc8c4b0</string><key>stan_name</key><string>杭州传化科技公业园</string><key>multi_info</key><string> </string><key>x</key><string>94888.3651</string><key>y</key><string>78732.3480</string></dict>
+<dict>
+<key>identifier</key><string>ae23a525-06ee-44cd-88d0-eeab429f0009</string><key>stan_name</key><string>杭州光月特种油品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69298.2573</string><key>y</key><string>79024.8770</string></dict>
+<dict>
+<key>identifier</key><string>f2cc00f8-302c-48b6-9698-b8bc4e53a450</string><key>stan_name</key><string>九峰大坞石矿</string><key>multi_info</key><string> </string><key>x</key><string>51644.5510</string><key>y</key><string>79078.4420</string></dict>
+<dict>
+<key>identifier</key><string>df81e932-f1db-4435-be04-9430bf16621e</string><key>stan_name</key><string>杭州永盈化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>114137.44</string><key>y</key><string>79118.6630</string></dict>
+<dict>
+<key>identifier</key><string>f3870d53-3176-46a3-89dc-867a6f1400e6</string><key>stan_name</key><string>上坑坞石矿</string><key>multi_info</key><string> </string><key>x</key><string>52083.9490</string><key>y</key><string>79126.6659</string></dict>
+<dict>
+<key>identifier</key><string>be9f523d-8580-4f58-9d96-e11f2f47a277</string><key>stan_name</key><string>萧山大明玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94875.5762</string><key>y</key><string>79149.0877</string></dict>
+<dict>
+<key>identifier</key><string>57aa3d32-b207-4cd5-842b-d8a76f885870</string><key>stan_name</key><string>杭州丰禾生物技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69329.1067</string><key>y</key><string>79154.4561</string></dict>
+<dict>
+<key>identifier</key><string>cafca4d8-7457-4a1d-8d7c-70bb13ada87e</string><key>stan_name</key><string>上坑坞石矿</string><key>multi_info</key><string> </string><key>x</key><string>52150.1760</string><key>y</key><string>79281.3080</string></dict>
+<dict>
+<key>identifier</key><string>5e38ad8c-262b-48b9-ad8a-8b333aa1e422</string><key>stan_name</key><string>篮宝环境设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69127.4688</string><key>y</key><string>79345.5547</string></dict>
+<dict>
+<key>identifier</key><string>29de83c0-a9ed-46cc-9b4d-1bd2e68c9b3e</string><key>stan_name</key><string>杭州华扬香料香精有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89331.1380</string><key>y</key><string>86124.0160</string></dict>
+<dict>
+<key>identifier</key><string>a038ac3d-381a-4faa-b499-2683fa5f94df</string><key>stan_name</key><string>化学实验中心</string><key>multi_info</key><string> </string><key>x</key><string>72131.0703</string><key>y</key><string>86159.3594</string></dict>
+<dict>
+<key>identifier</key><string>460cfebb-a3d1-4ebe-bebc-fab58caa9b66</string><key>stan_name</key><string>杭州旭化成氨纶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97137.2843</string><key>y</key><string>83870.8442</string></dict>
+<dict>
+<key>identifier</key><string>71342496-3435-4f53-b965-c2bd5e3cf11f</string><key>stan_name</key><string>杭州生物医药孵化器有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98542.7593</string><key>y</key><string>86220.0985</string></dict>
+<dict>
+<key>identifier</key><string>ff2399e1-d356-4816-aac9-128a88d80781</string><key>stan_name</key><string>杭州中法化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75698.9186</string><key>y</key><string>86226.8907</string></dict>
+<dict>
+<key>identifier</key><string>9189f9a0-c0f1-4f28-ad24-efa109222e98</string><key>stan_name</key><string>杭州之江洗剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86374.9850</string><key>y</key><string>86238.3150</string></dict>
+<dict>
+<key>identifier</key><string>a72a91b9-037c-46e1-a553-d13088c76307</string><key>stan_name</key><string>中策橡胶工厂</string><key>multi_info</key><string> </string><key>x</key><string>95157.8031</string><key>y</key><string>84826.9087</string></dict>
+<dict>
+<key>identifier</key><string>12dfc4a7-79e8-42ab-91f5-c7b8ca897a5d</string><key>stan_name</key><string>杭州江东富丽达热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120472.23</string><key>y</key><string>84854.4640</string></dict>
+<dict>
+<key>identifier</key><string>0e00814c-b071-4761-918a-4bdcbafb8aab</string><key>stan_name</key><string>杭州中策橡胶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95620.0243</string><key>y</key><string>84895.6552</string></dict>
+<dict>
+<key>identifier</key><string>aef2b448-ea77-47ed-ae0d-235bcae90251</string><key>stan_name</key><string>瑞龙科技(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96021.9909</string><key>y</key><string>84905.0401</string></dict>
+<dict>
+<key>identifier</key><string>55dcdc2d-cb1e-4f36-a7af-fd810f8ed668</string><key>stan_name</key><string>杭州宝塔油漆有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75652.2891</string><key>y</key><string>86277.9766</string></dict>
+<dict>
+<key>identifier</key><string>8e100509-2cae-4b4d-9a03-62cdc9f2f1ff</string><key>stan_name</key><string>杭州永明树脂化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75365.8883</string><key>y</key><string>86279.3206</string></dict>
+<dict>
+<key>identifier</key><string>be4b6214-3514-4754-ace4-8e395ccbbf32</string><key>stan_name</key><string>杭洲博大太阳能科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116716.02</string><key>y</key><string>86282.4660</string></dict>
+<dict>
+<key>identifier</key><string>90e33c2f-95f4-4e53-878f-b206a32eb27d</string><key>stan_name</key><string>表面活性</string><key>multi_info</key><string> </string><key>x</key><string>67809.6094</string><key>y</key><string>86707.1250</string></dict>
+<dict>
+<key>identifier</key><string>e13311e7-5c7f-4a53-951d-99cc3bddd93f</string><key>stan_name</key><string>杭州承明防腐工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77989.5532</string><key>y</key><string>86754.6746</string></dict>
+<dict>
+<key>identifier</key><string>98087489-8a02-436b-8a5e-a3ca13eb42ef</string><key>stan_name</key><string>光荣玻璃</string><key>multi_info</key><string> </string><key>x</key><string>83285.3750</string><key>y</key><string>83959.5859</string></dict>
+<dict>
+<key>identifier</key><string>91fe9780-838c-4285-832f-161bd5dc3b35</string><key>stan_name</key><string>杭州电化集团气体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61332.5550</string><key>y</key><string>84929.0980</string></dict>
+<dict>
+<key>identifier</key><string>a8d83815-832c-4766-bd8f-04ae4297d46e</string><key>stan_name</key><string>杭州热电集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76847.7109</string><key>y</key><string>86311.8438</string></dict>
+<dict>
+<key>identifier</key><string>a5d9ddf1-0364-44e6-a6a5-b56262bbd09b</string><key>stan_name</key><string>热电集团</string><key>multi_info</key><string> </string><key>x</key><string>76650.0156</string><key>y</key><string>86279.0781</string></dict>
+<dict>
+<key>identifier</key><string>aa99e51d-f13d-48af-ab47-5ad22a50a11b</string><key>stan_name</key><string>西湖矿石粉公司</string><key>multi_info</key><string> </string><key>x</key><string>69022.6172</string><key>y</key><string>64874.7422</string></dict>
+<dict>
+<key>identifier</key><string>baec630e-f71e-4d98-b9bd-24828265cb0d</string><key>stan_name</key><string>杭州城南热处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86717.1330</string><key>y</key><string>64919.7349</string></dict>
+<dict>
+<key>identifier</key><string>9ec53b67-e63c-45ce-b9a4-03b516064e52</string><key>stan_name</key><string>杭州萧山恒通电镀光亮剂厂</string><key>multi_info</key><string> </string><key>x</key><string>90633.6340</string><key>y</key><string>63073.8489</string></dict>
+<dict>
+<key>identifier</key><string>b83a2f28-e132-4ca0-8d5a-6ab77532177d</string><key>stan_name</key><string>杭州精锐瓷釉有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69457.2383</string><key>y</key><string>63419.4201</string></dict>
+<dict>
+<key>identifier</key><string>ea55919e-8f39-4f93-afdc-7f98173e1e2f</string><key>stan_name</key><string>中意涂装厂</string><key>multi_info</key><string> </string><key>x</key><string>70677.2266</string><key>y</key><string>63519.3047</string></dict>
+<dict>
+<key>identifier</key><string>6aa15c48-8846-49eb-96fd-b5cf4eae0ed0</string><key>stan_name</key><string>杭州日月涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70927.8438</string><key>y</key><string>63608.4492</string></dict>
+<dict>
+<key>identifier</key><string>eb317744-f4f4-41ff-b220-097485e49537</string><key>stan_name</key><string>钱江热能公司</string><key>multi_info</key><string> </string><key>x</key><string>70933.5156</string><key>y</key><string>63709.8711</string></dict>
+<dict>
+<key>identifier</key><string>c41afd89-0d1c-4f81-bfe6-ae55b03e3842</string><key>stan_name</key><string>杭州萧山锦江绿色能源有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90013.5590</string><key>y</key><string>63970.1390</string></dict>
+<dict>
+<key>identifier</key><string>6bacd5e0-3667-4ead-bea9-3250ac00eb2a</string><key>stan_name</key><string>杭州盛宇涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91024.1639</string><key>y</key><string>64068.7001</string></dict>
+<dict>
+<key>identifier</key><string>1a9e941d-6dd4-47b6-8d2c-51beb75f315e</string><key>stan_name</key><string>杭州良发炼染公司</string><key>multi_info</key><string> </string><key>x</key><string>92942.5809</string><key>y</key><string>74223.5680</string></dict>
+<dict>
+<key>identifier</key><string>82bda638-fe71-47a0-b3c9-4e60cd15950c</string><key>stan_name</key><string>杭州萧山汉联玻璃钢有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107858.7076</string><key>y</key><string>74228.7319</string></dict>
+<dict>
+<key>identifier</key><string>e4dbf484-35ca-4403-83ac-0f099af4eefc</string><key>stan_name</key><string>中油橡胶</string><key>multi_info</key><string> </string><key>x</key><string>91979.1731</string><key>y</key><string>74302.7921</string></dict>
+<dict>
+<key>identifier</key><string>49081670-69e4-452a-882d-3f840531b092</string><key>stan_name</key><string>杭州萧山龙丰化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107483.1973</string><key>y</key><string>74303.8959</string></dict>
+<dict>
+<key>identifier</key><string>2d40f330-0546-44fb-8611-5889d53cd8c8</string><key>stan_name</key><string>杭州萧山东方液压玉件有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89375.4229</string><key>y</key><string>66357.7760</string></dict>
+<dict>
+<key>identifier</key><string>0bb812a8-0d18-4ba3-b3fd-f198d9d15ade</string><key>stan_name</key><string>杭州日升漆业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91961.5371</string><key>y</key><string>66460.48</string></dict>
+<dict>
+<key>identifier</key><string>2f3d13a4-5e8e-4af1-8d2b-020d761703d7</string><key>stan_name</key><string>杭州美康新能源有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74994.1347</string><key>y</key><string>66479.5690</string></dict>
+<dict>
+<key>identifier</key><string>879aa838-b2cb-451f-b5ed-9784e97b1d7c</string><key>stan_name</key><string>杭州华大自然科纺染整有限公司</string><key>multi_info</key><string> </string><key>x</key><string>113223.6210</string><key>y</key><string>71426.1129</string></dict>
+<dict>
+<key>identifier</key><string>44eb9cc7-8f35-41dd-a5f0-e618299b392d</string><key>stan_name</key><string>兴惠化纤</string><key>multi_info</key><string> </string><key>x</key><string>100440.8170</string><key>y</key><string>71446.8179</string></dict>
+<dict>
+<key>identifier</key><string>803e5ed9-5dc8-4714-8cd0-4c5ef168d9c4</string><key>stan_name</key><string>杭州如意化纤</string><key>multi_info</key><string> </string><key>x</key><string>105914.4914</string><key>y</key><string>70921.7560</string></dict>
+<dict>
+<key>identifier</key><string>bce87d78-e226-4b8f-ae57-850f1cd04962</string><key>stan_name</key><string>杭州民生生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93600.6780</string><key>y</key><string>71231.8450</string></dict>
+<dict>
+<key>identifier</key><string>51b74d75-a099-4ee8-9c19-d5917602daad</string><key>stan_name</key><string>杭州鑫洪化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102436.7740</string><key>y</key><string>70288.5510</string></dict>
+<dict>
+<key>identifier</key><string>2494586d-f056-411b-a07a-9ae18c9c5962</string><key>stan_name</key><string>杭州萧山新源建材有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90993.1369</string><key>y</key><string>66643.0990</string></dict>
+<dict>
+<key>identifier</key><string>283c48f1-07cb-4532-9c6b-e08ecffbecf3</string><key>stan_name</key><string>杭州百代涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91920.1209</string><key>y</key><string>67421.0139</string></dict>
+<dict>
+<key>identifier</key><string>ffa758e9-cffb-4d8e-b296-84b8e4013150</string><key>stan_name</key><string>杭州中德化学工业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71670.3567</string><key>y</key><string>67922.8165</string></dict>
+<dict>
+<key>identifier</key><string>dd393ebe-9076-4c60-ac92-dc12983edb64</string><key>stan_name</key><string>杭州丰泽资源开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66519.2969</string><key>y</key><string>67942.1563</string></dict>
+<dict>
+<key>identifier</key><string>0ebe9e3d-c9cc-4152-a198-9077facd31bf</string><key>stan_name</key><string>杭州春荣生物技术开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>67184.1094</string><key>y</key><string>67591.9453</string></dict>
+<dict>
+<key>identifier</key><string>bacc4adb-aa1f-4045-baa5-503154d6032f</string><key>stan_name</key><string>杭州萧山化学试剂厂</string><key>multi_info</key><string> </string><key>x</key><string>87336.4310</string><key>y</key><string>67768.35</string></dict>
+<dict>
+<key>identifier</key><string>2e9b45f4-21f0-426c-ae73-50751c7e3ddb</string><key>stan_name</key><string>万邦漆业</string><key>multi_info</key><string> </string><key>x</key><string>88400.3919</string><key>y</key><string>74346.4739</string></dict>
+<dict>
+<key>identifier</key><string>bb2e1699-8306-4bac-980c-bdf13e1d7354</string><key>stan_name</key><string>杭州华信化纤织染有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90189.1590</string><key>y</key><string>74356.7620</string></dict>
+<dict>
+<key>identifier</key><string>567404b9-3fc2-4064-86f5-af0311dbabba</string><key>stan_name</key><string>德尔福涂料</string><key>multi_info</key><string> </string><key>x</key><string>88329.3670</string><key>y</key><string>74373.0220</string></dict>
+<dict>
+<key>identifier</key><string>e6403683-03bd-4bdd-843c-600e808882f0</string><key>stan_name</key><string>荣盛化纤集团</string><key>multi_info</key><string> </string><key>x</key><string>121680.5139</string><key>y</key><string>74389.4080</string></dict>
+<dict>
+<key>identifier</key><string>7392dedd-e4d4-4015-aa86-7a743ef1be58</string><key>stan_name</key><string>杭州萧山东南气体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86874.7750</string><key>y</key><string>67008.7180</string></dict>
+<dict>
+<key>identifier</key><string>7a1f24c8-9c9a-46be-9f21-2007112838c6</string><key>stan_name</key><string>杭州维达生物制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88177.2471</string><key>y</key><string>67113.2171</string></dict>
+<dict>
+<key>identifier</key><string>8f099d2a-e5a5-4a9c-9a1b-c412a2d921f9</string><key>stan_name</key><string>杭州云峰上光复膜有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85926.8480</string><key>y</key><string>84218.9440</string></dict>
+<dict>
+<key>identifier</key><string>73dac209-e826-4408-be51-b38e926186bb</string><key>stan_name</key><string>杭州三超生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75952.8599</string><key>y</key><string>68925.9410</string></dict>
+<dict>
+<key>identifier</key><string>8431daae-04b6-41bf-a387-dd771b7d0dd0</string><key>stan_name</key><string>杭州狮子制氧厂</string><key>multi_info</key><string> </string><key>x</key><string>72634.6486</string><key>y</key><string>69104.6820</string></dict>
+<dict>
+<key>identifier</key><string>c42f1c9a-fa80-4cdf-8a3f-80254800af52</string><key>stan_name</key><string>南郊化学分厂</string><key>multi_info</key><string> </string><key>x</key><string>78336.4141</string><key>y</key><string>69191.6641</string></dict>
+<dict>
+<key>identifier</key><string>a1c59c3c-3565-4358-946f-e2aeefdcbb0a</string><key>stan_name</key><string>杭州欣光金属喷塑厂</string><key>multi_info</key><string> </string><key>x</key><string>95905.44</string><key>y</key><string>69274.5850</string></dict>
+<dict>
+<key>identifier</key><string>197d7589-1e63-40f8-9529-09cfdf03236f</string><key>stan_name</key><string>杭州三江矿业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72063.6419</string><key>y</key><string>69294.9154</string></dict>
+<dict>
+<key>identifier</key><string>cd350c6b-aaf5-4b94-86ec-64ed43c900bf</string><key>stan_name</key><string>杭州南阳化工厂</string><key>multi_info</key><string> </string><key>x</key><string>88020.4920</string><key>y</key><string>87107.3050</string></dict>
+<dict>
+<key>identifier</key><string>7befa146-b61d-4490-a7a8-1bc2ca2eeb44</string><key>stan_name</key><string>龙兴化工厂</string><key>multi_info</key><string> </string><key>x</key><string>88615.5780</string><key>y</key><string>86336.8910</string></dict>
+<dict>
+<key>identifier</key><string>0dcef76b-e58a-44f9-a553-5b967e9f53ff</string><key>stan_name</key><string>杭州欣兴油剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>105827.8220</string><key>y</key><string>69758.3519</string></dict>
+<dict>
+<key>identifier</key><string>a6bfb255-e711-4891-9fa0-9b3ac2a8080d</string><key>stan_name</key><string>杭州电化集团</string><key>multi_info</key><string> </string><key>x</key><string>77929.2109</string><key>y</key><string>69897.6406</string></dict>
+<dict>
+<key>identifier</key><string>b4ecddbc-b9d5-4501-aceb-4b5747878969</string><key>stan_name</key><string>浙江恒逸集团聚合物有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102905.9030</string><key>y</key><string>70711.5191</string></dict>
+<dict>
+<key>identifier</key><string>f7fbbb6f-6797-4b78-a283-9ea01890bb80</string><key>stan_name</key><string>杭州之江液化气有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79973.5703</string><key>y</key><string>70795.7813</string></dict>
+<dict>
+<key>identifier</key><string>2de31c03-5179-49a0-915c-8cfc8ce0fb64</string><key>stan_name</key><string>杭州中南防火设备制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87518.4503</string><key>y</key><string>93923.5534</string></dict>
+<dict>
+<key>identifier</key><string>6e86ea95-0d97-4df8-9458-4931a46b6733</string><key>stan_name</key><string>余杭区金利生物有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65036.7591</string><key>y</key><string>94011.1999</string></dict>
+<dict>
+<key>identifier</key><string>4ba74bb7-2f9c-4962-99d5-84390a567f70</string><key>stan_name</key><string>杭州绿叶科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65247.3080</string><key>y</key><string>97394.8849</string></dict>
+<dict>
+<key>identifier</key><string>db78f130-21e8-4619-bd37-212f85cc2d3a</string><key>stan_name</key><string>杭州智兴热电厂</string><key>multi_info</key><string> </string><key>x</key><string>112081.6741</string><key>y</key><string>79908.6809</string></dict>
+<dict>
+<key>identifier</key><string>2ceabc13-8472-4308-8c1f-8de7ef8e7549</string><key>stan_name</key><string>浙江省电力燃料公司</string><key>multi_info</key><string> </string><key>x</key><string>80386.4844</string><key>y</key><string>81930.1719</string></dict>
+<dict>
+<key>identifier</key><string>e10f559e-6285-41d7-9cca-3ee1063b38ce</string><key>stan_name</key><string>浙江百合控股集团</string><key>multi_info</key><string> </string><key>x</key><string>122120.12</string><key>y</key><string>82823.2120</string></dict>
+<dict>
+<key>identifier</key><string>af4e5ca7-0a0a-457a-ad3b-6e1edd2482ee</string><key>stan_name</key><string>杭州高达太阳能有限公司</string><key>multi_info</key><string> </string><key>x</key><string>106618.8320</string><key>y</key><string>82829.0690</string></dict>
+<dict>
+<key>identifier</key><string>6f5a28d7-d7e8-456f-950f-a1cf41d5c6bb</string><key>stan_name</key><string>留下煤饼厂</string><key>multi_info</key><string> </string><key>x</key><string>69436.8516</string><key>y</key><string>79953.6953</string></dict>
+<dict>
+<key>identifier</key><string>f498ab68-08e3-4ec7-93a9-a714727258a0</string><key>stan_name</key><string>晶城玻璃厂</string><key>multi_info</key><string> </string><key>x</key><string>102276.5440</string><key>y</key><string>80041.2790</string></dict>
+<dict>
+<key>identifier</key><string>5570e8c1-a268-4e49-ae3d-8c8df1d13de4</string><key>stan_name</key><string>杭州顺隆胶辊有限公司</string><key>multi_info</key><string> </string><key>x</key><string>59570.1421</string><key>y</key><string>81124.8510</string></dict>
+<dict>
+<key>identifier</key><string>839b6f67-f41e-4041-aa9b-2312e7fd5322</string><key>stan_name</key><string>萧山区乐园涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>109601.4910</string><key>y</key><string>82109.2399</string></dict>
+<dict>
+<key>identifier</key><string>e710a755-578d-455f-9b96-189c4b89c246</string><key>stan_name</key><string>浙江省冶金研究院有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78917.9729</string><key>y</key><string>83295.1185</string></dict>
+<dict>
+<key>identifier</key><string>fd632651-c717-4b8e-bde9-8ad4329f010b</string><key>stan_name</key><string>杭州大路金属热处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>101499.2740</string><key>y</key><string>80128.6690</string></dict>
+<dict>
+<key>identifier</key><string>ed503e47-302e-44ee-9cbf-d4c5468567b7</string><key>stan_name</key><string>杭州凯明催化剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71532.9687</string><key>y</key><string>81168.0938</string></dict>
+<dict>
+<key>identifier</key><string>3d78209a-6847-41da-a6b3-e0637fc20db3</string><key>stan_name</key><string>杭州鑫良油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83280.9531</string><key>y</key><string>81245.6875</string></dict>
+<dict>
+<key>identifier</key><string>82b201f3-bfa4-4ef7-b261-88be1c8d2971</string><key>stan_name</key><string>杭州庆丰农化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>125637.5120</string><key>y</key><string>80196.2540</string></dict>
+<dict>
+<key>identifier</key><string>7c368c66-e8ac-46f6-b553-8dbb85ad36db</string><key>stan_name</key><string>杭州中纺印染有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102628.5030</string><key>y</key><string>80199.8140</string></dict>
+<dict>
+<key>identifier</key><string>12e92b91-4d3d-4552-a437-1d369f625f81</string><key>stan_name</key><string>杭州川岛能源开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>57106.3880</string><key>y</key><string>80219.3460</string></dict>
+<dict>
+<key>identifier</key><string>7e597800-8707-442b-b10a-bccda4fa23f4</string><key>stan_name</key><string>喷漆厂</string><key>multi_info</key><string> </string><key>x</key><string>106293.7240</string><key>y</key><string>81301.0890</string></dict>
+<dict>
+<key>identifier</key><string>ae257170-f829-4ba3-9d88-dfc4a7862e93</string><key>stan_name</key><string>浙江华源投资有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80443.4840</string><key>y</key><string>81333.6176</string></dict>
+<dict>
+<key>identifier</key><string>ebf0a0ac-7c2b-428f-9ea6-480800a8e5df</string><key>stan_name</key><string>塘栖振业涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>81993.2829</string><key>y</key><string>106543.1480</string></dict>
+<dict>
+<key>identifier</key><string>40176c23-0c16-4455-99a4-98f5ed784ea4</string><key>stan_name</key><string>百丈润滑油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>43174.6451</string><key>y</key><string>106467.7050</string></dict>
+<dict>
+<key>identifier</key><string>94141cff-9619-4968-808f-ae92fce4d88e</string><key>stan_name</key><string>杭州高得化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82992.1390</string><key>y</key><string>106816.2560</string></dict>
+<dict>
+<key>identifier</key><string>a81f8aad-2888-4e62-af00-424bcc41d09f</string><key>stan_name</key><string>杭州生物工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92205.1681</string><key>y</key><string>93421.5956</string></dict>
+<dict>
+<key>identifier</key><string>9d233033-0a9d-41b0-9a98-dc8ab9e4a148</string><key>stan_name</key><string>杭州余杭和丰塑化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>62255.6799</string><key>y</key><string>96707.09</string></dict>
+<dict>
+<key>identifier</key><string>13e38cc2-399e-49d4-acf3-c5705da9858c</string><key>stan_name</key><string>杭州新世纪混合气体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72294.47</string><key>y</key><string>100838.1069</string></dict>
+<dict>
+<key>identifier</key><string>0836351a-19e8-4125-9b01-5b9819c18d69</string><key>stan_name</key><string>杭州民生制胶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82324.3170</string><key>y</key><string>106794.3640</string></dict>
+<dict>
+<key>identifier</key><string>60629a7a-ba9b-4dce-8767-755786c5bd41</string><key>stan_name</key><string>杭州生物工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92139.3389</string><key>y</key><string>93549.6835</string></dict>
+<dict>
+<key>identifier</key><string>6ef984e7-d9ed-4f60-9ec8-336558234cdd</string><key>stan_name</key><string>浙江省燃料公司西杨煤场</string><key>multi_info</key><string> </string><key>x</key><string>76706.5078</string><key>y</key><string>93519.7656</string></dict>
+<dict>
+<key>identifier</key><string>478313ff-c786-4c5c-93ce-8f0193931c3f</string><key>stan_name</key><string>杭州贝斯特润滑剂厂</string><key>multi_info</key><string> </string><key>x</key><string>71767.3860</string><key>y</key><string>96834.2660</string></dict>
+<dict>
+<key>identifier</key><string>2352a29c-4561-4571-aadc-9865e9d19fdd</string><key>stan_name</key><string>杭州永新涂层厂</string><key>multi_info</key><string> </string><key>x</key><string>71824.6519</string><key>y</key><string>96905.5420</string></dict>
+<dict>
+<key>identifier</key><string>26e98a59-99ec-4416-aaf0-da4a5b6052a9</string><key>stan_name</key><string>杭州崇贤热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80391.4350</string><key>y</key><string>96950.9030</string></dict>
+<dict>
+<key>identifier</key><string>04664fa7-dc9c-41c2-9895-556dcf40b33e</string><key>stan_name</key><string>杭州新资源有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65406.2860</string><key>y</key><string>97073.6421</string></dict>
+<dict>
+<key>identifier</key><string>16b72098-a772-4cc0-8aab-1c9cef7fde9e</string><key>stan_name</key><string>杭州科林气源设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65573.8810</string><key>y</key><string>97094.3520</string></dict>
+<dict>
+<key>identifier</key><string>48e0443a-013c-48a4-ab9c-97b2de12f836</string><key>stan_name</key><string>小林涂层厂</string><key>multi_info</key><string> </string><key>x</key><string>88463.2485</string><key>y</key><string>100983.5921</string></dict>
+<dict>
+<key>identifier</key><string>616f184b-d7c8-4f4c-90dd-158eda19cadf</string><key>stan_name</key><string>杭州优伟科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72511.2710</string><key>y</key><string>101149.4610</string></dict>
+<dict>
+<key>identifier</key><string>b1203d8d-3af2-4c49-80d7-e68ed840bd85</string><key>stan_name</key><string>杭州恒大润滑油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72093.69</string><key>y</key><string>101171.0160</string></dict>
+<dict>
+<key>identifier</key><string>9c0af4b8-1c9d-47db-8a44-397f97b7d2f9</string><key>stan_name</key><string>杭州海联热电有限公司煤库</string><key>multi_info</key><string> </string><key>x</key><string>89808.1360</string><key>y</key><string>108457.4270</string></dict>
+<dict>
+<key>identifier</key><string>bc8ff7ee-65e1-468d-9e3a-d52fafbc3445</string><key>stan_name</key><string>杭州恒大胶粘剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94918.1111</string><key>y</key><string>108601.3760</string></dict>
+<dict>
+<key>identifier</key><string>6022cfc9-814c-47fc-9745-0c67506a1b50</string><key>stan_name</key><string>大庄玻璃</string><key>multi_info</key><string> </string><key>x</key><string>70515.5460</string><key>y</key><string>93808.1481</string></dict>
+<dict>
+<key>identifier</key><string>3909b350-fee3-4bad-afc8-0d796e40fe3f</string><key>stan_name</key><string>杭州深达玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78009.2670</string><key>y</key><string>97269.6250</string></dict>
+<dict>
+<key>identifier</key><string>0e6405d3-6d02-4bca-b796-29c3527d6433</string><key>stan_name</key><string>杭州绿宝有机肥有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58016.2450</string><key>y</key><string>97309.9980</string></dict>
+<dict>
+<key>identifier</key><string>5eb421ad-732f-4e5b-8445-cee3a50ba7b9</string><key>stan_name</key><string>杭州泰克斯太尔复合材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83771.7790</string><key>y</key><string>101229.3590</string></dict>
+<dict>
+<key>identifier</key><string>a96b23dc-7baa-4ec4-a144-c80782d2b387</string><key>stan_name</key><string>杭州莱特水处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93284.9483</string><key>y</key><string>101505.1630</string></dict>
+<dict>
+<key>identifier</key><string>eb32c090-15dd-43b4-9074-1887679b9919</string><key>stan_name</key><string>浙江恒和节能材料厂</string><key>multi_info</key><string> </string><key>x</key><string>70323.7120</string><key>y</key><string>93902.6420</string></dict>
+<dict>
+<key>identifier</key><string>bbcef8c5-72b8-4190-a6f7-80f061f72e39</string><key>stan_name</key><string>杭州泉德有机肥有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84460.5391</string><key>y</key><string>93920.7109</string></dict>
+<dict>
+<key>identifier</key><string>2f1bc7b0-2ad1-4a93-ba99-350a339147eb</string><key>stan_name</key><string>杭州吉圣特种玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85996.6992</string><key>y</key><string>90840.6154</string></dict>
+<dict>
+<key>identifier</key><string>0bd9d7d0-d820-4ab2-9056-fda41f9f1a41</string><key>stan_name</key><string>杭州派斯日用化学品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>49016.04</string><key>y</key><string>88654.4870</string></dict>
+<dict>
+<key>identifier</key><string>7e2671aa-98d0-48b0-bc63-51c388bf6e7c</string><key>stan_name</key><string>杭州春南脱膜油脂厂</string><key>multi_info</key><string> </string><key>x</key><string>70613.3750</string><key>y</key><string>89336.3125</string></dict>
+<dict>
+<key>identifier</key><string>575a0bf9-d822-4de3-9114-73105f4cb7b0</string><key>stan_name</key><string>杭州吉驰达有机硅有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73657.5684</string><key>y</key><string>90876.3022</string></dict>
+<dict>
+<key>identifier</key><string>33294a6f-dee0-4425-a300-880933d21bef</string><key>stan_name</key><string>琉璃瓦厂</string><key>multi_info</key><string> </string><key>x</key><string>111277.6649</string><key>y</key><string>90886.8620</string></dict>
+<dict>
+<key>identifier</key><string>ce480fe9-fdef-46f8-af96-fd834bc106ae</string><key>stan_name</key><string>杭州富士达特种材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76213.1406</string><key>y</key><string>87339.1328</string></dict>
+<dict>
+<key>identifier</key><string>94b23b6a-8fc0-4eff-8c86-d66035aa3bdd</string><key>stan_name</key><string>杭州华灵有机硅涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75862.0078</string><key>y</key><string>87411.1641</string></dict>
+<dict>
+<key>identifier</key><string>92d8c179-5fbe-4d08-b84d-35ca07a28e67</string><key>stan_name</key><string>杭州明达玻璃纤维有限公司司</string><key>multi_info</key><string> </string><key>x</key><string>73740.6392</string><key>y</key><string>91008.7533</string></dict>
+<dict>
+<key>identifier</key><string>678f72d0-2aa5-464e-9edf-025c860a6b53</string><key>stan_name</key><string>国森化学工业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73051.4489</string><key>y</key><string>91010.9634</string></dict>
+<dict>
+<key>identifier</key><string>531b4d44-6a10-4de8-b0f7-82a37a8621b1</string><key>stan_name</key><string>杭州市千禧热镀锌有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91692.3168</string><key>y</key><string>91014.8421</string></dict>
+<dict>
+<key>identifier</key><string>af61e882-e14d-47bb-a5ed-8297828eff2b</string><key>stan_name</key><string>杭州欣扬化纤织造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111070.3840</string><key>y</key><string>91029.1190</string></dict>
+<dict>
+<key>identifier</key><string>a1a764dc-1db1-4ede-96c9-2300262db7ce</string><key>stan_name</key><string>杭州东新轧钢设备厂</string><key>multi_info</key><string> </string><key>x</key><string>74659.9810</string><key>y</key><string>91029.4968</string></dict>
+<dict>
+<key>identifier</key><string>e62dbbce-fda0-42f1-aa7d-e449faef1125</string><key>stan_name</key><string>杭州燃气集团制气分公司</string><key>multi_info</key><string> </string><key>x</key><string>77907.0703</string><key>y</key><string>91034.4531</string></dict>
+<dict>
+<key>identifier</key><string>0d39b2a4-6d98-4e1a-aa08-dfb9f6c99734</string><key>stan_name</key><string>新盛油墨制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>110398.6659</string><key>y</key><string>87448.3240</string></dict>
+<dict>
+<key>identifier</key><string>c44995fc-38e7-4fa6-a7db-2047c463562a</string><key>stan_name</key><string>飞达助剂厂</string><key>multi_info</key><string> </string><key>x</key><string>86987.7734</string><key>y</key><string>87482</string></dict>
+<dict>
+<key>identifier</key><string>6c1a0606-ebe1-4c6e-a703-71a167cb894c</string><key>stan_name</key><string>阳光涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>112246.2769</string><key>y</key><string>91048.4060</string></dict>
+<dict>
+<key>identifier</key><string>84663767-da4d-42b4-b5f5-d2217d29b5eb</string><key>stan_name</key><string>杭州圣戈班维特克斯玻璃纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81162.5728</string><key>y</key><string>91105.9474</string></dict>
+<dict>
+<key>identifier</key><string>92316286-1adf-42b8-b41c-6a081af3fd27</string><key>stan_name</key><string>杭州深瑞水务有限公司生产工厂</string><key>multi_info</key><string> </string><key>x</key><string>60062.3751</string><key>y</key><string>91132.0490</string></dict>
+<dict>
+<key>identifier</key><string>05a34981-1aa5-467e-8510-8cb9aea22ae2</string><key>stan_name</key><string>杭州之江水处理设备厂</string><key>multi_info</key><string> </string><key>x</key><string>75614.4844</string><key>y</key><string>87522.7031</string></dict>
+<dict>
+<key>identifier</key><string>68f882b1-ea35-4260-b333-155e1d44ac49</string><key>stan_name</key><string>杭州宝山电光源</string><key>multi_info</key><string> </string><key>x</key><string>74987.2630</string><key>y</key><string>91163.5895</string></dict>
+<dict>
+<key>identifier</key><string>ea10f134-7011-4705-bdc2-b565e94565c7</string><key>stan_name</key><string>杭州嘉隆气体设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81512.0233</string><key>y</key><string>87862.6526</string></dict>
+<dict>
+<key>identifier</key><string>c7f8faf0-caa1-4a67-8c4a-9ae72afc01b1</string><key>stan_name</key><string>美亚生物技术公司</string><key>multi_info</key><string> </string><key>x</key><string>75166.8906</string><key>y</key><string>88346.7578</string></dict>
+<dict>
+<key>identifier</key><string>0c8142ca-2ca5-40b2-af6a-21944094ccbd</string><key>stan_name</key><string>原化纤制品厂</string><key>multi_info</key><string> </string><key>x</key><string>72061.3781</string><key>y</key><string>88375.3235</string></dict>
+<dict>
+<key>identifier</key><string>0e31c3a5-cdda-4ec0-940c-7a2365cbbfd1</string><key>stan_name</key><string>杭州恒瑞精细华工厂</string><key>multi_info</key><string> </string><key>x</key><string>72806.9791</string><key>y</key><string>88389.9755</string></dict>
+<dict>
+<key>identifier</key><string>11217cc6-e66a-4c19-8a87-e5491e998373</string><key>stan_name</key><string>环境净化设备厂</string><key>multi_info</key><string> </string><key>x</key><string>70127.7969</string><key>y</key><string>90073.1094</string></dict>
+<dict>
+<key>identifier</key><string>d6314bfb-a8b7-4813-8475-790fdc759143</string><key>stan_name</key><string>振达油品公司</string><key>multi_info</key><string> </string><key>x</key><string>70175.3828</string><key>y</key><string>90092.5156</string></dict>
+<dict>
+<key>identifier</key><string>00e50252-7627-4dbb-8d33-6886d5e89dff</string><key>stan_name</key><string>防腐设备厂</string><key>multi_info</key><string> </string><key>x</key><string>74781.6562</string><key>y</key><string>87916.1250</string></dict>
+<dict>
+<key>identifier</key><string>44a60a4a-b3cc-43ba-a178-c17c73397b33</string><key>stan_name</key><string>杭州杭玻特种玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80460.9051</string><key>y</key><string>91942.8187</string></dict>
+<dict>
+<key>identifier</key><string>b3eb8212-6c76-426b-9c62-52f020deaac4</string><key>stan_name</key><string>杭州三墩润滑油厂</string><key>multi_info</key><string> </string><key>x</key><string>71339.8750</string><key>y</key><string>87061.8672</string></dict>
+<dict>
+<key>identifier</key><string>b2c0b4e3-65f9-4c82-b0d8-f1ca526028f5</string><key>stan_name</key><string>杭州电化集团气体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76926.5937</string><key>y</key><string>87078.1641</string></dict>
+<dict>
+<key>identifier</key><string>f4bba550-4879-4c4d-8d04-7c08e88ba9a8</string><key>stan_name</key><string>浙江省农科院生物制品厂</string><key>multi_info</key><string> </string><key>x</key><string>82999.3635</string><key>y</key><string>87096.1088</string></dict>
+<dict>
+<key>identifier</key><string>77b1ac9b-6037-422e-a7fd-cf1058edc483</string><key>stan_name</key><string>银都制冷设备公司</string><key>multi_info</key><string> </string><key>x</key><string>84800.7422</string><key>y</key><string>87983.2812</string></dict>
+<dict>
+<key>identifier</key><string>06f09d4a-850d-4193-8ff4-38cdde3312b8</string><key>stan_name</key><string>杭州钦宝制冷设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94840.7783</string><key>y</key><string>88026.1405</string></dict>
+<dict>
+<key>identifier</key><string>67ca1a56-da44-44b5-8741-3662d7f7fd37</string><key>stan_name</key><string>浙江西湖化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71302.3709</string><key>y</key><string>87131.6383</string></dict>
+<dict>
+<key>identifier</key><string>76f87db8-b55f-4a6c-94a2-f94acd0f263c</string><key>stan_name</key><string>杭州利欣生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76093.6953</string><key>y</key><string>87135.7813</string></dict>
+<dict>
+<key>identifier</key><string>a0f37181-e99c-4e59-8c77-a03856c178ce</string><key>stan_name</key><string>杭州轻华热电有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75843.1329</string><key>y</key><string>88070.4402</string></dict>
+<dict>
+<key>identifier</key><string>82817b8d-2a58-4b08-b42d-ce532986a0ae</string><key>stan_name</key><string>杭州拱墅油品厂</string><key>multi_info</key><string> </string><key>x</key><string>80746.7680</string><key>y</key><string>89063.5825</string></dict>
+<dict>
+<key>identifier</key><string>54b1b0a1-e6b1-4b06-868e-d7a85c232cf3</string><key>stan_name</key><string>浙江华成有机硅材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>112712.7822</string><key>y</key><string>90544.7390</string></dict>
+<dict>
+<key>identifier</key><string>5d83e527-0dad-439a-9971-85c1f39bda2f</string><key>stan_name</key><string>杭州澳亚生物技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96742.4776</string><key>y</key><string>87174.5184</string></dict>
+<dict>
+<key>identifier</key><string>9fe0095d-dc2a-43a7-a72e-5b5f04343ef7</string><key>stan_name</key><string>杭州天成润滑油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66355.2140</string><key>y</key><string>88117.4090</string></dict>
+<dict>
+<key>identifier</key><string>e7e316e6-cbae-4791-a702-8d67798536c8</string><key>stan_name</key><string>杭州萧山天福生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>126586.0660</string><key>y</key><string>88122.8299</string></dict>
+<dict>
+<key>identifier</key><string>f77870ce-7dc7-4af4-bf64-5369e8f42b2e</string><key>stan_name</key><string>东南铝业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>112785.9570</string><key>y</key><string>89127.0990</string></dict>
+<dict>
+<key>identifier</key><string>bb2516d7-ec41-4033-b1f4-2bf98f9c7aad</string><key>stan_name</key><string>杭州九堡三村镀锌加工厂</string><key>multi_info</key><string> </string><key>x</key><string>87383.1016</string><key>y</key><string>89079.9609</string></dict>
+<dict>
+<key>identifier</key><string>4793196c-d75e-4e07-950c-9bf68067c694</string><key>stan_name</key><string>杭州横塘玻璃钢瓦厂</string><key>multi_info</key><string> </string><key>x</key><string>84809.2578</string><key>y</key><string>89151.1328</string></dict>
+<dict>
+<key>identifier</key><string>b96ec691-0aa7-44b7-a3dc-2b976edc0a1e</string><key>stan_name</key><string>杭州燕峰实业投资有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74597.5156</string><key>y</key><string>90622.6797</string></dict>
+<dict>
+<key>identifier</key><string>030f2fab-3259-479c-927f-5abc37df13a5</string><key>stan_name</key><string>杭州高发塑化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66052.1090</string><key>y</key><string>88200.61</string></dict>
+<dict>
+<key>identifier</key><string>e53e900c-28ae-4262-b1ad-e517b0a895b0</string><key>stan_name</key><string>杭州市天燃气公司</string><key>multi_info</key><string> </string><key>x</key><string>100090.9497</string><key>y</key><string>89201.5010</string></dict>
+<dict>
+<key>identifier</key><string>a924d522-33fa-45cf-b9a6-ff8c309716f5</string><key>stan_name</key><string>杭州热处理厂</string><key>multi_info</key><string> </string><key>x</key><string>80983.7321</string><key>y</key><string>89227.3410</string></dict>
+<dict>
+<key>identifier</key><string>69884519-8054-4577-9bd7-121a4935da99</string><key>stan_name</key><string>艾康生物技术（杭州）有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70097.0741</string><key>y</key><string>88581.7152</string></dict>
+<dict>
+<key>identifier</key><string>d6005392-e70e-4b5e-a7d9-fbda98727124</string><key>stan_name</key><string>杭州天瑞化学助剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85837.1162</string><key>y</key><string>90826.6076</string></dict>
+<dict>
+<key>identifier</key><string>c490c157-61d8-4b12-b035-da78ee0ed480</string><key>stan_name</key><string>航民股份钱江热电分公司</string><key>multi_info</key><string> </string><key>x</key><string>109786.8061</string><key>y</key><string>90831.3161</string></dict>
+<dict>
+<key>identifier</key><string>38af7245-65f7-4c32-acf4-60d374eaf98f</string><key>stan_name</key><string>余杭精细化学制品厂</string><key>multi_info</key><string> </string><key>x</key><string>56846.4371</string><key>y</key><string>89612.2870</string></dict>
+<dict>
+<key>identifier</key><string>4b9f9d3e-07ce-4262-b3ee-183a3117e528</string><key>stan_name</key><string>杭州中肽生化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99394.7271</string><key>y</key><string>85584.6755</string></dict>
+<dict>
+<key>identifier</key><string>738d27a4-4b0e-4ef0-86f1-e8caf1bcd488</string><key>stan_name</key><string>杭州制氧集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81685.6760</string><key>y</key><string>86240.8080</string></dict>
+<dict>
+<key>identifier</key><string>dbd8e7b7-92d7-4a78-abf8-725e1825c83b</string><key>stan_name</key><string>杭州中油海华石油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76572.6640</string><key>y</key><string>94764.9920</string></dict>
+<dict>
+<key>identifier</key><string>a0889b29-b5ed-470e-b98f-f0ebdc391488</string><key>stan_name</key><string>杭州三墩合成化工厂</string><key>multi_info</key><string> </string><key>x</key><string>66638.3590</string><key>y</key><string>88725.3590</string></dict>
+<dict>
+<key>identifier</key><string>9bbbca7d-016d-4b2d-9ceb-01a581469546</string><key>stan_name</key><string>杭州吉隆油脂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107992.2780</string><key>y</key><string>84955.5469</string></dict>
+<dict>
+<key>identifier</key><string>addc5b01-ee76-47c9-bfb2-2fb4c0880cd8</string><key>stan_name</key><string>杭州三禾粉体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>67211.3410</string><key>y</key><string>79990.8179</string></dict>
+<dict>
+<key>identifier</key><string>5442e8fa-7fc4-4153-be41-a6979d96e120</string><key>stan_name</key><string>浙江油田公司</string><key>multi_info</key><string> </string><key>x</key><string>67572.6742</string><key>y</key><string>79438.5716</string></dict>
+<dict>
+<key>identifier</key><string>66057289-1216-4fbf-9679-408f40b657bc</string><key>stan_name</key><string>杭州天一农化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>67759.4142</string><key>y</key><string>79939.3624</string></dict>
+<dict>
+<key>identifier</key><string>e72aeb6f-8d4d-4400-9234-79cdce865ba9</string><key>stan_name</key><string>杭州余杭区五常街道春松三渣拌和厂</string><key>multi_info</key><string> </string><key>x</key><string>67758.5003</string><key>y</key><string>79560.1855</string></dict>
+<dict>
+<key>identifier</key><string>6f4d335d-ea90-4870-b839-57e54a1cacc2</string><key>stan_name</key><string>浙江油田公司</string><key>multi_info</key><string> </string><key>x</key><string>67781.8945</string><key>y</key><string>79369.9966</string></dict>
+<dict>
+<key>identifier</key><string>3032b1ad-4933-4969-a8ef-bafa2791f508</string><key>stan_name</key><string>杭州中策橡胶有限公司二期工程</string><key>multi_info</key><string> </string><key>x</key><string>95354.4308</string><key>y</key><string>85020.0707</string></dict>
+<dict>
+<key>identifier</key><string>0fe0a93b-af3a-4f74-9d6f-9efaa12abcc0</string><key>stan_name</key><string>浙江省油储公司</string><key>multi_info</key><string> </string><key>x</key><string>81546.6563</string><key>y</key><string>85029.0391</string></dict>
+<dict>
+<key>identifier</key><string>1a89d214-4507-4bb5-a5e2-0a6f5cac090b</string><key>stan_name</key><string>杭州节能技术服务中心有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97064.6891</string><key>y</key><string>85665.7390</string></dict>
+<dict>
+<key>identifier</key><string>be571166-43a8-4171-997e-98a48a6fefb5</string><key>stan_name</key><string>浙江节能实业发展公司</string><key>multi_info</key><string> </string><key>x</key><string>75763.9231</string><key>y</key><string>84140.7625</string></dict>
+<dict>
+<key>identifier</key><string>5b6ad520-bd8a-4cb8-997b-c5c4da861d2c</string><key>stan_name</key><string>杭州天杭蓄电池厂</string><key>multi_info</key><string> </string><key>x</key><string>83573.6030</string><key>y</key><string>84150.3970</string></dict>
+<dict>
+<key>identifier</key><string>f8ef0637-d9ea-4b25-8e9c-1b23a6e314ab</string><key>stan_name</key><string>浙江省火电公司</string><key>multi_info</key><string> </string><key>x</key><string>89339.9455</string><key>y</key><string>85725.0061</string></dict>
+<dict>
+<key>identifier</key><string>705d9221-a294-4f9a-b0ab-1029caf79164</string><key>stan_name</key><string>浙江易邦生物技术有限公司兽用生物制品厂</string><key>multi_info</key><string> </string><key>x</key><string>100099.0712</string><key>y</key><string>85740.1754</string></dict>
+<dict>
+<key>identifier</key><string>76573b3f-2157-41d4-989d-c83c0e260cfe</string><key>stan_name</key><string>茂宇电子化学有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96803.0607</string><key>y</key><string>84189.0469</string></dict>
+<dict>
+<key>identifier</key><string>d019d5bf-dc21-44f5-9dc0-5c306f87f5fa</string><key>stan_name</key><string>浙江省沼气太阳能科学研究所</string><key>multi_info</key><string> </string><key>x</key><string>77098.4553</string><key>y</key><string>84190.8963</string></dict>
+<dict>
+<key>identifier</key><string>34fbabff-1097-4a23-b906-962237e6d8cd</string><key>stan_name</key><string>农村能源办公室</string><key>multi_info</key><string> </string><key>x</key><string>77096.7187</string><key>y</key><string>84195.7812</string></dict>
+<dict>
+<key>identifier</key><string>65a7497b-8f94-44c8-ae3d-1d68925fe5f0</string><key>stan_name</key><string>浙江省节能实业发展公司</string><key>multi_info</key><string> </string><key>x</key><string>75732.0781</string><key>y</key><string>84207.6563</string></dict>
+<dict>
+<key>identifier</key><string>413dd401-2841-4e4e-845a-8ac81fc461aa</string><key>stan_name</key><string>浙江省煤炭开发公司</string><key>multi_info</key><string> </string><key>x</key><string>77968.3382</string><key>y</key><string>85222.3253</string></dict>
+<dict>
+<key>identifier</key><string>ad1a96dc-129d-4962-9101-8df5d891133f</string><key>stan_name</key><string>杭州横滨轮胎有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96204.1205</string><key>y</key><string>84259.2368</string></dict>
+<dict>
+<key>identifier</key><string>f072902c-849b-4777-bae4-a48db1be5a74</string><key>stan_name</key><string>浙江省节能中心</string><key>multi_info</key><string> </string><key>x</key><string>79318.3359</string><key>y</key><string>85227.2891</string></dict>
+<dict>
+<key>identifier</key><string>82f71edb-049f-4e6d-a28e-87c425e7cf54</string><key>stan_name</key><string>富丽达纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>118885.1260</string><key>y</key><string>85231.7460</string></dict>
+<dict>
+<key>identifier</key><string>2a13c7b3-974e-4488-b2ee-ec051e17b441</string><key>stan_name</key><string>杭州百庆纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96301.0476</string><key>y</key><string>85247.2847</string></dict>
+<dict>
+<key>identifier</key><string>49095389-cd6b-471a-8d8f-fb53f19a0e83</string><key>stan_name</key><string>杭州西湖生物材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75715.1621</string><key>y</key><string>85910.0735</string></dict>
+<dict>
+<key>identifier</key><string>27913967-08e5-4b01-ba6c-e72cdf5ed577</string><key>stan_name</key><string>浙江荐量生物责任有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99578.7876</string><key>y</key><string>85913.2481</string></dict>
+<dict>
+<key>identifier</key><string>90d06513-a55d-4561-a4f8-ad5780a93811</string><key>stan_name</key><string>杭州顺峰链业热处理分公司</string><key>multi_info</key><string> </string><key>x</key><string>65207.2750</string><key>y</key><string>85913.4370</string></dict>
+<dict>
+<key>identifier</key><string>a3d6ef04-b226-4b39-9144-902bd9661c45</string><key>stan_name</key><string>康达太阳能厂</string><key>multi_info</key><string> </string><key>x</key><string>110014.4467</string><key>y</key><string>83151.8850</string></dict>
+<dict>
+<key>identifier</key><string>0523421d-9d59-4505-afe1-48945e117d65</string><key>stan_name</key><string>杭州创新生物检控技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99870.5334</string><key>y</key><string>85947.0375</string></dict>
+<dict>
+<key>identifier</key><string>0b051dea-652b-4fd7-b7ef-70d7b420761e</string><key>stan_name</key><string>杭州亚马特香精香料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97400.8768</string><key>y</key><string>85948.1273</string></dict>
+<dict>
+<key>identifier</key><string>48860143-f0b3-4270-a7d2-111b7711cbb6</string><key>stan_name</key><string>杭州生物物资有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89385.4609</string><key>y</key><string>85974.6797</string></dict>
+<dict>
+<key>identifier</key><string>953edb26-7ae5-434e-ba2c-13712fe8c23e</string><key>stan_name</key><string>杭州联发纤维有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97981.5722</string><key>y</key><string>83227.1552</string></dict>
+<dict>
+<key>identifier</key><string>b52773c3-1ed7-4e5e-a79d-b6d8a4f64b91</string><key>stan_name</key><string>杭州市燃料公司</string><key>multi_info</key><string> </string><key>x</key><string>81583.9375</string><key>y</key><string>85342.6562</string></dict>
+<dict>
+<key>identifier</key><string>f24bcbe9-7ad6-4af2-9514-c9c8b35a218f</string><key>stan_name</key><string>杭州余杭锦江环保能源有限公司</string><key>multi_info</key><string> </string><key>x</key><string>60177.4829</string><key>y</key><string>83237.5691</string></dict>
+<dict>
+<key>identifier</key><string>cb2de658-c22f-43f8-9612-5bf559eec8cd</string><key>stan_name</key><string>杭州天河生物科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95707.8976</string><key>y</key><string>84465.0504</string></dict>
+<dict>
+<key>identifier</key><string>79b71980-b4a5-421a-b2ea-aa3aa051142b</string><key>stan_name</key><string>杭州市源泉净化设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>53920.6860</string><key>y</key><string>85403.1690</string></dict>
+<dict>
+<key>identifier</key><string>4bc75ac8-0e45-48ee-b0c9-1beaae19d8f7</string><key>stan_name</key><string>杭州蓝天涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107854.5861</string><key>y</key><string>85438.6921</string></dict>
+<dict>
+<key>identifier</key><string>efb3884b-e00b-4b84-b452-d86f9213172d</string><key>stan_name</key><string>杭州九源基因工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98346.4115</string><key>y</key><string>86387.9265</string></dict>
+<dict>
+<key>identifier</key><string>739e6d52-b913-4e8a-8f0b-ec3f49043978</string><key>stan_name</key><string>杭州邦特油墨</string><key>multi_info</key><string> </string><key>x</key><string>75098.2148</string><key>y</key><string>86411.4934</string></dict>
+<dict>
+<key>identifier</key><string>f743ee38-841c-47f4-81da-916e318a8f44</string><key>stan_name</key><string>滨江稀释剂厂</string><key>multi_info</key><string> </string><key>x</key><string>86701.4453</string><key>y</key><string>83289.4141</string></dict>
+<dict>
+<key>identifier</key><string>af911a05-c6f6-4084-b76f-6567b0e9490c</string><key>stan_name</key><string>浙江省冶金环境保护设计研究院有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78917.5865</string><key>y</key><string>83294.5054</string></dict>
+<dict>
+<key>identifier</key><string>4182fa7b-e900-4de4-a9b7-fa60c423f5cf</string><key>stan_name</key><string>江干燃料</string><key>multi_info</key><string> </string><key>x</key><string>89462.1016</string><key>y</key><string>85500.7031</string></dict>
+<dict>
+<key>identifier</key><string>2e03c9bd-8f9e-4668-866f-7e239fb55636</string><key>stan_name</key><string>杭州热电集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76461.3047</string><key>y</key><string>86470.6484</string></dict>
+<dict>
+<key>identifier</key><string>b55ca4fd-e621-4da7-9280-241a7ccae746</string><key>stan_name</key><string>杭州横滨密封材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96206.0923</string><key>y</key><string>84646.9130</string></dict>
+<dict>
+<key>identifier</key><string>78ffeea0-7f2a-4aab-bb50-697b00811f2b</string><key>stan_name</key><string>顺亨通防火阻燃材料(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58753.8860</string><key>y</key><string>84681.1231</string></dict>
+<dict>
+<key>identifier</key><string>49874542-131c-41aa-9abb-00b58e3e951c</string><key>stan_name</key><string>生物实验中心</string><key>multi_info</key><string> </string><key>x</key><string>72098.0469</string><key>y</key><string>86025.7344</string></dict>
+</array>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>47ed1c58-dbc7-4afa-8226-69e5d4289d0e</string><key>stan_name</key><string>上海中财期货经纪有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78951.2686</string><key>y</key><string>82993.2657</string></dict>
+<dict>
+<key>identifier</key><string>81055c40-da06-404d-9166-d82e267afaf8</string><key>stan_name</key><string>杭州市天隆投资有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80452.2722</string><key>y</key><string>81705.8522</string></dict>
+<dict>
+<key>identifier</key><string>6cbf476d-36c4-4a48-88e4-6605f239f6bc</string><key>stan_name</key><string>浙江省国际信托投资有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79783.9585</string><key>y</key><string>82643.6417</string></dict>
+</array>
+</plist>

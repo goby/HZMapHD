@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>ea5fb1c6-e3c7-4a23-88a2-6b1591b08515</string><key>stan_name</key><string>径山镇市民公园</string><key>multi_info</key><string> </string><key>x</key><string>51494.0660</string><key>y</key><string>95877.8160</string></dict>
+<dict>
+<key>identifier</key><string>abf95108-f843-4752-8a21-fbedfa24edab</string><key>stan_name</key><string>东明山森林公园</string><key>multi_info</key><string> </string><key>x</key><string>64504.2040</string><key>y</key><string>100100.1040</string></dict>
+<dict>
+<key>identifier</key><string>116e8fa0-1500-4692-a7a2-0488317e0f36</string><key>stan_name</key><string>临平公园</string><key>multi_info</key><string> </string><key>x</key><string>92478.3542</string><key>y</key><string>100310.2375</string></dict>
+<dict>
+<key>identifier</key><string>79e78dc1-4ac7-4a2d-9f44-0e30a6c434f0</string><key>stan_name</key><string>杭波花圃</string><key>multi_info</key><string> </string><key>x</key><string>82192.5622</string><key>y</key><string>91999.4586</string></dict>
+<dict>
+<key>identifier</key><string>12840450-2566-4411-aa32-00aad1bc5dd2</string><key>stan_name</key><string>公园</string><key>multi_info</key><string> </string><key>x</key><string>78036.0156</string><key>y</key><string>87886.5781</string></dict>
+<dict>
+<key>identifier</key><string>a0094e80-963b-4c72-8073-a6e89db14311</string><key>stan_name</key><string>杭州新世纪公司</string><key>multi_info</key><string> </string><key>x</key><string>83838.7578</string><key>y</key><string>87138.7187</string></dict>
+<dict>
+<key>identifier</key><string>491ad35d-4b85-4992-b859-4478061fa2ca</string><key>stan_name</key><string>南村世纪公园</string><key>multi_info</key><string> </string><key>x</key><string>73970.0815</string><key>y</key><string>66835.4923</string></dict>
+<dict>
+<key>identifier</key><string>aa037f7e-d79d-429a-86e5-f3f55414da45</string><key>stan_name</key><string>霞江中心公园</string><key>multi_info</key><string> </string><key>x</key><string>95170.0519</string><key>y</key><string>68594.3261</string></dict>
+<dict>
+<key>identifier</key><string>5a9826d4-a479-479e-96ea-9c5fda4b0e01</string><key>stan_name</key><string>东方文化园</string><key>multi_info</key><string> </string><key>x</key><string>83382.6220</string><key>y</key><string>64255.5640</string></dict>
+<dict>
+<key>identifier</key><string>a56bd11a-fd33-430f-83c3-b639b2a0415f</string><key>stan_name</key><string>未来世界游乐公园</string><key>multi_info</key><string> </string><key>x</key><string>71599.9531</string><key>y</key><string>71987.4063</string></dict>
+<dict>
+<key>identifier</key><string>392e23f5-e34a-4d95-a72d-f1dc86c61385</string><key>stan_name</key><string>航坞公园</string><key>multi_info</key><string> </string><key>x</key><string>106795.7030</string><key>y</key><string>72687.4560</string></dict>
+<dict>
+<key>identifier</key><string>5481c3bd-a562-4ea1-aa06-8733bbf72c75</string><key>stan_name</key><string>大清谷生态旅游区</string><key>multi_info</key><string> </string><key>x</key><string>70707.6641</string><key>y</key><string>75060.4609</string></dict>
+<dict>
+<key>identifier</key><string>6b6f0bad-b4c8-4ee3-a9e8-fa986b32c1cc</string><key>stan_name</key><string>杭州石景公园</string><key>multi_info</key><string> </string><key>x</key><string>78946.8984</string><key>y</key><string>76535.7734</string></dict>
+<dict>
+<key>identifier</key><string>05e3d2ec-37e8-417d-807a-fae09dd84cfa</string><key>stan_name</key><string>小和山森林公园</string><key>multi_info</key><string> </string><key>x</key><string>66324.9219</string><key>y</key><string>77633.7813</string></dict>
+<dict>
+<key>identifier</key><string>2d66818f-8782-4480-a735-bdc35fe9d732</string><key>stan_name</key><string>长桥公园</string><key>multi_info</key><string> </string><key>x</key><string>78878.7790</string><key>y</key><string>78522.0560</string></dict>
+<dict>
+<key>identifier</key><string>18006a0f-04de-424e-afa6-cf6fe0cb9ad7</string><key>stan_name</key><string>新港公园</string><key>multi_info</key><string> </string><key>x</key><string>103722.5580</string><key>y</key><string>77984.2720</string></dict>
+<dict>
+<key>identifier</key><string>d2b35958-cc71-462b-8c6e-a60290903ae3</string><key>stan_name</key><string>万松书院</string><key>multi_info</key><string> </string><key>x</key><string>79548.6380</string><key>y</key><string>78126.9250</string></dict>
+<dict>
+<key>identifier</key><string>5261c8e4-8796-4c28-968c-610faa4dd4ea</string><key>stan_name</key><string>运河广场</string><key>multi_info</key><string> </string><key>x</key><string>77729.7266</string><key>y</key><string>88176.5781</string></dict>
+<dict>
+<key>identifier</key><string>f686b158-4adb-4b5e-8e88-968109fe8116</string><key>stan_name</key><string>三组公园</string><key>multi_info</key><string> </string><key>x</key><string>84635.3438</string><key>y</key><string>86710.8203</string></dict>
+<dict>
+<key>identifier</key><string>51d89f8c-d632-418a-93bd-b5164c1ba63a</string><key>stan_name</key><string>锦绣公园</string><key>multi_info</key><string> </string><key>x</key><string>84610.9531</string><key>y</key><string>86264.5391</string></dict>
+<dict>
+<key>identifier</key><string>f8308f1c-78bf-40fb-ab46-01724fff4a5b</string><key>stan_name</key><string>闸弄口公园</string><key>multi_info</key><string> </string><key>x</key><string>82934.0313</string><key>y</key><string>83938.6719</string></dict>
+<dict>
+<key>identifier</key><string>a81327ab-d45a-4097-8019-c5a43b202a7b</string><key>stan_name</key><string>运河公园</string><key>multi_info</key><string> </string><key>x</key><string>82656.0703</string><key>y</key><string>84091.2812</string></dict>
+<dict>
+<key>identifier</key><string>07540d44-0c93-456e-ad01-b04117ec996e</string><key>stan_name</key><string>丰乐河公园</string><key>multi_info</key><string> </string><key>x</key><string>76602.4766</string><key>y</key><string>84209.3906</string></dict>
+<dict>
+<key>identifier</key><string>39ebec16-f157-4744-9b93-8604d102d4ab</string><key>stan_name</key><string>运河公园</string><key>multi_info</key><string> </string><key>x</key><string>83094.2969</string><key>y</key><string>84268.2031</string></dict>
+<dict>
+<key>identifier</key><string>02c34113-e674-40f5-8ae6-596dd13a66e7</string><key>stan_name</key><string>墅园</string><key>multi_info</key><string> </string><key>x</key><string>77997.3906</string><key>y</key><string>85404.4844</string></dict>
+<dict>
+<key>identifier</key><string>10d59bba-15c2-40c9-b978-caff5350940b</string><key>stan_name</key><string>艮山运河公园</string><key>multi_info</key><string> </string><key>x</key><string>82030.2344</string><key>y</key><string>83635.5938</string></dict>
+<dict>
+<key>identifier</key><string>96d76696-4f67-47fb-96df-b653d1d90c53</string><key>stan_name</key><string>西湖文化广场</string><key>multi_info</key><string> </string><key>x</key><string>79840.6094</string><key>y</key><string>83662.8750</string></dict>
+<dict>
+<key>identifier</key><string>8eab175d-c489-45e3-a2ac-899da5f1d742</string><key>stan_name</key><string>朝晖公园</string><key>multi_info</key><string> </string><key>x</key><string>80069.7344</string><key>y</key><string>84565.3281</string></dict>
+<dict>
+<key>identifier</key><string>1ee087d8-c102-47d5-9df4-288062feb731</string><key>stan_name</key><string>德胜公园</string><key>multi_info</key><string> </string><key>x</key><string>79689.1953</string><key>y</key><string>86017.3984</string></dict>
+<dict>
+<key>identifier</key><string>434b0649-0f00-44cb-af67-594adcf319eb</string><key>stan_name</key><string>御道公园</string><key>multi_info</key><string> </string><key>x</key><string>86413.9141</string><key>y</key><string>83422.2109</string></dict>
+<dict>
+<key>identifier</key><string>0989c43b-433c-4ef6-a809-52a1207cf4a2</string><key>stan_name</key><string>涌金广场</string><key>multi_info</key><string> </string><key>x</key><string>79841.5156</string><key>y</key><string>80381.2422</string></dict>
+<dict>
+<key>identifier</key><string>e46ed308-10de-42db-a097-b9ebf7dd3e0c</string><key>stan_name</key><string>湖滨公园二公园</string><key>multi_info</key><string> </string><key>x</key><string>79761.5364</string><key>y</key><string>80850.9351</string></dict>
+<dict>
+<key>identifier</key><string>010319bf-2cf1-46bc-94ba-d9bb78d91650</string><key>stan_name</key><string>东园公园</string><key>multi_info</key><string> </string><key>x</key><string>81821.7422</string><key>y</key><string>82781.7969</string></dict>
+<dict>
+<key>identifier</key><string>6bdb01b0-95c1-41bb-ba0d-0d6a764a020f</string><key>stan_name</key><string>市民公园</string><key>multi_info</key><string> </string><key>x</key><string>79164.0781</string><key>y</key><string>83332.0781</string></dict>
+<dict>
+<key>identifier</key><string>e7681d41-3770-4f97-9c64-285476b4ff52</string><key>stan_name</key><string>临平公园</string><key>multi_info</key><string> </string><key>x</key><string>92608.6634</string><key>y</key><string>100542.0639</string></dict>
+<dict>
+<key>identifier</key><string>18f521c4-ec73-4783-8f5a-fa0e075bf843</string><key>stan_name</key><string>金都生态园</string><key>multi_info</key><string> </string><key>x</key><string>63506.4580</string><key>y</key><string>97372.2660</string></dict>
+<dict>
+<key>identifier</key><string>8490bcb0-4c65-4f6f-9dc3-839f069e251c</string><key>stan_name</key><string>世纪公园</string><key>multi_info</key><string> </string><key>x</key><string>93270.5484</string><key>y</key><string>101955.1825</string></dict>
+<dict>
+<key>identifier</key><string>bae2c23e-1427-431b-a89e-80e3b44913be</string><key>stan_name</key><string>良渚文化中心广场</string><key>multi_info</key><string> </string><key>x</key><string>69085</string><key>y</key><string>94872.36</string></dict>
+<dict>
+<key>identifier</key><string>3d202ef1-2a29-4ab5-8e59-4ab9723c1684</string><key>stan_name</key><string>独城村生态公园</string><key>multi_info</key><string> </string><key>x</key><string>78994.5547</string><key>y</key><string>92889.8437</string></dict>
+</array>
+</plist>

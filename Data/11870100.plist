@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>76331fe6-c4b3-4a6f-bf37-eabdf0f67c9f</string><key>stan_name</key><string>山水人家物业管理处</string><key>multi_info</key><string> </string><key>x</key><string>74545.2690</string><key>y</key><string>82869.0570</string></dict>
+<dict>
+<key>identifier</key><string>ba9a8b9b-8101-412a-9946-3b73ee9683d9</string><key>stan_name</key><string>杭州得力物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74069.3440</string><key>y</key><string>83366.5230</string></dict>
+<dict>
+<key>identifier</key><string>2f621073-f881-419b-95c1-3d5180677eab</string><key>stan_name</key><string>浙江绿城物业管理有限公司月桂花园物业服务中心</string><key>multi_info</key><string> </string><key>x</key><string>74020.6790</string><key>y</key><string>83556.4960</string></dict>
+<dict>
+<key>identifier</key><string>588f4704-36b3-4042-ad74-9bc4e424019d</string><key>stan_name</key><string>浙江绿城物业管理有限公司月桂花园物业服务中心浙江绿城物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74525.96</string><key>y</key><string>83584.9960</string></dict>
+<dict>
+<key>identifier</key><string>4e8be43e-c93f-4446-8fc3-1139558d7a98</string><key>stan_name</key><string>秋水苑物业管理服务处</string><key>multi_info</key><string> </string><key>x</key><string>74579.1240</string><key>y</key><string>83320.8450</string></dict>
+<dict>
+<key>identifier</key><string>32c6c17c-addf-45f1-a385-745b6a20ada9</string><key>stan_name</key><string>中国共产党浙江金都物业管理有限公司支部委员会</string><key>multi_info</key><string> </string><key>x</key><string>74479.6960</string><key>y</key><string>83661.5420</string></dict>
+<dict>
+<key>identifier</key><string>d13b18ea-230a-4a4c-a955-83db59b595b7</string><key>stan_name</key><string>杭州新欣物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75015.1870</string><key>y</key><string>83352.5140</string></dict>
+<dict>
+<key>identifier</key><string>7e3b30e7-e05f-4a17-82cb-da5f90c4b565</string><key>stan_name</key><string>杭州长江置业管理有限公司亚洲花园管理处</string><key>multi_info</key><string> </string><key>x</key><string>74930.40</string><key>y</key><string>83517.3240</string></dict>
+<dict>
+<key>identifier</key><string>a7a0e7ee-f5b7-4b7c-af37-26e8bd37649f</string><key>stan_name</key><string>杭州润宇物业管理有限公司翠苑四区管理处</string><key>multi_info</key><string> </string><key>x</key><string>75741.5440</string><key>y</key><string>84659.52</string></dict>
+<dict>
+<key>identifier</key><string>83de97bc-8256-4f38-83cc-e09c94ac42c1</string><key>stan_name</key><string>杭州诚信物业管理有限公司翠苑三区管理处</string><key>multi_info</key><string> </string><key>x</key><string>75779.6910</string><key>y</key><string>85030.4420</string></dict>
+<dict>
+<key>identifier</key><string>614f9d77-7da0-4560-ae0a-e251750c8d4f</string><key>stan_name</key><string>杭州安居物业管理有限公司嘉绿名苑管理处</string><key>multi_info</key><string> </string><key>x</key><string>75042.7030</string><key>y</key><string>84100.3010</string></dict>
+<dict>
+<key>identifier</key><string>63c63113-576f-4465-bd1c-19237ebbfca1</string><key>stan_name</key><string>杭州三替服务集团公司</string><key>multi_info</key><string> </string><key>x</key><string>73117.45</string><key>y</key><string>83980.3160</string></dict>
+<dict>
+<key>identifier</key><string>d4934e05-a9aa-40f5-85d7-c806e381d441</string><key>stan_name</key><string>杭州市拱墅区信义坊商街管理委员会</string><key>multi_info</key><string> </string><key>x</key><string>77862.67</string><key>y</key><string>85585.0630</string></dict>
+<dict>
+<key>identifier</key><string>65aecf43-148f-485d-914e-a4c2a4e8e300</string><key>stan_name</key><string>浙江天和物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74151.8820</string><key>y</key><string>85132.0160</string></dict>
+<dict>
+<key>identifier</key><string>634dd8b0-5db2-4ac1-bf01-634eb2d4397b</string><key>stan_name</key><string>杭州市火车东站广场管理委员会</string><key>multi_info</key><string> </string><key>x</key><string>84404.0180</string><key>y</key><string>84920.1830</string></dict>
+<dict>
+<key>identifier</key><string>bb48f4ef-05a4-4274-bae0-ea66c06b55ab</string><key>stan_name</key><string>高新后勤服务中心(二)</string><key>multi_info</key><string> </string><key>x</key><string>78639.7656</string><key>y</key><string>72901.8516</string></dict>
+<dict>
+<key>identifier</key><string>533a49c8-2fda-4db7-836b-b3fc7b635592</string><key>stan_name</key><string>杭州望江废品收购站</string><key>multi_info</key><string> </string><key>x</key><string>81780.8390</string><key>y</key><string>78406.3010</string></dict>
+<dict>
+<key>identifier</key><string>6751662b-6aee-4f70-b683-99aedbe9a3eb</string><key>stan_name</key><string>工业城治安队</string><key>multi_info</key><string> </string><key>x</key><string>106838.7083</string><key>y</key><string>75553.8860</string></dict>
+<dict>
+<key>identifier</key><string>839ee71c-9e11-4770-a78b-aa388cb43123</string><key>stan_name</key><string>杭报发行站</string><key>multi_info</key><string> </string><key>x</key><string>83816.9922</string><key>y</key><string>78799.1094</string></dict>
+<dict>
+<key>identifier</key><string>77f9c8b7-8746-428c-8b58-c6e1518b62ec</string><key>stan_name</key><string>浙江铁道建功实业有限公司物业管理分公司</string><key>multi_info</key><string> </string><key>x</key><string>81146.9609</string><key>y</key><string>78820.5703</string></dict>
+<dict>
+<key>identifier</key><string>fe659d9b-de00-4ddb-aa97-212570f31e0e</string><key>stan_name</key><string>物业</string><key>multi_info</key><string> </string><key>x</key><string>81977.6172</string><key>y</key><string>83922.4297</string></dict>
+<dict>
+<key>identifier</key><string>2796e219-9809-4447-a9ec-345f9e848242</string><key>stan_name</key><string>杭州市拱墅区农转居多层公寓建设管理中心</string><key>multi_info</key><string> </string><key>x</key><string>75805.7879</string><key>y</key><string>85894.0736</string></dict>
+<dict>
+<key>identifier</key><string>31bd6a02-60cd-44cb-9022-d54469162b57</string><key>stan_name</key><string>杭州成诚物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73503.0791</string><key>y</key><string>85284.8522</string></dict>
+<dict>
+<key>identifier</key><string>36add657-6839-498b-9429-e35c273abfe4</string><key>stan_name</key><string>兴业物业公司</string><key>multi_info</key><string> </string><key>x</key><string>78504.5313</string><key>y</key><string>85447.5234</string></dict>
+<dict>
+<key>identifier</key><string>a116a59d-fcb2-4c5e-bbe7-e61041b1761e</string><key>stan_name</key><string>上房物管</string><key>multi_info</key><string> </string><key>x</key><string>83828.3516</string><key>y</key><string>84638.0781</string></dict>
+<dict>
+<key>identifier</key><string>eba8eb76-a57f-4261-a10b-c71d442acf61</string><key>stan_name</key><string>杭州市月雅河物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93420.7363</string><key>y</key><string>86572.0387</string></dict>
+<dict>
+<key>identifier</key><string>602733f7-c7d9-4c4a-88fd-a4f6ab1972ee</string><key>stan_name</key><string>杭州西湖风景名胜区保安服务公司</string><key>multi_info</key><string> </string><key>x</key><string>76040.1599</string><key>y</key><string>81464.7543</string></dict>
+<dict>
+<key>identifier</key><string>879e5e0e-ae56-45c0-8d96-232fece529eb</string><key>stan_name</key><string>花都美容美发</string><key>multi_info</key><string> </string><key>x</key><string>80601.7578</string><key>y</key><string>80476.7891</string></dict>
+<dict>
+<key>identifier</key><string>130aefd9-ba5a-4b66-96e5-58a31b7d03d2</string><key>stan_name</key><string>东方名剪</string><key>multi_info</key><string> </string><key>x</key><string>79953.2109</string><key>y</key><string>80509.9453</string></dict>
+<dict>
+<key>identifier</key><string>5da62e3b-1a8b-4e6d-ba06-6f4629bf7b78</string><key>stan_name</key><string>华泰物业</string><key>multi_info</key><string> </string><key>x</key><string>72280.9199</string><key>y</key><string>81604.4434</string></dict>
+<dict>
+<key>identifier</key><string>07475878-20dd-414c-92d9-ba2be72255d0</string><key>stan_name</key><string>理发室</string><key>multi_info</key><string> </string><key>x</key><string>76694.7969</string><key>y</key><string>81967.8359</string></dict>
+<dict>
+<key>identifier</key><string>290d0832-b71b-461b-abbc-979ae41267ad</string><key>stan_name</key><string>杭州益民物业管理有限公司中心文都苑管理处</string><key>multi_info</key><string> </string><key>x</key><string>76128.2630</string><key>y</key><string>83563.4380</string></dict>
+<dict>
+<key>identifier</key><string>1c797fe1-1055-4f66-b11c-24f7028eb8c1</string><key>stan_name</key><string>浙江大学教师公寓服务中心黄姑山办公室</string><key>multi_info</key><string> </string><key>x</key><string>76892.0990</string><key>y</key><string>83425.8190</string></dict>
+<dict>
+<key>identifier</key><string>5d768313-8471-4faf-88f3-4ab4317c762a</string><key>stan_name</key><string>浙大校卫队求是物业中队</string><key>multi_info</key><string> </string><key>x</key><string>76767.0140</string><key>y</key><string>82223.9560</string></dict>
+<dict>
+<key>identifier</key><string>404a2303-eca9-4034-abe5-de2e4a38bc1d</string><key>stan_name</key><string>杭州西房物业管理有限公司松溪公寓物管部</string><key>multi_info</key><string> </string><key>x</key><string>78320.1640</string><key>y</key><string>83032.11</string></dict>
+<dict>
+<key>identifier</key><string>5def86be-caa9-40f2-9b9f-7d2aeac41077</string><key>stan_name</key><string>杭州润宇物业管理有限公司武林花园管理处</string><key>multi_info</key><string> </string><key>x</key><string>78349.1320</string><key>y</key><string>83303.8340</string></dict>
+<dict>
+<key>identifier</key><string>d4a7bb8e-c17f-47f4-9390-c148d11ca108</string><key>stan_name</key><string>易盛大厦物业管理服务站</string><key>multi_info</key><string> </string><key>x</key><string>78728.1520</string><key>y</key><string>83657.0120</string></dict>
+<dict>
+<key>identifier</key><string>07bbbfe0-c049-4314-8063-3d053a863afe</string><key>stan_name</key><string>大家物业经营管理公司中北苑管理处</string><key>multi_info</key><string> </string><key>x</key><string>80213.7270</string><key>y</key><string>83874.10</string></dict>
+<dict>
+<key>identifier</key><string>c05d3bc4-cd48-4a69-b3e3-adc1e4876b1a</string><key>stan_name</key><string>金都华庭物业服务中心</string><key>multi_info</key><string> </string><key>x</key><string>80910.7520</string><key>y</key><string>83839.0560</string></dict>
+<dict>
+<key>identifier</key><string>78eaf653-cd95-4fd6-b462-777d0a735aed</string><key>stan_name</key><string>浙江建龙物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80675.3810</string><key>y</key><string>83316.4690</string></dict>
+<dict>
+<key>identifier</key><string>6cb6b6ea-b1d2-4ab6-8329-4955035428d8</string><key>stan_name</key><string>杭州天赐苑业主委员会</string><key>multi_info</key><string> </string><key>x</key><string>81784.9950</string><key>y</key><string>83147.0460</string></dict>
+<dict>
+<key>identifier</key><string>cde74ec9-3d2a-4625-a6bf-ca8a5e68b480</string><key>stan_name</key><string>浙江丽晶城物业管理有限责任公司住宅管理处</string><key>multi_info</key><string> </string><key>x</key><string>77356.4210</string><key>y</key><string>83444.6810</string></dict>
+<dict>
+<key>identifier</key><string>df27143b-5080-4785-bf78-4467d6b4d6e8</string><key>stan_name</key><string>杭州市聚龙物业管理有限公司黄龙世纪苑管理处</string><key>multi_info</key><string> </string><key>x</key><string>77580.0240</string><key>y</key><string>82861.1240</string></dict>
+<dict>
+<key>identifier</key><string>e2ae4599-e1c2-44c7-b534-e9263d0a834a</string><key>stan_name</key><string>文三路工业村物业管理办公室</string><key>multi_info</key><string> </string><key>x</key><string>76257.3990</string><key>y</key><string>83876.1190</string></dict>
+<dict>
+<key>identifier</key><string>b0fdd569-2cda-4807-ad41-0eeb0db57457</string><key>stan_name</key><string>杭州市长庆物业管理有限公司体育场路浙大宿舍管理处</string><key>multi_info</key><string> </string><key>x</key><string>80973.8770</string><key>y</key><string>83191.0040</string></dict>
+<dict>
+<key>identifier</key><string>457e7169-6e1d-43f7-a642-89fcea08c365</string><key>stan_name</key><string>杭州市夏洲物业管理有限公司学士路管理处</string><key>multi_info</key><string> </string><key>x</key><string>80037.6520</string><key>y</key><string>81556.3070</string></dict>
+</array>
+</plist>

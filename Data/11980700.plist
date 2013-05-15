@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>da933a91-97eb-4e7f-8381-6410fa8372d8</string><key>stan_name</key><string>上城区南星街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>79714.6462</string><key>y</key><string>75983.4201</string></dict>
+<dict>
+<key>identifier</key><string>af91fbce-9338-45b8-83c6-1f7a744ce240</string><key>stan_name</key><string>上城区望江街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>83220.9564</string><key>y</key><string>79112.8158</string></dict>
+<dict>
+<key>identifier</key><string>b003e8d5-f954-47a3-b964-df7215f7e1db</string><key>stan_name</key><string>西湖区蒋村街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>70721.0171</string><key>y</key><string>84868.9877</string></dict>
+<dict>
+<key>identifier</key><string>ec49c9f7-4083-4cd3-949e-a51cb4f86565</string><key>stan_name</key><string>西湖区翠苑街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>76408.9362</string><key>y</key><string>85090.6204</string></dict>
+<dict>
+<key>identifier</key><string>032c543b-aebb-4f90-88ba-e81a0a2e5d5e</string><key>stan_name</key><string>拱墅区湖墅街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>78076.5469</string><key>y</key><string>85509.9844</string></dict>
+<dict>
+<key>identifier</key><string>d2370bbf-39e0-48e4-9f54-272e9bb6057a</string><key>stan_name</key><string>西湖区古荡街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>75536.4344</string><key>y</key><string>83671.6825</string></dict>
+<dict>
+<key>identifier</key><string>85725c59-cd09-4700-b561-c7740e8f3b2f</string><key>stan_name</key><string>江干区采荷街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>83220.6797</string><key>y</key><string>81346.2266</string></dict>
+<dict>
+<key>identifier</key><string>dde4691b-0d18-4161-81ae-bcbf52c0bf17</string><key>stan_name</key><string>拱墅区上塘街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>79114.9669</string><key>y</key><string>87673.9154</string></dict>
+<dict>
+<key>identifier</key><string>637dd101-34b9-4138-a0b6-45141326eceb</string><key>stan_name</key><string>拱墅区祥符街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>74400.5552</string><key>y</key><string>88939.6593</string></dict>
+<dict>
+<key>identifier</key><string>e33cff5c-08be-461a-9284-c12d45ea8829</string><key>stan_name</key><string>西湖区留下街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>69211.4321</string><key>y</key><string>79917.3146</string></dict>
+<dict>
+<key>identifier</key><string>b1c4c7f4-f0ed-4461-902c-299c9879d74b</string><key>stan_name</key><string>江干区四季青街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>83635.16</string><key>y</key><string>80992.3803</string></dict>
+<dict>
+<key>identifier</key><string>938f1ef4-07ff-4cb5-b209-eae6815b4e6b</string><key>stan_name</key><string>西湖区北山街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>78500.5183</string><key>y</key><string>82825.4662</string></dict>
+<dict>
+<key>identifier</key><string>ea106fc3-f5e7-4f33-b070-07ac34eeeb7e</string><key>stan_name</key><string>拱墅区半山镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>81521.1744</string><key>y</key><string>91762.9392</string></dict>
+<dict>
+<key>identifier</key><string>08da6107-bda2-416b-886d-b7fb8e839a2e</string><key>stan_name</key><string>江干区闸弄口街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>82518.3624</string><key>y</key><string>85060.6377</string></dict>
+<dict>
+<key>identifier</key><string>9de303a1-d50f-4333-8550-3d45a0cdcb32</string><key>stan_name</key><string>江干区丁桥镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>85553.3229</string><key>y</key><string>91807.3205</string></dict>
+<dict>
+<key>identifier</key><string>b4a8411d-93b3-4d9b-8987-db01784049ea</string><key>stan_name</key><string>拱墅区和睦街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>76090.1484</string><key>y</key><string>87078.5234</string></dict>
+<dict>
+<key>identifier</key><string>dbe4ffe8-2f17-43b1-8564-90cb83dcf52d</string><key>stan_name</key><string>江干区笕桥镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>85146.9297</string><key>y</key><string>88024.2188</string></dict>
+<dict>
+<key>identifier</key><string>48427618-ed13-4760-8437-b809506bbbcf</string><key>stan_name</key><string>拱墅区小河街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>77550.9297</string><key>y</key><string>87114.7109</string></dict>
+<dict>
+<key>identifier</key><string>cbead558-c65c-4cfc-b189-9d0777fcc207</string><key>stan_name</key><string>西湖区西溪街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>78500.2940</string><key>y</key><string>83514.33</string></dict>
+<dict>
+<key>identifier</key><string>06a5c1db-a76a-4cb9-a870-11a1ebe1c6a6</string><key>stan_name</key><string>上城区紫阳街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>80442.8750</string><key>y</key><string>78590.7420</string></dict>
+<dict>
+<key>identifier</key><string>7b4dc553-ff1f-4e0c-bc2c-98f931705304</string><key>stan_name</key><string>江干区凯旋街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>83754.2660</string><key>y</key><string>82675.5310</string></dict>
+<dict>
+<key>identifier</key><string>34ef2237-0a7e-4122-b437-2647bc809e85</string><key>stan_name</key><string>上城区清波街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>79598.0230</string><key>y</key><string>79447.8670</string></dict>
+<dict>
+<key>identifier</key><string>12e403f0-d2a3-4341-ace8-cfe34bb813b8</string><key>stan_name</key><string>西湖区灵隐街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>76287.3980</string><key>y</key><string>81705.8280</string></dict>
+<dict>
+<key>identifier</key><string>93a0e52a-42e2-44ae-b4bc-b1a453928bb1</string><key>stan_name</key><string>江干区九堡镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>90371.8201</string><key>y</key><string>87505.0659</string></dict>
+<dict>
+<key>identifier</key><string>6d73402f-7c1d-48f8-a160-43e538f2e65b</string><key>stan_name</key><string>江干区彭埠镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>86165.3043</string><key>y</key><string>85028.2356</string></dict>
+<dict>
+<key>identifier</key><string>b2e43967-42bf-40ae-8416-91482df6f170</string><key>stan_name</key><string>西湖区文新街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>74078.7520</string><key>y</key><string>83628.7580</string></dict>
+<dict>
+<key>identifier</key><string>8cdbe009-0c9f-46ea-8cdd-3710526a70cf</string><key>stan_name</key><string>西湖区转塘街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>71708.4220</string><key>y</key><string>70662.2290</string></dict>
+<dict>
+<key>identifier</key><string>3250457e-f25e-4ba3-81c9-e31402e3f086</string><key>stan_name</key><string>上城区湖滨街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>80533.3580</string><key>y</key><string>81367.4768</string></dict>
+<dict>
+<key>identifier</key><string>7add6784-b90d-40c0-84b5-9275cb1d59d8</string><key>stan_name</key><string>江干区彭埠镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>86165.9156</string><key>y</key><string>85032.9223</string></dict>
+<dict>
+<key>identifier</key><string>83f6966a-1a08-4725-bfad-46e6f629170b</string><key>stan_name</key><string>上城区小营街道办事处</string><key>multi_info</key><string> </string><key>x</key><string>81134.3339</string><key>y</key><string>79585.6711</string></dict>
+</array>
+</plist>

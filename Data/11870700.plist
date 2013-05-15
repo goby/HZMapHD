@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>fe982b42-ff63-4892-a8a6-a4e80c52fa2e</string><key>stan_name</key><string>红五月安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>88428.6562</string><key>y</key><string>86245.5469</string></dict>
+<dict>
+<key>identifier</key><string>271a19da-8291-4f69-ad25-cae2d134ec68</string><key>stan_name</key><string>七堡安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>88460.2422</string><key>y</key><string>86267.2891</string></dict>
+<dict>
+<key>identifier</key><string>14ef55fa-3c6e-443e-b691-416f752ed2ea</string><key>stan_name</key><string>安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>85721.7734</string><key>y</key><string>84095.4219</string></dict>
+<dict>
+<key>identifier</key><string>86d6f4d9-817d-4a03-b900-ddcf85e469ab</string><key>stan_name</key><string>安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>82867.2879</string><key>y</key><string>91640.7342</string></dict>
+</array>
+</plist>

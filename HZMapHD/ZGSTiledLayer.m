@@ -82,18 +82,30 @@ int MakeAGSUnits(NSString* wkt){
         }
         else {
             NSURLRequest *request = [NSURLRequest requestWithURL:url];
-            AFXMLRequestOperation *operation =
-                [AFXMLRequestOperation XMLParserRequestOperationWithRequest:request
-                                                                    success:^(NSURLRequest *request, NSHTTPURLResponse *response, NSXMLParser *XMLParser) {
-                                                                        [self loadConfigWithParser:XMLParser];
-                                                                    }
-                                                                    failure:^(NSURLRequest *request, NSHTTPURLResponse *response, NSError *error, NSXMLParser *XMLParser) {
-                                                                        NSLog(@"the error is %@",error);
-                                                                        UIAlertView *   alert = [[[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil] autorelease];
-                                                                        assert(alert != nil);
-                                                                        [alert show];
-                                                                    }];
-            [operation start];
+//            AFXMLRequestOperation *operation =
+//                [AFXMLRequestOperation XMLParserRequestOperationWithRequest:request
+//                                                                    success:^(NSURLRequest *request, NSHTTPURLResponse *response, NSXMLParser *XMLParser) {
+//                                                                        //[FTWCache setObject: forKey:strkey];
+//                                                                        
+//                                                                        [self loadConfigWithParser:XMLParser];
+//                                                                    }
+//                                                                    failure:^(NSURLRequest *request, NSHTTPURLResponse *response, NSError *error, NSXMLParser *XMLParser) {
+//                                                                        NSLog(@"the error is %@",error);
+//                                                                        UIAlertView *   alert = [[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil];
+//                                                                        assert(alert != nil);
+//                                                                        [alert show];
+//                                                                    }];
+            AFXMLRequestOperation *requestOperation = [[AFXMLRequestOperation alloc] initWithRequest:request];
+            [requestOperation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+                [FTWCache setObject: operation.responseData forKey:key];
+                [self loadConfigWithParser:(NSXMLParser *)responseObject];
+            } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+                NSLog(@"the error is %@",error);
+                UIAlertView * alert = [[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil];
+                assert(alert != nil);
+                [alert show];
+            }];
+            [requestOperation start];
         }
     }
     return self;
@@ -102,19 +114,18 @@ int MakeAGSUnits(NSString* wkt){
 -(void)loadConfigFromXml:(NSData *) xmlData {
     NSXMLParser*  xmlParser = [[NSXMLParser alloc] initWithData:xmlData];
     [self loadConfigWithParser:xmlParser];
-    [xmlParser release];
 }
 
 -(void)loadConfigWithParser:(NSXMLParser *)xmlParser{
-    ZGSTiledCacheParserDelegate* parserDelegate = [[[ZGSTiledCacheParserDelegate alloc] init] autorelease];
+    ZGSTiledCacheParserDelegate* parserDelegate = [[ZGSTiledCacheParserDelegate alloc] init];
     [xmlParser setDelegate:parserDelegate];
     BOOL flag = [xmlParser parse];
     
     //If XML files were parsed properly...
     if([parserDelegate tileInfo]!= nil && [parserDelegate fullEnvelope]!=nil ){
         //... get the metadata
-        _tileInfo = [[parserDelegate tileInfo] retain];
-        _fullEnvelope = [[parserDelegate fullEnvelope] retain];
+        _tileInfo = [parserDelegate tileInfo];
+        _fullEnvelope = [parserDelegate fullEnvelope];
         _units = MakeAGSUnits(_fullEnvelope.spatialReference.wkt);
         [self layerDidLoad];
     }else {
@@ -181,17 +192,12 @@ int MakeAGSUnits(NSString* wkt){
             break;
         }
     }
-    [array release];
 }
 
 #pragma mark -
 - (void)dealloc {
 	self.dataFramePath = nil;
     [_queue cancelAllOperations];
-    [_queue release];
-	[_fullEnvelope release];
-	[_tileInfo release];
-    [super dealloc];
 }
 
 @end

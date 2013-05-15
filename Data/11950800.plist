@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>dc886439-5db3-44aa-982e-e41e56c7639e</string><key>stan_name</key><string>浙江省美术馆</string><key>multi_info</key><string> </string><key>x</key><string>79112.5547</string><key>y</key><string>78549.5078</string></dict>
+<dict>
+<key>identifier</key><string>48ed1f30-6fe9-46f4-b1e1-734cf221e564</string><key>stan_name</key><string>唐云艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>79059.5625</string><key>y</key><string>78877.2109</string></dict>
+</array>
+</plist>

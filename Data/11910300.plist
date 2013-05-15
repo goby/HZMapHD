@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>c547ebff-77c1-4b14-aeb5-b8f0584b5106</string><key>stan_name</key><string>杭州白洋饭店</string><key>multi_info</key><string> </string><key>x</key><string>79961.8594</string><key>y</key><string>84841.5469</string></dict>
+<dict>
+<key>identifier</key><string>bc5ed308-f957-4163-95f8-7ad2ba96bacb</string><key>stan_name</key><string>聚香馆</string><key>multi_info</key><string> </string><key>x</key><string>87012.8906</string><key>y</key><string>84954.5391</string></dict>
+<dict>
+<key>identifier</key><string>51fb3390-88f6-4074-96c6-3f2fa356f2c1</string><key>stan_name</key><string>昌记金华沙锅店</string><key>multi_info</key><string> </string><key>x</key><string>79633.1016</string><key>y</key><string>85675.1328</string></dict>
+<dict>
+<key>identifier</key><string>e8251fa4-69f3-4fd6-8690-d74ca196e64a</string><key>stan_name</key><string>嘴留香</string><key>multi_info</key><string> </string><key>x</key><string>80332.7694</string><key>y</key><string>87016.3223</string></dict>
+<dict>
+<key>identifier</key><string>b135ed21-bba4-4ecc-a3b3-09855ae06bb3</string><key>stan_name</key><string>奎元馆</string><key>multi_info</key><string> </string><key>x</key><string>79792.9766</string><key>y</key><string>84132.6328</string></dict>
+<dict>
+<key>identifier</key><string>7201bde6-cb3f-463c-bde3-5ad91273eb54</string><key>stan_name</key><string>明兴酒楼</string><key>multi_info</key><string> </string><key>x</key><string>84038.7422</string><key>y</key><string>83027.0156</string></dict>
+<dict>
+<key>identifier</key><string>6882003e-f139-48ae-963b-67846cdfa632</string><key>stan_name</key><string>科贸饭店</string><key>multi_info</key><string> </string><key>x</key><string>77968.0313</string><key>y</key><string>83084.9219</string></dict>
+<dict>
+<key>identifier</key><string>948b405e-045f-4634-888b-30524f23c3b3</string><key>stan_name</key><string>伊家鲜饭店</string><key>multi_info</key><string> </string><key>x</key><string>78069.2266</string><key>y</key><string>83106.6719</string></dict>
+<dict>
+<key>identifier</key><string>6cb183cb-5d46-4f76-a306-ec059014b71c</string><key>stan_name</key><string>东晨酒家</string><key>multi_info</key><string> </string><key>x</key><string>84279.7109</string><key>y</key><string>85259.0781</string></dict>
+<dict>
+<key>identifier</key><string>0ed36356-1516-4bc6-9174-1831f47470fa</string><key>stan_name</key><string>东来顺墅园店</string><key>multi_info</key><string> </string><key>x</key><string>77973.3984</string><key>y</key><string>85327.1172</string></dict>
+<dict>
+<key>identifier</key><string>5e361b7e-3f57-4aba-87ee-2ac633d9755a</string><key>stan_name</key><string>八一餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79570.4453</string><key>y</key><string>83212.9219</string></dict>
+<dict>
+<key>identifier</key><string>03c48416-efc1-42ca-a786-3ef3881e62db</string><key>stan_name</key><string>金谷饭店</string><key>multi_info</key><string> </string><key>x</key><string>83296.4141</string><key>y</key><string>83225.5937</string></dict>
+<dict>
+<key>identifier</key><string>60071ec4-a714-4e49-95ae-c87eec0c288d</string><key>stan_name</key><string>翠薇园</string><key>multi_info</key><string> </string><key>x</key><string>76772.2656</string><key>y</key><string>84401.8359</string></dict>
+<dict>
+<key>identifier</key><string>705925fe-924c-4f15-8443-9328afba13b0</string><key>stan_name</key><string>草原兴发绿鸟鸡（饭店）</string><key>multi_info</key><string> </string><key>x</key><string>78293.1016</string><key>y</key><string>84482.3906</string></dict>
+<dict>
+<key>identifier</key><string>9808cb5b-d4da-4c94-9881-880929fd5caf</string><key>stan_name</key><string>闽中香味馆</string><key>multi_info</key><string> </string><key>x</key><string>77849.8281</string><key>y</key><string>85462.8281</string></dict>
+<dict>
+<key>identifier</key><string>7a380ecf-3a5f-4ef2-ab55-205e6b6e20ef</string><key>stan_name</key><string>川菜馆</string><key>multi_info</key><string> </string><key>x</key><string>78459.6797</string><key>y</key><string>84474.5547</string></dict>
+<dict>
+<key>identifier</key><string>755c334c-32e7-4fbd-b62a-f38414860512</string><key>stan_name</key><string>状元楼元帮派餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79512.4064</string><key>y</key><string>86491.5754</string></dict>
+<dict>
+<key>identifier</key><string>aade918f-b188-49b3-988e-cfb5bc06fe7f</string><key>stan_name</key><string>海城饭店</string><key>multi_info</key><string> </string><key>x</key><string>83091.8437</string><key>y</key><string>83686.2813</string></dict>
+<dict>
+<key>identifier</key><string>ce7b11db-9d97-4d68-90da-a7ef428e2f68</string><key>stan_name</key><string>碧海饭店</string><key>multi_info</key><string> </string><key>x</key><string>83578.6562</string><key>y</key><string>83733.4531</string></dict>
+<dict>
+<key>identifier</key><string>7306fa32-c385-47d0-9d49-233d26029a80</string><key>stan_name</key><string>京东饭店</string><key>multi_info</key><string> </string><key>x</key><string>83567.8281</string><key>y</key><string>83794.7422</string></dict>
+<dict>
+<key>identifier</key><string>cfc2410b-ec14-401e-ae36-06cdc488cfbb</string><key>stan_name</key><string>川味观</string><key>multi_info</key><string> </string><key>x</key><string>81330.3906</string><key>y</key><string>82358.9297</string></dict>
+<dict>
+<key>identifier</key><string>1ff7ef7e-7685-42e3-b906-91c5961d6eb3</string><key>stan_name</key><string>花中城</string><key>multi_info</key><string> </string><key>x</key><string>81029.9688</string><key>y</key><string>80373.5234</string></dict>
+<dict>
+<key>identifier</key><string>23ae1b70-f7e2-444c-8c77-caed21a6ff77</string><key>stan_name</key><string>海上家园休闲农庄</string><key>multi_info</key><string> </string><key>x</key><string>122647.3150</string><key>y</key><string>81540.1340</string></dict>
+<dict>
+<key>identifier</key><string>c91a61b1-04d1-44e1-82b2-875d1f1cc0b2</string><key>stan_name</key><string>红雷饭店</string><key>multi_info</key><string> </string><key>x</key><string>81659.2969</string><key>y</key><string>82450.0859</string></dict>
+<dict>
+<key>identifier</key><string>147f408f-28bb-427d-8deb-69a7cb21e89a</string><key>stan_name</key><string>林苑饭店</string><key>multi_info</key><string> </string><key>x</key><string>82563.8047</string><key>y</key><string>82464.2344</string></dict>
+<dict>
+<key>identifier</key><string>b58eae38-566a-4f3d-90df-e59e283db3b6</string><key>stan_name</key><string>杭州集锦饭店</string><key>multi_info</key><string> </string><key>x</key><string>76656.0391</string><key>y</key><string>83507.0859</string></dict>
+<dict>
+<key>identifier</key><string>a10909c9-a291-4c10-bab1-bc698beafae8</string><key>stan_name</key><string>娃哈哈美食城</string><key>multi_info</key><string> </string><key>x</key><string>80385.2266</string><key>y</key><string>81562.0391</string></dict>
+<dict>
+<key>identifier</key><string>e1f87286-fd09-4443-a558-ddc6e4f8f3f8</string><key>stan_name</key><string>刘家香辣馆</string><key>multi_info</key><string> </string><key>x</key><string>79950.4141</string><key>y</key><string>82505.7031</string></dict>
+<dict>
+<key>identifier</key><string>decb45ef-6657-42f0-a541-e2d6bf0f1c06</string><key>stan_name</key><string>杭州酒家</string><key>multi_info</key><string> </string><key>x</key><string>81737.5312</string><key>y</key><string>83570.5625</string></dict>
+<dict>
+<key>identifier</key><string>838b1f92-161e-4e48-a924-aaee5c756a40</string><key>stan_name</key><string>百合花饭店</string><key>multi_info</key><string> </string><key>x</key><string>76652.9922</string><key>y</key><string>81663.4063</string></dict>
+<dict>
+<key>identifier</key><string>9355974b-ed54-4f03-b417-414ae6e12e69</string><key>stan_name</key><string>真一餐厅</string><key>multi_info</key><string> </string><key>x</key><string>80334.8828</string><key>y</key><string>82999.5469</string></dict>
+<dict>
+<key>identifier</key><string>271d99ba-1d88-4bc5-bc35-0314ce0787f8</string><key>stan_name</key><string>严州府</string><key>multi_info</key><string> </string><key>x</key><string>82973.8672</string><key>y</key><string>81712.1562</string></dict>
+<dict>
+<key>identifier</key><string>b740f1b4-a5c7-499f-8dc5-d67853ba42c8</string><key>stan_name</key><string>极简餐吧</string><key>multi_info</key><string> </string><key>x</key><string>79689.1953</string><key>y</key><string>80635.9375</string></dict>
+<dict>
+<key>identifier</key><string>0e8496b7-88ca-4b31-a6d9-0cfcb867943f</string><key>stan_name</key><string>状元馆</string><key>multi_info</key><string> </string><key>x</key><string>80631.2031</string><key>y</key><string>79630.0703</string></dict>
+<dict>
+<key>identifier</key><string>090bc144-3a7d-4276-9aa5-f46088535702</string><key>stan_name</key><string>方生记</string><key>multi_info</key><string> </string><key>x</key><string>76365.0859</string><key>y</key><string>81768.8750</string></dict>
+<dict>
+<key>identifier</key><string>b341644d-867c-4c30-aa2d-44d06ba4330f</string><key>stan_name</key><string>澳门豆捞</string><key>multi_info</key><string> </string><key>x</key><string>84145.8828</string><key>y</key><string>82682.3828</string></dict>
+<dict>
+<key>identifier</key><string>ff9a0d4b-5c99-4d13-b570-24dc60852599</string><key>stan_name</key><string>洪涛酒家</string><key>multi_info</key><string> </string><key>x</key><string>83054.9844</string><key>y</key><string>80866.3281</string></dict>
+<dict>
+<key>identifier</key><string>2af0f644-bc98-4f5b-a72e-550bc1b6b745</string><key>stan_name</key><string>西子饭店</string><key>multi_info</key><string> </string><key>x</key><string>76386.1250</string><key>y</key><string>81864.3906</string></dict>
+<dict>
+<key>identifier</key><string>e2dcf5d1-fde4-451c-aded-7e37fe8d8873</string><key>stan_name</key><string>一品砂锅</string><key>multi_info</key><string> </string><key>x</key><string>80240.1406</string><key>y</key><string>82759.5859</string></dict>
+<dict>
+<key>identifier</key><string>ffc65a5a-2324-447a-a283-9d0975d1a782</string><key>stan_name</key><string>川味观</string><key>multi_info</key><string> </string><key>x</key><string>80162.7891</string><key>y</key><string>80869.1406</string></dict>
+<dict>
+<key>identifier</key><string>9a98b9ec-c44a-45c9-98ce-961b1499b575</string><key>stan_name</key><string>新疆帕米尔餐厅</string><key>multi_info</key><string> </string><key>x</key><string>83408.2187</string><key>y</key><string>80909.4688</string></dict>
+<dict>
+<key>identifier</key><string>8b8a830e-988b-4386-9a66-d832ed7c5706</string><key>stan_name</key><string>华家饭店</string><key>multi_info</key><string> </string><key>x</key><string>82397.8672</string><key>y</key><string>81852.4375</string></dict>
+<dict>
+<key>identifier</key><string>4ae1c445-31f7-46e7-b806-5d60aebc68ee</string><key>stan_name</key><string>川浙会</string><key>multi_info</key><string> </string><key>x</key><string>82410.7031</string><key>y</key><string>81875.6172</string></dict>
+<dict>
+<key>identifier</key><string>eacd6dcb-df21-4c5d-bc7b-b1b494c7ef99</string><key>stan_name</key><string>金田一村</string><key>multi_info</key><string> </string><key>x</key><string>76838.8203</string><key>y</key><string>81897.4766</string></dict>
+<dict>
+<key>identifier</key><string>f9647d51-7332-4369-a685-498fa6f8255f</string><key>stan_name</key><string>采荷饭店</string><key>multi_info</key><string> </string><key>x</key><string>82424.0391</string><key>y</key><string>80962.0547</string></dict>
+<dict>
+<key>identifier</key><string>3e5cae7b-1ca0-440d-8865-0ca3f1926fdb</string><key>stan_name</key><string>金乐饭店</string><key>multi_info</key><string> </string><key>x</key><string>76261.3906</string><key>y</key><string>82827.0703</string></dict>
+<dict>
+<key>identifier</key><string>a8e1eda6-9854-4a01-8ec0-ee1aed7738de</string><key>stan_name</key><string>陈生记</string><key>multi_info</key><string> </string><key>x</key><string>80231.4063</string><key>y</key><string>82805.5391</string></dict>
+<dict>
+<key>identifier</key><string>57b77ae3-2087-48c0-9380-e617dff774e0</string><key>stan_name</key><string>顺坝饭店</string><key>multi_info</key><string> </string><key>x</key><string>92482.7140</string><key>y</key><string>82860.9760</string></dict>
+<dict>
+<key>identifier</key><string>14a91720-cae2-4e75-93fa-ca4527cce730</string><key>stan_name</key><string>王大姐酒家</string><key>multi_info</key><string> </string><key>x</key><string>80220.6953</string><key>y</key><string>81057.8438</string></dict>
+<dict>
+<key>identifier</key><string>5968d37f-9489-4c56-9779-3800345a05f1</string><key>stan_name</key><string>小肥羊餐馆</string><key>multi_info</key><string> </string><key>x</key><string>80279.9297</string><key>y</key><string>82887.1172</string></dict>
+<dict>
+<key>identifier</key><string>119ae544-e656-4114-a1f8-cb2f701fa36e</string><key>stan_name</key><string>饭店</string><key>multi_info</key><string> </string><key>x</key><string>71912.7578</string><key>y</key><string>88102.1953</string></dict>
+<dict>
+<key>identifier</key><string>3b48449e-2740-41f6-a7ae-1b3010d702a0</string><key>stan_name</key><string>杭州向阳大院大酒店</string><key>multi_info</key><string> </string><key>x</key><string>72432.7460</string><key>y</key><string>81442.9030</string></dict>
+<dict>
+<key>identifier</key><string>76b69f70-89fb-4717-b70f-70929329920d</string><key>stan_name</key><string>楼外楼</string><key>multi_info</key><string> </string><key>x</key><string>77651.3880</string><key>y</key><string>80747.9680</string></dict>
+<dict>
+<key>identifier</key><string>5eaf779d-1a1c-4522-bad5-fde665a55264</string><key>stan_name</key><string>灵光菜馆</string><key>multi_info</key><string> </string><key>x</key><string>76498.7030</string><key>y</key><string>80981.0340</string></dict>
+<dict>
+<key>identifier</key><string>2914717d-d746-4dca-ba71-ec3a45b8ea5c</string><key>stan_name</key><string>方生记酒店</string><key>multi_info</key><string> </string><key>x</key><string>76365.23</string><key>y</key><string>81780.14</string></dict>
+<dict>
+<key>identifier</key><string>4ca8f74f-cb84-4e79-9bb0-fa229d975bee</string><key>stan_name</key><string>太福楼大酒店</string><key>multi_info</key><string> </string><key>x</key><string>69808.1720</string><key>y</key><string>79965.4880</string></dict>
+<dict>
+<key>identifier</key><string>5412d04d-de5c-4f04-8f2e-1035f31c4c1e</string><key>stan_name</key><string>山外山菜馆</string><key>multi_info</key><string> </string><key>x</key><string>75737.3180</string><key>y</key><string>81385.5620</string></dict>
+<dict>
+<key>identifier</key><string>461a2e8b-e0d0-457f-9beb-eb5a4411d70f</string><key>stan_name</key><string>楼外楼</string><key>multi_info</key><string> </string><key>x</key><string>77772.6570</string><key>y</key><string>80738.1820</string></dict>
+<dict>
+<key>identifier</key><string>d948779d-f8a2-4c09-94ce-f63c25731a9e</string><key>stan_name</key><string>雅米澳门豆捞</string><key>multi_info</key><string> </string><key>x</key><string>78923.6550</string><key>y</key><string>81936.71</string></dict>
+<dict>
+<key>identifier</key><string>10bfa1b5-2fc4-49db-8951-a87e74a3f1ad</string><key>stan_name</key><string>碧连天酒楼</string><key>multi_info</key><string> </string><key>x</key><string>78726.1910</string><key>y</key><string>81797.1060</string></dict>
+<dict>
+<key>identifier</key><string>87d34828-1d74-4b1f-871d-5cd699d42d86</string><key>stan_name</key><string>西溪水乡酒店</string><key>multi_info</key><string> </string><key>x</key><string>70151.8370</string><key>y</key><string>84496.2260</string></dict>
+<dict>
+<key>identifier</key><string>e1a14502-d008-48ea-acae-93ab232f552a</string><key>stan_name</key><string>聚悦楼大酒店</string><key>multi_info</key><string> </string><key>x</key><string>77016.6670</string><key>y</key><string>83241.9690</string></dict>
+<dict>
+<key>identifier</key><string>cb63164b-4062-4895-9652-6960fc9bdc21</string><key>stan_name</key><string>鸿福大酒楼</string><key>multi_info</key><string> </string><key>x</key><string>79569.5850</string><key>y</key><string>81467.3960</string></dict>
+<dict>
+<key>identifier</key><string>c776db14-e8fa-40e1-9a47-c66e4292a0bd</string><key>stan_name</key><string>鑫紫云食浦海鲜城</string><key>multi_info</key><string> </string><key>x</key><string>77775.9740</string><key>y</key><string>82753.9840</string></dict>
+<dict>
+<key>identifier</key><string>c3a1ef20-347b-4046-924d-52aab3ea1614</string><key>stan_name</key><string>龙宫大酒店</string><key>multi_info</key><string> </string><key>x</key><string>77741.2780</string><key>y</key><string>82775.0190</string></dict>
+<dict>
+<key>identifier</key><string>06d27390-f2df-4384-b5cd-cbf4bd852669</string><key>stan_name</key><string>金玉良缘酒店</string><key>multi_info</key><string> </string><key>x</key><string>76240.8520</string><key>y</key><string>83937.7280</string></dict>
+<dict>
+<key>identifier</key><string>3736a3dc-826b-48de-86ba-96d38d42a3d0</string><key>stan_name</key><string>浙江展览大酒店</string><key>multi_info</key><string> </string><key>x</key><string>79831.3570</string><key>y</key><string>83247.3020</string></dict>
+<dict>
+<key>identifier</key><string>948ed6a5-45a9-4c1f-a2b6-5cd631538667</string><key>stan_name</key><string>星港酒店</string><key>multi_info</key><string> </string><key>x</key><string>78641.6370</string><key>y</key><string>83945.27</string></dict>
+<dict>
+<key>identifier</key><string>90f62c44-7a7f-48f6-a7e6-928dd5b8fe80</string><key>stan_name</key><string>旺角.粤浙会酒楼</string><key>multi_info</key><string> </string><key>x</key><string>78088.2690</string><key>y</key><string>83213.5010</string></dict>
+<dict>
+<key>identifier</key><string>30491ce3-2deb-44cd-b3d0-b1f7ce583e7f</string><key>stan_name</key><string>海味鲜大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78682.9840</string><key>y</key><string>83244.6520</string></dict>
+<dict>
+<key>identifier</key><string>d34920d4-6c88-4e10-8cf0-f6c32ef09123</string><key>stan_name</key><string>杰欣世纪酒店</string><key>multi_info</key><string> </string><key>x</key><string>79563.9330</string><key>y</key><string>80142.2460</string></dict>
+<dict>
+<key>identifier</key><string>6995af25-c4b9-4175-a464-1f5e5b49747c</string><key>stan_name</key><string>华中城宴会厅</string><key>multi_info</key><string> </string><key>x</key><string>78942.0050</string><key>y</key><string>82236.3810</string></dict>
+<dict>
+<key>identifier</key><string>174a054d-ff6a-491f-a2f8-a94ea33053ea</string><key>stan_name</key><string>国春饭店</string><key>multi_info</key><string> </string><key>x</key><string>79838.8390</string><key>y</key><string>81610.1910</string></dict>
+<dict>
+<key>identifier</key><string>660eed0b-4c31-43ab-ba03-b4ce8dbd2483</string><key>stan_name</key><string>曙光大酒店</string><key>multi_info</key><string> </string><key>x</key><string>79053.62</string><key>y</key><string>82819.8960</string></dict>
+<dict>
+<key>identifier</key><string>7782aa64-3f1a-473a-b0b5-30fea3b2b935</string><key>stan_name</key><string>鸿喜酒楼</string><key>multi_info</key><string> </string><key>x</key><string>79617.58</string><key>y</key><string>83187.5710</string></dict>
+<dict>
+<key>identifier</key><string>453896de-8860-43e7-94a0-a8ed7c87c7fc</string><key>stan_name</key><string>日本料理</string><key>multi_info</key><string> </string><key>x</key><string>80239.7969</string><key>y</key><string>82894.8906</string></dict>
+<dict>
+<key>identifier</key><string>82059c11-bf01-415f-934f-433a10253ce7</string><key>stan_name</key><string>安华饭店</string><key>multi_info</key><string> </string><key>x</key><string>83258.1250</string><key>y</key><string>80042.1563</string></dict>
+<dict>
+<key>identifier</key><string>31520a14-0eb6-4257-bf5a-2cf6f186d580</string><key>stan_name</key><string>可乐饭店</string><key>multi_info</key><string> </string><key>x</key><string>85553.8984</string><key>y</key><string>82090.2734</string></dict>
+<dict>
+<key>identifier</key><string>c5c85f10-1d43-43bc-98bf-ea6902d57cda</string><key>stan_name</key><string>浙江外婆餐饮有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75334.0558</string><key>y</key><string>82949.3956</string></dict>
+<dict>
+<key>identifier</key><string>1fe991a8-ceae-429a-9b84-4a47e52c8eee</string><key>stan_name</key><string>万隆酒家</string><key>multi_info</key><string> </string><key>x</key><string>80552.0625</string><key>y</key><string>81162</string></dict>
+<dict>
+<key>identifier</key><string>56125134-6c88-477d-ac1f-9b2d09fcad2f</string><key>stan_name</key><string>茧尼岭饭店</string><key>multi_info</key><string> </string><key>x</key><string>75874.3554</string><key>y</key><string>80170.7168</string></dict>
+<dict>
+<key>identifier</key><string>dec27713-05f4-41c5-aaed-69fe81d28d64</string><key>stan_name</key><string>1917花园餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79500.6250</string><key>y</key><string>80198.3281</string></dict>
+<dict>
+<key>identifier</key><string>d6ff49e0-6e43-4ece-81ec-358baa332deb</string><key>stan_name</key><string>好世界大酒店</string><key>multi_info</key><string> </string><key>x</key><string>92611.7701</string><key>y</key><string>100622.0598</string></dict>
+<dict>
+<key>identifier</key><string>a476ea26-f0df-4a4f-a2d4-a3c60e3cbae2</string><key>stan_name</key><string>运河农家乐</string><key>multi_info</key><string> </string><key>x</key><string>92493.90</string><key>y</key><string>106752.4060</string></dict>
+<dict>
+<key>identifier</key><string>b5aca2cc-5fa6-4b62-ac54-1f6536a1fcd9</string><key>stan_name</key><string>乡间草堂</string><key>multi_info</key><string> </string><key>x</key><string>76165.0940</string><key>y</key><string>93659.6420</string></dict>
+<dict>
+<key>identifier</key><string>a0cda1ea-6cf4-4441-8ffe-1b0e1e81d0b8</string><key>stan_name</key><string>新天河宾馆餐厅</string><key>multi_info</key><string> </string><key>x</key><string>75137.2969</string><key>y</key><string>87856.9687</string></dict>
+<dict>
+<key>identifier</key><string>5804ce82-7a2c-4e7c-8b73-8566f05dc284</string><key>stan_name</key><string>鸿乐饭店</string><key>multi_info</key><string> </string><key>x</key><string>75084.5391</string><key>y</key><string>87905.1406</string></dict>
+<dict>
+<key>identifier</key><string>3849a7e7-9863-4688-ad28-3329a338a854</string><key>stan_name</key><string>新事业饭店</string><key>multi_info</key><string> </string><key>x</key><string>81131.9618</string><key>y</key><string>91918.9588</string></dict>
+<dict>
+<key>identifier</key><string>5e214e89-f910-49f1-b85e-bd321be026a0</string><key>stan_name</key><string>和睦饭店</string><key>multi_info</key><string> </string><key>x</key><string>76228.3594</string><key>y</key><string>87163.3047</string></dict>
+<dict>
+<key>identifier</key><string>c6bffd95-e2fd-435f-a6e5-1b67cb72c927</string><key>stan_name</key><string>蓝御宫大酒店</string><key>multi_info</key><string> </string><key>x</key><string>75829.0580</string><key>y</key><string>84168.5140</string></dict>
+<dict>
+<key>identifier</key><string>872c8286-81e5-40a8-b8af-cd3c517e7d4d</string><key>stan_name</key><string>鱼老大海鲜大酒店</string><key>multi_info</key><string> </string><key>x</key><string>75646.2410</string><key>y</key><string>84124.5630</string></dict>
+<dict>
+<key>identifier</key><string>142f37bd-b736-4c40-8afd-a6387f6252b9</string><key>stan_name</key><string>巴国布衣风味酒楼</string><key>multi_info</key><string> </string><key>x</key><string>81847.0610</string><key>y</key><string>80719.1420</string></dict>
+<dict>
+<key>identifier</key><string>f72e76a9-1d95-494e-8181-670a9ad38df9</string><key>stan_name</key><string>渔农野鱼馆</string><key>multi_info</key><string> </string><key>x</key><string>74263.5620</string><key>y</key><string>83674.3940</string></dict>
+<dict>
+<key>identifier</key><string>897db2f9-6505-4ca0-a43e-1be7cd40ff3a</string><key>stan_name</key><string>最美主题餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79708.29</string><key>y</key><string>80647.2260</string></dict>
+<dict>
+<key>identifier</key><string>a16be697-df61-441c-b002-dac8fd8e5d63</string><key>stan_name</key><string>城市酒店</string><key>multi_info</key><string> </string><key>x</key><string>80541.6570</string><key>y</key><string>80647.0050</string></dict>
+<dict>
+<key>identifier</key><string>80872f0a-6c3d-41c5-982d-ca407f3a6a8a</string><key>stan_name</key><string>景江酒店</string><key>multi_info</key><string> </string><key>x</key><string>80203.6180</string><key>y</key><string>80624.9610</string></dict>
+<dict>
+<key>identifier</key><string>754b0347-8622-49cd-8076-b2bbd7327dd1</string><key>stan_name</key><string>宝葫芦大酒店</string><key>multi_info</key><string> </string><key>x</key><string>79282.1530</string><key>y</key><string>85859.0860</string></dict>
+<dict>
+<key>identifier</key><string>88d27540-2d75-4056-a4cf-67bffb0436d8</string><key>stan_name</key><string>新开元大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78136.5490</string><key>y</key><string>84713.3070</string></dict>
+<dict>
+<key>identifier</key><string>fb7e96f7-90e5-434d-b88d-9d2d81201d08</string><key>stan_name</key><string>八百楼酒店</string><key>multi_info</key><string> </string><key>x</key><string>82359.0610</string><key>y</key><string>80707.0460</string></dict>
+<dict>
+<key>identifier</key><string>d6cbb7bb-37c1-4db5-bee5-0241a74f3a9a</string><key>stan_name</key><string>章记土菜</string><key>multi_info</key><string> </string><key>x</key><string>82108.5510</string><key>y</key><string>81024.4260</string></dict>
+<dict>
+<key>identifier</key><string>e0ecec11-f13d-494e-b2f8-8926e992c862</string><key>stan_name</key><string>杭州哨兵大酒店</string><key>multi_info</key><string> </string><key>x</key><string>82016.3290</string><key>y</key><string>81547.7710</string></dict>
+<dict>
+<key>identifier</key><string>af7799b9-c632-48cf-a04e-f81a6fb7c9b3</string><key>stan_name</key><string>川福楼</string><key>multi_info</key><string> </string><key>x</key><string>82435.1720</string><key>y</key><string>81658.9080</string></dict>
+<dict>
+<key>identifier</key><string>25d9d5a2-35ab-42ad-ba71-65ed998afee5</string><key>stan_name</key><string>川浙会</string><key>multi_info</key><string> </string><key>x</key><string>82439.8780</string><key>y</key><string>81823.7460</string></dict>
+<dict>
+<key>identifier</key><string>92377f55-151d-4dad-be5e-e97bdf447751</string><key>stan_name</key><string>老外公外婆火锅城</string><key>multi_info</key><string> </string><key>x</key><string>82454.1030</string><key>y</key><string>83376.3360</string></dict>
+<dict>
+<key>identifier</key><string>3ec6700e-6c11-4a58-98a4-ae5bee64d636</string><key>stan_name</key><string>丰园食坊</string><key>multi_info</key><string> </string><key>x</key><string>82528.8860</string><key>y</key><string>82184.4820</string></dict>
+<dict>
+<key>identifier</key><string>d60e4a9b-cd39-4cef-9ae4-4ee74bf176c7</string><key>stan_name</key><string>宜鼎轩大酒店</string><key>multi_info</key><string> </string><key>x</key><string>84684.76</string><key>y</key><string>83100.1070</string></dict>
+<dict>
+<key>identifier</key><string>defd262f-1c09-43bd-8165-72674b883052</string><key>stan_name</key><string>台州湾海鲜城</string><key>multi_info</key><string> </string><key>x</key><string>82297.8480</string><key>y</key><string>84508.1990</string></dict>
+<dict>
+<key>identifier</key><string>9fb53fcf-15c7-4427-bd96-d535916562ec</string><key>stan_name</key><string>香樟名楼酒店</string><key>multi_info</key><string> </string><key>x</key><string>82414.1980</string><key>y</key><string>81882.5050</string></dict>
+<dict>
+<key>identifier</key><string>c3ac124b-3ed0-4d7d-99c8-08c14efcffd5</string><key>stan_name</key><string>湖墅大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78412.0160</string><key>y</key><string>85227.7730</string></dict>
+<dict>
+<key>identifier</key><string>08ae8d20-de75-49c3-aecc-d342d3aa808e</string><key>stan_name</key><string>别饮居酒店</string><key>multi_info</key><string> </string><key>x</key><string>80194.2270</string><key>y</key><string>80923.8360</string></dict>
+<dict>
+<key>identifier</key><string>d9d95029-a0e2-4631-a3d6-aee1de9255eb</string><key>stan_name</key><string>满江红大酒店</string><key>multi_info</key><string> </string><key>x</key><string>81370.6330</string><key>y</key><string>79705.9530</string></dict>
+<dict>
+<key>identifier</key><string>a60ff45d-a80b-436d-bf36-180927cc9357</string><key>stan_name</key><string>张生记酒店</string><key>multi_info</key><string> </string><key>x</key><string>82899.3670</string><key>y</key><string>81763.25</string></dict>
+<dict>
+<key>identifier</key><string>d7361819-3e3b-4e0e-a565-c2c785dad09b</string><key>stan_name</key><string>美时年酒店</string><key>multi_info</key><string> </string><key>x</key><string>82960.7110</string><key>y</key><string>81738.7580</string></dict>
+<dict>
+<key>identifier</key><string>7b82c03a-cf43-476d-82f5-8a31afabc207</string><key>stan_name</key><string>老地方土菜馆</string><key>multi_info</key><string> </string><key>x</key><string>81460.9380</string><key>y</key><string>79023.88</string></dict>
+<dict>
+<key>identifier</key><string>78670206-eb71-47fb-acdc-deb200de4f13</string><key>stan_name</key><string>花中城藕香居大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78331.3190</string><key>y</key><string>78544.4540</string></dict>
+<dict>
+<key>identifier</key><string>7262f838-8b6a-4270-8cc5-2624354ea246</string><key>stan_name</key><string>多益处酒家</string><key>multi_info</key><string> </string><key>x</key><string>80663.4680</string><key>y</key><string>79674.8980</string></dict>
+<dict>
+<key>identifier</key><string>218a8072-df2b-4ad2-ae4c-c3582a28e57d</string><key>stan_name</key><string>博澳、好日子大酒店</string><key>multi_info</key><string> </string><key>x</key><string>81207.8360</string><key>y</key><string>87225.8190</string></dict>
+<dict>
+<key>identifier</key><string>2808788e-9d9e-4834-926a-661e9e9ef02e</string><key>stan_name</key><string>囫囵酒店</string><key>multi_info</key><string> </string><key>x</key><string>86202.1720</string><key>y</key><string>91008.4530</string></dict>
+<dict>
+<key>identifier</key><string>1e9bed65-e0cf-4c40-93d9-9ea2225f0b3f</string><key>stan_name</key><string>新皇阁酒店</string><key>multi_info</key><string> </string><key>x</key><string>85330.0620</string><key>y</key><string>91844.75</string></dict>
+<dict>
+<key>identifier</key><string>84dc9c4b-a9df-40ef-bd4f-91fd2a566b9a</string><key>stan_name</key><string>阿舵大酒店</string><key>multi_info</key><string> </string><key>x</key><string>86162.7730</string><key>y</key><string>82696.6020</string></dict>
+<dict>
+<key>identifier</key><string>cd58394b-368f-4c8a-8c3c-fd3455012af4</string><key>stan_name</key><string>红泥花园大酒店</string><key>multi_info</key><string> </string><key>x</key><string>79809.68</string><key>y</key><string>81364</string></dict>
+<dict>
+<key>identifier</key><string>ab2847f1-134f-468d-bdf6-6b3cd7a079a3</string><key>stan_name</key><string>四季绿色酒家</string><key>multi_info</key><string> </string><key>x</key><string>95046.0121</string><key>y</key><string>87296.4397</string></dict>
+<dict>
+<key>identifier</key><string>ceb0f2ce-ae30-40e3-aa30-639106c00969</string><key>stan_name</key><string>老叶饭店</string><key>multi_info</key><string> </string><key>x</key><string>72533.7578</string><key>y</key><string>88687.6563</string></dict>
+<dict>
+<key>identifier</key><string>df9c35b1-7bcd-47af-820a-c0e233d7d84b</string><key>stan_name</key><string>兆丰新农家</string><key>multi_info</key><string> </string><key>x</key><string>74274.1614</string><key>y</key><string>87363.2816</string></dict>
+<dict>
+<key>identifier</key><string>9dbb4b5b-0cc0-4475-933c-1219e6c29b07</string><key>stan_name</key><string>叶家村饭店</string><key>multi_info</key><string> </string><key>x</key><string>72661.4688</string><key>y</key><string>88712.7031</string></dict>
+<dict>
+<key>identifier</key><string>48e94f5d-7958-42f7-8dc9-661c2ebf057b</string><key>stan_name</key><string>新三毛大酒店</string><key>multi_info</key><string> </string><key>x</key><string>80763.2590</string><key>y</key><string>80334.9070</string></dict>
+<dict>
+<key>identifier</key><string>17fc0f2c-8ae8-49f5-adc0-fe888ebcd55a</string><key>stan_name</key><string>语过添情酒楼</string><key>multi_info</key><string> </string><key>x</key><string>75920.37</string><key>y</key><string>85885.3240</string></dict>
+<dict>
+<key>identifier</key><string>9a9208b0-d010-453f-b8ed-b3b1e043693b</string><key>stan_name</key><string>登云阁酒楼</string><key>multi_info</key><string> </string><key>x</key><string>75377.5010</string><key>y</key><string>85726.4810</string></dict>
+<dict>
+<key>identifier</key><string>dd9addae-984a-47ab-9156-dedccfd93703</string><key>stan_name</key><string>西陵饭店</string><key>multi_info</key><string> </string><key>x</key><string>85926.5156</string><key>y</key><string>73625.4375</string></dict>
+<dict>
+<key>identifier</key><string>cdef2859-1567-462b-8783-bee9d34614cd</string><key>stan_name</key><string>渔为鲜</string><key>multi_info</key><string> </string><key>x</key><string>75425.5313</string><key>y</key><string>73638.6641</string></dict>
+<dict>
+<key>identifier</key><string>c1a458a6-ec5c-4c5e-91ff-761569eef0c0</string><key>stan_name</key><string>顺峰农庄</string><key>multi_info</key><string> </string><key>x</key><string>88005.30</string><key>y</key><string>66835.0421</string></dict>
+<dict>
+<key>identifier</key><string>01749739-1989-4c8e-868d-d84d2b303736</string><key>stan_name</key><string>菁青江鲜馆</string><key>multi_info</key><string> </string><key>x</key><string>72215.1987</string><key>y</key><string>62010.6335</string></dict>
+<dict>
+<key>identifier</key><string>ae9d6cf7-3c66-4038-be02-a930d1c78ecd</string><key>stan_name</key><string>江中潮饭店</string><key>multi_info</key><string> </string><key>x</key><string>76212.5674</string><key>y</key><string>65012.7236</string></dict>
+<dict>
+<key>identifier</key><string>9e420262-ea90-4ead-a025-a0e7ed4756b4</string><key>stan_name</key><string>春夏秋冬饭店</string><key>multi_info</key><string> </string><key>x</key><string>75658.0290</string><key>y</key><string>78293.0970</string></dict>
+<dict>
+<key>identifier</key><string>d4810850-c766-4c1f-86f1-c93612130cac</string><key>stan_name</key><string>蒋菊芳饭店</string><key>multi_info</key><string> </string><key>x</key><string>67365.8125</string><key>y</key><string>69214.8438</string></dict>
+<dict>
+<key>identifier</key><string>75797662-eb91-4ba5-91a9-5d26c4b38e1f</string><key>stan_name</key><string>光荣饭店</string><key>multi_info</key><string> </string><key>x</key><string>67440.5625</string><key>y</key><string>69225.9375</string></dict>
+<dict>
+<key>identifier</key><string>e5c28612-6ca1-4a5d-851e-494bf1d15402</string><key>stan_name</key><string>香辣馆</string><key>multi_info</key><string> </string><key>x</key><string>67498.4219</string><key>y</key><string>69240.0156</string></dict>
+<dict>
+<key>identifier</key><string>5374113d-7e2a-4db8-bd86-0a99235ac924</string><key>stan_name</key><string>胖子饭店</string><key>multi_info</key><string> </string><key>x</key><string>68156.3984</string><key>y</key><string>69330.8750</string></dict>
+<dict>
+<key>identifier</key><string>a6695c6d-1d71-4aac-b240-d825030d8e88</string><key>stan_name</key><string>蒋老五饭店</string><key>multi_info</key><string> </string><key>x</key><string>68143.9609</string><key>y</key><string>69334.3281</string></dict>
+<dict>
+<key>identifier</key><string>34f39a98-858c-4b44-86b2-410857a4efd5</string><key>stan_name</key><string>桥边饭店</string><key>multi_info</key><string> </string><key>x</key><string>71744.9219</string><key>y</key><string>70853.0078</string></dict>
+<dict>
+<key>identifier</key><string>65b11f4e-4ea3-4b8a-bcbc-48ed9c63aca6</string><key>stan_name</key><string>江园酒家</string><key>multi_info</key><string> </string><key>x</key><string>73431.7677</string><key>y</key><string>72054.3047</string></dict>
+<dict>
+<key>identifier</key><string>308c699d-fc97-430f-ba99-de6bea4747ea</string><key>stan_name</key><string>群乐饭店</string><key>multi_info</key><string> </string><key>x</key><string>80921.3203</string><key>y</key><string>73373.9297</string></dict>
+<dict>
+<key>identifier</key><string>7a63d4d9-870f-4d0f-9042-a939399afafe</string><key>stan_name</key><string>好德火锅城</string><key>multi_info</key><string> </string><key>x</key><string>108249.9620</string><key>y</key><string>72839.7410</string></dict>
+<dict>
+<key>identifier</key><string>7be60947-1a31-411c-a126-42e7fb026a43</string><key>stan_name</key><string>聚乐饭店</string><key>multi_info</key><string> </string><key>x</key><string>85927.3281</string><key>y</key><string>73875.0938</string></dict>
+<dict>
+<key>identifier</key><string>eb3e5687-dbef-431e-851b-088ee15c640c</string><key>stan_name</key><string>佳陵饭店</string><key>multi_info</key><string> </string><key>x</key><string>85857.3438</string><key>y</key><string>73911.8438</string></dict>
+<dict>
+<key>identifier</key><string>2944307b-ba4d-4f0a-b2a5-1c578c832695</string><key>stan_name</key><string>吴记饭庄</string><key>multi_info</key><string> </string><key>x</key><string>83280.3750</string><key>y</key><string>74694.6719</string></dict>
+<dict>
+<key>identifier</key><string>0c2a5608-1950-47e1-9e2a-278d7ac9f4f3</string><key>stan_name</key><string>安达饭店</string><key>multi_info</key><string> </string><key>x</key><string>83086.6016</string><key>y</key><string>74744.1563</string></dict>
+<dict>
+<key>identifier</key><string>1b6d96a3-23c3-439f-b128-1de09d02495d</string><key>stan_name</key><string>溪中溪</string><key>multi_info</key><string> </string><key>x</key><string>74924.2734</string><key>y</key><string>75506.4844</string></dict>
+<dict>
+<key>identifier</key><string>986193ff-5ed4-4e47-a203-cde12d74c3bc</string><key>stan_name</key><string>饭店</string><key>multi_info</key><string> </string><key>x</key><string>78638.4687</string><key>y</key><string>75584.3281</string></dict>
+<dict>
+<key>identifier</key><string>cccc4415-26bf-47f5-8be2-34c7ca4fb5bd</string><key>stan_name</key><string>伟民饭店</string><key>multi_info</key><string> </string><key>x</key><string>80652.4453</string><key>y</key><string>76793.2656</string></dict>
+<dict>
+<key>identifier</key><string>1be23c0c-1129-4ccd-8c10-88acef1a3149</string><key>stan_name</key><string>龙井菜馆</string><key>multi_info</key><string> </string><key>x</key><string>74773.9704</string><key>y</key><string>77517.3163</string></dict>
+<dict>
+<key>identifier</key><string>1b031b5b-cade-47aa-9fb1-e8ef2b09b0ff</string><key>stan_name</key><string>酒家</string><key>multi_info</key><string> </string><key>x</key><string>69549.9062</string><key>y</key><string>78166.2110</string></dict>
+<dict>
+<key>identifier</key><string>699acffa-83eb-40bc-b87f-461acd68a7ce</string><key>stan_name</key><string>杨公堤湖畔酒家</string><key>multi_info</key><string> </string><key>x</key><string>77533.1641</string><key>y</key><string>78183.9766</string></dict>
+<dict>
+<key>identifier</key><string>afbfe900-698a-4236-a6dc-23c6ea85644c</string><key>stan_name</key><string>方人也餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79186.0156</string><key>y</key><string>78919.7109</string></dict>
+<dict>
+<key>identifier</key><string>2e3a2362-6813-4c1c-8d67-1252f3f5df4f</string><key>stan_name</key><string>红泥砂锅</string><key>multi_info</key><string> </string><key>x</key><string>79200.6094</string><key>y</key><string>78944.4766</string></dict>
+<dict>
+<key>identifier</key><string>6605e358-94a0-4cb5-8f16-8814adf9adfd</string><key>stan_name</key><string>钱丰酒家</string><key>multi_info</key><string> </string><key>x</key><string>83431.7188</string><key>y</key><string>78945.7891</string></dict>
+<dict>
+<key>identifier</key><string>b8b72393-4591-4f62-a71a-28fe500a3d80</string><key>stan_name</key><string>菲乐餐厅</string><key>multi_info</key><string> </string><key>x</key><string>79290.2344</string><key>y</key><string>79144.5078</string></dict>
+<dict>
+<key>identifier</key><string>b2dbab26-58be-40ce-81e7-9b8f95214ab9</string><key>stan_name</key><string>知味馆</string><key>multi_info</key><string> </string><key>x</key><string>69308.8203</string><key>y</key><string>79310.5078</string></dict>
+<dict>
+<key>identifier</key><string>0b64a317-2fb9-45dd-b314-5563634aebc5</string><key>stan_name</key><string>钜丰源海鲜鲍翅馆</string><key>multi_info</key><string> </string><key>x</key><string>79379.2422</string><key>y</key><string>79426.2969</string></dict>
+<dict>
+<key>identifier</key><string>1cb27568-c75f-457c-acb9-2d8b2f2d0733</string><key>stan_name</key><string>闸东饭店</string><key>multi_info</key><string> </string><key>x</key><string>82981.7578</string><key>y</key><string>83886.9688</string></dict>
+<dict>
+<key>identifier</key><string>04b675f7-5e6c-4d66-a1f9-59537e5b6d59</string><key>stan_name</key><string>知味观</string><key>multi_info</key><string> </string><key>x</key><string>80040.1562</string><key>y</key><string>83968.2344</string></dict>
+<dict>
+<key>identifier</key><string>64100448-0d07-4a54-987e-1c08987d1e6b</string><key>stan_name</key><string>西文大酒店</string><key>multi_info</key><string> </string><key>x</key><string>80923.3690</string><key>y</key><string>87905.1820</string></dict>
+<dict>
+<key>identifier</key><string>84e1c1dc-0be5-435a-aac3-94ba2c8b2bb7</string><key>stan_name</key><string>江南酒店</string><key>multi_info</key><string> </string><key>x</key><string>80570.5160</string><key>y</key><string>79833.7270</string></dict>
+<dict>
+<key>identifier</key><string>beff9280-8f51-422f-8752-8fcb3f2db6f3</string><key>stan_name</key><string>渔人码头大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78416.7580</string><key>y</key><string>88323.2810</string></dict>
+<dict>
+<key>identifier</key><string>7bed9442-700f-492d-95d2-02240e3ae62a</string><key>stan_name</key><string>新龙宫大酒店</string><key>multi_info</key><string> </string><key>x</key><string>75067.0860</string><key>y</key><string>85037.9380</string></dict>
+<dict>
+<key>identifier</key><string>0c35d030-7a21-4bf9-a5e5-2dc38d774d8b</string><key>stan_name</key><string>庆苑酒店</string><key>multi_info</key><string> </string><key>x</key><string>83729.1560</string><key>y</key><string>83062.2420</string></dict>
+<dict>
+<key>identifier</key><string>6b880b6f-467e-433c-88e4-2f0ab0b717ed</string><key>stan_name</key><string>雨笆蕉酒店</string><key>multi_info</key><string> </string><key>x</key><string>79332.5230</string><key>y</key><string>79119.9610</string></dict>
+<dict>
+<key>identifier</key><string>8fb66f26-4246-4737-979a-f060eb1586cb</string><key>stan_name</key><string>白荡海大酒店</string><key>multi_info</key><string> </string><key>x</key><string>77520.93</string><key>y</key><string>85027.3280</string></dict>
+<dict>
+<key>identifier</key><string>f843522a-5f3d-45d6-9c7d-7d58db12f913</string><key>stan_name</key><string>新三毛大酒店</string><key>multi_info</key><string> </string><key>x</key><string>81452.9840</string><key>y</key><string>81523.2810</string></dict>
+<dict>
+<key>identifier</key><string>8509841f-84e4-4a4b-a7ad-a6afc405062e</string><key>stan_name</key><string>稻香居酒店</string><key>multi_info</key><string> </string><key>x</key><string>78392.3440</string><key>y</key><string>93383.2270</string></dict>
+<dict>
+<key>identifier</key><string>38b1a784-242b-4cbc-b4b6-217ecb080e6a</string><key>stan_name</key><string>聚源大酒店</string><key>multi_info</key><string> </string><key>x</key><string>72015.1410</string><key>y</key><string>81287.82</string></dict>
+<dict>
+<key>identifier</key><string>3ad3edf6-7629-4d06-a4a7-99144b7b5b10</string><key>stan_name</key><string>兴隆大酒店</string><key>multi_info</key><string> </string><key>x</key><string>83340.6330</string><key>y</key><string>84132.3280</string></dict>
+<dict>
+<key>identifier</key><string>8104744e-fad7-426d-8369-9e99e9b071d4</string><key>stan_name</key><string>开元大酒店</string><key>multi_info</key><string> </string><key>x</key><string>80161.4220</string><key>y</key><string>80470.18</string></dict>
+<dict>
+<key>identifier</key><string>b71f3ad7-79d7-4cc7-a5d9-32e03ff5d82f</string><key>stan_name</key><string>乡村人家大酒店</string><key>multi_info</key><string> </string><key>x</key><string>71576.2730</string><key>y</key><string>66553.5230</string></dict>
+<dict>
+<key>identifier</key><string>6848bc02-6f89-4e6e-96bf-587e72a1d496</string><key>stan_name</key><string>村口大酒店</string><key>multi_info</key><string> </string><key>x</key><string>69299.2810</string><key>y</key><string>69457.8670</string></dict>
+<dict>
+<key>identifier</key><string>0391d26c-25a1-4803-abbd-f4ec7e997cb9</string><key>stan_name</key><string>北秀大酒店</string><key>multi_info</key><string> </string><key>x</key><string>79158.3480</string><key>y</key><string>89695.4060</string></dict>
+<dict>
+<key>identifier</key><string>1708f8ae-f946-4430-b806-855674d6d5e6</string><key>stan_name</key><string>明珠大酒店</string><key>multi_info</key><string> </string><key>x</key><string>78445.6880</string><key>y</key><string>87075.9140</string></dict>
+<dict>
+<key>identifier</key><string>5638cf30-d0b9-44e1-a309-aa99da226223</string><key>stan_name</key><string>鑫旺阁大酒店</string><key>multi_info</key><string> </string><key>x</key><string>89720.5917</string><key>y</key><string>87171.80</string></dict>
+<dict>
+<key>identifier</key><string>e63142e0-b4d4-42b7-8e57-77f9d0a43093</string><key>stan_name</key><string>西溪万怡园林餐厅</string><key>multi_info</key><string> </string><key>x</key><string>73152.3210</string><key>y</key><string>81819.0386</string></dict>
+<dict>
+<key>identifier</key><string>16b7a46e-06da-4717-90d8-da49566cf12a</string><key>stan_name</key><string>瑞源居花园餐厅</string><key>multi_info</key><string> </string><key>x</key><string>72049.5496</string><key>y</key><string>81770.1233</string></dict>
+</array>
+</plist>

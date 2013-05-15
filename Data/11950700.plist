@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>e95eda42-f0f0-45b2-9f2f-f1db4442aff3</string><key>stan_name</key><string>西兴电影院</string><key>multi_info</key><string> </string><key>x</key><string>85982.5938</string><key>y</key><string>73775.4453</string></dict>
+<dict>
+<key>identifier</key><string>949ffb9f-6377-4446-ba80-b5b9e07c8e4a</string><key>stan_name</key><string>浦沿影剧院</string><key>multi_info</key><string> </string><key>x</key><string>78761.4766</string><key>y</key><string>70287.1953</string></dict>
+<dict>
+<key>identifier</key><string>ed38ad8a-1928-415a-9670-1f0ee1c1106b</string><key>stan_name</key><string>长河电影院</string><key>multi_info</key><string> </string><key>x</key><string>82491.1016</string><key>y</key><string>71817.2656</string></dict>
+<dict>
+<key>identifier</key><string>03555977-aa01-414e-96a4-360498468174</string><key>stan_name</key><string>紫金小剧场</string><key>multi_info</key><string> </string><key>x</key><string>72367.4844</string><key>y</key><string>86696.4609</string></dict>
+<dict>
+<key>identifier</key><string>a3ed3e20-cee7-4800-90b5-eb39418967aa</string><key>stan_name</key><string>杭州滑稽艺术剧院</string><key>multi_info</key><string> </string><key>x</key><string>78718.1055</string><key>y</key><string>84112.5218</string></dict>
+<dict>
+<key>identifier</key><string>98965894-bfc4-4450-9966-530381f6c55f</string><key>stan_name</key><string>杭州剧院</string><key>multi_info</key><string> </string><key>x</key><string>79610.9063</string><key>y</key><string>83053.1406</string></dict>
+<dict>
+<key>identifier</key><string>96b5f8c2-313f-426e-af57-f1f85625d155</string><key>stan_name</key><string>兰苑剧院</string><key>multi_info</key><string> </string><key>x</key><string>80410.9531</string><key>y</key><string>84349.0391</string></dict>
+<dict>
+<key>identifier</key><string>99f3c31c-975e-41b0-8aa7-059cede16ace</string><key>stan_name</key><string>影剧院</string><key>multi_info</key><string> </string><key>x</key><string>70775.7188</string><key>y</key><string>84419.6719</string></dict>
+<dict>
+<key>identifier</key><string>bdebec79-279d-4d31-a516-66bf66dd6dd0</string><key>stan_name</key><string>浙江胜利剧院</string><key>multi_info</key><string> </string><key>x</key><string>79865.0363</string><key>y</key><string>81416.9131</string></dict>
+<dict>
+<key>identifier</key><string>fa59e940-5c59-45da-b073-c8f4a6e18d76</string><key>stan_name</key><string>浙江越剧团</string><key>multi_info</key><string> </string><key>x</key><string>79863.2265</string><key>y</key><string>81418.1094</string></dict>
+<dict>
+<key>identifier</key><string>10a5c4f2-ceb0-4a13-91b8-67829147d0df</string><key>stan_name</key><string>浙江省歌舞剧院</string><key>multi_info</key><string> </string><key>x</key><string>78080.4899</string><key>y</key><string>82524.7115</string></dict>
+<dict>
+<key>identifier</key><string>6e306fe1-028d-4bc4-af16-eeafc6d6af5a</string><key>stan_name</key><string>新华电影院</string><key>multi_info</key><string> </string><key>x</key><string>79973.2969</string><key>y</key><string>80599.8984</string></dict>
+<dict>
+<key>identifier</key><string>942e5b72-34b5-4014-9aab-6100a61dba21</string><key>stan_name</key><string>人民电影院</string><key>multi_info</key><string> </string><key>x</key><string>81576.1250</string><key>y</key><string>81817.9531</string></dict>
+<dict>
+<key>identifier</key><string>add9ddc7-0621-4eda-bc84-4f08b1ea9edc</string><key>stan_name</key><string>奥斯卡电影院</string><key>multi_info</key><string> </string><key>x</key><string>79491.8125</string><key>y</key><string>82045.0234</string></dict>
+<dict>
+<key>identifier</key><string>a69bb8b1-ff57-4aff-8f8c-7ce0aece532b</string><key>stan_name</key><string>西湖电影院</string><key>multi_info</key><string> </string><key>x</key><string>79814.1250</string><key>y</key><string>81127.7188</string></dict>
+<dict>
+<key>identifier</key><string>8b926ac9-7616-4ad3-8ab6-73b56456a56a</string><key>stan_name</key><string>杭州越剧院</string><key>multi_info</key><string> </string><key>x</key><string>81322.1797</string><key>y</key><string>80064.7422</string></dict>
+<dict>
+<key>identifier</key><string>1eb34004-2446-4187-a8b8-7852130ea600</string><key>stan_name</key><string>浙江省曲艺杂技总团</string><key>multi_info</key><string> </string><key>x</key><string>85202.1186</string><key>y</key><string>92071.3040</string></dict>
+<dict>
+<key>identifier</key><string>0915e2a9-d59d-429b-8513-66514c1662ee</string><key>stan_name</key><string>临平剧院</string><key>multi_info</key><string> </string><key>x</key><string>92944.5457</string><key>y</key><string>99703.6153</string></dict>
+<dict>
+<key>identifier</key><string>f31c4307-2ee2-4e53-a34b-5e87cafe07b9</string><key>stan_name</key><string>临平影城</string><key>multi_info</key><string> </string><key>x</key><string>93243.6414</string><key>y</key><string>99775.2165</string></dict>
+<dict>
+<key>identifier</key><string>1e8de896-e6ec-4b1d-a271-21d699c0edfe</string><key>stan_name</key><string>星河影院</string><key>multi_info</key><string> </string><key>x</key><string>96578.6454</string><key>y</key><string>87318.0009</string></dict>
+</array>
+</plist>

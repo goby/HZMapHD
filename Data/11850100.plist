@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>4f0c962b-ade6-4500-a8a2-12297aee31ce</string><key>stan_name</key><string>软件园三期</string><key>multi_info</key><string> </string><key>x</key><string>79841</string><key>y</key><string>73536.7813</string></dict>
+<dict>
+<key>identifier</key><string>279c90ff-48f7-4e64-bbdf-758721a326b4</string><key>stan_name</key><string>亚琪科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79694.0547</string><key>y</key><string>73549.2031</string></dict>
+<dict>
+<key>identifier</key><string>4bd79f48-57f2-45ed-9925-0eb6200bfad2</string><key>stan_name</key><string>杭州开源电脑技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80156.1875</string><key>y</key><string>72817.7109</string></dict>
+<dict>
+<key>identifier</key><string>04f19c48-045b-481c-8f25-07608f897d51</string><key>stan_name</key><string>计算机实验中心</string><key>multi_info</key><string> </string><key>x</key><string>72772.2031</string><key>y</key><string>86697.0781</string></dict>
+<dict>
+<key>identifier</key><string>7850e2c2-e57a-47e9-ae0e-45aebfcf1d80</string><key>stan_name</key><string>浙江浙大网新软件产业集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75725.5376</string><key>y</key><string>84011.0304</string></dict>
+<dict>
+<key>identifier</key><string>88fc90d2-8c2f-409b-8e32-963c219a8310</string><key>stan_name</key><string>浙江省西安交大大龙山软件有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76955.7856</string><key>y</key><string>83282.6458</string></dict>
+<dict>
+<key>identifier</key><string>6494d2ff-1a7f-4d36-9c04-61f0d1c70253</string><key>stan_name</key><string>浙江飞越网络科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76894.4702</string><key>y</key><string>85415.7279</string></dict>
+<dict>
+<key>identifier</key><string>e55a4830-8934-4154-b86a-a1528faa5c3c</string><key>stan_name</key><string>浙江通普无限网络股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75181.1875</string><key>y</key><string>84754.5547</string></dict>
+<dict>
+<key>identifier</key><string>b29850f6-f47a-46f0-8092-fe1037ad9163</string><key>stan_name</key><string>杭州之江网络科技有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75847.4090</string><key>y</key><string>83432.1064</string></dict>
+<dict>
+<key>identifier</key><string>5fb85e9b-63b6-4b62-84ae-fad91de19fb1</string><key>stan_name</key><string>杭州迈捷信息技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75848.6574</string><key>y</key><string>83438.1958</string></dict>
+<dict>
+<key>identifier</key><string>abea0076-ed3f-41b6-b8e2-c93ffa9e1796</string><key>stan_name</key><string>万市达电脑公司</string><key>multi_info</key><string> </string><key>x</key><string>92796.3964</string><key>y</key><string>99591.8127</string></dict>
+<dict>
+<key>identifier</key><string>c39df8d0-a0bd-4bfd-bcd8-8b71a640d0b2</string><key>stan_name</key><string>杭州金捷网吧连锁</string><key>multi_info</key><string> </string><key>x</key><string>80298.9345</string><key>y</key><string>87058.6723</string></dict>
+</array>
+</plist>

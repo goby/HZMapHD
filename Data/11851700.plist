@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>203637c4-61e1-4ca6-b9a9-42236b828648</string><key>stan_name</key><string>杭州灵山书刊装订厂</string><key>multi_info</key><string> </string><key>x</key><string>70065.0625</string><key>y</key><string>65281.9297</string></dict>
+<dict>
+<key>identifier</key><string>f72bca3a-23f6-4517-b827-085af29ace46</string><key>stan_name</key><string>杭州环球广播音响有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61702.9850</string><key>y</key><string>77813.1391</string></dict>
+<dict>
+<key>identifier</key><string>3df525c3-501c-45aa-96c3-417b4b06718c</string><key>stan_name</key><string>杭州实力文化传播有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78690.0858</string><key>y</key><string>83859.3980</string></dict>
+<dict>
+<key>identifier</key><string>097ca5ab-270b-4d29-9f75-e18da8bd990c</string><key>stan_name</key><string>杭州广播影视周刊报社</string><key>multi_info</key><string> </string><key>x</key><string>78690.8166</string><key>y</key><string>83860.2086</string></dict>
+<dict>
+<key>identifier</key><string>13169bb0-e0ec-4d2b-9fd4-c0d39ff077ed</string><key>stan_name</key><string>浙江省工人日报社</string><key>multi_info</key><string> </string><key>x</key><string>76507.9219</string><key>y</key><string>83862.50</string></dict>
+<dict>
+<key>identifier</key><string>78d7d201-6978-4877-bbbe-748f20c80257</string><key>stan_name</key><string>浙江省教育报社</string><key>multi_info</key><string> </string><key>x</key><string>77845.2734</string><key>y</key><string>84123.6328</string></dict>
+<dict>
+<key>identifier</key><string>e38cb051-cea3-4a64-bb7a-c600ff96989d</string><key>stan_name</key><string>小百花越剧团</string><key>multi_info</key><string> </string><key>x</key><string>77087.4141</string><key>y</key><string>84231.2578</string></dict>
+<dict>
+<key>identifier</key><string>5d22d8bb-3b6f-44ff-9d68-c983a63f1b45</string><key>stan_name</key><string>LG大自然(杭州)记录煤体有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100194.2267</string><key>y</key><string>84245.1524</string></dict>
+<dict>
+<key>identifier</key><string>9df9a977-1c4e-484f-9ed9-b9c62081db29</string><key>stan_name</key><string>《浙江园林》编辑部</string><key>multi_info</key><string> </string><key>x</key><string>74565.8183</string><key>y</key><string>84318.0105</string></dict>
+<dict>
+<key>identifier</key><string>61c26346-328f-433a-8e46-df9314f5f090</string><key>stan_name</key><string>杭州市文化广电新闻出版社</string><key>multi_info</key><string> </string><key>x</key><string>76596.7103</string><key>y</key><string>84372.0465</string></dict>
+<dict>
+<key>identifier</key><string>aca81673-6f66-4a41-828c-506e86f9c78a</string><key>stan_name</key><string>省出版印刷物资集团公司所</string><key>multi_info</key><string> </string><key>x</key><string>81018.1841</string><key>y</key><string>84376.7601</string></dict>
+<dict>
+<key>identifier</key><string>2ef35d0d-a088-45a4-a58d-0c644bc07a49</string><key>stan_name</key><string>杭州钱江图书发行社</string><key>multi_info</key><string> </string><key>x</key><string>75971.6789</string><key>y</key><string>85312.6709</string></dict>
+<dict>
+<key>identifier</key><string>bb4a5af8-e53f-4274-a442-1228da17aad7</string><key>stan_name</key><string>浙江省新华书店经营中心</string><key>multi_info</key><string> </string><key>x</key><string>76178.2422</string><key>y</key><string>85319.0313</string></dict>
+<dict>
+<key>identifier</key><string>21b286aa-d61d-4b68-936c-898b461bd49f</string><key>stan_name</key><string>浙江出版联合集团</string><key>multi_info</key><string> </string><key>x</key><string>78734.7344</string><key>y</key><string>83266.6172</string></dict>
+<dict>
+<key>identifier</key><string>e3b7d4bf-90d1-481f-a6ff-75897a575cf4</string><key>stan_name</key><string>浙江省影视制作有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78603.5324</string><key>y</key><string>83581.5949</string></dict>
+<dict>
+<key>identifier</key><string>3c59313b-f3bb-47c6-b6a6-43136cadeab4</string><key>stan_name</key><string>浙江省新华书店集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78015.2735</string><key>y</key><string>84515.2266</string></dict>
+<dict>
+<key>identifier</key><string>29726ca4-e96c-4eaa-9b51-c004b40961cc</string><key>stan_name</key><string>浙江报纸库</string><key>multi_info</key><string> </string><key>x</key><string>80067.8980</string><key>y</key><string>86453.7721</string></dict>
+<dict>
+<key>identifier</key><string>fc5ba473-5aa0-441b-8675-12b9d951b186</string><key>stan_name</key><string>杭州学是图书有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75290.0497</string><key>y</key><string>86024.2758</string></dict>
+<dict>
+<key>identifier</key><string>1468e044-bb25-4b8a-8d8f-ad8bc3159bc7</string><key>stan_name</key><string>杭州文化广播电视集团</string><key>multi_info</key><string> </string><key>x</key><string>81170.7627</string><key>y</key><string>83380.4461</string></dict>
+<dict>
+<key>identifier</key><string>f13e07bf-9e4e-4003-98f8-839b7d53c33f</string><key>stan_name</key><string>人民法院出版社浙江发行站</string><key>multi_info</key><string> </string><key>x</key><string>78541.2072</string><key>y</key><string>83397.5422</string></dict>
+<dict>
+<key>identifier</key><string>db1297e3-213f-477d-a828-c64965827b04</string><key>stan_name</key><string>杭州市现数教育图书有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80163.8393</string><key>y</key><string>80355.5655</string></dict>
+<dict>
+<key>identifier</key><string>6d9442be-1667-47af-b34e-8d168c2672d1</string><key>stan_name</key><string>浙江体育新闻发布中心</string><key>multi_info</key><string> </string><key>x</key><string>76685.9688</string><key>y</key><string>82466.2969</string></dict>
+<dict>
+<key>identifier</key><string>4ced780f-3d28-4b96-b5c3-d6f6277c6ef6</string><key>stan_name</key><string>浙江省版权局</string><key>multi_info</key><string> </string><key>x</key><string>79656.5796</string><key>y</key><string>81584.6061</string></dict>
+<dict>
+<key>identifier</key><string>9ad5367d-9652-417b-a626-1029c620d756</string><key>stan_name</key><string>浙江金盾影视文化发展有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78068.2534</string><key>y</key><string>82540.0721</string></dict>
+<dict>
+<key>identifier</key><string>31aa5d8e-8a8a-4f89-a509-a13ac961a5b8</string><key>stan_name</key><string>青年时报</string><key>multi_info</key><string> </string><key>x</key><string>80553.1094</string><key>y</key><string>82551.1875</string></dict>
+<dict>
+<key>identifier</key><string>b185b9a5-f8ea-4905-9e7a-9a8135083b33</string><key>stan_name</key><string>新华书店</string><key>multi_info</key><string> </string><key>x</key><string>81474.7031</string><key>y</key><string>83002.1250</string></dict>
+<dict>
+<key>identifier</key><string>b31b76ef-5884-44f5-9738-42f5c42576f9</string><key>stan_name</key><string>杭州日报报业集团</string><key>multi_info</key><string> </string><key>x</key><string>80432.0234</string><key>y</key><string>83012.6484</string></dict>
+<dict>
+<key>identifier</key><string>e6172a92-f409-44c3-ba8f-25038adce1cf</string><key>stan_name</key><string>浙江日报</string><key>multi_info</key><string> </string><key>x</key><string>80884.7734</string><key>y</key><string>83016.0078</string></dict>
+<dict>
+<key>identifier</key><string>cdf80e15-b0b2-4045-ab5b-4a1babc6004c</string><key>stan_name</key><string>浙江日报报业集团钱江晚报留下发行点</string><key>multi_info</key><string> </string><key>x</key><string>69345.0164</string><key>y</key><string>79666.0925</string></dict>
+<dict>
+<key>identifier</key><string>77719c02-e9c4-4e8f-b3d0-7d5a236f6dd9</string><key>stan_name</key><string>浙江长城影视有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73638.4032</string><key>y</key><string>82788.8011</string></dict>
+<dict>
+<key>identifier</key><string>3de2b567-bf56-4ae1-80aa-176d062636af</string><key>stan_name</key><string>人民日报驻浙记者站</string><key>multi_info</key><string> </string><key>x</key><string>79338.8828</string><key>y</key><string>82005.7969</string></dict>
+<dict>
+<key>identifier</key><string>97115772-934e-4882-90cb-520d4b7ec5d9</string><key>stan_name</key><string>浙江省出版社联合集团</string><key>multi_info</key><string> </string><key>x</key><string>79530.0146</string><key>y</key><string>82940.1888</string></dict>
+<dict>
+<key>identifier</key><string>671cf422-63c1-46b0-a2fb-3d706e5b019f</string><key>stan_name</key><string>浙江省时代电影大世界有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75330.6121</string><key>y</key><string>82949.5578</string></dict>
+<dict>
+<key>identifier</key><string>29766aa6-daad-4748-983f-3e4e43664481</string><key>stan_name</key><string>杭州出版社</string><key>multi_info</key><string> </string><key>x</key><string>76750.6562</string><key>y</key><string>81224.1875</string></dict>
+<dict>
+<key>identifier</key><string>a6cba6ed-b605-4f57-8ba7-8459e528bd54</string><key>stan_name</key><string>安德维(中国)网络传媒有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71477.1274</string><key>y</key><string>81339.5317</string></dict>
+<dict>
+<key>identifier</key><string>5ea66ace-8e1c-448d-b1e5-e5a2ab41e8a2</string><key>stan_name</key><string>杭州名师文化传播有限公司</string><key>multi_info</key><string> </string><key>x</key><string>62001.8680</string><key>y</key><string>96697.5480</string></dict>
+<dict>
+<key>identifier</key><string>e4955513-1d14-495f-8203-c739d5d63593</string><key>stan_name</key><string>杭州大贺传媒杭州分公司（8243）</string><key>multi_info</key><string> </string><key>x</key><string>89364.7662</string><key>y</key><string>89825.5864</string></dict>
+<dict>
+<key>identifier</key><string>502044c5-a37b-4702-a55b-39a93f7f2dd3</string><key>stan_name</key><string>杭州杭淳广播电视设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81394.9648</string><key>y</key><string>88302.4623</string></dict>
+<dict>
+<key>identifier</key><string>61d59607-e3f1-4843-a589-89f8bf0cdabd</string><key>stan_name</key><string>杭州风俗文化传播有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79148.2969</string><key>y</key><string>87087.1250</string></dict>
+<dict>
+<key>identifier</key><string>106635cd-b476-4553-9ab8-802464b092f6</string><key>stan_name</key><string>杭州华盛影视有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75800.8438</string><key>y</key><string>87366.4922</string></dict>
+<dict>
+<key>identifier</key><string>e23afd45-d4f6-4b50-b644-cce9b0374b8a</string><key>stan_name</key><string>杭州畅源图书有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75581.2694</string><key>y</key><string>87505.7973</string></dict>
+</array>
+</plist>

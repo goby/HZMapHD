@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>0563518c-5556-4ec5-a2cf-1f48d2291de5</string><key>stan_name</key><string>华远大厦</string><key>multi_info</key><string> </string><key>x</key><string>76228.7813</string><key>y</key><string>83639.5781</string></dict>
+<dict>
+<key>identifier</key><string>6fa56233-c639-441c-99b7-df78c2b237c3</string><key>stan_name</key><string>杭州市华星科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>76132.0902</string><key>y</key><string>83629.1039</string></dict>
+<dict>
+<key>identifier</key><string>4905d603-9633-4c0d-92ce-e40d518be8bc</string><key>stan_name</key><string>莱恩大厦</string><key>multi_info</key><string> </string><key>x</key><string>76028.89</string><key>y</key><string>83607.0196</string></dict>
+<dict>
+<key>identifier</key><string>a50ee032-6162-4863-b5d8-aeb36c27a6a0</string><key>stan_name</key><string>颐高科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>75868.3259</string><key>y</key><string>83604.2287</string></dict>
+<dict>
+<key>identifier</key><string>37aaf617-0bc1-4eb2-a7ed-e4bdceb5d11c</string><key>stan_name</key><string>公元大厦</string><key>multi_info</key><string> </string><key>x</key><string>76716.4512</string><key>y</key><string>82448.5266</string></dict>
+<dict>
+<key>identifier</key><string>4ccb8a1e-f5e3-4a83-bc25-cb6e1f7150c2</string><key>stan_name</key><string>民航大厦</string><key>multi_info</key><string> </string><key>x</key><string>80386.5391</string><key>y</key><string>82385.1562</string></dict>
+<dict>
+<key>identifier</key><string>53e36220-b3b3-4192-b5ab-a84580a3c539</string><key>stan_name</key><string>浙江民航大厦</string><key>multi_info</key><string> </string><key>x</key><string>80391.9337</string><key>y</key><string>82382.1012</string></dict>
+<dict>
+<key>identifier</key><string>941a9000-2862-400c-ba78-9dbc88cb4b13</string><key>stan_name</key><string>之俊大厦</string><key>multi_info</key><string> </string><key>x</key><string>81223.7969</string><key>y</key><string>82378.6563</string></dict>
+<dict>
+<key>identifier</key><string>08647f2e-e657-4da3-a99e-2f9cc703012b</string><key>stan_name</key><string>纬成大厦</string><key>multi_info</key><string> </string><key>x</key><string>80821.9228</string><key>y</key><string>82318.5277</string></dict>
+<dict>
+<key>identifier</key><string>8e1beb14-5eea-41f3-96d8-8c27087e9247</string><key>stan_name</key><string>环北服装大厦</string><key>multi_info</key><string> </string><key>x</key><string>80899.4563</string><key>y</key><string>82316.5790</string></dict>
+<dict>
+<key>identifier</key><string>0a40400b-8b11-4cb5-8caa-089eccc0e906</string><key>stan_name</key><string>公元大厦</string><key>multi_info</key><string> </string><key>x</key><string>76715.3632</string><key>y</key><string>82314.8209</string></dict>
+<dict>
+<key>identifier</key><string>a8676afd-cef0-4549-b42c-900ceec0e21e</string><key>stan_name</key><string>诚信大厦</string><key>multi_info</key><string> </string><key>x</key><string>81549.7109</string><key>y</key><string>82278.2188</string></dict>
+<dict>
+<key>identifier</key><string>06d6ca83-df61-4822-b782-72afd55209df</string><key>stan_name</key><string>双牛大厦</string><key>multi_info</key><string> </string><key>x</key><string>81450.8594</string><key>y</key><string>82273.7578</string></dict>
+<dict>
+<key>identifier</key><string>7f152d09-ba95-47e1-99fc-6290c6da6d30</string><key>stan_name</key><string>凤起大厦</string><key>multi_info</key><string> </string><key>x</key><string>79752.9375</string><key>y</key><string>82196.6484</string></dict>
+<dict>
+<key>identifier</key><string>6ff0b410-fe72-41ca-894f-b5012949b1d2</string><key>stan_name</key><string>江能大厦</string><key>multi_info</key><string> </string><key>x</key><string>82528.2891</string><key>y</key><string>82174.9063</string></dict>
+<dict>
+<key>identifier</key><string>52f636f3-a2b9-4e3e-a0fb-daed00e5c0c2</string><key>stan_name</key><string>舟山大厦</string><key>multi_info</key><string> </string><key>x</key><string>80678.7187</string><key>y</key><string>82134.5781</string></dict>
+<dict>
+<key>identifier</key><string>1ea4cb3d-b7a4-4485-a3f7-73543c216374</string><key>stan_name</key><string>浙江二轻大厦</string><key>multi_info</key><string> </string><key>x</key><string>79903.7188</string><key>y</key><string>82090.1484</string></dict>
+<dict>
+<key>identifier</key><string>4cc72c19-2a12-4567-b3c0-ba4a9355c75b</string><key>stan_name</key><string>耀江广厦</string><key>multi_info</key><string> </string><key>x</key><string>80041.9141</string><key>y</key><string>80220.2734</string></dict>
+<dict>
+<key>identifier</key><string>52691aa4-5ff4-486f-9150-c3b1038da3fb</string><key>stan_name</key><string>嘉华国际商务中心</string><key>multi_info</key><string> </string><key>x</key><string>77634.8906</string><key>y</key><string>82886.8906</string></dict>
+<dict>
+<key>identifier</key><string>c2e410fc-1e87-4d1a-954b-2617f975e2b6</string><key>stan_name</key><string>天风商厦</string><key>multi_info</key><string> </string><key>x</key><string>79997.0469</string><key>y</key><string>79729.1953</string></dict>
+<dict>
+<key>identifier</key><string>3110ebd1-670b-4fed-9d4d-805c84ec3510</string><key>stan_name</key><string>嘉德广场</string><key>multi_info</key><string> </string><key>x</key><string>80720.7422</string><key>y</key><string>81676.5625</string></dict>
+<dict>
+<key>identifier</key><string>281c4c05-b66c-4466-a6c9-26ec1433b9ed</string><key>stan_name</key><string>外海商厦</string><key>multi_info</key><string> </string><key>x</key><string>82901.75</string><key>y</key><string>81654.0547</string></dict>
+<dict>
+<key>identifier</key><string>20784660-fc01-4aae-8545-d852e772c3d7</string><key>stan_name</key><string>凯旋门商业中心</string><key>multi_info</key><string> </string><key>x</key><string>81931.3594</string><key>y</key><string>81558.50</string></dict>
+<dict>
+<key>identifier</key><string>e6fa60b2-68b8-4acb-a0a4-c6243bf95688</string><key>stan_name</key><string>财富中心</string><key>multi_info</key><string> </string><key>x</key><string>81559.7891</string><key>y</key><string>83435.6797</string></dict>
+<dict>
+<key>identifier</key><string>226e3ba8-8149-490f-8168-6112a849cbb7</string><key>stan_name</key><string>中豪凤起广场</string><key>multi_info</key><string> </string><key>x</key><string>83642.0859</string><key>y</key><string>82293.9844</string></dict>
+<dict>
+<key>identifier</key><string>40c2c20a-ca62-4527-92dd-b59259476a4e</string><key>stan_name</key><string>凤凰城</string><key>multi_info</key><string> </string><key>x</key><string>81044.25</string><key>y</key><string>77099.5234</string></dict>
+<dict>
+<key>identifier</key><string>23e028d5-2a26-46ac-8844-211274326049</string><key>stan_name</key><string>钱江国际商务中心</string><key>multi_info</key><string> </string><key>x</key><string>80971.2344</string><key>y</key><string>76942.5625</string></dict>
+<dict>
+<key>identifier</key><string>9e6f7dec-a4e0-4fc2-b556-66bd6d875d7c</string><key>stan_name</key><string>南都银座</string><key>multi_info</key><string> </string><key>x</key><string>75044.3640</string><key>y</key><string>84223.9951</string></dict>
+<dict>
+<key>identifier</key><string>5315ff62-1011-4377-a16d-300aa69f6688</string><key>stan_name</key><string>广厦.绿洲办公楼</string><key>multi_info</key><string> </string><key>x</key><string>80607.6970</string><key>y</key><string>83858.0849</string></dict>
+<dict>
+<key>identifier</key><string>7de0c411-c3f6-4d61-bef7-972858836b7a</string><key>stan_name</key><string>杭州日报国货路综合楼</string><key>multi_info</key><string> </string><key>x</key><string>80160.1953</string><key>y</key><string>80611.1016</string></dict>
+<dict>
+<key>identifier</key><string>a579c87e-7d4a-4ade-a055-dbe9345af5c1</string><key>stan_name</key><string>浙江航达集团综合楼</string><key>multi_info</key><string> </string><key>x</key><string>83960.0703</string><key>y</key><string>81084.7422</string></dict>
+<dict>
+<key>identifier</key><string>8e72987e-13ea-4b21-ac22-46ee38d0a712</string><key>stan_name</key><string>天工艺苑</string><key>multi_info</key><string> </string><key>x</key><string>81221.0837</string><key>y</key><string>80723.8851</string></dict>
+<dict>
+<key>identifier</key><string>52cbe27a-691b-408e-83b8-561dc82a649a</string><key>stan_name</key><string>置地国际金座</string><key>multi_info</key><string> </string><key>x</key><string>82802.4220</string><key>y</key><string>80042.1190</string></dict>
+<dict>
+<key>identifier</key><string>add4c710-bd96-42e5-847b-bf9e51ed81df</string><key>stan_name</key><string>物产元通物贸大楼</string><key>multi_info</key><string> </string><key>x</key><string>82406.4980</string><key>y</key><string>83358.0980</string></dict>
+<dict>
+<key>identifier</key><string>fd7b65de-6cd7-4572-b4df-b5f496a9a985</string><key>stan_name</key><string>浙江省歌舞剧院大楼</string><key>multi_info</key><string> </string><key>x</key><string>78085.4260</string><key>y</key><string>82527.2840</string></dict>
+<dict>
+<key>identifier</key><string>60a87aef-f7da-430b-aa45-427269ae23ff</string><key>stan_name</key><string>综合大楼</string><key>multi_info</key><string> </string><key>x</key><string>83652.9375</string><key>y</key><string>89741.0547</string></dict>
+<dict>
+<key>identifier</key><string>fef924da-6412-480f-8682-a9bc6d040e83</string><key>stan_name</key><string>德康大楼</string><key>multi_info</key><string> </string><key>x</key><string>71961.3203</string><key>y</key><string>88914.2578</string></dict>
+<dict>
+<key>identifier</key><string>4841c060-692c-4973-a3e2-67f4bb25ff2c</string><key>stan_name</key><string>杭州机电大楼</string><key>multi_info</key><string> </string><key>x</key><string>79925.5527</string><key>y</key><string>81944.7287</string></dict>
+<dict>
+<key>identifier</key><string>43b1d964-59e0-4da1-91db-7ef36518cad5</string><key>stan_name</key><string>杭经大楼</string><key>multi_info</key><string> </string><key>x</key><string>80017.7846</string><key>y</key><string>81229.0926</string></dict>
+<dict>
+<key>identifier</key><string>21aa074b-7975-4436-8de9-af1e634af595</string><key>stan_name</key><string>社保大楼</string><key>multi_info</key><string> </string><key>x</key><string>80839.8444</string><key>y</key><string>81123.9182</string></dict>
+<dict>
+<key>identifier</key><string>c4709b56-a5ff-4f97-9864-bd5866b8a385</string><key>stan_name</key><string>浙江长城资产大楼</string><key>multi_info</key><string> </string><key>x</key><string>80162.2578</string><key>y</key><string>80888.50</string></dict>
+<dict>
+<key>identifier</key><string>de994d6e-8dbc-408a-9525-477a3e204d37</string><key>stan_name</key><string>华海大楼</string><key>multi_info</key><string> </string><key>x</key><string>83266.6290</string><key>y</key><string>80794.8440</string></dict>
+<dict>
+<key>identifier</key><string>982d160c-bc78-4260-98d7-8ef8d5fdb4cd</string><key>stan_name</key><string>浙江烟草大楼</string><key>multi_info</key><string> </string><key>x</key><string>80066.5076</string><key>y</key><string>80502.5793</string></dict>
+<dict>
+<key>identifier</key><string>2e6851d9-01ba-443a-bfa3-ac50f08c60f6</string><key>stan_name</key><string>西溪村办公大楼</string><key>multi_info</key><string> </string><key>x</key><string>69501.5156</string><key>y</key><string>80626.7187</string></dict>
+<dict>
+<key>identifier</key><string>aaf812c0-1fea-4164-8548-dfa10747f66c</string><key>stan_name</key><string>金融大楼</string><key>multi_info</key><string> </string><key>x</key><string>79866.7734</string><key>y</key><string>80516.3750</string></dict>
+<dict>
+<key>identifier</key><string>ae646c4b-cdaf-4f40-80ac-ce282f875439</string><key>stan_name</key><string>城建综合大楼</string><key>multi_info</key><string> </string><key>x</key><string>80864.6797</string><key>y</key><string>80384.2813</string></dict>
+<dict>
+<key>identifier</key><string>59ce404a-7719-481a-a48d-949f1de95732</string><key>stan_name</key><string>汽训大楼</string><key>multi_info</key><string> </string><key>x</key><string>85166.9609</string><key>y</key><string>77669.7031</string></dict>
+<dict>
+<key>identifier</key><string>a77d8575-4210-4677-ad2d-f8fbb1c88af6</string><key>stan_name</key><string>水缘大楼</string><key>multi_info</key><string> </string><key>x</key><string>78422.0859</string><key>y</key><string>86853.0391</string></dict>
+<dict>
+<key>identifier</key><string>3f5ead40-6e73-4228-ab57-264e60ae441a</string><key>stan_name</key><string>华洲创业大楼</string><key>multi_info</key><string> </string><key>x</key><string>80090.3040</string><key>y</key><string>86189.2884</string></dict>
+<dict>
+<key>identifier</key><string>8f5de304-70f9-4ec0-9364-95f31ed3efdb</string><key>stan_name</key><string>周厚复化学实验大楼</string><key>multi_info</key><string> </string><key>x</key><string>72133.5313</string><key>y</key><string>86104.25</string></dict>
+<dict>
+<key>identifier</key><string>bc0c5ef3-de7b-46d1-b667-3e22179c05d0</string><key>stan_name</key><string>德源大楼</string><key>multi_info</key><string> </string><key>x</key><string>77687.8906</string><key>y</key><string>85508.6094</string></dict>
+<dict>
+<key>identifier</key><string>9adcb8b7-0bba-486f-917d-64634961cf59</string><key>stan_name</key><string>现代之窗大楼</string><key>multi_info</key><string> </string><key>x</key><string>80795.9609</string><key>y</key><string>85336.6250</string></dict>
+<dict>
+<key>identifier</key><string>385aa4cf-15a2-4692-bd70-4fef9638f6d1</string><key>stan_name</key><string>财校大楼</string><key>multi_info</key><string> </string><key>x</key><string>77080.1624</string><key>y</key><string>84875.2119</string></dict>
+<dict>
+<key>identifier</key><string>5f3becd6-07bf-48ed-85e5-b870259b167a</string><key>stan_name</key><string>香园饭店大楼</string><key>multi_info</key><string> </string><key>x</key><string>78145.5394</string><key>y</key><string>84733.9097</string></dict>
+<dict>
+<key>identifier</key><string>a92ae443-edba-4d88-bbf1-aa26c028efb2</string><key>stan_name</key><string>浙江物探大楼</string><key>multi_info</key><string> </string><key>x</key><string>78858.8474</string><key>y</key><string>84387.1475</string></dict>
+<dict>
+<key>identifier</key><string>b8f83ca8-6875-41c5-b17e-1bd22fdb3e45</string><key>stan_name</key><string>华信设计大楼</string><key>multi_info</key><string> </string><key>x</key><string>80700.25</string><key>y</key><string>84117.4453</string></dict>
+<dict>
+<key>identifier</key><string>e3effae7-4cda-4032-84da-ebc0a85c175a</string><key>stan_name</key><string>凯喜雅大厦</string><key>multi_info</key><string> </string><key>x</key><string>81220.8710</string><key>y</key><string>82873.2737</string></dict>
+<dict>
+<key>identifier</key><string>754190e7-8431-433b-b547-d994b87ab72a</string><key>stan_name</key><string>西子大厦</string><key>multi_info</key><string> </string><key>x</key><string>80309.8712</string><key>y</key><string>82855.9112</string></dict>
+<dict>
+<key>identifier</key><string>9604d38e-2bc2-46a8-b2cc-66790584ecf0</string><key>stan_name</key><string>中田大厦</string><key>multi_info</key><string> </string><key>x</key><string>76603.6597</string><key>y</key><string>82830.2935</string></dict>
+<dict>
+<key>identifier</key><string>d90916fb-02e8-4a14-9f06-b8c65056cee3</string><key>stan_name</key><string>聚龙大厦</string><key>multi_info</key><string> </string><key>x</key><string>77522.4874</string><key>y</key><string>82818.7668</string></dict>
+<dict>
+<key>identifier</key><string>537d2159-a784-4922-905e-47ec83e8d11b</string><key>stan_name</key><string>国信大厦</string><key>multi_info</key><string> </string><key>x</key><string>81124.1406</string><key>y</key><string>82377.8906</string></dict>
+<dict>
+<key>identifier</key><string>ed3dc3b5-c3c5-41d1-8bf2-16d3765b2eda</string><key>stan_name</key><string>晶晶大厦</string><key>multi_info</key><string> </string><key>x</key><string>82075.7891</string><key>y</key><string>82752.5703</string></dict>
+<dict>
+<key>identifier</key><string>e367fb47-1c15-4a71-bbfe-ace866c861fe</string><key>stan_name</key><string>标力大厦</string><key>multi_info</key><string> </string><key>x</key><string>79917.0885</string><key>y</key><string>82688.2010</string></dict>
+<dict>
+<key>identifier</key><string>9408b2f9-672a-422d-ba2f-3e096389d885</string><key>stan_name</key><string>银苑大厦</string><key>multi_info</key><string> </string><key>x</key><string>81740.2969</string><key>y</key><string>82655.6328</string></dict>
+<dict>
+<key>identifier</key><string>76fe237a-8539-4412-b787-7a100e7a94ed</string><key>stan_name</key><string>浙江五矿大厦</string><key>multi_info</key><string> </string><key>x</key><string>80333.3840</string><key>y</key><string>82566.3518</string></dict>
+<dict>
+<key>identifier</key><string>a38473cc-a039-4581-be65-5b6ffb5938be</string><key>stan_name</key><string>尚坤大厦</string><key>multi_info</key><string> </string><key>x</key><string>73799.9679</string><key>y</key><string>82552.4971</string></dict>
+<dict>
+<key>identifier</key><string>2e5a1599-39ee-4eee-9dba-42c5a5e7402f</string><key>stan_name</key><string>中大广场A座大厦</string><key>multi_info</key><string> </string><key>x</key><string>80421.6196</string><key>y</key><string>82543.5469</string></dict>
+<dict>
+<key>identifier</key><string>67dac881-9ff8-4a19-b468-1f24c27bcefe</string><key>stan_name</key><string>百井大厦</string><key>multi_info</key><string> </string><key>x</key><string>80090.3438</string><key>y</key><string>82535.8750</string></dict>
+<dict>
+<key>identifier</key><string>eda45e30-4315-4d7c-a722-20a18897aa6e</string><key>stan_name</key><string>意盛商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>80536.7401</string><key>y</key><string>82519.1740</string></dict>
+<dict>
+<key>identifier</key><string>3abf329b-c88f-4cc5-8da8-b8f310bb565d</string><key>stan_name</key><string>星汇大厦</string><key>multi_info</key><string> </string><key>x</key><string>81191.7179</string><key>y</key><string>83842.3704</string></dict>
+<dict>
+<key>identifier</key><string>58109ca2-0a3a-4ce8-b495-c72c57db7ef0</string><key>stan_name</key><string>文锦大厦A座</string><key>multi_info</key><string> </string><key>x</key><string>78032.6953</string><key>y</key><string>83809.1875</string></dict>
+<dict>
+<key>identifier</key><string>2da495b7-9af7-4d5b-85af-95adc19cd686</string><key>stan_name</key><string>文锦大厦B座</string><key>multi_info</key><string> </string><key>x</key><string>77949.1562</string><key>y</key><string>83805.3672</string></dict>
+<dict>
+<key>identifier</key><string>169ddb5c-a920-4d23-a749-ef42d0c2a3b2</string><key>stan_name</key><string>联锦大厦</string><key>multi_info</key><string> </string><key>x</key><string>80616.2891</string><key>y</key><string>83800.1719</string></dict>
+<dict>
+<key>identifier</key><string>d7bfb24d-8a7c-4bc7-b917-55b580565248</string><key>stan_name</key><string>伟星大厦</string><key>multi_info</key><string> </string><key>x</key><string>77120.1328</string><key>y</key><string>83765.7891</string></dict>
+<dict>
+<key>identifier</key><string>6d1a89d9-c6f2-48bb-a2eb-83d602d55e5c</string><key>stan_name</key><string>国都发展大厦</string><key>multi_info</key><string> </string><key>x</key><string>80394.6953</string><key>y</key><string>83741.8359</string></dict>
+<dict>
+<key>identifier</key><string>868701ae-46cb-4100-9987-915d29cad228</string><key>stan_name</key><string>计量大厦</string><key>multi_info</key><string> </string><key>x</key><string>76190.7044</string><key>y</key><string>83738.9228</string></dict>
+<dict>
+<key>identifier</key><string>03ec8b7e-0319-4392-99c0-b18fde309183</string><key>stan_name</key><string>钱江科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>76467.5469</string><key>y</key><string>83734.0156</string></dict>
+<dict>
+<key>identifier</key><string>d3f0836d-29d7-494a-a5a6-037dae117d4c</string><key>stan_name</key><string>东信大厦</string><key>multi_info</key><string> </string><key>x</key><string>76337.1112</string><key>y</key><string>83717.0491</string></dict>
+<dict>
+<key>identifier</key><string>512b0c0a-588d-40d1-8b8b-583758a07977</string><key>stan_name</key><string>联强科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>77115.3750</string><key>y</key><string>83692.8672</string></dict>
+<dict>
+<key>identifier</key><string>58e31c1e-4a60-4e9a-8732-feacbff5fa13</string><key>stan_name</key><string>西湖易盛大厦</string><key>multi_info</key><string> </string><key>x</key><string>78737.4766</string><key>y</key><string>83687.2344</string></dict>
+<dict>
+<key>identifier</key><string>8b727381-211f-4ffd-b1b7-abd63cf5f37f</string><key>stan_name</key><string>昌地火炬大厦</string><key>multi_info</key><string> </string><key>x</key><string>76988.2344</string><key>y</key><string>83680.4922</string></dict>
+<dict>
+<key>identifier</key><string>d0efca5c-acd7-4dab-b09e-7675afacdcf1</string><key>stan_name</key><string>天苑大厦</string><key>multi_info</key><string> </string><key>x</key><string>75676.8203</string><key>y</key><string>83671.3750</string></dict>
+<dict>
+<key>identifier</key><string>9642fca9-11b2-43ec-82a9-8d0b5a11b419</string><key>stan_name</key><string>创业大厦</string><key>multi_info</key><string> </string><key>x</key><string>77390.0788</string><key>y</key><string>83649.7180</string></dict>
+<dict>
+<key>identifier</key><string>afe3bae1-6b58-4cb5-a69e-436c7069e30a</string><key>stan_name</key><string>文三数码大厦</string><key>multi_info</key><string> </string><key>x</key><string>76794.0105</string><key>y</key><string>83647.7448</string></dict>
+<dict>
+<key>identifier</key><string>e6b90ae9-c397-4eb4-b66c-5265e05bfb66</string><key>stan_name</key><string>三华园大楼</string><key>multi_info</key><string> </string><key>x</key><string>80543.9865</string><key>y</key><string>82427.7718</string></dict>
+<dict>
+<key>identifier</key><string>1654bc2b-1d33-4ef8-a57b-7031353a477d</string><key>stan_name</key><string>浙江省经贸大楼</string><key>multi_info</key><string> </string><key>x</key><string>79896.7422</string><key>y</key><string>82339.7969</string></dict>
+<dict>
+<key>identifier</key><string>b7766796-be8e-490e-b2b2-0b04db617725</string><key>stan_name</key><string>华侨大楼</string><key>multi_info</key><string> </string><key>x</key><string>78738.3521</string><key>y</key><string>82127.9288</string></dict>
+<dict>
+<key>identifier</key><string>60b25437-e9f8-4ce5-b005-9a647bb8f286</string><key>stan_name</key><string>石塘村商务楼</string><key>multi_info</key><string> </string><key>x</key><string>82393.6016</string><key>y</key><string>95415.6875</string></dict>
+<dict>
+<key>identifier</key><string>f1effb34-f9b3-4c47-a4f9-cc992a8aa8dd</string><key>stan_name</key><string>平海旺角商务楼</string><key>multi_info</key><string> </string><key>x</key><string>80042.50</string><key>y</key><string>81205.3125</string></dict>
+<dict>
+<key>identifier</key><string>c711779f-bccb-4779-b364-1153c64a97ac</string><key>stan_name</key><string>金衙庄商务楼</string><key>multi_info</key><string> </string><key>x</key><string>81849.5781</string><key>y</key><string>80812.5781</string></dict>
+<dict>
+<key>identifier</key><string>e12bd4d9-2446-40b9-ad81-4993fc1a3ba9</string><key>stan_name</key><string>天源商务楼</string><key>multi_info</key><string> </string><key>x</key><string>80315.3288</string><key>y</key><string>80406.61</string></dict>
+<dict>
+<key>identifier</key><string>ca0cfb69-10ba-4b48-b161-f807703e95b7</string><key>stan_name</key><string>清泰商务楼</string><key>multi_info</key><string> </string><key>x</key><string>82399.9844</string><key>y</key><string>80290.1250</string></dict>
+<dict>
+<key>identifier</key><string>26acaa8c-0603-421b-a928-930267e5db24</string><key>stan_name</key><string>吴山商务综合楼</string><key>multi_info</key><string> </string><key>x</key><string>79991.1797</string><key>y</key><string>79838.0313</string></dict>
+<dict>
+<key>identifier</key><string>f78d03b1-1e92-4995-a035-b178c9f13a4a</string><key>stan_name</key><string>中天商务楼</string><key>multi_info</key><string> </string><key>x</key><string>79470.2266</string><key>y</key><string>75669.1484</string></dict>
+<dict>
+<key>identifier</key><string>03a5cd3d-768e-42f4-abaa-76b01ab81ead</string><key>stan_name</key><string>儒雅阁商务楼</string><key>multi_info</key><string> </string><key>x</key><string>77893.9219</string><key>y</key><string>85318.1797</string></dict>
+<dict>
+<key>identifier</key><string>bafc4d0f-b8b8-47da-b92d-776d71cb9f84</string><key>stan_name</key><string>坤和商务楼</string><key>multi_info</key><string> </string><key>x</key><string>77759.1328</string><key>y</key><string>85059.6953</string></dict>
+<dict>
+<key>identifier</key><string>5e82cf59-0edb-4fe0-8606-be38ccafb450</string><key>stan_name</key><string>华立金顶商务楼</string><key>multi_info</key><string> </string><key>x</key><string>78114.0106</string><key>y</key><string>84809.2043</string></dict>
+<dict>
+<key>identifier</key><string>d454eefd-2c20-4b50-aa66-3e8db1f1082a</string><key>stan_name</key><string>华立商务楼</string><key>multi_info</key><string> </string><key>x</key><string>78112.5859</string><key>y</key><string>84802.2578</string></dict>
+<dict>
+<key>identifier</key><string>457590da-f9d5-497c-8b66-33ac121e1c68</string><key>stan_name</key><string>红石商务楼</string><key>multi_info</key><string> </string><key>x</key><string>78829.3323</string><key>y</key><string>84718.6240</string></dict>
+<dict>
+<key>identifier</key><string>2710d11d-262a-49e7-a27f-6cbaea3b5971</string><key>stan_name</key><string>文欣商务楼</string><key>multi_info</key><string> </string><key>x</key><string>77343.2328</string><key>y</key><string>84361.8074</string></dict>
+<dict>
+<key>identifier</key><string>f4258405-0c45-4e8f-9dc2-0e7f75f4831a</string><key>stan_name</key><string>金龙商务楼</string><key>multi_info</key><string> </string><key>x</key><string>81755.1192</string><key>y</key><string>81708.5337</string></dict>
+<dict>
+<key>identifier</key><string>d64430fe-27de-43ea-a37e-f79785e9b10d</string><key>stan_name</key><string>柯布克商务楼</string><key>multi_info</key><string> </string><key>x</key><string>78538.2538</string><key>y</key><string>83473.7817</string></dict>
+<dict>
+<key>identifier</key><string>4828ec93-f716-4dab-a17b-2f527c2df1db</string><key>stan_name</key><string>洪都商务楼</string><key>multi_info</key><string> </string><key>x</key><string>79235.4047</string><key>y</key><string>82953.0412</string></dict>
+<dict>
+<key>identifier</key><string>f81962da-774e-42fe-9d02-4260cfd7e4fa</string><key>stan_name</key><string>宏大宾馆商务楼</string><key>multi_info</key><string> </string><key>x</key><string>79548.2157</string><key>y</key><string>82733.0280</string></dict>
+<dict>
+<key>identifier</key><string>93e79b1b-2392-44c9-9ef6-d4f3ffb13bbb</string><key>stan_name</key><string>河滨商务楼</string><key>multi_info</key><string> </string><key>x</key><string>81441.5972</string><key>y</key><string>82537.8152</string></dict>
+<dict>
+<key>identifier</key><string>cdcc7012-4444-4ede-a032-efbfdc846576</string><key>stan_name</key><string>凤翔商务楼</string><key>multi_info</key><string> </string><key>x</key><string>80196.2891</string><key>y</key><string>82356.7813</string></dict>
+<dict>
+<key>identifier</key><string>a0ffba52-5524-4001-b65d-eb6d1f289562</string><key>stan_name</key><string>国都商务大楼</string><key>multi_info</key><string> </string><key>x</key><string>80314.3672</string><key>y</key><string>82304.7578</string></dict>
+<dict>
+<key>identifier</key><string>72cac642-971b-4d7f-86cb-6cc381acdac9</string><key>stan_name</key><string>锦绣天地杭州国际商务中心</string><key>multi_info</key><string> </string><key>x</key><string>79369.5236</string><key>y</key><string>82137.2690</string></dict>
+<dict>
+<key>identifier</key><string>05edff3c-cd74-4f87-b319-727026991f23</string><key>stan_name</key><string>鸿鼎商务楼</string><key>multi_info</key><string> </string><key>x</key><string>79630.50</string><key>y</key><string>82035.5391</string></dict>
+<dict>
+<key>identifier</key><string>6368e63e-660a-4c34-bed1-7bf0f31af8a8</string><key>stan_name</key><string>东航大厦</string><key>multi_info</key><string> </string><key>x</key><string>84298.9710</string><key>y</key><string>79389.0090</string></dict>
+<dict>
+<key>identifier</key><string>74c167c7-f8af-45bc-a076-7b40cebf151a</string><key>stan_name</key><string>三新大厦</string><key>multi_info</key><string> </string><key>x</key><string>84058.2740</string><key>y</key><string>81891.2180</string></dict>
+<dict>
+<key>identifier</key><string>d0f038e1-227f-468a-8a12-fca54344c0c9</string><key>stan_name</key><string>宏程国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>84986.4830</string><key>y</key><string>80369.1880</string></dict>
+<dict>
+<key>identifier</key><string>a8cb38d1-4a77-4e2b-8b58-332b67075bbf</string><key>stan_name</key><string>华泰科技大楼</string><key>multi_info</key><string> </string><key>x</key><string>75670.8672</string><key>y</key><string>83963.5781</string></dict>
+<dict>
+<key>identifier</key><string>ea26f2f0-8828-4fd0-9c0b-d8a53277b91a</string><key>stan_name</key><string>供销大楼</string><key>multi_info</key><string> </string><key>x</key><string>79946.75</string><key>y</key><string>81695.4453</string></dict>
+<dict>
+<key>identifier</key><string>5a870668-b647-480f-81b6-ce89af110735</string><key>stan_name</key><string>火电老大楼</string><key>multi_info</key><string> </string><key>x</key><string>82851.3437</string><key>y</key><string>81543.9297</string></dict>
+<dict>
+<key>identifier</key><string>67c20345-df11-47f6-8866-a376ecc041ef</string><key>stan_name</key><string>火电新大楼</string><key>multi_info</key><string> </string><key>x</key><string>82907.3984</string><key>y</key><string>81540.6328</string></dict>
+<dict>
+<key>identifier</key><string>5b5417b0-ab16-4da9-8162-3221c15a3a3d</string><key>stan_name</key><string>秋涛综合大楼</string><key>multi_info</key><string> </string><key>x</key><string>83390.5312</string><key>y</key><string>81533.0391</string></dict>
+<dict>
+<key>identifier</key><string>27725e66-baa5-4f7e-a5db-8e8450676c52</string><key>stan_name</key><string>改革月报大楼</string><key>multi_info</key><string> </string><key>x</key><string>80699.3672</string><key>y</key><string>81489.9141</string></dict>
+<dict>
+<key>identifier</key><string>212f5bda-4e74-4b76-bd00-00ab35079e58</string><key>stan_name</key><string>杭州劳动大楼</string><key>multi_info</key><string> </string><key>x</key><string>80702.5983</string><key>y</key><string>81433.2435</string></dict>
+<dict>
+<key>identifier</key><string>edd6f80d-6149-4934-9d5d-c367d8ea56bb</string><key>stan_name</key><string>杭州市第一综合大楼</string><key>multi_info</key><string> </string><key>x</key><string>80150.4688</string><key>y</key><string>81367.0859</string></dict>
+<dict>
+<key>identifier</key><string>5b03fc58-fe9c-4db6-915f-87e68057ffa5</string><key>stan_name</key><string>浙大圆正大楼</string><key>multi_info</key><string> </string><key>x</key><string>82941.0251</string><key>y</key><string>83585.2201</string></dict>
+<dict>
+<key>identifier</key><string>850ee64f-e778-46bf-8e39-a1fed0239c16</string><key>stan_name</key><string>浙大圆正大楼</string><key>multi_info</key><string> </string><key>x</key><string>82869.8966</string><key>y</key><string>83578.4782</string></dict>
+<dict>
+<key>identifier</key><string>cc9b28f6-3590-42da-9778-64af4977216d</string><key>stan_name</key><string>杭州交通大楼</string><key>multi_info</key><string> </string><key>x</key><string>80647.8872</string><key>y</key><string>83554.2153</string></dict>
+<dict>
+<key>identifier</key><string>6d464951-46a1-41a0-960a-674398f0f809</string><key>stan_name</key><string>杭州市港航管理局港航大楼</string><key>multi_info</key><string> </string><key>x</key><string>80585.7142</string><key>y</key><string>83552.9365</string></dict>
+<dict>
+<key>identifier</key><string>101d0e6d-86a0-4dd3-a783-e01bd691fe3d</string><key>stan_name</key><string>南方大楼</string><key>multi_info</key><string> </string><key>x</key><string>86904.0234</string><key>y</key><string>83455.3516</string></dict>
+<dict>
+<key>identifier</key><string>03a077c7-254c-4faa-990f-815bf5dd14d0</string><key>stan_name</key><string>环北银座市政大楼</string><key>multi_info</key><string> </string><key>x</key><string>79347.5551</string><key>y</key><string>83339.3030</string></dict>
+<dict>
+<key>identifier</key><string>389c672e-d1ca-4840-902b-d6d7ae438dad</string><key>stan_name</key><string>宏基大楼</string><key>multi_info</key><string> </string><key>x</key><string>86753.1797</string><key>y</key><string>83334.6250</string></dict>
+<dict>
+<key>identifier</key><string>0df5f16f-c440-4eb2-99ff-86594a8915e5</string><key>stan_name</key><string>浙江省科协大楼</string><key>multi_info</key><string> </string><key>x</key><string>79974.3062</string><key>y</key><string>83174.4792</string></dict>
+<dict>
+<key>identifier</key><string>a48681b9-f88b-4f58-bc12-eaad0ebe50c3</string><key>stan_name</key><string>浙江省科贸大楼</string><key>multi_info</key><string> </string><key>x</key><string>77982.4609</string><key>y</key><string>83091.1719</string></dict>
+<dict>
+<key>identifier</key><string>85aa7732-9a51-445c-bd2f-1952a8bf7499</string><key>stan_name</key><string>浙江省农机大楼</string><key>multi_info</key><string> </string><key>x</key><string>79135.5601</string><key>y</key><string>83214.9316</string></dict>
+<dict>
+<key>identifier</key><string>331be6e6-39b5-4f62-962e-75097c9af056</string><key>stan_name</key><string>杭州日报新闻大楼</string><key>multi_info</key><string> </string><key>x</key><string>80488.5078</string><key>y</key><string>83098.1563</string></dict>
+<dict>
+<key>identifier</key><string>d13e7810-863c-4993-b109-b483239e9e2e</string><key>stan_name</key><string>地税大楼</string><key>multi_info</key><string> </string><key>x</key><string>77020.8438</string><key>y</key><string>82970.9375</string></dict>
+<dict>
+<key>identifier</key><string>1c7af723-3d93-448c-89ec-db876eab246b</string><key>stan_name</key><string>浙江轻工大楼</string><key>multi_info</key><string> </string><key>x</key><string>78480.5110</string><key>y</key><string>82857.5205</string></dict>
+<dict>
+<key>identifier</key><string>0dcccd13-ed75-4aa9-9996-f6aeba57502d</string><key>stan_name</key><string>浙江省科技大楼</string><key>multi_info</key><string> </string><key>x</key><string>79015.9839</string><key>y</key><string>82746.4539</string></dict>
+<dict>
+<key>identifier</key><string>cd8cb19d-3bb1-4638-ab68-2aedc08c3245</string><key>stan_name</key><string>竺可桢国际教育大楼</string><key>multi_info</key><string> </string><key>x</key><string>76100.6616</string><key>y</key><string>82737.4491</string></dict>
+<dict>
+<key>identifier</key><string>e4583fcd-5a02-4b56-8d6b-a0e747e7ab19</string><key>stan_name</key><string>茂泰世纪大楼</string><key>multi_info</key><string> </string><key>x</key><string>80525.5964</string><key>y</key><string>82599.3108</string></dict>
+<dict>
+<key>identifier</key><string>91e9f730-2f9f-437e-9a5c-6f7a5acaac07</string><key>stan_name</key><string>浙江制冷大楼</string><key>multi_info</key><string> </string><key>x</key><string>73799.9679</string><key>y</key><string>82505.1154</string></dict>
+<dict>
+<key>identifier</key><string>5eb303e1-daef-47c5-afed-08891c365d0b</string><key>stan_name</key><string>通运大楼</string><key>multi_info</key><string> </string><key>x</key><string>80036.5096</string><key>y</key><string>83844.81</string></dict>
+<dict>
+<key>identifier</key><string>707b1edc-eee1-481a-871c-77a7390e91f4</string><key>stan_name</key><string>之江大楼</string><key>multi_info</key><string> </string><key>x</key><string>76134.5127</string><key>y</key><string>83812.4549</string></dict>
+<dict>
+<key>identifier</key><string>ea0e44d4-6bf2-4422-a620-ebbdc594ac98</string><key>stan_name</key><string>香樟商贸大楼</string><key>multi_info</key><string> </string><key>x</key><string>74300.2891</string><key>y</key><string>83646.1328</string></dict>
+<dict>
+<key>identifier</key><string>42ed7f0f-40c0-4fce-a279-9b6a7e0ed385</string><key>stan_name</key><string>包杭大厦</string><key>multi_info</key><string> </string><key>x</key><string>81682.1140</string><key>y</key><string>83558.5160</string></dict>
+<dict>
+<key>identifier</key><string>d7d71bec-4a4e-47dc-9e25-9829e16af13f</string><key>stan_name</key><string>白马大厦</string><key>multi_info</key><string> </string><key>x</key><string>79409.1406</string><key>y</key><string>83554.7266</string></dict>
+<dict>
+<key>identifier</key><string>c231ee18-905d-4477-a0d5-06da4cef8c6a</string><key>stan_name</key><string>鸿雁大厦</string><key>multi_info</key><string> </string><key>x</key><string>78466.8021</string><key>y</key><string>83543.6806</string></dict>
+<dict>
+<key>identifier</key><string>b8ad0bdc-0716-4e99-a422-b1f03a7abce6</string><key>stan_name</key><string>蓝天大厦</string><key>multi_info</key><string> </string><key>x</key><string>78970.4922</string><key>y</key><string>83526.6094</string></dict>
+<dict>
+<key>identifier</key><string>8bd8dff7-4061-4141-9b47-87bac34ed1f6</string><key>stan_name</key><string>新世纪大厦</string><key>multi_info</key><string> </string><key>x</key><string>79285.7422</string><key>y</key><string>83472.2969</string></dict>
+<dict>
+<key>identifier</key><string>ba19045d-9a3b-490e-8e0e-ef9b26554556</string><key>stan_name</key><string>华浙大厦</string><key>multi_info</key><string> </string><key>x</key><string>79492.4609</string><key>y</key><string>83471.9062</string></dict>
+<dict>
+<key>identifier</key><string>c6e23fbe-9e68-4c3e-8c90-dc4bfc144f67</string><key>stan_name</key><string>浙江物产国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>82390.7557</string><key>y</key><string>83462.0796</string></dict>
+<dict>
+<key>identifier</key><string>3151a857-7cdc-489d-acce-63b3e0835b3a</string><key>stan_name</key><string>物产大厦</string><key>multi_info</key><string> </string><key>x</key><string>82383.4141</string><key>y</key><string>83438.1094</string></dict>
+<dict>
+<key>identifier</key><string>6856d205-b451-4536-a479-9d64424183fe</string><key>stan_name</key><string>浙江时代大厦</string><key>multi_info</key><string> </string><key>x</key><string>79398.9453</string><key>y</key><string>83405.75</string></dict>
+<dict>
+<key>identifier</key><string>b7ab8c6d-f07a-49cf-bf77-d7e61214554b</string><key>stan_name</key><string>海华国贸大厦</string><key>multi_info</key><string> </string><key>x</key><string>81444.50</string><key>y</key><string>83404.2891</string></dict>
+<dict>
+<key>identifier</key><string>b7311363-be20-4bf7-8c43-99eaa4b19d80</string><key>stan_name</key><string>华源发展大厦</string><key>multi_info</key><string> </string><key>x</key><string>81315.2342</string><key>y</key><string>83377.8886</string></dict>
+<dict>
+<key>identifier</key><string>429a1c35-0ea5-44ce-8776-9a1e82d8f678</string><key>stan_name</key><string>金汇大厦</string><key>multi_info</key><string> </string><key>x</key><string>78915.1563</string><key>y</key><string>83377.5234</string></dict>
+<dict>
+<key>identifier</key><string>5d57cb8a-765c-4f11-986f-83ed95a0a88f</string><key>stan_name</key><string>百脑汇科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>77148.0307</string><key>y</key><string>83377.5185</string></dict>
+<dict>
+<key>identifier</key><string>eb492131-4a30-4e07-96be-2afe7bb9a2e1</string><key>stan_name</key><string>浙江移动大厦</string><key>multi_info</key><string> </string><key>x</key><string>79427.7656</string><key>y</key><string>83335.7344</string></dict>
+<dict>
+<key>identifier</key><string>29951fe8-3e82-4788-a6fb-663b04ca96d8</string><key>stan_name</key><string>文艺大厦</string><key>multi_info</key><string> </string><key>x</key><string>76518.7031</string><key>y</key><string>83299.4219</string></dict>
+<dict>
+<key>identifier</key><string>029f5617-0f54-4d0f-a8d4-2b90d5786377</string><key>stan_name</key><string>华鸿大厦A座</string><key>multi_info</key><string> </string><key>x</key><string>76289.5314</string><key>y</key><string>83271.6976</string></dict>
+<dict>
+<key>identifier</key><string>13bdec57-2efe-489a-8f2f-0025de47567d</string><key>stan_name</key><string>杭州市煤气大厦</string><key>multi_info</key><string> </string><key>x</key><string>78822.1719</string><key>y</key><string>83260.9141</string></dict>
+<dict>
+<key>identifier</key><string>774a37d3-a874-44a5-b8ba-ba7634c6bae0</string><key>stan_name</key><string>宁波大厦</string><key>multi_info</key><string> </string><key>x</key><string>78654.2031</string><key>y</key><string>83259.2578</string></dict>
+<dict>
+<key>identifier</key><string>827602c8-f265-438a-81fb-7d951e23882f</string><key>stan_name</key><string>交运大厦</string><key>multi_info</key><string> </string><key>x</key><string>83419.4609</string><key>y</key><string>83255.3516</string></dict>
+<dict>
+<key>identifier</key><string>ce4f4f5e-0257-4aaa-94fd-b79f159ed74d</string><key>stan_name</key><string>三立大厦</string><key>multi_info</key><string> </string><key>x</key><string>79577.7812</string><key>y</key><string>83223.7813</string></dict>
+<dict>
+<key>identifier</key><string>5f58fb4c-a640-4a58-a3db-e6c2c554b4e9</string><key>stan_name</key><string>华鸿大厦B座</string><key>multi_info</key><string> </string><key>x</key><string>76314.2537</string><key>y</key><string>83216.2689</string></dict>
+<dict>
+<key>identifier</key><string>3bacf8e7-4c96-4a71-982d-d96be311ce49</string><key>stan_name</key><string>杭州大厦购物中心</string><key>multi_info</key><string> </string><key>x</key><string>79636.0234</string><key>y</key><string>83205.5078</string></dict>
+<dict>
+<key>identifier</key><string>d6fb4f92-9e10-404c-a7e9-d87e3b1cf5dd</string><key>stan_name</key><string>龙都大厦</string><key>multi_info</key><string> </string><key>x</key><string>75541.1851</string><key>y</key><string>83193.0269</string></dict>
+<dict>
+<key>identifier</key><string>0393fea0-b69b-4c80-9194-3876728491a0</string><key>stan_name</key><string>耀江大厦</string><key>multi_info</key><string> </string><key>x</key><string>79079.7422</string><key>y</key><string>83181.2422</string></dict>
+<dict>
+<key>identifier</key><string>f2910efd-ddc2-40bd-839d-dc8704510a99</string><key>stan_name</key><string>浙江省能源大厦</string><key>multi_info</key><string> </string><key>x</key><string>77445.1322</string><key>y</key><string>83179.5440</string></dict>
+<dict>
+<key>identifier</key><string>b57eb16c-328a-4cc1-ac28-de01fb75e662</string><key>stan_name</key><string>武林大厦</string><key>multi_info</key><string> </string><key>x</key><string>78934.8672</string><key>y</key><string>83166.75</string></dict>
+<dict>
+<key>identifier</key><string>1d66e181-84c8-4e61-a9ba-aea4d7618ea2</string><key>stan_name</key><string>求是大厦</string><key>multi_info</key><string> </string><key>x</key><string>77278.1016</string><key>y</key><string>83161.9609</string></dict>
+<dict>
+<key>identifier</key><string>0d7deab1-3309-4e12-bf27-49f85c5dba15</string><key>stan_name</key><string>富欣大厦</string><key>multi_info</key><string> </string><key>x</key><string>78513.4062</string><key>y</key><string>83136.50</string></dict>
+<dict>
+<key>identifier</key><string>82534fba-4e54-4826-9212-0155595b3ee7</string><key>stan_name</key><string>圣奥中央商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>84046.1270</string><key>y</key><string>79873.8910</string></dict>
+<dict>
+<key>identifier</key><string>d26eeb44-4cc7-4334-b7dc-fb61dc32ed47</string><key>stan_name</key><string>化成国际发展大厦</string><key>multi_info</key><string> </string><key>x</key><string>84107.9270</string><key>y</key><string>79812.5390</string></dict>
+<dict>
+<key>identifier</key><string>7acc749c-9c7c-4ef1-9e63-07d594babbd0</string><key>stan_name</key><string>交通银行大厦</string><key>multi_info</key><string> </string><key>x</key><string>85424.1810</string><key>y</key><string>80770.0060</string></dict>
+<dict>
+<key>identifier</key><string>2ec64a68-6bf3-4811-9361-c4b8b3b785d9</string><key>stan_name</key><string>铭鑫大厦</string><key>multi_info</key><string> </string><key>x</key><string>84754.7454</string><key>y</key><string>82882.7741</string></dict>
+<dict>
+<key>identifier</key><string>d2dd2ea3-da0f-4186-a62c-253ec4722657</string><key>stan_name</key><string>浙江水工大厦</string><key>multi_info</key><string> </string><key>x</key><string>82876.72</string><key>y</key><string>82186.0220</string></dict>
+<dict>
+<key>identifier</key><string>d8a93502-e8e8-4d04-b568-e7d72981df7d</string><key>stan_name</key><string>晶晖大厦</string><key>multi_info</key><string> </string><key>x</key><string>80002.7340</string><key>y</key><string>84113.32</string></dict>
+<dict>
+<key>identifier</key><string>07d9d6d3-db40-43a1-b1cc-bc0251909aa1</string><key>stan_name</key><string>南北商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>77696.1797</string><key>y</key><string>88543.3516</string></dict>
+<dict>
+<key>identifier</key><string>b9716dee-c966-42c7-acc8-fb3f3f129a9f</string><key>stan_name</key><string>金融大厦</string><key>multi_info</key><string> </string><key>x</key><string>80276.7969</string><key>y</key><string>81666.8359</string></dict>
+<dict>
+<key>identifier</key><string>6c0004ee-33e6-4673-aafc-e055a637689b</string><key>stan_name</key><string>九堡供销大厦</string><key>multi_info</key><string> </string><key>x</key><string>90295.6484</string><key>y</key><string>88305.7734</string></dict>
+<dict>
+<key>identifier</key><string>15b7fb7f-2afc-4051-a429-59d47d5d3e27</string><key>stan_name</key><string>仙林大厦</string><key>multi_info</key><string> </string><key>x</key><string>80580.1438</string><key>y</key><string>81844.3905</string></dict>
+<dict>
+<key>identifier</key><string>79eabf74-27f1-49f3-8a68-17da73ce9501</string><key>stan_name</key><string>城中大厦</string><key>multi_info</key><string> </string><key>x</key><string>83368.0078</string><key>y</key><string>81843.1562</string></dict>
+<dict>
+<key>identifier</key><string>25c73792-d408-475a-b2ff-15b77e32e511</string><key>stan_name</key><string>天元大厦</string><key>multi_info</key><string> </string><key>x</key><string>85693.7520</string><key>y</key><string>81257.6620</string></dict>
+<dict>
+<key>identifier</key><string>ccd30832-4740-4ddd-b2cd-9d315fbb1e37</string><key>stan_name</key><string>工联大厦</string><key>multi_info</key><string> </string><key>x</key><string>79942.3672</string><key>y</key><string>81245.6406</string></dict>
+<dict>
+<key>identifier</key><string>4189460e-4332-4fc2-9db9-6ef410bec039</string><key>stan_name</key><string>电影大厦</string><key>multi_info</key><string> </string><key>x</key><string>80022.0078</string><key>y</key><string>81209.1250</string></dict>
+<dict>
+<key>identifier</key><string>bd703a8f-567c-495c-9ff1-6c5481db00ed</string><key>stan_name</key><string>金城大厦</string><key>multi_info</key><string> </string><key>x</key><string>79945.7578</string><key>y</key><string>81195.8906</string></dict>
+<dict>
+<key>identifier</key><string>a6ea60ec-baf6-4a41-ae09-a29d8de1a49d</string><key>stan_name</key><string>杭州平海大厦</string><key>multi_info</key><string> </string><key>x</key><string>80255.1958</string><key>y</key><string>81154.2765</string></dict>
+<dict>
+<key>identifier</key><string>edf0d0d7-272f-4def-96b9-7d745713af86</string><key>stan_name</key><string>方正大厦</string><key>multi_info</key><string> </string><key>x</key><string>80593.0976</string><key>y</key><string>81134.4326</string></dict>
+<dict>
+<key>identifier</key><string>fc1a29a6-d0f5-4fd1-b6b5-00b4537fb9d8</string><key>stan_name</key><string>横河大厦</string><key>multi_info</key><string> </string><key>x</key><string>82106.7187</string><key>y</key><string>81071.7422</string></dict>
+<dict>
+<key>identifier</key><string>ecca1791-ab43-4b11-a9cd-ed0479235510</string><key>stan_name</key><string>横河大厦</string><key>multi_info</key><string> </string><key>x</key><string>82114.9510</string><key>y</key><string>81059.7890</string></dict>
+<dict>
+<key>identifier</key><string>72e21378-4d3a-42b9-9328-1d71e22bafda</string><key>stan_name</key><string>丰乐大厦</string><key>multi_info</key><string> </string><key>x</key><string>80605.4922</string><key>y</key><string>81044.4453</string></dict>
+<dict>
+<key>identifier</key><string>359bca6e-5059-4f9b-9d0d-416bf5bcdbb1</string><key>stan_name</key><string>浙江国贸大厦</string><key>multi_info</key><string> </string><key>x</key><string>80715.2813</string><key>y</key><string>81032.0469</string></dict>
+<dict>
+<key>identifier</key><string>73e5477b-704e-41d1-a3f2-d09e5d3e91c1</string><key>stan_name</key><string>仁和大厦</string><key>multi_info</key><string> </string><key>x</key><string>80352.9766</string><key>y</key><string>81011.8359</string></dict>
+<dict>
+<key>identifier</key><string>ba6344c3-c37f-4614-a1f3-3d6dbbe39807</string><key>stan_name</key><string>杭州林业大厦</string><key>multi_info</key><string> </string><key>x</key><string>80713.4093</string><key>y</key><string>80975.3922</string></dict>
+<dict>
+<key>identifier</key><string>cdd78102-7fce-4bc2-b639-4808d5d284dc</string><key>stan_name</key><string>采荷大厦</string><key>multi_info</key><string> </string><key>x</key><string>83052.6016</string><key>y</key><string>80916.7891</string></dict>
+<dict>
+<key>identifier</key><string>e9a7f524-7c88-4727-9748-e91d5640e11b</string><key>stan_name</key><string>香溢大厦</string><key>multi_info</key><string> </string><key>x</key><string>80932.0156</string><key>y</key><string>80856.6094</string></dict>
+<dict>
+<key>identifier</key><string>5678e8dd-ba58-4713-8aae-3503e8d4724d</string><key>stan_name</key><string>杭州科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>80344.9922</string><key>y</key><string>80855.4062</string></dict>
+<dict>
+<key>identifier</key><string>662d66cf-1ea7-4641-be24-ef3a60968e05</string><key>stan_name</key><string>中瑞大厦</string><key>multi_info</key><string> </string><key>x</key><string>81488</string><key>y</key><string>80816.7344</string></dict>
+<dict>
+<key>identifier</key><string>95021588-37b3-4e33-9271-3d4b94ad3fe1</string><key>stan_name</key><string>华海大厦</string><key>multi_info</key><string> </string><key>x</key><string>83252.1953</string><key>y</key><string>80808.8203</string></dict>
+<dict>
+<key>identifier</key><string>38765cc0-4353-4a11-824b-588d9b79ff1a</string><key>stan_name</key><string>孔雀大厦</string><key>multi_info</key><string> </string><key>x</key><string>83354.1406</string><key>y</key><string>80803.6484</string></dict>
+<dict>
+<key>identifier</key><string>c4f61782-b273-47f1-9869-2c295a4b997c</string><key>stan_name</key><string>亚泰金融大厦</string><key>multi_info</key><string> </string><key>x</key><string>80402.9251</string><key>y</key><string>80757.2692</string></dict>
+<dict>
+<key>identifier</key><string>8ec2a015-907f-4162-8513-c778e8496881</string><key>stan_name</key><string>金钱大厦</string><key>multi_info</key><string> </string><key>x</key><string>81015.2578</string><key>y</key><string>80747.3125</string></dict>
+<dict>
+<key>identifier</key><string>c03ba32d-de72-4394-a3c9-26f7bfd4e9bd</string><key>stan_name</key><string>中纬商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>81715.8647</string><key>y</key><string>80746.2398</string></dict>
+<dict>
+<key>identifier</key><string>af1f0192-e74e-4a3c-a981-7c5db46fffe5</string><key>stan_name</key><string>中纬商务大厦A座</string><key>multi_info</key><string> </string><key>x</key><string>81776.6979</string><key>y</key><string>80732.6604</string></dict>
+<dict>
+<key>identifier</key><string>b3ce0969-c450-40a8-8f22-3936c8b5de16</string><key>stan_name</key><string>铭扬大厦</string><key>multi_info</key><string> </string><key>x</key><string>81959.7109</string><key>y</key><string>80732.5859</string></dict>
+<dict>
+<key>identifier</key><string>a4c9a5d9-e16a-4784-8e70-64050c86a9f5</string><key>stan_name</key><string>金衙庄大厦</string><key>multi_info</key><string> </string><key>x</key><string>81914.0938</string><key>y</key><string>80717.1094</string></dict>
+<dict>
+<key>identifier</key><string>77e15a51-ccb9-4f71-a60d-a3bfce567701</string><key>stan_name</key><string>解百新世纪大厦</string><key>multi_info</key><string> </string><key>x</key><string>80046.5938</string><key>y</key><string>80710.5859</string></dict>
+<dict>
+<key>identifier</key><string>f3c90932-ca3e-44b6-a12e-c3aaab766cf5</string><key>stan_name</key><string>星河商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>81290.5781</string><key>y</key><string>80694.6875</string></dict>
+<dict>
+<key>identifier</key><string>d737d11d-34b2-427c-9204-8988e75d581b</string><key>stan_name</key><string>伟星世纪大厦</string><key>multi_info</key><string> </string><key>x</key><string>81388.4766</string><key>y</key><string>80678.2109</string></dict>
+<dict>
+<key>identifier</key><string>8e2d56d3-c836-41d5-97ed-1e2d6f1d187f</string><key>stan_name</key><string>浙江省军供大厦</string><key>multi_info</key><string> </string><key>x</key><string>81770.6694</string><key>y</key><string>80665.7072</string></dict>
+<dict>
+<key>identifier</key><string>ce256442-b13b-4a08-a7d5-7082b697fcf6</string><key>stan_name</key><string>金泰商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>80759.4297</string><key>y</key><string>80329.5313</string></dict>
+<dict>
+<key>identifier</key><string>c069f4d8-f7a4-4d03-80f2-6dc6be2391e6</string><key>stan_name</key><string>杭州邮政枢纽大厦</string><key>multi_info</key><string> </string><key>x</key><string>81898.3341</string><key>y</key><string>80608.8929</string></dict>
+<dict>
+<key>identifier</key><string>73f3de89-b949-4649-8a1c-03baba61af0c</string><key>stan_name</key><string>开元大厦</string><key>multi_info</key><string> </string><key>x</key><string>80164.7984</string><key>y</key><string>80470.7240</string></dict>
+<dict>
+<key>identifier</key><string>842f2702-0127-4c3d-b5ec-2db340e45430</string><key>stan_name</key><string>富春大厦</string><key>multi_info</key><string> </string><key>x</key><string>80982.7891</string><key>y</key><string>80386.8203</string></dict>
+<dict>
+<key>identifier</key><string>f86433e7-b4f4-4597-916c-fd142bddbda7</string><key>stan_name</key><string>金湖大厦</string><key>multi_info</key><string> </string><key>x</key><string>80817.5156</string><key>y</key><string>80366.7891</string></dict>
+<dict>
+<key>identifier</key><string>87f82e5b-29b2-4605-b689-51152dd5f7de</string><key>stan_name</key><string>华顺大厦</string><key>multi_info</key><string> </string><key>x</key><string>81034.2109</string><key>y</key><string>80304.50</string></dict>
+<dict>
+<key>identifier</key><string>ac7fc8d6-ed5b-46ac-9ef0-cc11ced30cd9</string><key>stan_name</key><string>安定名都.商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>80183.6375</string><key>y</key><string>80217.7087</string></dict>
+<dict>
+<key>identifier</key><string>45a5b0ca-833e-4b78-bd84-f6d272379e33</string><key>stan_name</key><string>清波商厦商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>79889.3055</string><key>y</key><string>80211.7258</string></dict>
+<dict>
+<key>identifier</key><string>1cbd93f4-3c22-49ac-9cf0-b6528992c166</string><key>stan_name</key><string>钱江大厦</string><key>multi_info</key><string> </string><key>x</key><string>82611.4844</string><key>y</key><string>80178.5625</string></dict>
+<dict>
+<key>identifier</key><string>f73585d1-8f0e-4c8f-b5eb-2d80654cd09f</string><key>stan_name</key><string>泰地.万新大厦</string><key>multi_info</key><string> </string><key>x</key><string>81077.0922</string><key>y</key><string>80169.5490</string></dict>
+<dict>
+<key>identifier</key><string>39ce2d88-0e4a-4ace-aa6c-733a213a582c</string><key>stan_name</key><string>利群大厦</string><key>multi_info</key><string> </string><key>x</key><string>81366.9922</string><key>y</key><string>80128.5078</string></dict>
+<dict>
+<key>identifier</key><string>a5724b36-d8f0-443b-a859-a90b617292f6</string><key>stan_name</key><string>四季星座大厦</string><key>multi_info</key><string> </string><key>x</key><string>82712.5234</string><key>y</key><string>80100.6250</string></dict>
+<dict>
+<key>identifier</key><string>6c4a7a88-41de-4322-9d2e-59632439b0a3</string><key>stan_name</key><string>西湖国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>81436.2385</string><key>y</key><string>80098.8432</string></dict>
+<dict>
+<key>identifier</key><string>e9afae21-44d7-4082-be9f-b38a2f0868b3</string><key>stan_name</key><string>杭州长宝大厦</string><key>multi_info</key><string> </string><key>x</key><string>81446.9063</string><key>y</key><string>80038.1797</string></dict>
+<dict>
+<key>identifier</key><string>04f73d58-d47a-4e1d-8101-cb6ccf95da0a</string><key>stan_name</key><string>浙江铁路大厦</string><key>multi_info</key><string> </string><key>x</key><string>81667.5603</string><key>y</key><string>80037.2868</string></dict>
+<dict>
+<key>identifier</key><string>932412f7-cd6a-45d6-99b5-33f8b2b31809</string><key>stan_name</key><string>杭州红星文化大厦</string><key>multi_info</key><string> </string><key>x</key><string>81314.0239</string><key>y</key><string>80034.9652</string></dict>
+<dict>
+<key>identifier</key><string>8cf52f40-705d-41fa-b5be-401a1b7b9cfa</string><key>stan_name</key><string>香榭大厦</string><key>multi_info</key><string> </string><key>x</key><string>81459.7422</string><key>y</key><string>79947.5156</string></dict>
+<dict>
+<key>identifier</key><string>baedeecc-a6ba-447a-9650-682751bd198b</string><key>stan_name</key><string>中闽大厦</string><key>multi_info</key><string> </string><key>x</key><string>81372.5523</string><key>y</key><string>79943.1461</string></dict>
+<dict>
+<key>identifier</key><string>30efa719-85c9-4440-b893-6eb586e6e466</string><key>stan_name</key><string>浙江人寿大厦</string><key>multi_info</key><string> </string><key>x</key><string>80800.5703</string><key>y</key><string>79942.9766</string></dict>
+<dict>
+<key>identifier</key><string>f971b75c-8688-4956-a461-f8bc351b8222</string><key>stan_name</key><string>浙江中保大厦</string><key>multi_info</key><string> </string><key>x</key><string>80778.4141</string><key>y</key><string>79907.25</string></dict>
+<dict>
+<key>identifier</key><string>7fb966ef-3b5a-4123-81aa-3280a6575b95</string><key>stan_name</key><string>银联大厦</string><key>multi_info</key><string> </string><key>x</key><string>81439.3203</string><key>y</key><string>79876.4219</string></dict>
+<dict>
+<key>identifier</key><string>02960f93-0871-4f34-96f0-68320285ca45</string><key>stan_name</key><string>中山大厦</string><key>multi_info</key><string> </string><key>x</key><string>80534</string><key>y</key><string>79767.2310</string></dict>
+<dict>
+<key>identifier</key><string>2d21a2fd-9f74-4782-8a92-bc6552930e6f</string><key>stan_name</key><string>电信大厦</string><key>multi_info</key><string> </string><key>x</key><string>83843.14</string><key>y</key><string>79418.7590</string></dict>
+<dict>
+<key>identifier</key><string>a93f9ead-3bf2-420a-a980-41e7ba4b9ce5</string><key>stan_name</key><string>大名空间商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>81058.9640</string><key>y</key><string>76869.0940</string></dict>
+<dict>
+<key>identifier</key><string>9c8e1d13-bbce-4550-85ff-45b459603880</string><key>stan_name</key><string>中兴大厦</string><key>multi_info</key><string> </string><key>x</key><string>84074.2537</string><key>y</key><string>75835.4567</string></dict>
+<dict>
+<key>identifier</key><string>e4fb76d7-aea2-4711-8881-d1d211a5e15a</string><key>stan_name</key><string>杭州江口大厦</string><key>multi_info</key><string> </string><key>x</key><string>71976.5435</string><key>y</key><string>71161.1471</string></dict>
+<dict>
+<key>identifier</key><string>a8264ad1-6b0c-4ff5-80bd-fabb5c35d342</string><key>stan_name</key><string>周浦电信大厦</string><key>multi_info</key><string> </string><key>x</key><string>71206.8125</string><key>y</key><string>66204.1016</string></dict>
+<dict>
+<key>identifier</key><string>b861dcfe-7798-40ce-8975-ccad058debfc</string><key>stan_name</key><string>九堡开发大厦</string><key>multi_info</key><string> </string><key>x</key><string>89721.8359</string><key>y</key><string>87729.6250</string></dict>
+<dict>
+<key>identifier</key><string>a92ac42b-66a4-4c00-9436-f031d31bd1fe</string><key>stan_name</key><string>海达大厦</string><key>multi_info</key><string> </string><key>x</key><string>98324.3409</string><key>y</key><string>86948.6127</string></dict>
+<dict>
+<key>identifier</key><string>5493b87e-1926-4b3f-a92c-74cfd0d74634</string><key>stan_name</key><string>海达大厦</string><key>multi_info</key><string> </string><key>x</key><string>97111.2550</string><key>y</key><string>86174.1298</string></dict>
+<dict>
+<key>identifier</key><string>4e3f97f7-f67b-4451-977e-5b54817bc44e</string><key>stan_name</key><string>杭州通讯大厦</string><key>multi_info</key><string> </string><key>x</key><string>79207.3063</string><key>y</key><string>86172.2489</string></dict>
+<dict>
+<key>identifier</key><string>2a50957d-58fa-4352-bc87-6c345e6d098a</string><key>stan_name</key><string>杭办大厦</string><key>multi_info</key><string> </string><key>x</key><string>78382.75</string><key>y</key><string>85831.6875</string></dict>
+<dict>
+<key>identifier</key><string>2f31de9a-7bf4-4380-a58a-d61d160c078d</string><key>stan_name</key><string>和平大厦</string><key>multi_info</key><string> </string><key>x</key><string>80894.0234</string><key>y</key><string>85377.8750</string></dict>
+<dict>
+<key>identifier</key><string>aafc844e-ba2a-4ceb-b4e7-a1a486098ae5</string><key>stan_name</key><string>文欣大厦</string><key>multi_info</key><string> </string><key>x</key><string>77528.2813</string><key>y</key><string>85372.5391</string></dict>
+<dict>
+<key>identifier</key><string>00efa67c-4cce-4ff6-bf1b-7c9285083eef</string><key>stan_name</key><string>云河大厦</string><key>multi_info</key><string> </string><key>x</key><string>78267.1953</string><key>y</key><string>85214.0078</string></dict>
+<dict>
+<key>identifier</key><string>4754f12b-f755-4aa4-9a55-2861cab46884</string><key>stan_name</key><string>敬业大厦</string><key>multi_info</key><string> </string><key>x</key><string>83216.1250</string><key>y</key><string>85163.7734</string></dict>
+<dict>
+<key>identifier</key><string>b73fbe34-abe7-4e37-90aa-7c703a5e582c</string><key>stan_name</key><string>现代大厦</string><key>multi_info</key><string> </string><key>x</key><string>83778.43</string><key>y</key><string>84831.1740</string></dict>
+<dict>
+<key>identifier</key><string>f72fcb77-4ca6-440e-9dd7-fa207166e521</string><key>stan_name</key><string>锦绣大厦</string><key>multi_info</key><string> </string><key>x</key><string>78610.6094</string><key>y</key><string>84967.2344</string></dict>
+<dict>
+<key>identifier</key><string>7ccc9042-5b4c-4cb5-9d41-4440207e3af7</string><key>stan_name</key><string>浙江环保大厦</string><key>multi_info</key><string> </string><key>x</key><string>75701.2488</string><key>y</key><string>84935.1308</string></dict>
+<dict>
+<key>identifier</key><string>1a33da25-52da-4a76-93f1-c5447a5fcec2</string><key>stan_name</key><string>中竹大厦</string><key>multi_info</key><string> </string><key>x</key><string>75597.5234</string><key>y</key><string>84918.0234</string></dict>
+<dict>
+<key>identifier</key><string>2e5bd71a-dff5-43fc-9966-806a5ecbd42e</string><key>stan_name</key><string>湖畔大厦</string><key>multi_info</key><string> </string><key>x</key><string>74001.5547</string><key>y</key><string>84820.2422</string></dict>
+<dict>
+<key>identifier</key><string>2bf40771-4602-4f89-8b41-38b0edc0c1ef</string><key>stan_name</key><string>浙江协作大厦</string><key>multi_info</key><string> </string><key>x</key><string>78887.1062</string><key>y</key><string>84742.9626</string></dict>
+<dict>
+<key>identifier</key><string>ddadf39a-97fa-437a-97a2-ef240684cb7d</string><key>stan_name</key><string>杭州人民大厦</string><key>multi_info</key><string> </string><key>x</key><string>78972.3516</string><key>y</key><string>84702.7656</string></dict>
+<dict>
+<key>identifier</key><string>58486106-655d-4064-a8b3-728d3bddde9c</string><key>stan_name</key><string>银地大厦</string><key>multi_info</key><string> </string><key>x</key><string>78762.7188</string><key>y</key><string>84667.9453</string></dict>
+<dict>
+<key>identifier</key><string>aa5e2059-9e01-42a6-8826-199d6f401ee9</string><key>stan_name</key><string>汽轮大厦</string><key>multi_info</key><string> </string><key>x</key><string>75902.5085</string><key>y</key><string>84256.6271</string></dict>
+<dict>
+<key>identifier</key><string>c90e0e75-6d73-4b36-b5c4-26b980ff3e34</string><key>stan_name</key><string>红石中央大厦</string><key>multi_info</key><string> </string><key>x</key><string>78762.0056</string><key>y</key><string>84580.9170</string></dict>
+<dict>
+<key>identifier</key><string>baba9d73-2214-4dfe-85d7-c1a3380afe34</string><key>stan_name</key><string>瑞祺大厦</string><key>multi_info</key><string> </string><key>x</key><string>78225.6101</string><key>y</key><string>84563.4981</string></dict>
+<dict>
+<key>identifier</key><string>7a9346c3-0eea-450c-ad1f-734eb48b6204</string><key>stan_name</key><string>中环大厦</string><key>multi_info</key><string> </string><key>x</key><string>78679.6719</string><key>y</key><string>84549.2812</string></dict>
+<dict>
+<key>identifier</key><string>c3a1447b-0d4d-4d7f-9067-df19e2a54995</string><key>stan_name</key><string>神州白云大厦</string><key>multi_info</key><string> </string><key>x</key><string>82298.3534</string><key>y</key><string>84510.6676</string></dict>
+<dict>
+<key>identifier</key><string>3972832b-c31c-46c9-ad6c-85e02d215019</string><key>stan_name</key><string>浙江省图书大厦</string><key>multi_info</key><string> </string><key>x</key><string>77995.7344</string><key>y</key><string>84481.3906</string></dict>
+<dict>
+<key>identifier</key><string>9415a940-4fe6-41f7-bf50-9e9b13e4e911</string><key>stan_name</key><string>金地大厦</string><key>multi_info</key><string> </string><key>x</key><string>77043.3438</string><key>y</key><string>84432.7187</string></dict>
+<dict>
+<key>identifier</key><string>3c50b7f7-1f7c-4600-9fb7-554a8d3f24b7</string><key>stan_name</key><string>西湖大厦</string><key>multi_info</key><string> </string><key>x</key><string>77100.9141</string><key>y</key><string>84407.9063</string></dict>
+<dict>
+<key>identifier</key><string>f21e18ee-62be-4606-be47-e665c1cb8b11</string><key>stan_name</key><string>高新大厦</string><key>multi_info</key><string> </string><key>x</key><string>76993.2734</string><key>y</key><string>84404.7188</string></dict>
+<dict>
+<key>identifier</key><string>c9436900-68ed-412c-a643-969f599e858c</string><key>stan_name</key><string>海事大厦</string><key>multi_info</key><string> </string><key>x</key><string>78872.7076</string><key>y</key><string>84354.1203</string></dict>
+<dict>
+<key>identifier</key><string>20c2286a-0e25-46ac-a7d0-bf566c5eb1fc</string><key>stan_name</key><string>文欣大厦</string><key>multi_info</key><string> </string><key>x</key><string>77198.6250</string><key>y</key><string>84347.9609</string></dict>
+<dict>
+<key>identifier</key><string>1ffb3e8a-903c-439e-81d9-0bde74dd9a99</string><key>stan_name</key><string>文新图书大厦</string><key>multi_info</key><string> </string><key>x</key><string>73626.4761</string><key>y</key><string>84346.6278</string></dict>
+<dict>
+<key>identifier</key><string>57fb27b8-8caf-47c5-887c-8c56c23f6566</string><key>stan_name</key><string>绿城金桂大厦</string><key>multi_info</key><string> </string><key>x</key><string>73612.6484</string><key>y</key><string>84281.1328</string></dict>
+<dict>
+<key>identifier</key><string>a7ebc77c-1f77-4ee2-807f-5529d5c0b19e</string><key>stan_name</key><string>丽阳国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>78921.2344</string><key>y</key><string>84256.6328</string></dict>
+<dict>
+<key>identifier</key><string>bdcff8cd-40ac-4410-8af9-d77b75787c47</string><key>stan_name</key><string>西湖国际科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>75710.4233</string><key>y</key><string>84249.5412</string></dict>
+<dict>
+<key>identifier</key><string>a152e8a7-2b37-4969-ba75-27a211874e57</string><key>stan_name</key><string>元茂大厦</string><key>multi_info</key><string> </string><key>x</key><string>75437.8845</string><key>y</key><string>84247.8030</string></dict>
+<dict>
+<key>identifier</key><string>b492c102-516b-4317-8af5-aabe88df507b</string><key>stan_name</key><string>苍山大厦</string><key>multi_info</key><string> </string><key>x</key><string>79973.2891</string><key>y</key><string>84216.7344</string></dict>
+<dict>
+<key>identifier</key><string>1ad23e95-c751-4f42-a3cd-f1210a4a626a</string><key>stan_name</key><string>金鹰大厦</string><key>multi_info</key><string> </string><key>x</key><string>79745.0391</string><key>y</key><string>84142.1953</string></dict>
+<dict>
+<key>identifier</key><string>b741e91d-c268-4668-a1ef-22c3e892e4c1</string><key>stan_name</key><string>越都商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>80098.4737</string><key>y</key><string>84131.6084</string></dict>
+<dict>
+<key>identifier</key><string>19a6a90a-f3ce-4e90-b966-7a907e72c589</string><key>stan_name</key><string>兽王大厦</string><key>multi_info</key><string> </string><key>x</key><string>80102.1250</string><key>y</key><string>83761.1172</string></dict>
+<dict>
+<key>identifier</key><string>0a1d6286-f43e-4cdf-a552-bc0cd9c2621e</string><key>stan_name</key><string>浙江产业科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>75812.4671</string><key>y</key><string>84064.8392</string></dict>
+<dict>
+<key>identifier</key><string>ef670fde-3c40-434c-bdc6-4c31f3935a4c</string><key>stan_name</key><string>消防大厦</string><key>multi_info</key><string> </string><key>x</key><string>79802.4405</string><key>y</key><string>84053.3714</string></dict>
+<dict>
+<key>identifier</key><string>84bf80ec-09d5-4e67-b5ef-3117c6c4b2ef</string><key>stan_name</key><string>锦江大厦</string><key>multi_info</key><string> </string><key>x</key><string>78941.5391</string><key>y</key><string>83987.3437</string></dict>
+<dict>
+<key>identifier</key><string>23ddc4b1-9065-49d5-a863-0d29ac34b333</string><key>stan_name</key><string>立新大厦</string><key>multi_info</key><string> </string><key>x</key><string>78700.8828</string><key>y</key><string>83985.1797</string></dict>
+<dict>
+<key>identifier</key><string>03e974e8-2a9e-47b7-a000-5edd5556f41a</string><key>stan_name</key><string>瑞利大厦</string><key>multi_info</key><string> </string><key>x</key><string>75746.3784</string><key>y</key><string>83971.4330</string></dict>
+<dict>
+<key>identifier</key><string>149269d5-4abc-4b27-aab9-9acb445a426b</string><key>stan_name</key><string>现代城建大厦</string><key>multi_info</key><string> </string><key>x</key><string>79993.7344</string><key>y</key><string>83970.5234</string></dict>
+<dict>
+<key>identifier</key><string>002a2136-5c92-4e18-ae4b-40a52c04ae70</string><key>stan_name</key><string>耀江国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>78631.7109</string><key>y</key><string>83962.9375</string></dict>
+<dict>
+<key>identifier</key><string>8bc21975-1ecf-43a5-9df1-a2dd8a20088a</string><key>stan_name</key><string>现代城建大厦</string><key>multi_info</key><string> </string><key>x</key><string>79977.2161</string><key>y</key><string>83959.75</string></dict>
+<dict>
+<key>identifier</key><string>5ff2d824-fbb3-4ad4-8b66-2b8671e9c9c1</string><key>stan_name</key><string>文晖大厦</string><key>multi_info</key><string> </string><key>x</key><string>79035.2031</string><key>y</key><string>83942.6562</string></dict>
+<dict>
+<key>identifier</key><string>5bfca93c-f1fc-48b4-86ec-03129b6c18a4</string><key>stan_name</key><string>东门大厦</string><key>multi_info</key><string> </string><key>x</key><string>84319.1250</string><key>y</key><string>83913.25</string></dict>
+<dict>
+<key>identifier</key><string>3709bea0-77db-4d6c-82a6-134f8bd945e7</string><key>stan_name</key><string>东软创业大厦</string><key>multi_info</key><string> </string><key>x</key><string>75752.2578</string><key>y</key><string>83901.4609</string></dict>
+<dict>
+<key>identifier</key><string>b6f4057f-b54c-49b6-93b6-30dfe6b49ec4</string><key>stan_name</key><string>钛合国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>80512.6108</string><key>y</key><string>83869.8070</string></dict>
+<dict>
+<key>identifier</key><string>8f538257-ef4c-413f-afa1-422fd85960ce</string><key>stan_name</key><string>浙江建工大厦</string><key>multi_info</key><string> </string><key>x</key><string>78462.7488</string><key>y</key><string>83869.6129</string></dict>
+<dict>
+<key>identifier</key><string>4c2a3dd4-5cd0-4be9-a8b8-66d9caac771d</string><key>stan_name</key><string>众安大厦</string><key>multi_info</key><string> </string><key>x</key><string>80708.9260</string><key>y</key><string>81738.8987</string></dict>
+<dict>
+<key>identifier</key><string>a81e1ea1-71d9-49db-a947-aec5fff08c5c</string><key>stan_name</key><string>广利大厦</string><key>multi_info</key><string> </string><key>x</key><string>80550.9844</string><key>y</key><string>81690.0547</string></dict>
+<dict>
+<key>identifier</key><string>52db3e6e-e1e5-4f8f-8b02-ac7cc2391b18</string><key>stan_name</key><string>金秋大厦</string><key>multi_info</key><string> </string><key>x</key><string>81326.1875</string><key>y</key><string>81676.2812</string></dict>
+<dict>
+<key>identifier</key><string>00e25a80-dfcc-4a52-8858-e462f80e6a11</string><key>stan_name</key><string>金融大厦东座</string><key>multi_info</key><string> </string><key>x</key><string>80327.1499</string><key>y</key><string>81667.9075</string></dict>
+<dict>
+<key>identifier</key><string>8a655436-8ccf-4a4a-afa1-834c2ce4e5b5</string><key>stan_name</key><string>三瑞大厦</string><key>multi_info</key><string> </string><key>x</key><string>81779.0078</string><key>y</key><string>81658.3984</string></dict>
+<dict>
+<key>identifier</key><string>fe8ce41e-db2f-4a93-9c55-7e76f43157cb</string><key>stan_name</key><string>东清大厦</string><key>multi_info</key><string> </string><key>x</key><string>81201.1562</string><key>y</key><string>81643.6797</string></dict>
+<dict>
+<key>identifier</key><string>44ca3a5e-dd81-4426-b8ef-830d82a4cc15</string><key>stan_name</key><string>银海大厦</string><key>multi_info</key><string> </string><key>x</key><string>79760.5295</string><key>y</key><string>81617.3920</string></dict>
+<dict>
+<key>identifier</key><string>f72c9cdd-55cc-4da8-8dac-dc07115a5327</string><key>stan_name</key><string>中河大厦</string><key>multi_info</key><string> </string><key>x</key><string>80523.0078</string><key>y</key><string>81583.3828</string></dict>
+<dict>
+<key>identifier</key><string>f36f322f-fb88-4567-8519-70e96788fd96</string><key>stan_name</key><string>健风大厦</string><key>multi_info</key><string> </string><key>x</key><string>83480.4922</string><key>y</key><string>81212.0078</string></dict>
+<dict>
+<key>identifier</key><string>bbcf5e43-33a8-4a82-b667-e657fb5e6d5e</string><key>stan_name</key><string>远洋大厦</string><key>multi_info</key><string> </string><key>x</key><string>81776.9453</string><key>y</key><string>81573.1172</string></dict>
+<dict>
+<key>identifier</key><string>3296dfcd-fb7d-4ed4-9575-967439dc2396</string><key>stan_name</key><string>庆联大厦</string><key>multi_info</key><string> </string><key>x</key><string>80851.2410</string><key>y</key><string>81570.8796</string></dict>
+<dict>
+<key>identifier</key><string>c7f9c95e-82af-47c3-a76f-cc976a62d6fe</string><key>stan_name</key><string>中医大厦</string><key>multi_info</key><string> </string><key>x</key><string>81839.4822</string><key>y</key><string>81570.0879</string></dict>
+<dict>
+<key>identifier</key><string>ff518bc9-58fe-46ec-804a-8c04e761df91</string><key>stan_name</key><string>华都大厦</string><key>multi_info</key><string> </string><key>x</key><string>80878.4607</string><key>y</key><string>81566.8606</string></dict>
+<dict>
+<key>identifier</key><string>84d4726d-c529-41b9-a21a-94045ad9639d</string><key>stan_name</key><string>中财发展大厦</string><key>multi_info</key><string> </string><key>x</key><string>80577.9609</string><key>y</key><string>81563.9687</string></dict>
+<dict>
+<key>identifier</key><string>b2794fd2-7865-42f6-9e12-f2fb59375e11</string><key>stan_name</key><string>浙艺大厦</string><key>multi_info</key><string> </string><key>x</key><string>80464.4766</string><key>y</key><string>81556.9219</string></dict>
+<dict>
+<key>identifier</key><string>8076fcc6-18d4-4b02-ba32-9abf8e36dead</string><key>stan_name</key><string>杭州商业大厦</string><key>multi_info</key><string> </string><key>x</key><string>80763.2489</string><key>y</key><string>81548.5619</string></dict>
+<dict>
+<key>identifier</key><string>8d3aae39-2829-48be-a36c-c45eed6e8d77</string><key>stan_name</key><string>瑞丰国际商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>80696.7031</string><key>y</key><string>81541.5547</string></dict>
+<dict>
+<key>identifier</key><string>def6710c-8958-4388-878b-c322ac968668</string><key>stan_name</key><string>金峰大厦</string><key>multi_info</key><string> </string><key>x</key><string>80592.0078</string><key>y</key><string>81482.4453</string></dict>
+<dict>
+<key>identifier</key><string>8c3ee38e-ea18-4e26-8dc5-2b02583d3e25</string><key>stan_name</key><string>杭州凯旋大厦</string><key>multi_info</key><string> </string><key>x</key><string>82485.2266</string><key>y</key><string>81423.9141</string></dict>
+<dict>
+<key>identifier</key><string>49bb0381-4cbb-4a5a-b6eb-d57d2145c797</string><key>stan_name</key><string>通城大厦</string><key>multi_info</key><string> </string><key>x</key><string>80143.5071</string><key>y</key><string>81417.9505</string></dict>
+<dict>
+<key>identifier</key><string>b5ac1f81-cf5d-4a01-8e15-f0afd64ce69c</string><key>stan_name</key><string>杭州烟草大厦</string><key>multi_info</key><string> </string><key>x</key><string>80590.4877</string><key>y</key><string>81410.8974</string></dict>
+<dict>
+<key>identifier</key><string>3fc63db1-8025-4526-a71d-95cc15f29a1e</string><key>stan_name</key><string>龙翔大厦</string><key>multi_info</key><string> </string><key>x</key><string>79940.7735</string><key>y</key><string>81379.9063</string></dict>
+<dict>
+<key>identifier</key><string>dcddef71-f4c5-49d3-bf5c-d9423c0731ee</string><key>stan_name</key><string>杭州市市政大厦</string><key>multi_info</key><string> </string><key>x</key><string>80568.6767</string><key>y</key><string>81298.7587</string></dict>
+<dict>
+<key>identifier</key><string>bab6ec59-8ae2-4a47-b43e-c6e3ddf4651d</string><key>stan_name</key><string>康恒大厦</string><key>multi_info</key><string> </string><key>x</key><string>74408.4297</string><key>y</key><string>83566.1719</string></dict>
+<dict>
+<key>identifier</key><string>84860586-425d-4a4b-b7a4-f972e677c1cf</string><key>stan_name</key><string>杭州大厦</string><key>multi_info</key><string> </string><key>x</key><string>79623.2588</string><key>y</key><string>83131.8837</string></dict>
+<dict>
+<key>identifier</key><string>2e9deda7-e89f-424d-bce0-f24966b0a02b</string><key>stan_name</key><string>物资大厦</string><key>multi_info</key><string> </string><key>x</key><string>78581.4531</string><key>y</key><string>83126.4297</string></dict>
+<dict>
+<key>identifier</key><string>7082ef79-1f29-4a48-a6a3-696110d18f37</string><key>stan_name</key><string>浙江省投资大厦</string><key>multi_info</key><string> </string><key>x</key><string>77295.3782</string><key>y</key><string>83119.2420</string></dict>
+<dict>
+<key>identifier</key><string>f5ce88b8-e9e9-4d1c-9a74-712d719f66c4</string><key>stan_name</key><string>天际大厦</string><key>multi_info</key><string> </string><key>x</key><string>76491.8202</string><key>y</key><string>83085.1397</string></dict>
+<dict>
+<key>identifier</key><string>07c1f97c-df68-4b48-b629-262541988610</string><key>stan_name</key><string>杭州人保大厦</string><key>multi_info</key><string> </string><key>x</key><string>81994.9453</string><key>y</key><string>82968.2031</string></dict>
+<dict>
+<key>identifier</key><string>7d9a6eb8-a0a4-4832-91c3-8b3556314250</string><key>stan_name</key><string>金祝大厦</string><key>multi_info</key><string> </string><key>x</key><string>78742.4063</string><key>y</key><string>82875.7813</string></dict>
+<dict>
+<key>identifier</key><string>af72b7e4-c13b-4e8a-a676-faf52af2bb00</string><key>stan_name</key><string>裕达大厦</string><key>multi_info</key><string> </string><key>x</key><string>81980.2266</string><key>y</key><string>83048.6328</string></dict>
+<dict>
+<key>identifier</key><string>e26e3b06-18d9-4378-8716-5d70ac16230c</string><key>stan_name</key><string>浙江日报新闻大厦</string><key>multi_info</key><string> </string><key>x</key><string>80885.7969</string><key>y</key><string>83045.0391</string></dict>
+<dict>
+<key>identifier</key><string>0ab44943-2cac-406a-b0a2-4d3356392113</string><key>stan_name</key><string>浙江金属大厦</string><key>multi_info</key><string> </string><key>x</key><string>79194.7654</string><key>y</key><string>83044.7175</string></dict>
+<dict>
+<key>identifier</key><string>dada035b-3a80-4f72-bede-2f6550dd9c9a</string><key>stan_name</key><string>玉泉大厦</string><key>multi_info</key><string> </string><key>x</key><string>76851.2891</string><key>y</key><string>83041.9141</string></dict>
+<dict>
+<key>identifier</key><string>cdd9e0a0-014f-4b85-b850-f35b0e1f7d6f</string><key>stan_name</key><string>现代国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>76676.1945</string><key>y</key><string>83036.9722</string></dict>
+<dict>
+<key>identifier</key><string>0cb9e880-c748-423c-91ab-d95cf11e211b</string><key>stan_name</key><string>新湖商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>77475.7479</string><key>y</key><string>82982.9371</string></dict>
+<dict>
+<key>identifier</key><string>92aae14e-de7b-44db-a7b0-94095d015e76</string><key>stan_name</key><string>天名大厦</string><key>multi_info</key><string> </string><key>x</key><string>80290.4612</string><key>y</key><string>82977.2125</string></dict>
+<dict>
+<key>identifier</key><string>5f4e6f7e-f744-44bc-a85f-cafba4dd74bd</string><key>stan_name</key><string>运务大厦</string><key>multi_info</key><string> </string><key>x</key><string>79304.8906</string><key>y</key><string>82967.4219</string></dict>
+<dict>
+<key>identifier</key><string>213ef786-13a5-40e0-824a-833aab2d6c73</string><key>stan_name</key><string>农发大厦</string><key>multi_info</key><string> </string><key>x</key><string>79361.3672</string><key>y</key><string>82958.3125</string></dict>
+<dict>
+<key>identifier</key><string>afc7fb54-57c2-46f1-abb9-c2341eff35cc</string><key>stan_name</key><string>浙江体育大厦</string><key>multi_info</key><string> </string><key>x</key><string>80624.0091</string><key>y</key><string>82950.4114</string></dict>
+<dict>
+<key>identifier</key><string>2dd94c59-1b2c-4081-b883-f86398fc98ef</string><key>stan_name</key><string>杭州粮油食品贸易大厦</string><key>multi_info</key><string> </string><key>x</key><string>80073.2578</string><key>y</key><string>82925.1016</string></dict>
+<dict>
+<key>identifier</key><string>272a11e4-d96a-4e7a-acc3-88c9a14ad7cc</string><key>stan_name</key><string>浙江丝绸大厦</string><key>multi_info</key><string> </string><key>x</key><string>81175.0547</string><key>y</key><string>82893.3359</string></dict>
+<dict>
+<key>identifier</key><string>641b928a-3ba7-465e-ab08-f35ec44406fe</string><key>stan_name</key><string>杭州电子仪表大厦</string><key>multi_info</key><string> </string><key>x</key><string>80369.8063</string><key>y</key><string>82879.9797</string></dict>
+<dict>
+<key>identifier</key><string>9e305fca-b60b-40df-a03a-9388197f0fd1</string><key>stan_name</key><string>黄龙恒励大厦</string><key>multi_info</key><string> </string><key>x</key><string>77136.9509</string><key>y</key><string>82875.3266</string></dict>
+<dict>
+<key>identifier</key><string>0d3aa8b7-9c85-45ff-aeab-7be40f5d4824</string><key>stan_name</key><string>金盾大厦</string><key>multi_info</key><string> </string><key>x</key><string>77292.3933</string><key>y</key><string>82973.1217</string></dict>
+<dict>
+<key>identifier</key><string>7a1b282c-93f1-4b54-bc38-2659fe235d7e</string><key>stan_name</key><string>龙都大厦</string><key>multi_info</key><string> </string><key>x</key><string>75513.5703</string><key>y</key><string>83187.1172</string></dict>
+<dict>
+<key>identifier</key><string>5cec8bf4-ebca-44b0-b68e-65c5e6a547a1</string><key>stan_name</key><string>华鸿大厦</string><key>multi_info</key><string> </string><key>x</key><string>76273.4844</string><key>y</key><string>83255.8359</string></dict>
+<dict>
+<key>identifier</key><string>30608843-858e-4f14-8583-b98f8e0380ea</string><key>stan_name</key><string>京晋大厦</string><key>multi_info</key><string> </string><key>x</key><string>80699.6406</string><key>y</key><string>81324.1094</string></dict>
+<dict>
+<key>identifier</key><string>51243414-c5e5-4077-bfa0-0482469ea437</string><key>stan_name</key><string>天湖大厦</string><key>multi_info</key><string> </string><key>x</key><string>77090.2734</string><key>y</key><string>84124.6172</string></dict>
+<dict>
+<key>identifier</key><string>2ef9836e-b5b6-4323-9c4a-8bdafdcd441b</string><key>stan_name</key><string>杭州人才大厦</string><key>multi_info</key><string> </string><key>x</key><string>81108.1875</string><key>y</key><string>84234.8125</string></dict>
+<dict>
+<key>identifier</key><string>bba7001c-6db7-471a-a560-1c84a5551c52</string><key>stan_name</key><string>红石中央大厦</string><key>multi_info</key><string> </string><key>x</key><string>78757.0391</string><key>y</key><string>84604.8984</string></dict>
+<dict>
+<key>identifier</key><string>a4cc54ff-8fe8-4c52-b422-a0811eb258ee</string><key>stan_name</key><string>华龙商务大厦</string><key>multi_info</key><string> </string><key>x</key><string>78573.3828</string><key>y</key><string>84119.0937</string></dict>
+<dict>
+<key>identifier</key><string>6ef29436-72c8-4191-9c28-a8a180fea2dd</string><key>stan_name</key><string>浙租大厦</string><key>multi_info</key><string> </string><key>x</key><string>78600.7734</string><key>y</key><string>85025.4531</string></dict>
+<dict>
+<key>identifier</key><string>66c19daf-886e-45ef-99f7-66ac4d3b22e3</string><key>stan_name</key><string>银都大厦</string><key>multi_info</key><string> </string><key>x</key><string>78479.6094</string><key>y</key><string>85187.8047</string></dict>
+<dict>
+<key>identifier</key><string>105ba43a-e0a0-4e39-9cfe-f85daeec41ae</string><key>stan_name</key><string>工联大厦仓库</string><key>multi_info</key><string> </string><key>x</key><string>81628.7109</string><key>y</key><string>85615.5547</string></dict>
+<dict>
+<key>identifier</key><string>89c8ecc5-7857-4fca-8ea6-b7d2ad513bd9</string><key>stan_name</key><string>三江大厦</string><key>multi_info</key><string> </string><key>x</key><string>83607.4410</string><key>y</key><string>60409.8310</string></dict>
+<dict>
+<key>identifier</key><string>bea24b88-ceef-495d-8299-8d404e47ed21</string><key>stan_name</key><string>凤凰大厦</string><key>multi_info</key><string> </string><key>x</key><string>103360.4829</string><key>y</key><string>71067.7581</string></dict>
+<dict>
+<key>identifier</key><string>eb6960e0-4cb4-4e33-8bb8-c1b49edfe8ec</string><key>stan_name</key><string>志成大厦</string><key>multi_info</key><string> </string><key>x</key><string>78056.7704</string><key>y</key><string>72507.3841</string></dict>
+<dict>
+<key>identifier</key><string>ca455e51-2fc5-46ac-9324-e9ea7ca14c82</string><key>stan_name</key><string>创新大厦</string><key>multi_info</key><string> </string><key>x</key><string>79615.5313</string><key>y</key><string>73353.7266</string></dict>
+<dict>
+<key>identifier</key><string>e0805cfb-550e-498f-aa2f-0d346178be62</string><key>stan_name</key><string>华荣时代大厦</string><key>multi_info</key><string> </string><key>x</key><string>79522.1875</string><key>y</key><string>73393.3438</string></dict>
+<dict>
+<key>identifier</key><string>8c49fc13-668c-4c37-8cd8-6c98bae3fe24</string><key>stan_name</key><string>东冠创业大厦</string><key>multi_info</key><string> </string><key>x</key><string>78789.5938</string><key>y</key><string>73444.9922</string></dict>
+<dict>
+<key>identifier</key><string>11ab794d-2750-4ce3-bd08-1ab5d92a5924</string><key>stan_name</key><string>宏华大厦</string><key>multi_info</key><string> </string><key>x</key><string>79927.9063</string><key>y</key><string>73889.5547</string></dict>
+<dict>
+<key>identifier</key><string>ed2ed4e5-a5ad-4caa-bb35-cc704dec4d71</string><key>stan_name</key><string>恒鑫大厦</string><key>multi_info</key><string> </string><key>x</key><string>83541.0156</string><key>y</key><string>75358.9141</string></dict>
+<dict>
+<key>identifier</key><string>a640e9cf-54ea-4d33-87a2-c124ce2f4721</string><key>stan_name</key><string>兴耀集团大厦总部</string><key>multi_info</key><string> </string><key>x</key><string>83685.75</string><key>y</key><string>75449.1953</string></dict>
+<dict>
+<key>identifier</key><string>f8ca6e19-9a21-4038-8326-155ca0f42e8c</string><key>stan_name</key><string>一方大厦</string><key>multi_info</key><string> </string><key>x</key><string>89797.8031</string><key>y</key><string>75474.0880</string></dict>
+<dict>
+<key>identifier</key><string>be712612-ece3-4ade-a9ed-b6421efa2352</string><key>stan_name</key><string>宁安大厦</string><key>multi_info</key><string> </string><key>x</key><string>89967.2711</string><key>y</key><string>75578.6240</string></dict>
+<dict>
+<key>identifier</key><string>ecb43138-ead4-4b33-a158-04870f3d6c13</string><key>stan_name</key><string>百安电力大厦</string><key>multi_info</key><string> </string><key>x</key><string>90217.8871</string><key>y</key><string>76067.8649</string></dict>
+<dict>
+<key>identifier</key><string>0b74ce5b-86d7-4718-9430-b8457741d22d</string><key>stan_name</key><string>浙江华龙国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>84731.7031</string><key>y</key><string>76113.4375</string></dict>
+<dict>
+<key>identifier</key><string>fe11922d-74fe-4ed2-a1b7-2d2450583763</string><key>stan_name</key><string>萧宏大厦</string><key>multi_info</key><string> </string><key>x</key><string>84043.6694</string><key>y</key><string>76145.3048</string></dict>
+<dict>
+<key>identifier</key><string>d1ebb3a7-2af6-4fd7-af4f-cadf9452b66c</string><key>stan_name</key><string>浙江中财大厦</string><key>multi_info</key><string> </string><key>x</key><string>84683.6583</string><key>y</key><string>76225.1816</string></dict>
+<dict>
+<key>identifier</key><string>b468cbc4-55fb-403b-b70d-1c8988001096</string><key>stan_name</key><string>香溢大厦</string><key>multi_info</key><string> </string><key>x</key><string>84774.3830</string><key>y</key><string>76479.0470</string></dict>
+<dict>
+<key>identifier</key><string>124fda45-a31b-4ca5-ad14-e647a501b62e</string><key>stan_name</key><string>钱江大厦</string><key>multi_info</key><string> </string><key>x</key><string>84638.1872</string><key>y</key><string>76629.7681</string></dict>
+<dict>
+<key>identifier</key><string>903eaf99-f883-4970-ba8f-7e51df957fbe</string><key>stan_name</key><string>望江大厦</string><key>multi_info</key><string> </string><key>x</key><string>82146.8594</string><key>y</key><string>78865.1406</string></dict>
+<dict>
+<key>identifier</key><string>288941cd-d952-49a9-bc7c-e3917d04c4a1</string><key>stan_name</key><string>近江大厦</string><key>multi_info</key><string> </string><key>x</key><string>82630.2266</string><key>y</key><string>79362.9219</string></dict>
+<dict>
+<key>identifier</key><string>8b3c194d-5000-423a-a19c-9be4ed380042</string><key>stan_name</key><string>中华大厦</string><key>multi_info</key><string> </string><key>x</key><string>83044.0469</string><key>y</key><string>79766.25</string></dict>
+<dict>
+<key>identifier</key><string>c8a35e48-ce56-494a-94e9-2e136d3e951b</string><key>stan_name</key><string>富云大厦</string><key>multi_info</key><string> </string><key>x</key><string>82970.8437</string><key>y</key><string>79839.2578</string></dict>
+<dict>
+<key>identifier</key><string>6ea269f0-e317-4c68-b4c0-1c9215e95d7f</string><key>stan_name</key><string>新东方大厦</string><key>multi_info</key><string> </string><key>x</key><string>81420.9141</string><key>y</key><string>80307.2109</string></dict>
+<dict>
+<key>identifier</key><string>5ba5f54a-e28e-4c02-a8ba-0015f44d325f</string><key>stan_name</key><string>浙江省军供大厦</string><key>multi_info</key><string> </string><key>x</key><string>81776.8281</string><key>y</key><string>80651.1250</string></dict>
+<dict>
+<key>identifier</key><string>e0cdb7ef-4969-4f21-87bc-651ea3622a75</string><key>stan_name</key><string>航天通信大厦</string><key>multi_info</key><string> </string><key>x</key><string>80747.7188</string><key>y</key><string>80905.8047</string></dict>
+<dict>
+<key>identifier</key><string>776d94a4-baf3-433f-88b9-aa327a7d2b2b</string><key>stan_name</key><string>杭州城北大厦</string><key>multi_info</key><string> </string><key>x</key><string>81998.3623</string><key>y</key><string>91735.3926</string></dict>
+<dict>
+<key>identifier</key><string>2474d750-2592-4e85-955a-fff5bddd3bd3</string><key>stan_name</key><string>瓶窑大厦</string><key>multi_info</key><string> </string><key>x</key><string>62015.9660</string><key>y</key><string>96006.5789</string></dict>
+<dict>
+<key>identifier</key><string>74c8bcbf-d713-46a6-9029-879f490eb07a</string><key>stan_name</key><string>御峰大厦</string><key>multi_info</key><string> </string><key>x</key><string>74716.2698</string><key>y</key><string>86374.4482</string></dict>
+<dict>
+<key>identifier</key><string>50ada872-41f2-49dd-97f1-ba45ae6d2f01</string><key>stan_name</key><string>UDC时代大厦</string><key>multi_info</key><string> </string><key>x</key><string>84902.6830</string><key>y</key><string>80325.2040</string></dict>
+<dict>
+<key>identifier</key><string>ea5e472b-a043-4e58-81dd-622cc06645d9</string><key>stan_name</key><string>迪凯国际大厦</string><key>multi_info</key><string> </string><key>x</key><string>84925.2990</string><key>y</key><string>80440.8270</string></dict>
+<dict>
+<key>identifier</key><string>b18a958a-bb19-4118-aa5c-7b8db354fe1b</string><key>stan_name</key><string>建设大厦</string><key>multi_info</key><string> </string><key>x</key><string>93653.2569</string><key>y</key><string>98736.6694</string></dict>
+<dict>
+<key>identifier</key><string>654a643a-28a1-4764-accf-b62180f652b3</string><key>stan_name</key><string>二轻大厦</string><key>multi_info</key><string> </string><key>x</key><string>92652.5019</string><key>y</key><string>99671.0047</string></dict>
+<dict>
+<key>identifier</key><string>a49755ed-a1c9-471b-875b-36abdb5a925f</string><key>stan_name</key><string>商业大厦</string><key>multi_info</key><string> </string><key>x</key><string>92933.0804</string><key>y</key><string>100104.6309</string></dict>
+<dict>
+<key>identifier</key><string>6ccc15a6-8304-4fac-ba26-404558099c0a</string><key>stan_name</key><string>交通大厦</string><key>multi_info</key><string> </string><key>x</key><string>93091.3736</string><key>y</key><string>100324.42</string></dict>
+<dict>
+<key>identifier</key><string>515929d4-8a4f-4531-8dd9-9ed6a0552ae0</string><key>stan_name</key><string>西子联合大厦</string><key>multi_info</key><string> </string><key>x</key><string>83941.6890</string><key>y</key><string>81523.6330</string></dict>
+<dict>
+<key>identifier</key><string>0b2af3f8-a80b-44c5-bf83-4ec1a91add28</string><key>stan_name</key><string>尊宝大厦</string><key>multi_info</key><string> </string><key>x</key><string>84122.0640</string><key>y</key><string>79485.3530</string></dict>
+<dict>
+<key>identifier</key><string>eb5be0cd-a9b7-4d21-add2-609ff27e3071</string><key>stan_name</key><string>长城大厦</string><key>multi_info</key><string> </string><key>x</key><string>82726.33</string><key>y</key><string>78409.5950</string></dict>
+<dict>
+<key>identifier</key><string>c45ba618-c429-4e88-85ce-7c6f7bf2c77c</string><key>stan_name</key><string>冠盛大厦</string><key>multi_info</key><string> </string><key>x</key><string>82629.8350</string><key>y</key><string>78283.1210</string></dict>
+<dict>
+<key>identifier</key><string>e601438d-d7a9-47f8-9d10-a3f16fce7b10</string><key>stan_name</key><string>文欣商务楼</string><key>multi_info</key><string> </string><key>x</key><string>77350.1562</string><key>y</key><string>84375.6016</string></dict>
+<dict>
+<key>identifier</key><string>790ac82a-e60e-44a9-880a-3bfbdcb8182a</string><key>stan_name</key><string>新亚科技大楼</string><key>multi_info</key><string> </string><key>x</key><string>75687.8047</string><key>y</key><string>83243.3594</string></dict>
+<dict>
+<key>identifier</key><string>d1853a75-761b-4a6c-a9af-b3223bb9ac95</string><key>stan_name</key><string>柯布克大楼</string><key>multi_info</key><string> </string><key>x</key><string>78539.1250</string><key>y</key><string>83487.2109</string></dict>
+<dict>
+<key>identifier</key><string>1e7e02d6-cee8-4067-8063-6bea878dac3c</string><key>stan_name</key><string>火电大楼</string><key>multi_info</key><string> </string><key>x</key><string>82886.3750</string><key>y</key><string>81530.2578</string></dict>
+<dict>
+<key>identifier</key><string>5e87d779-2ece-4626-9a2d-a838ac0bb453</string><key>stan_name</key><string>浙江省教育大楼</string><key>multi_info</key><string> </string><key>x</key><string>79722.9062</string><key>y</key><string>84037.3750</string></dict>
+<dict>
+<key>identifier</key><string>e1bac3e3-ee12-46a1-a82c-f2c26e23f76a</string><key>stan_name</key><string>华星世纪大楼</string><key>multi_info</key><string> </string><key>x</key><string>75993.48</string><key>y</key><string>84108.7654</string></dict>
+<dict>
+<key>identifier</key><string>de76c606-9274-4c76-8a00-7d823ef59767</string><key>stan_name</key><string>服装大楼</string><key>multi_info</key><string> </string><key>x</key><string>87951.0960</string><key>y</key><string>57979.4880</string></dict>
+<dict>
+<key>identifier</key><string>465c030c-84ff-4c7f-b31a-2753b9206e22</string><key>stan_name</key><string>之江大楼</string><key>multi_info</key><string> </string><key>x</key><string>78671.7891</string><key>y</key><string>70254.2031</string></dict>
+<dict>
+<key>identifier</key><string>43cdf5bc-113c-485b-8f02-0c7b1ab21465</string><key>stan_name</key><string>贡南大楼</string><key>multi_info</key><string> </string><key>x</key><string>78336.8203</string><key>y</key><string>70522.1563</string></dict>
+<dict>
+<key>identifier</key><string>04307c3f-0509-48b2-b9de-745f1cfaaa59</string><key>stan_name</key><string>东冠村综合大楼</string><key>multi_info</key><string> </string><key>x</key><string>79895.9531</string><key>y</key><string>71515.6641</string></dict>
+<dict>
+<key>identifier</key><string>27481a4e-d58b-4154-a28e-715f4849bcbc</string><key>stan_name</key><string>中恒世纪</string><key>multi_info</key><string> </string><key>x</key><string>78762.9688</string><key>y</key><string>73051.4375</string></dict>
+<dict>
+<key>identifier</key><string>6281ef8a-0e87-4bf2-872e-dab2cba01093</string><key>stan_name</key><string>东方通信城</string><key>multi_info</key><string> </string><key>x</key><string>77786.0078</string><key>y</key><string>72742.9531</string></dict>
+<dict>
+<key>identifier</key><string>75e61ec8-a320-4460-902a-54a0e192697c</string><key>stan_name</key><string>蓝天商务中心</string><key>multi_info</key><string> </string><key>x</key><string>91667.9180</string><key>y</key><string>74498.3141</string></dict>
+<dict>
+<key>identifier</key><string>f88cac50-5150-477f-9c24-cbefa85c22c8</string><key>stan_name</key><string>永泰丰广场</string><key>multi_info</key><string> </string><key>x</key><string>89923.7240</string><key>y</key><string>76137.8959</string></dict>
+<dict>
+<key>identifier</key><string>5378c19b-e723-44a9-9aa3-5e8effe29b7e</string><key>stan_name</key><string>怡和大厦</string><key>multi_info</key><string> </string><key>x</key><string>83689.7090</string><key>y</key><string>90781.4630</string></dict>
+<dict>
+<key>identifier</key><string>35b3fb2a-f33d-4bca-9e72-1824d45c89bc</string><key>stan_name</key><string>江干工商局大楼</string><key>multi_info</key><string> </string><key>x</key><string>82656.7266</string><key>y</key><string>81837.9922</string></dict>
+<dict>
+<key>identifier</key><string>596b04f6-1ba8-4085-8a02-28197c9d328a</string><key>stan_name</key><string>西溪时代商业中心</string><key>multi_info</key><string> </string><key>x</key><string>69296.2094</string><key>y</key><string>79956.9524</string></dict>
+<dict>
+<key>identifier</key><string>2724d337-e996-46b8-94c8-6eda1fcb8da5</string><key>stan_name</key><string>临平商务大楼</string><key>multi_info</key><string> </string><key>x</key><string>93225.7201</string><key>y</key><string>99834.2404</string></dict>
+<dict>
+<key>identifier</key><string>3dc48c4e-1281-435e-88d6-7d52f81fc23e</string><key>stan_name</key><string>商贸大楼</string><key>multi_info</key><string> </string><key>x</key><string>93557.8011</string><key>y</key><string>99894.7977</string></dict>
+<dict>
+<key>identifier</key><string>136b4193-6650-42a3-a2ee-d9ecd580f6f8</string><key>stan_name</key><string>元华大厦</string><key>multi_info</key><string> </string><key>x</key><string>84056.0811</string><key>y</key><string>82030.7659</string></dict>
+<dict>
+<key>identifier</key><string>ab6fad0f-a274-4cd9-ae23-076eed394346</string><key>stan_name</key><string>广茵大厦</string><key>multi_info</key><string> </string><key>x</key><string>82682.3125</string><key>y</key><string>82162.1016</string></dict>
+<dict>
+<key>identifier</key><string>233dc042-bea5-4b5e-9ba1-3270329ea7a7</string><key>stan_name</key><string>凌武大厦</string><key>multi_info</key><string> </string><key>x</key><string>83353.8203</string><key>y</key><string>82204.3594</string></dict>
+<dict>
+<key>identifier</key><string>4e0411c6-cf99-416b-b756-d872a05e32b1</string><key>stan_name</key><string>同方财富大厦</string><key>multi_info</key><string> </string><key>x</key><string>80283.3359</string><key>y</key><string>82381.8438</string></dict>
+<dict>
+<key>identifier</key><string>367e26df-5776-4d4b-bf3f-99d73ed08a69</string><key>stan_name</key><string>华星科技大厦</string><key>multi_info</key><string> </string><key>x</key><string>76118.0156</string><key>y</key><string>83611.7109</string></dict>
+<dict>
+<key>identifier</key><string>8310201e-f1e7-4edb-8b83-c8d1001b4aa8</string><key>stan_name</key><string>嘉汇大厦</string><key>multi_info</key><string> </string><key>x</key><string>80532.4766</string><key>y</key><string>83749.3125</string></dict>
+</array>
+</plist>

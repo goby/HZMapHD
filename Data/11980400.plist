@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>473058bd-ef1b-4158-a553-f91979243d3b</string><key>stan_name</key><string>浙江省电信有限公司杭州市分公司</string><key>multi_info</key><string> </string><key>x</key><string>83839.3093</string><key>y</key><string>79410.6706</string></dict>
+<dict>
+<key>identifier</key><string>f5a5f65a-cd98-4ecc-b331-106c59e8b719</string><key>stan_name</key><string>杭州文化广播电视集团</string><key>multi_info</key><string> </string><key>x</key><string>83423.5959</string><key>y</key><string>78183.7859</string></dict>
+<dict>
+<key>identifier</key><string>ab6d673b-57f1-4961-ac13-2bc9c30320ea</string><key>stan_name</key><string>杭州市工商局</string><key>multi_info</key><string> </string><key>x</key><string>83337.0271</string><key>y</key><string>82279.9750</string></dict>
+<dict>
+<key>identifier</key><string>d96224b1-bfea-4918-8a9a-d75b9a1f04bb</string><key>stan_name</key><string>杭州市物价局</string><key>multi_info</key><string> </string><key>x</key><string>79908.6647</string><key>y</key><string>82434.1917</string></dict>
+<dict>
+<key>identifier</key><string>d6c05312-618c-4999-a477-bcc9b42a1e8b</string><key>stan_name</key><string>杭州市国资委</string><key>multi_info</key><string> </string><key>x</key><string>78112.5553</string><key>y</key><string>83877.3195</string></dict>
+<dict>
+<key>identifier</key><string>02be673a-94e7-4ba9-96a7-6f2fb50e739b</string><key>stan_name</key><string>杭州市邮政局</string><key>multi_info</key><string> </string><key>x</key><string>81798.0619</string><key>y</key><string>80340.1508</string></dict>
+<dict>
+<key>identifier</key><string>ffe417dc-62ad-4efb-afea-905ac69b1a86</string><key>stan_name</key><string>杭州高新技术产业开发区(滨江)管理委员会</string><key>multi_info</key><string> </string><key>x</key><string>77393.2896</string><key>y</key><string>83694.4564</string></dict>
+<dict>
+<key>identifier</key><string>ba8116c6-9cb5-441f-ae52-39379bbb83d7</string><key>stan_name</key><string>杭州市城市管理委员会</string><key>multi_info</key><string> </string><key>x</key><string>80411.0350</string><key>y</key><string>82842.9225</string></dict>
+<dict>
+<key>identifier</key><string>904c9721-315f-4ee8-94c7-ca5e041e0c63</string><key>stan_name</key><string>杭州市气象局</string><key>multi_info</key><string> </string><key>x</key><string>80422.9025</string><key>y</key><string>77792.4254</string></dict>
+<dict>
+<key>identifier</key><string>b7d3d9ab-afc9-4c7e-ac18-6e8ca11da828</string><key>stan_name</key><string>杭州市外经贸局</string><key>multi_info</key><string> </string><key>x</key><string>79899.9394</string><key>y</key><string>82221.9675</string></dict>
+<dict>
+<key>identifier</key><string>5caac246-12bc-44e5-b8cd-23390c8bc614</string><key>stan_name</key><string>杭州市城管执法局</string><key>multi_info</key><string> </string><key>x</key><string>80409.8863</string><key>y</key><string>82849.7152</string></dict>
+<dict>
+<key>identifier</key><string>161597c2-df2b-4ae8-bc63-73f27231581f</string><key>stan_name</key><string>杭州市国家安全局</string><key>multi_info</key><string> </string><key>x</key><string>79195.3158</string><key>y</key><string>85999.4749</string></dict>
+<dict>
+<key>identifier</key><string>a261ad76-4ba6-419f-8908-ba56d48cc1be</string><key>stan_name</key><string>杭州市质量监督局</string><key>multi_info</key><string> </string><key>x</key><string>80578.5662</string><key>y</key><string>81338.9439</string></dict>
+<dict>
+<key>identifier</key><string>e0e21fe1-d49e-48c1-8139-d35b06eef4a6</string><key>stan_name</key><string>杭州市供销社</string><key>multi_info</key><string> </string><key>x</key><string>82413.7026</string><key>y</key><string>80645.1236</string></dict>
+<dict>
+<key>identifier</key><string>ca32ad53-2c1c-4311-b936-0fba10d93114</string><key>stan_name</key><string>杭州市科技局</string><key>multi_info</key><string> </string><key>x</key><string>80340.8327</string><key>y</key><string>80860.1010</string></dict>
+<dict>
+<key>identifier</key><string>a2f32853-46cd-493b-a7d5-d9da38c34dd7</string><key>stan_name</key><string>杭州市商业资产经营公司</string><key>multi_info</key><string> </string><key>x</key><string>80755.7410</string><key>y</key><string>81560.9575</string></dict>
+<dict>
+<key>identifier</key><string>a0b1dd24-d69c-4c5a-9d52-7dd09cf30211</string><key>stan_name</key><string>杭州市工业资产经营公司</string><key>multi_info</key><string> </string><key>x</key><string>78530.3882</string><key>y</key><string>82091.8450</string></dict>
+<dict>
+<key>identifier</key><string>934c895f-5235-4a58-9a5a-8d8c996ea1ef</string><key>stan_name</key><string>杭州市住房制度改革办公室、杭州市住房公积金结算中心</string><key>multi_info</key><string> </string><key>x</key><string>80008.9114</string><key>y</key><string>80223.7349</string></dict>
+<dict>
+<key>identifier</key><string>f0502a0b-1b1e-4643-87fd-c80ab3c2db5c</string><key>stan_name</key><string>杭州市食品药品监督管理局</string><key>multi_info</key><string> </string><key>x</key><string>80644.40</string><key>y</key><string>83810.2146</string></dict>
+<dict>
+<key>identifier</key><string>5f74af14-ea31-49bf-a035-943a616cf947</string><key>stan_name</key><string>杭州市钱江新城建设管理委员会（指挥部）</string><key>multi_info</key><string> </string><key>x</key><string>83371.3611</string><key>y</key><string>79376.8617</string></dict>
+<dict>
+<key>identifier</key><string>3b7f3eef-de44-4307-8fce-3a69e8d82570</string><key>stan_name</key><string>杭州市教育局</string><key>multi_info</key><string> </string><key>x</key><string>80549.1383</string><key>y</key><string>82687.8478</string></dict>
+<dict>
+<key>identifier</key><string>b7c17310-e8c9-41b9-a591-f15b87cdd2ef</string><key>stan_name</key><string>杭州经济开发区</string><key>multi_info</key><string> </string><key>x</key><string>97234.7841</string><key>y</key><string>86478.6397</string></dict>
+<dict>
+<key>identifier</key><string>7c4bd80a-4ee0-47b8-bd7e-bcb95b051823</string><key>stan_name</key><string>杭州住房公积金管理中心</string><key>multi_info</key><string> </string><key>x</key><string>80008.6950</string><key>y</key><string>80216.6110</string></dict>
+<dict>
+<key>identifier</key><string>047bcce3-37d2-43c9-8a47-b37691adad3a</string><key>stan_name</key><string>杭州市市级机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>79038.0453</string><key>y</key><string>83300.6012</string></dict>
+<dict>
+<key>identifier</key><string>b938d8cf-be2d-43e9-b4d5-f01150d16323</string><key>stan_name</key><string>杭州市政府政策研究室</string><key>multi_info</key><string> </string><key>x</key><string>79038.8530</string><key>y</key><string>83287.8392</string></dict>
+<dict>
+<key>identifier</key><string>0f5e0e58-f0bf-4d44-8ba9-4a92813e0da0</string><key>stan_name</key><string>杭州市西博办</string><key>multi_info</key><string> </string><key>x</key><string>79037.7222</string><key>y</key><string>83277.5003</string></dict>
+<dict>
+<key>identifier</key><string>8475210c-9d39-4de2-9b2e-2d6afa66081c</string><key>stan_name</key><string>杭州市经济和信息化委员会</string><key>multi_info</key><string> </string><key>x</key><string>79037.3991</string><key>y</key><string>83305.9322</string></dict>
+<dict>
+<key>identifier</key><string>b5c82ecb-9c1b-4ab0-8b8f-717e452f8117</string><key>stan_name</key><string>中共杭州市委杭州市人民政府信访局</string><key>multi_info</key><string> </string><key>x</key><string>79040.1454</string><key>y</key><string>83272.9771</string></dict>
+<dict>
+<key>identifier</key><string>95759a03-dc13-43e4-b35a-48e58b805a6a</string><key>stan_name</key><string>杭州市体改办</string><key>multi_info</key><string> </string><key>x</key><string>79036.9145</string><key>y</key><string>83311.9093</string></dict>
+<dict>
+<key>identifier</key><string>3779323b-643d-462c-b787-ccdfc3d2a969</string><key>stan_name</key><string>杭州市老龄工作委员会办公室</string><key>multi_info</key><string> </string><key>x</key><string>79036.7529</string><key>y</key><string>83319.0173</string></dict>
+<dict>
+<key>identifier</key><string>a8e66ff9-09f8-49b4-adc3-a49a1513aba6</string><key>stan_name</key><string>杭州之江度假区管委会</string><key>multi_info</key><string> </string><key>x</key><string>79036.2683</string><key>y</key><string>83324.3483</string></dict>
+<dict>
+<key>identifier</key><string>f94c5c04-6cd1-4db6-abf6-a4679daf9dc6</string><key>stan_name</key><string>杭州市林水局</string><key>multi_info</key><string> </string><key>x</key><string>78916.7656</string><key>y</key><string>85367.3359</string></dict>
+<dict>
+<key>identifier</key><string>cc84338f-e5a1-4a7f-a036-b44a3abe5f05</string><key>stan_name</key><string>杭州市规划局（杭州市测绘与地理信息局）</string><key>multi_info</key><string> </string><key>x</key><string>78556.0469</string><key>y</key><string>83774.5547</string></dict>
+<dict>
+<key>identifier</key><string>535d84c7-27e1-4266-88de-1d4f8715aeb9</string><key>stan_name</key><string>杭州市卫生局</string><key>multi_info</key><string> </string><key>x</key><string>80145.3319</string><key>y</key><string>81378.2792</string></dict>
+<dict>
+<key>identifier</key><string>9e2e6d43-fc41-4aa4-8ed6-b52260580530</string><key>stan_name</key><string>杭州市劳动和社会保障局</string><key>multi_info</key><string> </string><key>x</key><string>80690.8072</string><key>y</key><string>81447.3240</string></dict>
+<dict>
+<key>identifier</key><string>0b336220-5cce-4f02-95e4-ca2f2cb85035</string><key>stan_name</key><string>杭州市烟草局</string><key>multi_info</key><string> </string><key>x</key><string>80586.8672</string><key>y</key><string>81420.1875</string></dict>
+<dict>
+<key>identifier</key><string>fb1bbfd9-e72a-4c50-a34c-ad2bea8d6783</string><key>stan_name</key><string>杭州西湖风景名胜区管委会(杭州市园文局)</string><key>multi_info</key><string> </string><key>x</key><string>76008.4837</string><key>y</key><string>80407.6497</string></dict>
+<dict>
+<key>identifier</key><string>cffc0d2d-4ad4-4709-9f43-128efc2ad4cd</string><key>stan_name</key><string>杭州市城乡建设委员会</string><key>multi_info</key><string> </string><key>x</key><string>80168.5647</string><key>y</key><string>81486.4036</string></dict>
+<dict>
+<key>identifier</key><string>70f4cd19-7518-4134-8ef0-68962cbf5d2b</string><key>stan_name</key><string>杭州市交通运输局</string><key>multi_info</key><string> </string><key>x</key><string>80641.5938</string><key>y</key><string>83550.1484</string></dict>
+<dict>
+<key>identifier</key><string>82da50fc-bee5-47eb-9532-e6ba1e2c88ab</string><key>stan_name</key><string>杭州经济技术开发区管委会</string><key>multi_info</key><string> </string><key>x</key><string>81430.7010</string><key>y</key><string>80510.9180</string></dict>
+<dict>
+<key>identifier</key><string>37bc9d69-2632-4304-871c-f35300a73da9</string><key>stan_name</key><string>杭州市电力局</string><key>multi_info</key><string> </string><key>x</key><string>81456.5313</string><key>y</key><string>81566.7109</string></dict>
+<dict>
+<key>identifier</key><string>d0e11918-4eb5-458d-b888-a4ecb3f49569</string><key>stan_name</key><string>杭州市旅游委员会</string><key>multi_info</key><string> </string><key>x</key><string>79953.0693</string><key>y</key><string>80581.0110</string></dict>
+<dict>
+<key>identifier</key><string>6bcb09a8-8bbf-42b5-a2d9-25a18b83601e</string><key>stan_name</key><string>杭州市财政局(杭州市地税局)</string><key>multi_info</key><string> </string><key>x</key><string>80732.3906</string><key>y</key><string>80591.5469</string></dict>
+<dict>
+<key>identifier</key><string>31455a45-8290-4cd5-8d69-c8b916ec9190</string><key>stan_name</key><string>杭州市农业局</string><key>multi_info</key><string> </string><key>x</key><string>79662.5584</string><key>y</key><string>80631.3933</string></dict>
+<dict>
+<key>identifier</key><string>8a0497a0-bf6d-42a6-a8bb-d4c6a7a43f70</string><key>stan_name</key><string>杭州市台湾事务办公室</string><key>multi_info</key><string> </string><key>x</key><string>80338.1399</string><key>y</key><string>81667.9133</string></dict>
+<dict>
+<key>identifier</key><string>60dcc48b-d660-4bbb-8b9c-702df35db6b4</string><key>stan_name</key><string>杭州市民族宗教事务局</string><key>multi_info</key><string> </string><key>x</key><string>80337.5464</string><key>y</key><string>81676.2085</string></dict>
+<dict>
+<key>identifier</key><string>515a78c4-35d9-4eca-8a23-d34e69eda453</string><key>stan_name</key><string>杭州市民政局</string><key>multi_info</key><string> </string><key>x</key><string>79644.0938</string><key>y</key><string>82723.8594</string></dict>
+<dict>
+<key>identifier</key><string>2c077a3c-1393-49ae-aeb0-fa9818a3916f</string><key>stan_name</key><string>杭州市体育局（杭州市体育总会）</string><key>multi_info</key><string> </string><key>x</key><string>77344.6875</string><key>y</key><string>82736.2734</string></dict>
+<dict>
+<key>identifier</key><string>a53ae365-56c9-402b-9a8c-0a8b8ba663f1</string><key>stan_name</key><string>杭州市公安局</string><key>multi_info</key><string> </string><key>x</key><string>80129.8721</string><key>y</key><string>79833.49</string></dict>
+<dict>
+<key>identifier</key><string>5ce34ec9-090c-4f41-978b-7a7d8ca5a3d1</string><key>stan_name</key><string>杭州市国税局</string><key>multi_info</key><string> </string><key>x</key><string>81287.1328</string><key>y</key><string>79956.3516</string></dict>
+<dict>
+<key>identifier</key><string>fa0d5c20-347e-4e5a-bfe6-303efbe20b1e</string><key>stan_name</key><string>杭州市残联</string><key>multi_info</key><string> </string><key>x</key><string>76637.4531</string><key>y</key><string>82921.5469</string></dict>
+<dict>
+<key>identifier</key><string>507e0cda-6190-4039-8564-ccb354ccab55</string><key>stan_name</key><string>杭州市环保局</string><key>multi_info</key><string> </string><key>x</key><string>81098.0234</string><key>y</key><string>82117.8594</string></dict>
+<dict>
+<key>identifier</key><string>7f7e1f09-7c54-435b-b360-3bf2b719e26b</string><key>stan_name</key><string>杭州市监察局</string><key>multi_info</key><string> </string><key>x</key><string>79035.2990</string><key>y</key><string>83330.1639</string></dict>
+<dict>
+<key>identifier</key><string>cf2ea1d4-0c12-422f-b30c-a00420d66415</string><key>stan_name</key><string>杭州市外事办公室</string><key>multi_info</key><string> </string><key>x</key><string>79034.8144</string><key>y</key><string>83335.9795</string></dict>
+<dict>
+<key>identifier</key><string>b55573ec-2120-4d10-a0f4-f97f04543568</string><key>stan_name</key><string>杭州市政府办公厅</string><key>multi_info</key><string> </string><key>x</key><string>79033.8451</string><key>y</key><string>83339.6950</string></dict>
+<dict>
+<key>identifier</key><string>5ef43c6e-f506-4d32-b2aa-29f42ea249b6</string><key>stan_name</key><string>杭州市发展和改革委员会</string><key>multi_info</key><string> </string><key>x</key><string>79032.3912</string><key>y</key><string>83349.8723</string></dict>
+<dict>
+<key>identifier</key><string>33a7f283-1e43-4b4a-9189-c58269cc8b3f</string><key>stan_name</key><string>杭州市住房保障与房产管理局</string><key>multi_info</key><string> </string><key>x</key><string>80249.3249</string><key>y</key><string>81151.8250</string></dict>
+<dict>
+<key>identifier</key><string>02be105f-95db-4484-a4e7-e3bf4f9702d2</string><key>stan_name</key><string>杭州市侨务办公室</string><key>multi_info</key><string> </string><key>x</key><string>80331.1470</string><key>y</key><string>81650.4175</string></dict>
+<dict>
+<key>identifier</key><string>729de609-feab-4b05-a1f4-5532b2721e15</string><key>stan_name</key><string>杭州市政府法制办公室</string><key>multi_info</key><string> </string><key>x</key><string>79038.6741</string><key>y</key><string>83293.5322</string></dict>
+<dict>
+<key>identifier</key><string>a66894eb-f078-467e-8705-81b93745732a</string><key>stan_name</key><string>杭州市人民政府国内经济合作办公室</string><key>multi_info</key><string> </string><key>x</key><string>79910.3656</string><key>y</key><string>82450.4448</string></dict>
+<dict>
+<key>identifier</key><string>b9b821bb-2b49-4e69-b4c8-f2147c5501c4</string><key>stan_name</key><string>杭州市贸易局</string><key>multi_info</key><string> </string><key>x</key><string>79909.7598</string><key>y</key><string>82446.6586</string></dict>
+<dict>
+<key>identifier</key><string>4e7b6bf8-d052-4892-af44-6ac6878ccaf8</string><key>stan_name</key><string>杭州市爱国卫生委员会办公室</string><key>multi_info</key><string> </string><key>x</key><string>79909.6386</string><key>y</key><string>82444.8110</string></dict>
+<dict>
+<key>identifier</key><string>600952f9-13d9-43c9-9c82-22eddf83fbf8</string><key>stan_name</key><string>杭州市科协</string><key>multi_info</key><string> </string><key>x</key><string>79773.4565</string><key>y</key><string>82464.1963</string></dict>
+<dict>
+<key>identifier</key><string>96eaee01-e04f-42fe-96e3-2e13c5f94cf9</string><key>stan_name</key><string>杭州市人口和计划生育委员会</string><key>multi_info</key><string> </string><key>x</key><string>79910.7291</string><key>y</key><string>82453.5344</string></dict>
+<dict>
+<key>identifier</key><string>70af2324-e1a0-4e07-bb31-d80c1c5e7c51</string><key>stan_name</key><string>杭州市审计局</string><key>multi_info</key><string> </string><key>x</key><string>79909.6386</string><key>y</key><string>82442.9936</string></dict>
+<dict>
+<key>identifier</key><string>a47fada8-ec57-475e-bab9-3e060ac5665f</string><key>stan_name</key><string>杭州市文化广电新闻出版局</string><key>multi_info</key><string> </string><key>x</key><string>76593.2537</string><key>y</key><string>84376.4142</string></dict>
+<dict>
+<key>identifier</key><string>e0e04750-a991-49fb-9bff-785512619d88</string><key>stan_name</key><string>杭州市司法局</string><key>multi_info</key><string> </string><key>x</key><string>79908.7855</string><key>y</key><string>82438.6824</string></dict>
+<dict>
+<key>identifier</key><string>e0f4bbff-19b8-402d-9f94-339dd416f79e</string><key>stan_name</key><string>杭州市广电局</string><key>multi_info</key><string> </string><key>x</key><string>81170.1605</string><key>y</key><string>83392.4951</string></dict>
+<dict>
+<key>identifier</key><string>2047fd35-e2ca-43da-9ba9-f4df7f742ded</string><key>stan_name</key><string>杭州市人民防空办公室</string><key>multi_info</key><string> </string><key>x</key><string>80014.8501</string><key>y</key><string>79439.3299</string></dict>
+<dict>
+<key>identifier</key><string>a06ae058-34bb-4a24-946c-8745e82b4f2b</string><key>stan_name</key><string>杭州市农业和农村工作办公室</string><key>multi_info</key><string> </string><key>x</key><string>79038.3684</string><key>y</key><string>83281.8620</string></dict>
+<dict>
+<key>identifier</key><string>635162e0-d453-4f73-ab9e-daa368baee7e</string><key>stan_name</key><string>杭州市统计局、国家统计局杭州调查队、杭州市社会经济调查局</string><key>multi_info</key><string> </string><key>x</key><string>79029.6450</string><key>y</key><string>83360.6958</string></dict>
+<dict>
+<key>identifier</key><string>6c2df4de-7cf6-40a0-82d9-a3e718d5041d</string><key>stan_name</key><string>杭州市人事局</string><key>multi_info</key><string> </string><key>x</key><string>79029.6041</string><key>y</key><string>83373.5317</string></dict>
+<dict>
+<key>identifier</key><string>17a1f9a0-21e0-4b26-811d-e26dbfc40fb6</string><key>stan_name</key><string>杭州市档案局</string><key>multi_info</key><string> </string><key>x</key><string>80758.7813</string><key>y</key><string>87098.7697</string></dict>
+<dict>
+<key>identifier</key><string>df8056bd-de70-47f2-a473-d37eb66d3695</string><key>stan_name</key><string>杭州市公共资源交易管理委员会办公室、杭州市行政服务中心</string><key>multi_info</key><string> </string><key>x</key><string>81943.2051</string><key>y</key><string>80713.5543</string></dict>
+</array>
+</plist>

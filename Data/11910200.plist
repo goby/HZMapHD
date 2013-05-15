@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>67b51907-5f9c-43db-8b98-28082bc395ab</string><key>stan_name</key><string>杭州天度餐饮娱乐</string><key>multi_info</key><string> </string><key>x</key><string>79315.4844</string><key>y</key><string>79392.5234</string></dict>
+<dict>
+<key>identifier</key><string>bdeca6e2-d892-4b91-b35d-c9e1f610883d</string><key>stan_name</key><string>杭州味吉送餐服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98250.2681</string><key>y</key><string>83970.2553</string></dict>
+<dict>
+<key>identifier</key><string>c169074e-ea28-4b2b-a06f-7fcf7b2f74bf</string><key>stan_name</key><string>蓝月亮快餐</string><key>multi_info</key><string> </string><key>x</key><string>77858.6016</string><key>y</key><string>84608.8516</string></dict>
+<dict>
+<key>identifier</key><string>dd71d8b0-09de-4fd3-a37a-29ec8c2b4fc9</string><key>stan_name</key><string>杭州永和豆浆</string><key>multi_info</key><string> </string><key>x</key><string>72295.8157</string><key>y</key><string>81551.9407</string></dict>
+<dict>
+<key>identifier</key><string>ce2f7960-b73d-4efe-8e02-4bae7da6353d</string><key>stan_name</key><string>杭州速派快餐有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72171.9225</string><key>y</key><string>81561.5131</string></dict>
+<dict>
+<key>identifier</key><string>82e5be82-ceca-4386-9ee1-3fa85dfcab36</string><key>stan_name</key><string>杭州市华必和餐饮管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81776.2142</string><key>y</key><string>82514.4992</string></dict>
+<dict>
+<key>identifier</key><string>0199a5f1-1b32-4d66-a859-0d6c40cd6b35</string><key>stan_name</key><string>日月星快餐城</string><key>multi_info</key><string> </string><key>x</key><string>90748.8665</string><key>y</key><string>101445.5447</string></dict>
+<dict>
+<key>identifier</key><string>1de8d281-7007-41bc-a1b5-635883d2c80c</string><key>stan_name</key><string>真功夫</string><key>multi_info</key><string> </string><key>x</key><string>88101.8330</string><key>y</key><string>91612.9067</string></dict>
+<dict>
+<key>identifier</key><string>e786b23b-e44a-44c2-b708-fbb95e41414a</string><key>stan_name</key><string>米多多中式快餐</string><key>multi_info</key><string> </string><key>x</key><string>80463.0636</string><key>y</key><string>87321.9477</string></dict>
+<dict>
+<key>identifier</key><string>0f7a61f3-9029-4073-9313-f493a2703fbc</string><key>stan_name</key><string>三鑫商务酒店</string><key>multi_info</key><string> </string><key>x</key><string>80079.47</string><key>y</key><string>81200.7770</string></dict>
+<dict>
+<key>identifier</key><string>888cf740-c0e2-4219-9ea0-c42b6a3c45a5</string><key>stan_name</key><string>天地山水人家酒店</string><key>multi_info</key><string> </string><key>x</key><string>74553.8670</string><key>y</key><string>82925.54</string></dict>
+</array>
+</plist>

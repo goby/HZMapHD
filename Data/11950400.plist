@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>dae16c20-86ae-4f92-8978-5edd7074d62f</string><key>stan_name</key><string>南宋官窑博物馆</string><key>multi_info</key><string> </string><key>x</key><string>78974.1094</string><key>y</key><string>76223</string></dict>
+<dict>
+<key>identifier</key><string>05c3d024-72d4-4be0-bbf1-08cacea340d7</string><key>stan_name</key><string>中国丝绸博物馆</string><key>multi_info</key><string> </string><key>x</key><string>78628.7970</string><key>y</key><string>77707.5870</string></dict>
+<dict>
+<key>identifier</key><string>1ca6df6c-11db-4994-8bff-236f53c7d360</string><key>stan_name</key><string>茶叶博物馆</string><key>multi_info</key><string> </string><key>x</key><string>75689.1016</string><key>y</key><string>78760.2031</string></dict>
+<dict>
+<key>identifier</key><string>5840d50c-1da1-4d5c-a867-b49dae9b9f70</string><key>stan_name</key><string>中国财税博馆</string><key>multi_info</key><string> </string><key>x</key><string>79818.7735</string><key>y</key><string>79412.1563</string></dict>
+<dict>
+<key>identifier</key><string>af35b65f-192f-45c0-bce1-b347563c649c</string><key>stan_name</key><string>杭州历史博物馆</string><key>multi_info</key><string> </string><key>x</key><string>80108.8281</string><key>y</key><string>79480.4375</string></dict>
+<dict>
+<key>identifier</key><string>2666194c-ff4a-4fc4-85cc-e455ad0587e6</string><key>stan_name</key><string>浙江自然博物馆</string><key>multi_info</key><string> </string><key>x</key><string>77103.0391</string><key>y</key><string>84063.6641</string></dict>
+<dict>
+<key>identifier</key><string>d1783699-0ac1-4777-949a-3c27364b2be5</string><key>stan_name</key><string>西湖博览会博物馆</string><key>multi_info</key><string> </string><key>x</key><string>78097.7578</string><key>y</key><string>81542.5547</string></dict>
+<dict>
+<key>identifier</key><string>1ec4345f-a854-459c-8f32-564668194682</string><key>stan_name</key><string>中国水利博物馆模型展示中心</string><key>multi_info</key><string> </string><key>x</key><string>94582.76</string><key>y</key><string>82521.5560</string></dict>
+<dict>
+<key>identifier</key><string>2a79b832-6717-4c32-a9de-2a06a6464e8d</string><key>stan_name</key><string>中国体育博物馆杭州分馆</string><key>multi_info</key><string> </string><key>x</key><string>80714.4978</string><key>y</key><string>83002.2323</string></dict>
+<dict>
+<key>identifier</key><string>70036633-212e-4d21-a899-2d4befb6acd2</string><key>stan_name</key><string>浙江省博物馆</string><key>multi_info</key><string> </string><key>x</key><string>77936.5156</string><key>y</key><string>80865.25</string></dict>
+<dict>
+<key>identifier</key><string>7041a135-8292-4135-b9b6-d386bfbd5e83</string><key>stan_name</key><string>西湖博物馆</string><key>multi_info</key><string> </string><key>x</key><string>79278.6719</string><key>y</key><string>79835.5625</string></dict>
+<dict>
+<key>identifier</key><string>8e9f20aa-9816-43af-bcec-39fc307240da</string><key>stan_name</key><string>中国印学博物馆</string><key>multi_info</key><string> </string><key>x</key><string>77540.8203</string><key>y</key><string>80865.8281</string></dict>
+<dict>
+<key>identifier</key><string>4712543b-b726-429a-9b86-c1659ec37273</string><key>stan_name</key><string>电信博物馆</string><key>multi_info</key><string> </string><key>x</key><string>80342.7344</string><key>y</key><string>80887.4766</string></dict>
+<dict>
+<key>identifier</key><string>da1eb8d4-f154-4ecb-8d7d-6fa3841ee64c</string><key>stan_name</key><string>都锦生织锦博物馆</string><key>multi_info</key><string> </string><key>x</key><string>79493.0518</string><key>y</key><string>82107.4836</string></dict>
+<dict>
+<key>identifier</key><string>f9280c31-e711-40f6-a81d-14960cd03f34</string><key>stan_name</key><string>南宋钱币博物馆</string><key>multi_info</key><string> </string><key>x</key><string>81188.8203</string><key>y</key><string>81163.0391</string></dict>
+<dict>
+<key>identifier</key><string>0ca101f0-fd02-4c34-912e-fbc4dc9a9141</string><key>stan_name</key><string>良渚博物院</string><key>multi_info</key><string> </string><key>x</key><string>66816.3160</string><key>y</key><string>94857.4740</string></dict>
+<dict>
+<key>identifier</key><string>dc90343a-f48d-4d80-ac09-55997e384893</string><key>stan_name</key><string>良渚文化博物馆</string><key>multi_info</key><string> </string><key>x</key><string>68618.6630</string><key>y</key><string>95249.7441</string></dict>
+<dict>
+<key>identifier</key><string>51e39f0d-ecd2-40d4-b669-4af75d5ed770</string><key>stan_name</key><string>中国美术学院皮影艺术博物馆</string><key>multi_info</key><string> </string><key>x</key><string>79423.6780</string><key>y</key><string>79864.0530</string></dict>
+</array>
+</plist>

@@ -62,7 +62,7 @@
 		if(self.WKT!=nil){
 			[self.WKT appendString:value];
 		}else {
-			self.WKT = [[[NSMutableString alloc] initWithString:value] autorelease];
+			self.WKT = [[NSMutableString alloc] initWithString:value];
 		}
     }else if ([self.currentElement isEqualToString:@"X"]){
         _tileOriginX = [value doubleValue];
@@ -85,7 +85,7 @@
 	}else if([self.currentElement isEqualToString:@"StorageFormat"]){
 		if(![value isEqualToString:@"esriMapCacheStorageModeExploded"]){
 			NSDictionary* dict = [NSDictionary dictionaryWithObject:@"Only exploded format caches are supported" forKey:NSLocalizedDescriptionKey];
-			self.error = [[[NSError alloc] initWithDomain:@"Parsing conf.xml" code:0 userInfo:dict] autorelease];
+			self.error = [[NSError alloc] initWithDomain:@"Parsing conf.xml" code:0 userInfo:dict];
 			[parser abortParsing];
 		}
 	}
@@ -95,12 +95,12 @@
 {
     
     if ([elementName isEqualToString:@"LODInfo"]){
-        self.lod = [[[AGSLOD alloc]initWithLevel:_level resolution:_resolution scale:_scale] autorelease];
+        self.lod = [[AGSLOD alloc]initWithLevel:_level resolution:_resolution scale:_scale];
 		[self.lods addObject:_lod];
 	}else if ([elementName isEqualToString:@"CacheInfo"]){
 		_tileSize = CGSizeMake(_tileWidth, _tileHeight);
-		self.spatialReference = [[[AGSSpatialReference alloc] initWithWKID:_WKID WKT:_WKT] autorelease];
-		self.tileOrigin = [[[AGSPoint alloc] initWithX:_tileOriginX y:_tileOriginY spatialReference:_spatialReference] autorelease];
+		self.spatialReference = [[AGSSpatialReference alloc] initWithWKID:_WKID WKT:_WKT];
+		self.tileOrigin = [[AGSPoint alloc] initWithX:_tileOriginX y:_tileOriginY spatialReference:_spatialReference];
        
         _xmin = 40496418.8722965;
         _ymin = 3319960.4319613;
@@ -114,12 +114,12 @@
                                          spatialReference:_spatialReference];
         
 		
-		self.tileInfo = [[[AGSTileInfo alloc] initWithDpi: _dpi 
+		self.tileInfo = [[AGSTileInfo alloc] initWithDpi: _dpi
 												   format:_tileFormat 
 													 lods:_lods 
 												   origin:_tileOrigin 
 										 spatialReference:_spatialReference 
-												 tileSize:_tileSize] autorelease];
+												 tileSize:_tileSize];
 	}	
 }        
 
@@ -130,21 +130,4 @@
 		[self.tileInfo computeTileBounds:_fullEnvelope];
 }
 
-
-
-
-			   
-- (void)dealloc {
-	self.currentElement = nil;
-	self.lods = nil;
-	self.spatialReference = nil;
-	self.WKT = nil;
-	self.tileOrigin = nil;
-	self.tileFormat = nil;
-	self.lod = nil;
-	self.fullEnvelope = nil;
-	self.tileInfo = nil;
-	self.error = nil;
-	[super dealloc];	
-}
 @end

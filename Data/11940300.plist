@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>8f81401d-871a-467b-b165-56ee09611e81</string><key>stan_name</key><string>萧山汽车站</string><key>multi_info</key><string> </string><key>x</key><string>91089.1856</string><key>y</key><string>71346.8065</string></dict>
+<dict>
+<key>identifier</key><string>4663fa9d-efbb-4b27-b5d3-bfba2f6020c2</string><key>stan_name</key><string>径游车站</string><key>multi_info</key><string> </string><key>x</key><string>90149.2570</string><key>y</key><string>46190.8330</string></dict>
+<dict>
+<key>identifier</key><string>920dde64-eb66-41c0-b8e3-8661dd48c9d3</string><key>stan_name</key><string>临浦汽车站</string><key>multi_info</key><string> </string><key>x</key><string>87580.5890</string><key>y</key><string>57920.9920</string></dict>
+<dict>
+<key>identifier</key><string>76e550df-b9aa-4e48-b1d1-37594a293fc0</string><key>stan_name</key><string>汽车站</string><key>multi_info</key><string> </string><key>x</key><string>70884.8672</string><key>y</key><string>63254.5586</string></dict>
+<dict>
+<key>identifier</key><string>8becdf3a-a80e-432e-878b-dffc08e5d9b0</string><key>stan_name</key><string>杭州市汽车南站</string><key>multi_info</key><string> </string><key>x</key><string>82068.0462</string><key>y</key><string>79324.4161</string></dict>
+<dict>
+<key>identifier</key><string>ddeaa0e6-82f0-46d6-a5a9-c00ca62a11b8</string><key>stan_name</key><string>汽车东站管委会</string><key>multi_info</key><string> </string><key>x</key><string>84400.1953</string><key>y</key><string>84933.4766</string></dict>
+<dict>
+<key>identifier</key><string>a22e2915-e8d0-4f94-96f2-47bc4dd9fa49</string><key>stan_name</key><string>汽车西站</string><key>multi_info</key><string> </string><key>x</key><string>57257.5281</string><key>y</key><string>83115.3661</string></dict>
+<dict>
+<key>identifier</key><string>5633ea62-dcf7-4785-8fa6-7a7ad520a9c3</string><key>stan_name</key><string>杭州市汽车东站</string><key>multi_info</key><string> </string><key>x</key><string>83858.4780</string><key>y</key><string>83597.2480</string></dict>
+<dict>
+<key>identifier</key><string>575dbeef-b2cc-442f-b7d6-bef4b70d17e7</string><key>stan_name</key><string>余杭车站</string><key>multi_info</key><string> </string><key>x</key><string>59126.4870</string><key>y</key><string>81808.2910</string></dict>
+<dict>
+<key>identifier</key><string>d71f4d1f-0d3f-442f-8730-d6015afd3981</string><key>stan_name</key><string>杭州市汽车西站</string><key>multi_info</key><string> </string><key>x</key><string>72822.9245</string><key>y</key><string>81932.0798</string></dict>
+<dict>
+<key>identifier</key><string>2604519d-974e-4a3d-9b64-669be804bbb5</string><key>stan_name</key><string>鸬鸟客运站</string><key>multi_info</key><string> </string><key>x</key><string>40217.5549</string><key>y</key><string>100741.6494</string></dict>
+<dict>
+<key>identifier</key><string>e770ee73-3071-4566-8298-77d6dd071d23</string><key>stan_name</key><string>余杭区长途客运站</string><key>multi_info</key><string> </string><key>x</key><string>93510.9640</string><key>y</key><string>100766.8609</string></dict>
+<dict>
+<key>identifier</key><string>6bbe82f1-5cb0-4789-9ec5-dfa060d2c80e</string><key>stan_name</key><string>百丈客运站</string><key>multi_info</key><string> </string><key>x</key><string>38329.3871</string><key>y</key><string>110875.6711</string></dict>
+<dict>
+<key>identifier</key><string>50061d52-15cb-4b27-81cd-0c0d18b2d5ed</string><key>stan_name</key><string>余杭区汽车南站</string><key>multi_info</key><string> </string><key>x</key><string>93431.3690</string><key>y</key><string>98070.9646</string></dict>
+<dict>
+<key>identifier</key><string>45e35375-5009-446d-b61d-a826b615223c</string><key>stan_name</key><string>黄湖汽车站</string><key>multi_info</key><string> </string><key>x</key><string>46247.6360</string><key>y</key><string>102732.8210</string></dict>
+<dict>
+<key>identifier</key><string>f735dedc-bdd5-4c6d-82a2-7ab9f6fc2a81</string><key>stan_name</key><string>径山车站</string><key>multi_info</key><string> </string><key>x</key><string>50885.7909</string><key>y</key><string>94408.7349</string></dict>
+<dict>
+<key>identifier</key><string>a21c7622-a1ad-456e-87fd-b439bcf755fc</string><key>stan_name</key><string>瓶窑车站</string><key>multi_info</key><string> </string><key>x</key><string>61496.5250</string><key>y</key><string>94754.7089</string></dict>
+<dict>
+<key>identifier</key><string>81d8f193-7601-4b34-8d31-1d232263be5f</string><key>stan_name</key><string>塘栖汽车站</string><key>multi_info</key><string> </string><key>x</key><string>82789.0740</string><key>y</key><string>106053.6110</string></dict>
+<dict>
+<key>identifier</key><string>b0199164-3e1d-4fa3-ae1a-710a442e66eb</string><key>stan_name</key><string>杭州市客运中心站</string><key>multi_info</key><string> </string><key>x</key><string>90896.4531</string><key>y</key><string>87693.4219</string></dict>
+<dict>
+<key>identifier</key><string>2dbf6e6a-ff6b-44fd-8a8d-67a2c45e1e3a</string><key>stan_name</key><string>杭州市汽车北站</string><key>multi_info</key><string> </string><key>x</key><string>74994.3750</string><key>y</key><string>88159.1641</string></dict>
+</array>
+</plist>

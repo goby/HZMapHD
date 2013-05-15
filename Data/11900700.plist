@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>28859d4f-a2c8-4fdc-8026-6795d1afa07e</string><key>stan_name</key><string>杭州通信器材市场</string><key>multi_info</key><string> </string><key>x</key><string>79155.6406</string><key>y</key><string>86224.3437</string></dict>
+<dict>
+<key>identifier</key><string>c02a055b-dce8-4461-851c-7bc5123764d1</string><key>stan_name</key><string>话机大世界</string><key>multi_info</key><string> </string><key>x</key><string>79908.5625</string><key>y</key><string>82493.2891</string></dict>
+<dict>
+<key>identifier</key><string>5da0239c-29ea-4c35-a757-d3ab1573ab06</string><key>stan_name</key><string>通讯市场</string><key>multi_info</key><string> </string><key>x</key><string>80348.6484</string><key>y</key><string>80644.4141</string></dict>
+</array>
+</plist>

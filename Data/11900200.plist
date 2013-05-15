@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>90bdffb4-3b9b-4f44-9bc4-8b6070f2f250</string><key>stan_name</key><string>好又多超市</string><key>multi_info</key><string> </string><key>x</key><string>80382.3203</string><key>y</key><string>84335.9141</string></dict>
+<dict>
+<key>identifier</key><string>9d6ddbe1-a8da-4cd7-b04c-e17169acc9c8</string><key>stan_name</key><string>世纪华联华商店</string><key>multi_info</key><string> </string><key>x</key><string>75426.1887</string><key>y</key><string>84429.7967</string></dict>
+<dict>
+<key>identifier</key><string>9c927de6-3340-488a-b0f7-5c7586cccce8</string><key>stan_name</key><string>乐购超市</string><key>multi_info</key><string> </string><key>x</key><string>80773.5781</string><key>y</key><string>86362.5938</string></dict>
+<dict>
+<key>identifier</key><string>8eb9c911-4598-4eda-8dc8-673ebe99934e</string><key>stan_name</key><string>华润超市</string><key>multi_info</key><string> </string><key>x</key><string>78287.5859</string><key>y</key><string>85189.6484</string></dict>
+<dict>
+<key>identifier</key><string>e4366115-9db8-42c0-a7ad-8a345c6b4b26</string><key>stan_name</key><string>华润万家超市</string><key>multi_info</key><string> </string><key>x</key><string>83353.4230</string><key>y</key><string>84443.4920</string></dict>
+<dict>
+<key>identifier</key><string>8960a7a7-92c2-4b67-927c-e39850970c4b</string><key>stan_name</key><string>文二超市</string><key>multi_info</key><string> </string><key>x</key><string>77682.5312</string><key>y</key><string>84439.8125</string></dict>
+<dict>
+<key>identifier</key><string>f2539d4a-1d92-443c-b354-0f785968506a</string><key>stan_name</key><string>世纪联华超市</string><key>multi_info</key><string> </string><key>x</key><string>73463.8218</string><key>y</key><string>83603.3440</string></dict>
+<dict>
+<key>identifier</key><string>ee0c0bf6-60e3-410c-bc20-9062e38f185e</string><key>stan_name</key><string>宝裕超市</string><key>multi_info</key><string> </string><key>x</key><string>78290.7266</string><key>y</key><string>83646.9687</string></dict>
+<dict>
+<key>identifier</key><string>8bd8750c-39d9-4ce7-a738-4066589ad34a</string><key>stan_name</key><string>万家福超市</string><key>multi_info</key><string> </string><key>x</key><string>83033.4297</string><key>y</key><string>84651.5391</string></dict>
+<dict>
+<key>identifier</key><string>2c83f6c9-b1cc-4014-b157-ec34a492bd5b</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>77233.5547</string><key>y</key><string>86096.3672</string></dict>
+<dict>
+<key>identifier</key><string>81ab6f9b-8bb9-4382-a638-a94773e21e08</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>80648.9453</string><key>y</key><string>83828.0937</string></dict>
+<dict>
+<key>identifier</key><string>d57bf570-3486-438a-b7ee-ca35311fa616</string><key>stan_name</key><string>人本宝裕超市</string><key>multi_info</key><string> </string><key>x</key><string>82385.6484</string><key>y</key><string>80295.6719</string></dict>
+<dict>
+<key>identifier</key><string>4b63e0ab-90e4-4fb2-a8bb-32435c2f1e5b</string><key>stan_name</key><string>世纪联华</string><key>multi_info</key><string> </string><key>x</key><string>72161.7798</string><key>y</key><string>81375.4693</string></dict>
+<dict>
+<key>identifier</key><string>50d7e695-bab5-441a-99f3-9a35ad9df7e8</string><key>stan_name</key><string>好又多量畈</string><key>multi_info</key><string> </string><key>x</key><string>77103.1016</string><key>y</key><string>82349.2578</string></dict>
+<dict>
+<key>identifier</key><string>302c3ae9-6bab-4d16-8b6d-1adab78c5dff</string><key>stan_name</key><string>鑫曲便利店</string><key>multi_info</key><string> </string><key>x</key><string>76415.5066</string><key>y</key><string>80515.0558</string></dict>
+<dict>
+<key>identifier</key><string>4b466ff5-860e-4d37-a5a6-c5dd9fcd9e32</string><key>stan_name</key><string>世纪联华家友超市</string><key>multi_info</key><string> </string><key>x</key><string>80995.9297</string><key>y</key><string>81654.9297</string></dict>
+<dict>
+<key>identifier</key><string>f56ccbc2-93f7-4769-8c90-23735478960b</string><key>stan_name</key><string>超市</string><key>multi_info</key><string> </string><key>x</key><string>83990.8906</string><key>y</key><string>83026.1016</string></dict>
+<dict>
+<key>identifier</key><string>8c78bcbf-b271-4704-afad-38e105d39f4e</string><key>stan_name</key><string>万家福</string><key>multi_info</key><string> </string><key>x</key><string>81712.9453</string><key>y</key><string>81700.1641</string></dict>
+<dict>
+<key>identifier</key><string>391a2a13-1572-4c69-9835-4ecc9c336ac7</string><key>stan_name</key><string>万家福超市</string><key>multi_info</key><string> </string><key>x</key><string>76462.0078</string><key>y</key><string>81710.4297</string></dict>
+<dict>
+<key>identifier</key><string>ee312d5f-b477-403b-af32-0b601c587a60</string><key>stan_name</key><string>好又多量贩</string><key>multi_info</key><string> </string><key>x</key><string>82556.9375</string><key>y</key><string>79683.0312</string></dict>
+<dict>
+<key>identifier</key><string>19349a6e-48de-4fde-af7b-2f22f8602d7e</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>81979.4531</string><key>y</key><string>79756.0156</string></dict>
+<dict>
+<key>identifier</key><string>727f2bc8-4263-44e8-866c-1c1d9313fd74</string><key>stan_name</key><string>天一服饰超市</string><key>multi_info</key><string> </string><key>x</key><string>69622.0404</string><key>y</key><string>79875.6092</string></dict>
+<dict>
+<key>identifier</key><string>5136b724-c703-44af-9242-6936a7c9d456</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>83042.6641</string><key>y</key><string>79906.2031</string></dict>
+<dict>
+<key>identifier</key><string>befe1188-a6a9-4219-aa52-b6fa6874d104</string><key>stan_name</key><string>上海华联留下店</string><key>multi_info</key><string> </string><key>x</key><string>69650.17</string><key>y</key><string>79937.9908</string></dict>
+<dict>
+<key>identifier</key><string>cbfb0c08-3153-4d6d-8f70-a94df6f6d4d6</string><key>stan_name</key><string>世纪联华西溪路店</string><key>multi_info</key><string> </string><key>x</key><string>69314.9620</string><key>y</key><string>79942.6105</string></dict>
+<dict>
+<key>identifier</key><string>ea33a383-3881-4cf9-bf1b-8e725d7dd5cf</string><key>stan_name</key><string>浙大金龙超市</string><key>multi_info</key><string> </string><key>x</key><string>76270.8281</string><key>y</key><string>82004.9766</string></dict>
+<dict>
+<key>identifier</key><string>b07ecfdc-a959-4167-ab5d-ecd1fb1c3c62</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>83502.8354</string><key>y</key><string>80035.7744</string></dict>
+<dict>
+<key>identifier</key><string>55e4fc35-fff4-42b4-becd-4ff3f86018c4</string><key>stan_name</key><string>联华马市街超市</string><key>multi_info</key><string> </string><key>x</key><string>81103.2422</string><key>y</key><string>81169.2031</string></dict>
+<dict>
+<key>identifier</key><string>fcface69-be8e-494c-a273-809d38a29730</string><key>stan_name</key><string>家友超市</string><key>multi_info</key><string> </string><key>x</key><string>79479.3281</string><key>y</key><string>82167.0625</string></dict>
+<dict>
+<key>identifier</key><string>cc2e5304-d30c-41c0-a7d5-7529399dc64a</string><key>stan_name</key><string>好又多超市</string><key>multi_info</key><string> </string><key>x</key><string>82091.0859</string><key>y</key><string>82170.7344</string></dict>
+<dict>
+<key>identifier</key><string>45250913-6828-4ca1-a9ac-f3ab26887e7b</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>82437.9844</string><key>y</key><string>81228.3359</string></dict>
+<dict>
+<key>identifier</key><string>070bbfc6-971f-48aa-b148-edbfd308880e</string><key>stan_name</key><string>上海华联超市</string><key>multi_info</key><string> </string><key>x</key><string>62140.4330</string><key>y</key><string>96638.9650</string></dict>
+<dict>
+<key>identifier</key><string>11dd6028-a632-40ba-890f-598f678af45e</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>69211.1490</string><key>y</key><string>95211.9101</string></dict>
+<dict>
+<key>identifier</key><string>1ac61bd4-af3f-4aca-90b4-4036002304e2</string><key>stan_name</key><string>宜佳超市</string><key>multi_info</key><string> </string><key>x</key><string>78144.4688</string><key>y</key><string>82962.4766</string></dict>
+<dict>
+<key>identifier</key><string>999b5d56-6b1f-4c96-94f2-ed0dae3aeadc</string><key>stan_name</key><string>百姓超市</string><key>multi_info</key><string> </string><key>x</key><string>93250.7361</string><key>y</key><string>99846.2071</string></dict>
+<dict>
+<key>identifier</key><string>a2449e61-8a46-4b17-8c76-cb276dc12a58</string><key>stan_name</key><string>大红鹰超市</string><key>multi_info</key><string> </string><key>x</key><string>93239.9908</string><key>y</key><string>100037.2216</string></dict>
+<dict>
+<key>identifier</key><string>4b62b6bd-9a42-431c-865c-c521b64227f7</string><key>stan_name</key><string>联华超市乔司月雅湖店</string><key>multi_info</key><string> </string><key>x</key><string>93673.8872</string><key>y</key><string>91527.1663</string></dict>
+<dict>
+<key>identifier</key><string>4b0159f9-cff4-4911-9009-0247ad5991cd</string><key>stan_name</key><string>欧倍德超市</string><key>multi_info</key><string> </string><key>x</key><string>78348.75</string><key>y</key><string>87657.9922</string></dict>
+<dict>
+<key>identifier</key><string>8eb189af-fc2a-4e78-b793-b76348cb6d0c</string><key>stan_name</key><string>树大超市</string><key>multi_info</key><string> </string><key>x</key><string>78843.6719</string><key>y</key><string>88296.6406</string></dict>
+<dict>
+<key>identifier</key><string>aae6b939-d246-4cc6-bc60-5886b21ce71b</string><key>stan_name</key><string>易百盛生活超市</string><key>multi_info</key><string> </string><key>x</key><string>92401.4156</string><key>y</key><string>91806.7262</string></dict>
+<dict>
+<key>identifier</key><string>eb1f4541-44ac-426a-b36d-ce9dd8490b9b</string><key>stan_name</key><string>杭州百业超市</string><key>multi_info</key><string> </string><key>x</key><string>85405.8771</string><key>y</key><string>91807.9275</string></dict>
+<dict>
+<key>identifier</key><string>2027b64b-d3a3-4bcd-accc-9eeee9f5a109</string><key>stan_name</key><string>杭州福来得购物超市有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81362.4371</string><key>y</key><string>87865.7101</string></dict>
+<dict>
+<key>identifier</key><string>1b5f3b6e-53de-47d2-a9d5-30aa0e5953fc</string><key>stan_name</key><string>中兴超市</string><key>multi_info</key><string> </string><key>x</key><string>78595.0156</string><key>y</key><string>88344.3984</string></dict>
+<dict>
+<key>identifier</key><string>60d6f884-6ba3-40ab-b83c-49ccfd8cd971</string><key>stan_name</key><string>杭州千亿超市有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85507.7109</string><key>y</key><string>88379.75</string></dict>
+<dict>
+<key>identifier</key><string>ed90d1e9-af1b-49fc-85f5-ee73e20defa6</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>82146.0645</string><key>y</key><string>91832.7757</string></dict>
+<dict>
+<key>identifier</key><string>a564d4e5-5fb5-442c-aebd-d2a9b2533d1c</string><key>stan_name</key><string>家尔美超市</string><key>multi_info</key><string> </string><key>x</key><string>85711.9531</string><key>y</key><string>91837.6641</string></dict>
+<dict>
+<key>identifier</key><string>cb73009a-4163-4d19-9f1d-bdb906336274</string><key>stan_name</key><string>汇客隆超市</string><key>multi_info</key><string> </string><key>x</key><string>92324.5606</string><key>y</key><string>91956.7277</string></dict>
+<dict>
+<key>identifier</key><string>50d3f281-c1a2-40a6-806c-5fc4ebfaa520</string><key>stan_name</key><string>都市华联生活购物中心</string><key>multi_info</key><string> </string><key>x</key><string>74135.6302</string><key>y</key><string>90312.5003</string></dict>
+<dict>
+<key>identifier</key><string>7ac0d928-a023-4e69-b626-d6c975a123ea</string><key>stan_name</key><string>联合超市</string><key>multi_info</key><string> </string><key>x</key><string>72266.6719</string><key>y</key><string>89068.5234</string></dict>
+<dict>
+<key>identifier</key><string>ea717c37-7619-4264-9682-6f016518e66f</string><key>stan_name</key><string>民购超市</string><key>multi_info</key><string> </string><key>x</key><string>82681.9198</string><key>y</key><string>89083.6915</string></dict>
+<dict>
+<key>identifier</key><string>de2bf934-9f29-403a-9893-d0c4e140ee24</string><key>stan_name</key><string>世纪华联三塘店</string><key>multi_info</key><string> </string><key>x</key><string>80561.7546</string><key>y</key><string>87239.3827</string></dict>
+<dict>
+<key>identifier</key><string>6856a374-4cbc-4e30-a24d-f3c73f361700</string><key>stan_name</key><string>上海华联超市祥符分店</string><key>multi_info</key><string> </string><key>x</key><string>74136.0937</string><key>y</key><string>89233.2422</string></dict>
+<dict>
+<key>identifier</key><string>927cf409-788a-4bb5-9df8-a88a8c4ecd4a</string><key>stan_name</key><string>好又多购物祥符店</string><key>multi_info</key><string> </string><key>x</key><string>74110.2814</string><key>y</key><string>89217.2214</string></dict>
+<dict>
+<key>identifier</key><string>4b8fab20-bc15-4ec8-a751-f69ee784699d</string><key>stan_name</key><string>欧尚超市</string><key>multi_info</key><string> </string><key>x</key><string>78404.4062</string><key>y</key><string>87338.6953</string></dict>
+<dict>
+<key>identifier</key><string>dade0269-1916-4c47-85a9-3b3af224ec59</string><key>stan_name</key><string>好又多购物</string><key>multi_info</key><string> </string><key>x</key><string>72035.3038</string><key>y</key><string>88634.4067</string></dict>
+<dict>
+<key>identifier</key><string>88a4d3e6-1856-489d-a89a-58d183bf330c</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>89815.5078</string><key>y</key><string>87525.9219</string></dict>
+<dict>
+<key>identifier</key><string>ed4b5767-ce01-4168-a384-98d266500c7d</string><key>stan_name</key><string>世纪华联</string><key>multi_info</key><string> </string><key>x</key><string>82262.2970</string><key>y</key><string>54447.8010</string></dict>
+<dict>
+<key>identifier</key><string>7eae59d5-4dc2-4848-a168-13ba093164f0</string><key>stan_name</key><string>上海滨佳超市</string><key>multi_info</key><string> </string><key>x</key><string>82670.7891</string><key>y</key><string>72372.1797</string></dict>
+<dict>
+<key>identifier</key><string>bd9748a3-e62e-43bc-8a26-873b7d7d6586</string><key>stan_name</key><string>三江购物</string><key>multi_info</key><string> </string><key>x</key><string>108625.0610</string><key>y</key><string>72612.1230</string></dict>
+<dict>
+<key>identifier</key><string>164cff12-7b10-454e-8dc7-83abdab3d5d9</string><key>stan_name</key><string>汇德隆超市</string><key>multi_info</key><string> </string><key>x</key><string>108365.0213</string><key>y</key><string>73582.2920</string></dict>
+<dict>
+<key>identifier</key><string>38f1e6e6-f2d0-482b-b0c5-5d59027dadde</string><key>stan_name</key><string>汇德隆超市</string><key>multi_info</key><string> </string><key>x</key><string>87720.7480</string><key>y</key><string>58356.4590</string></dict>
+<dict>
+<key>identifier</key><string>de4cab51-e01c-4e25-90fc-3f3a11ac216c</string><key>stan_name</key><string>世纪华联</string><key>multi_info</key><string> </string><key>x</key><string>71833.9953</string><key>y</key><string>71001.7419</string></dict>
+<dict>
+<key>identifier</key><string>883e83a5-847a-4751-b646-e612e3d8866f</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>70989.4313</string><key>y</key><string>62985.8346</string></dict>
+<dict>
+<key>identifier</key><string>4145aa7c-0114-4fee-b95f-c6f8d5ddc6d3</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>70989.4313</string><key>y</key><string>62985.8346</string></dict>
+<dict>
+<key>identifier</key><string>c542da97-012e-4ac7-aded-532e47d7c6b5</string><key>stan_name</key><string>乐购生活购物中心</string><key>multi_info</key><string> </string><key>x</key><string>84059.8710</string><key>y</key><string>81813.0950</string></dict>
+<dict>
+<key>identifier</key><string>4f9596fa-6219-4e55-a42e-640c904af692</string><key>stan_name</key><string>世纪华联超市转塘店</string><key>multi_info</key><string> </string><key>x</key><string>71575.4978</string><key>y</key><string>70867.8975</string></dict>
+<dict>
+<key>identifier</key><string>8c06599c-065b-4c1c-ad90-54348391fb3d</string><key>stan_name</key><string>超市</string><key>multi_info</key><string> </string><key>x</key><string>78224.7578</string><key>y</key><string>73390.7266</string></dict>
+<dict>
+<key>identifier</key><string>b10feef5-782b-4b17-8d16-ba44bc7f5e4c</string><key>stan_name</key><string>博爱超市</string><key>multi_info</key><string> </string><key>x</key><string>80039.0781</string><key>y</key><string>76361.0391</string></dict>
+<dict>
+<key>identifier</key><string>2800a81e-bd59-4c1a-b56c-ff2d82b535c4</string><key>stan_name</key><string>联华超市南星店</string><key>multi_info</key><string> </string><key>x</key><string>81025.7344</string><key>y</key><string>77334.7109</string></dict>
+<dict>
+<key>identifier</key><string>e014d3e6-9f35-4525-8d5f-c1735119fe97</string><key>stan_name</key><string>联华超市新工店</string><key>multi_info</key><string> </string><key>x</key><string>81153.5781</string><key>y</key><string>77578.1406</string></dict>
+<dict>
+<key>identifier</key><string>7bc30c3b-c2ed-492b-b15b-177b90c5822e</string><key>stan_name</key><string>好友多购物广场屏峰店</string><key>multi_info</key><string> </string><key>x</key><string>68537.4347</string><key>y</key><string>78179.9551</string></dict>
+<dict>
+<key>identifier</key><string>4fda1a7f-7c6e-4fb9-88e5-8ee00c63af19</string><key>stan_name</key><string>世纪华联超市</string><key>multi_info</key><string> </string><key>x</key><string>94809.6251</string><key>y</key><string>87547.4054</string></dict>
+<dict>
+<key>identifier</key><string>2ff613f2-faef-4b1a-bcea-63a36bd270b2</string><key>stan_name</key><string>西西超市</string><key>multi_info</key><string> </string><key>x</key><string>70275.8828</string><key>y</key><string>79574.5938</string></dict>
+<dict>
+<key>identifier</key><string>6b2a0eba-ab1e-48e3-9f24-f6653f7430a7</string><key>stan_name</key><string>世纪联华超市</string><key>multi_info</key><string> </string><key>x</key><string>81148.3203</string><key>y</key><string>78949.8281</string></dict>
+<dict>
+<key>identifier</key><string>50fabe20-09db-4d84-b5c0-e04d9426c27d</string><key>stan_name</key><string>华联超市耀江店</string><key>multi_info</key><string> </string><key>x</key><string>83440.7813</string><key>y</key><string>78956.5781</string></dict>
+<dict>
+<key>identifier</key><string>fb46667d-4e6a-490e-9c5f-54be07d2235a</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>83609.7656</string><key>y</key><string>78967.6094</string></dict>
+<dict>
+<key>identifier</key><string>20671b5f-f916-4caa-aa11-0e6ce6b99f42</string><key>stan_name</key><string>三江超市</string><key>multi_info</key><string> </string><key>x</key><string>83681.7109</string><key>y</key><string>79024.6484</string></dict>
+<dict>
+<key>identifier</key><string>f21876cd-ad7d-41de-9223-aed7521d34ec</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>79602.8359</string><key>y</key><string>79437.6641</string></dict>
+<dict>
+<key>identifier</key><string>ce660bb3-4e49-4011-8aa6-027a66ff765f</string><key>stan_name</key><string>世纪联华</string><key>multi_info</key><string> </string><key>x</key><string>79438.4844</string><key>y</key><string>86673.3750</string></dict>
+<dict>
+<key>identifier</key><string>4e7e3c42-8813-4dde-8b10-25416c0f4f05</string><key>stan_name</key><string>宝裕超市</string><key>multi_info</key><string> </string><key>x</key><string>82812.2813</string><key>y</key><string>83872.6719</string></dict>
+<dict>
+<key>identifier</key><string>cb8b53d0-c2b1-4184-9659-88431c634cca</string><key>stan_name</key><string>万家福超市</string><key>multi_info</key><string> </string><key>x</key><string>79986.7812</string><key>y</key><string>84789.1641</string></dict>
+<dict>
+<key>identifier</key><string>397be44f-2f58-4dc1-b415-5e79e9534f1f</string><key>stan_name</key><string>宝裕超市</string><key>multi_info</key><string> </string><key>x</key><string>78634.9687</string><key>y</key><string>84858.2969</string></dict>
+<dict>
+<key>identifier</key><string>9330072a-40e8-4bb0-80b8-df0a319ade75</string><key>stan_name</key><string>华联超市</string><key>multi_info</key><string> </string><key>x</key><string>83372.3047</string><key>y</key><string>84898.1094</string></dict>
+<dict>
+<key>identifier</key><string>b4894e25-5b0d-405f-8568-23fc7d141294</string><key>stan_name</key><string>物美超市</string><key>multi_info</key><string> </string><key>x</key><string>75906.3359</string><key>y</key><string>84947.3594</string></dict>
+<dict>
+<key>identifier</key><string>cf9df628-9851-4bf1-a49d-533665eba81f</string><key>stan_name</key><string>梅苑超市</string><key>multi_info</key><string> </string><key>x</key><string>77064.6719</string><key>y</key><string>85637.4219</string></dict>
+<dict>
+<key>identifier</key><string>0fb13ebb-5ce6-42bc-b507-82c6d7d5aa6b</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>82500.2266</string><key>y</key><string>85654.0938</string></dict>
+<dict>
+<key>identifier</key><string>1e2470a5-4a6b-428d-a79c-1eba7392bb54</string><key>stan_name</key><string>联华超市</string><key>multi_info</key><string> </string><key>x</key><string>80210.5426</string><key>y</key><string>87053.2535</string></dict>
+<dict>
+<key>identifier</key><string>2d9095a7-8d59-4c79-8da8-216010400b5f</string><key>stan_name</key><string>多福超市</string><key>multi_info</key><string> </string><key>x</key><string>77007.0547</string><key>y</key><string>85867.50</string></dict>
+<dict>
+<key>identifier</key><string>09d27d78-dba6-4541-986f-e13e1ad6caee</string><key>stan_name</key><string>金龙万家福超市</string><key>multi_info</key><string> </string><key>x</key><string>79889.7969</string><key>y</key><string>84258.0313</string></dict>
+</array>
+</plist>

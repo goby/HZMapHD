@@ -69,6 +69,8 @@
         NSURLRequest *request = [NSURLRequest requestWithURL:url];
         _operation = [AFImageRequestOperation imageRequestOperationWithRequest:request success:^(UIImage *image) {
             _data = UIImagePNGRepresentation(image);
+            NSString *strkey = [[url absoluteString] MD5Hash];
+            [FTWCache setObject:_data forKey:strkey];
             [_target performSelector:_action withObject:self];
         }]; 
     }

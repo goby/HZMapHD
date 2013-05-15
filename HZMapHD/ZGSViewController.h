@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <ArcGIS/ArcGIS.h>
 
+
 @interface ZGSViewController : UIViewController<AGSMapViewLayerDelegate,
                                                 AGSLocationDisplayInfoTemplateDelegate,
                                                 AGSCalloutDelegate,
@@ -16,5 +17,6 @@
                                                 UIActionSheetDelegate>
 
 @property (weak, nonatomic) IBOutlet AGSMapView *mapView;
+- (IBAction)zoomToMyPosition:(UIButton *)sender;
 
 @end

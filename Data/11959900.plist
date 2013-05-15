@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>df397d42-44fb-4e8c-b28e-1ba207c5a395</string><key>stan_name</key><string>浙江文史研究馆</string><key>multi_info</key><string> </string><key>x</key><string>78295.2708</string><key>y</key><string>82377.7472</string></dict>
+<dict>
+<key>identifier</key><string>316ec32e-8170-447d-af65-fa86d2318f57</string><key>stan_name</key><string>门耳茶房</string><key>multi_info</key><string> </string><key>x</key><string>76692.2637</string><key>y</key><string>81528.8557</string></dict>
+<dict>
+<key>identifier</key><string>8849925e-5134-46dc-bc67-6c61137eb14b</string><key>stan_name</key><string>京昆之家</string><key>multi_info</key><string> </string><key>x</key><string>76459.2115</string><key>y</key><string>80455.9455</string></dict>
+<dict>
+<key>identifier</key><string>f89c22d8-f3b3-4125-9640-d17146fe93a1</string><key>stan_name</key><string>雨前春</string><key>multi_info</key><string> </string><key>x</key><string>76615.6953</string><key>y</key><string>80478.0469</string></dict>
+<dict>
+<key>identifier</key><string>a39bbdfc-1285-48ff-8011-0d3e4102dadb</string><key>stan_name</key><string>金泉阁茶庄</string><key>multi_info</key><string> </string><key>x</key><string>76626.2377</string><key>y</key><string>80484.2186</string></dict>
+<dict>
+<key>identifier</key><string>bfe636eb-3763-4f59-b540-a65d590db487</string><key>stan_name</key><string>茶楼</string><key>multi_info</key><string> </string><key>x</key><string>84011.0625</string><key>y</key><string>83021.5469</string></dict>
+<dict>
+<key>identifier</key><string>4c9a1679-cabb-46ca-8650-162e9b674765</string><key>stan_name</key><string>杭州话剧团</string><key>multi_info</key><string> </string><key>x</key><string>80004.6391</string><key>y</key><string>80618.2630</string></dict>
+<dict>
+<key>identifier</key><string>9b4e406a-8a7f-4813-a122-9f1bf78d47f7</string><key>stan_name</key><string>明媚茶苑</string><key>multi_info</key><string> </string><key>x</key><string>79218.3906</string><key>y</key><string>79617.2422</string></dict>
+<dict>
+<key>identifier</key><string>170b9085-8ef7-4f66-8ac8-1a11727202c2</string><key>stan_name</key><string>闻莺馆</string><key>multi_info</key><string> </string><key>x</key><string>79105.5156</string><key>y</key><string>79639.6953</string></dict>
+<dict>
+<key>identifier</key><string>c6b9e3b4-5884-463b-9e54-b16f576f1b35</string><key>stan_name</key><string>杭州园林文化传播有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79266.4844</string><key>y</key><string>79658</string></dict>
+<dict>
+<key>identifier</key><string>0219f49b-a9e1-42b3-b7a2-9839aa915d51</string><key>stan_name</key><string>小白莱文化馆</string><key>multi_info</key><string> </string><key>x</key><string>60834.9420</string><key>y</key><string>79708.7909</string></dict>
+<dict>
+<key>identifier</key><string>89d229b8-0ebc-4481-a67d-0b97d51f3479</string><key>stan_name</key><string>闻莺阁</string><key>multi_info</key><string> </string><key>x</key><string>79040.9687</string><key>y</key><string>79711.2812</string></dict>
+<dict>
+<key>identifier</key><string>e9a77480-3086-4aa9-af76-c2610a033fa7</string><key>stan_name</key><string>三堡休闲垂钓园</string><key>multi_info</key><string> </string><key>x</key><string>85623.6070</string><key>y</key><string>82693.5990</string></dict>
+<dict>
+<key>identifier</key><string>e91f9597-214c-4338-9b87-8260444b7005</string><key>stan_name</key><string>江干文化站</string><key>multi_info</key><string> </string><key>x</key><string>81960.2734</string><key>y</key><string>79735.2656</string></dict>
+<dict>
+<key>identifier</key><string>4a7e4b00-129e-45c5-ac6f-c239d40480d6</string><key>stan_name</key><string>小白菜文化馆</string><key>multi_info</key><string> </string><key>x</key><string>61093.4630</string><key>y</key><string>79754.1720</string></dict>
+<dict>
+<key>identifier</key><string>e6373624-7bb9-477e-93ad-a48bfaebb855</string><key>stan_name</key><string>城隍茶楼</string><key>multi_info</key><string> </string><key>x</key><string>80056.6406</string><key>y</key><string>79713.1094</string></dict>
+<dict>
+<key>identifier</key><string>a1b027fb-eabf-4e7b-8dcf-298c6fc6a424</string><key>stan_name</key><string>韩美林艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>75624.9619</string><key>y</key><string>80833.07</string></dict>
+<dict>
+<key>identifier</key><string>c840fad2-ceb5-4ad2-a3d7-3b5069713d8e</string><key>stan_name</key><string>清怡阁茶楼</string><key>multi_info</key><string> </string><key>x</key><string>76815.0268</string><key>y</key><string>81852.9820</string></dict>
+<dict>
+<key>identifier</key><string>cc42ef50-5062-4344-8ac0-b1f8bd2763bd</string><key>stan_name</key><string>金庸茶馆</string><key>multi_info</key><string> </string><key>x</key><string>76653.5323</string><key>y</key><string>80897.7243</string></dict>
+<dict>
+<key>identifier</key><string>dadd0ffc-b22e-48c4-a7b6-c785724c2749</string><key>stan_name</key><string>浙江省群众艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>79516.2422</string><key>y</key><string>81885.1484</string></dict>
+<dict>
+<key>identifier</key><string>c0ace21b-5b32-4e13-8627-f92b715821ed</string><key>stan_name</key><string>门耳茶坊</string><key>multi_info</key><string> </string><key>x</key><string>79357.6172</string><key>y</key><string>81902.5156</string></dict>
+<dict>
+<key>identifier</key><string>4400bcc5-071f-4ee3-9a0a-c8eb38f3d599</string><key>stan_name</key><string>初阳台茶室</string><key>multi_info</key><string> </string><key>x</key><string>78424.9063</string><key>y</key><string>81932.2188</string></dict>
+<dict>
+<key>identifier</key><string>74154fe5-773b-48d4-9abf-00c9025e2b59</string><key>stan_name</key><string>京华科影</string><key>multi_info</key><string> </string><key>x</key><string>78861.5859</string><key>y</key><string>81983.7031</string></dict>
+<dict>
+<key>identifier</key><string>f90cb2b0-44ac-4fdc-b700-2de4927864d7</string><key>stan_name</key><string>阿伟美发中心</string><key>multi_info</key><string> </string><key>x</key><string>79435.6016</string><key>y</key><string>81995.9922</string></dict>
+<dict>
+<key>identifier</key><string>3410c701-c2b9-4618-b0ec-99c1d11ca73e</string><key>stan_name</key><string>浙江省体育训练一大队</string><key>multi_info</key><string> </string><key>x</key><string>80960.8203</string><key>y</key><string>82813.1719</string></dict>
+<dict>
+<key>identifier</key><string>24161c2a-4bc3-4096-8cd7-3b5649f2c52e</string><key>stan_name</key><string>天水文化站</string><key>multi_info</key><string> </string><key>x</key><string>80019.8203</string><key>y</key><string>82864.9922</string></dict>
+<dict>
+<key>identifier</key><string>42806c65-bca5-414a-82d7-606431e9d872</string><key>stan_name</key><string>海天音像</string><key>multi_info</key><string> </string><key>x</key><string>79890.50</string><key>y</key><string>81058.2266</string></dict>
+<dict>
+<key>identifier</key><string>95909d58-5eb1-4af0-90ef-c7b62f912d9e</string><key>stan_name</key><string>杭州市大北文化娱乐有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79832.6884</string><key>y</key><string>81064.1479</string></dict>
+<dict>
+<key>identifier</key><string>7e482525-a062-446b-83c1-7b36abcd044e</string><key>stan_name</key><string>龙凤阁茶楼</string><key>multi_info</key><string> </string><key>x</key><string>79396.7187</string><key>y</key><string>82004.5234</string></dict>
+<dict>
+<key>identifier</key><string>3f23f737-1661-4f4f-9b8c-cf60e1cbe705</string><key>stan_name</key><string>蓝宝茶楼</string><key>multi_info</key><string> </string><key>x</key><string>78678.8125</string><key>y</key><string>82107.1406</string></dict>
+<dict>
+<key>identifier</key><string>b66acdd9-6ba1-4b08-87a9-4e7c4830b7e5</string><key>stan_name</key><string>浙江省国际文化交流协会</string><key>multi_info</key><string> </string><key>x</key><string>76206.1188</string><key>y</key><string>82937.7822</string></dict>
+<dict>
+<key>identifier</key><string>071e6797-9024-483f-be8b-01781dde16d7</string><key>stan_name</key><string>杭州金古时代电影制作有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75330.8893</string><key>y</key><string>82948.9781</string></dict>
+<dict>
+<key>identifier</key><string>7937e281-e91a-43e3-9ae1-04188620cb4b</string><key>stan_name</key><string>浙江省电影有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75331.4185</string><key>y</key><string>82949.8224</string></dict>
+<dict>
+<key>identifier</key><string>b6627910-0561-40e6-a0f0-6187098779c0</string><key>stan_name</key><string>杭州市卡丁赛车运动俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>73607.5103</string><key>y</key><string>82138.6390</string></dict>
+<dict>
+<key>identifier</key><string>285fd341-b227-4ec5-9c1b-6a9278c16886</string><key>stan_name</key><string>紫悦坊茶馆</string><key>multi_info</key><string> </string><key>x</key><string>76686.6098</string><key>y</key><string>81231.6167</string></dict>
+<dict>
+<key>identifier</key><string>d3f897c9-6d28-4e99-9fe6-bf3e56a4eb67</string><key>stan_name</key><string>新竹茶楼</string><key>multi_info</key><string> </string><key>x</key><string>76678.2578</string><key>y</key><string>81234.2109</string></dict>
+<dict>
+<key>identifier</key><string>857f782b-f63f-463d-8513-1713dce540cd</string><key>stan_name</key><string>紫艺阁</string><key>multi_info</key><string> </string><key>x</key><string>76684.4531</string><key>y</key><string>81271.0313</string></dict>
+<dict>
+<key>identifier</key><string>a5086b2b-5c68-49f6-8627-692df467a82b</string><key>stan_name</key><string>九星棋牌</string><key>multi_info</key><string> </string><key>x</key><string>82652.9141</string><key>y</key><string>80223.1094</string></dict>
+<dict>
+<key>identifier</key><string>a14c6b1d-208c-4c3f-a825-7d2442119572</string><key>stan_name</key><string>武林茶室</string><key>multi_info</key><string> </string><key>x</key><string>80109.9531</string><key>y</key><string>82262.8906</string></dict>
+<dict>
+<key>identifier</key><string>177932cd-ad1b-46c8-bdec-1027652f4c2a</string><key>stan_name</key><string>轧钢小区文化中心</string><key>multi_info</key><string> </string><key>x</key><string>81373.9359</string><key>y</key><string>93511.3283</string></dict>
+<dict>
+<key>identifier</key><string>14168aed-3935-45de-bd1b-38643f7deeab</string><key>stan_name</key><string>杭州良渚野芦湾生态休闲园</string><key>multi_info</key><string> </string><key>x</key><string>68629.3770</string><key>y</key><string>96724.1910</string></dict>
+<dict>
+<key>identifier</key><string>3b9db93e-8449-404f-ad4b-3b9ab87217fc</string><key>stan_name</key><string>众旺垂钓园</string><key>multi_info</key><string> </string><key>x</key><string>74808.1769</string><key>y</key><string>101247.5991</string></dict>
+<dict>
+<key>identifier</key><string>f2cb25d4-4dcd-4f45-93b2-30745736da64</string><key>stan_name</key><string>东明白庐艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>64532.17</string><key>y</key><string>101287.8140</string></dict>
+<dict>
+<key>identifier</key><string>d896570f-e127-46f2-affc-7ab12eff6155</string><key>stan_name</key><string>竹海休闲垂钓园</string><key>multi_info</key><string> </string><key>x</key><string>49695.6120</string><key>y</key><string>98461.3740</string></dict>
+<dict>
+<key>identifier</key><string>9310e1d7-e500-4e5d-951a-3f7dc92e2aa1</string><key>stan_name</key><string>二监宿舍</string><key>multi_info</key><string> </string><key>x</key><string>91631.9693</string><key>y</key><string>98522.3645</string></dict>
+<dict>
+<key>identifier</key><string>f85efbde-d2c8-46f1-b0b8-1aeed21aa751</string><key>stan_name</key><string>四号宕口</string><key>multi_info</key><string> </string><key>x</key><string>71507.1540</string><key>y</key><string>102986.0770</string></dict>
+<dict>
+<key>identifier</key><string>cc204de3-dabe-491a-847d-c8d389ee0bab</string><key>stan_name</key><string>竹梅茶庄</string><key>multi_info</key><string> </string><key>x</key><string>85965.1866</string><key>y</key><string>94832.1672</string></dict>
+<dict>
+<key>identifier</key><string>e73a06c5-bb82-4dcd-aea4-00ec5245fc98</string><key>stan_name</key><string>绿豪轩茶庄</string><key>multi_info</key><string> </string><key>x</key><string>85921.2873</string><key>y</key><string>95040.9974</string></dict>
+<dict>
+<key>identifier</key><string>91bff78e-896b-46b4-a1f6-11bc7c6d3c9c</string><key>stan_name</key><string>三毛茶楼</string><key>multi_info</key><string> </string><key>x</key><string>92968.5350</string><key>y</key><string>99695.5833</string></dict>
+<dict>
+<key>identifier</key><string>5622cdfa-731a-4bdf-ba65-c22c89863698</string><key>stan_name</key><string>避风港茶楼</string><key>multi_info</key><string> </string><key>x</key><string>93147.6522</string><key>y</key><string>99783.3445</string></dict>
+<dict>
+<key>identifier</key><string>2f195314-a267-4ae9-b748-b73160d14239</string><key>stan_name</key><string>金港娱乐城</string><key>multi_info</key><string> </string><key>x</key><string>93139.7708</string><key>y</key><string>99872.3551</string></dict>
+<dict>
+<key>identifier</key><string>4daf9b2f-f34c-4a00-8e67-b459d0955f34</string><key>stan_name</key><string>杭州金毛犬俱乐部训练基地</string><key>multi_info</key><string> </string><key>x</key><string>63845.8759</string><key>y</key><string>96361.1021</string></dict>
+<dict>
+<key>identifier</key><string>fcfe4a5b-f52c-45f6-a691-e601329456a3</string><key>stan_name</key><string>大会堂</string><key>multi_info</key><string> </string><key>x</key><string>94205.4633</string><key>y</key><string>100390.9345</string></dict>
+<dict>
+<key>identifier</key><string>5005ce85-41cf-4a1c-93bb-7c51cdd6f8b4</string><key>stan_name</key><string>桥西茶室</string><key>multi_info</key><string> </string><key>x</key><string>77450.5859</string><key>y</key><string>88247.0547</string></dict>
+<dict>
+<key>identifier</key><string>e706b877-0f28-449d-8369-436f364656e9</string><key>stan_name</key><string>省广电集团职工省直专用房</string><key>multi_info</key><string> </string><key>x</key><string>81758.6042</string><key>y</key><string>87787.0647</string></dict>
+<dict>
+<key>identifier</key><string>26a5d1f0-15f2-43fc-ad0f-e04d8b3da148</string><key>stan_name</key><string>月牙湖垂钓俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>93199.5008</string><key>y</key><string>90886.2170</string></dict>
+<dict>
+<key>identifier</key><string>c0851b4f-16c4-4ddf-a69a-1377ce28800e</string><key>stan_name</key><string>会馆</string><key>multi_info</key><string> </string><key>x</key><string>72848.6406</string><key>y</key><string>87558.1016</string></dict>
+<dict>
+<key>identifier</key><string>c6f89d1b-e984-4533-81ac-f520bfa7941d</string><key>stan_name</key><string>德意文化</string><key>multi_info</key><string> </string><key>x</key><string>74740.6406</string><key>y</key><string>89609.8516</string></dict>
+<dict>
+<key>identifier</key><string>c492574c-089c-47c3-a7bd-1cefb2143af3</string><key>stan_name</key><string>五常街道生育文化园</string><key>multi_info</key><string> </string><key>x</key><string>67927.7281</string><key>y</key><string>81727.2179</string></dict>
+<dict>
+<key>identifier</key><string>8fdb1064-38fa-40ed-99c0-9e2f3ddd03c3</string><key>stan_name</key><string>杭州豪园健身有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80166.9609</string><key>y</key><string>83171.3359</string></dict>
+<dict>
+<key>identifier</key><string>c002e930-edad-49fe-ae10-839ad728a524</string><key>stan_name</key><string>益农文化中心</string><key>multi_info</key><string> </string><key>x</key><string>119479.0050</string><key>y</key><string>72197.1991</string></dict>
+<dict>
+<key>identifier</key><string>3941e510-8aae-4649-82ab-4ac8d8f52ac7</string><key>stan_name</key><string>杭州视界画社</string><key>multi_info</key><string> </string><key>x</key><string>71931.2152</string><key>y</key><string>68245.8473</string></dict>
+<dict>
+<key>identifier</key><string>d2450c69-c096-4fd7-b891-d0db5649567e</string><key>stan_name</key><string>闻堰镇文化体育中心</string><key>multi_info</key><string> </string><key>x</key><string>81597.5160</string><key>y</key><string>66743.8519</string></dict>
+<dict>
+<key>identifier</key><string>134389ef-c4fd-4316-982b-9612361e19c0</string><key>stan_name</key><string>杭州视界书社写生基地</string><key>multi_info</key><string> </string><key>x</key><string>73963.5117</string><key>y</key><string>68631.6423</string></dict>
+<dict>
+<key>identifier</key><string>f03f4037-58b6-4374-af79-265a4a7ea6a5</string><key>stan_name</key><string>杭州高新区（滨江）文化馆</string><key>multi_info</key><string> </string><key>x</key><string>85908.3359</string><key>y</key><string>73735.6797</string></dict>
+<dict>
+<key>identifier</key><string>66552347-a7af-4fbd-8295-70f38187e5b2</string><key>stan_name</key><string>浙江萧山宋代名瓷研究所</string><key>multi_info</key><string> </string><key>x</key><string>88155.13</string><key>y</key><string>68665.2730</string></dict>
+<dict>
+<key>identifier</key><string>882e1027-7fe1-4258-aa94-0a423119f564</string><key>stan_name</key><string>义桥影剧院</string><key>multi_info</key><string> </string><key>x</key><string>83186.9960</string><key>y</key><string>60171.0510</string></dict>
+<dict>
+<key>identifier</key><string>daa6540f-e00c-4836-849d-0fb46748c55d</string><key>stan_name</key><string>天乐会所</string><key>multi_info</key><string> </string><key>x</key><string>95568.7019</string><key>y</key><string>60878.3270</string></dict>
+<dict>
+<key>identifier</key><string>4c841b1b-0b56-4090-bc98-1296220fdbb7</string><key>stan_name</key><string>杭州高新（滨江）武术协会体育总会</string><key>multi_info</key><string> </string><key>x</key><string>86016.6953</string><key>y</key><string>73883.9688</string></dict>
+<dict>
+<key>identifier</key><string>293246ed-f33f-455d-b7cd-7af2b9bb0a65</string><key>stan_name</key><string>九龙苑茶庄</string><key>multi_info</key><string> </string><key>x</key><string>75202.3125</string><key>y</key><string>74509.4531</string></dict>
+<dict>
+<key>identifier</key><string>fc0341e1-70f5-45c8-a9bd-b8d6923fdd07</string><key>stan_name</key><string>吉祥棋牌</string><key>multi_info</key><string> </string><key>x</key><string>80700</string><key>y</key><string>76540.3125</string></dict>
+<dict>
+<key>identifier</key><string>1f5a4be5-a97a-4e1c-89d2-be3f66d12ee1</string><key>stan_name</key><string>祥符镇星桥村体育设施</string><key>multi_info</key><string> </string><key>x</key><string>74817.1881</string><key>y</key><string>89783.3841</string></dict>
+<dict>
+<key>identifier</key><string>b33c7793-f687-47db-bb6a-d21e97d6c9eb</string><key>stan_name</key><string>申和茶吧</string><key>multi_info</key><string> </string><key>x</key><string>68130.7144</string><key>y</key><string>77823.1291</string></dict>
+<dict>
+<key>identifier</key><string>8bac0744-b4ef-40d8-9f9b-239e55d708a1</string><key>stan_name</key><string>侯又民画室</string><key>multi_info</key><string> </string><key>x</key><string>78667.1875</string><key>y</key><string>77848.4688</string></dict>
+<dict>
+<key>identifier</key><string>705d6bc4-0665-4dbe-889b-95f22248ff3b</string><key>stan_name</key><string>龙井茶室</string><key>multi_info</key><string> </string><key>x</key><string>74843.6250</string><key>y</key><string>77596.1953</string></dict>
+<dict>
+<key>identifier</key><string>09817019-f214-480f-ae13-2b301adc6762</string><key>stan_name</key><string>凝香居</string><key>multi_info</key><string> </string><key>x</key><string>78988.7109</string><key>y</key><string>78526.3203</string></dict>
+<dict>
+<key>identifier</key><string>d57362a4-7874-4e00-ae0d-b3707e3fb61b</string><key>stan_name</key><string>唐云艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>79042.5234</string><key>y</key><string>78685.2422</string></dict>
+<dict>
+<key>identifier</key><string>e66c9394-d308-4700-9c33-44f4eba3ca12</string><key>stan_name</key><string>狮峰茶楼</string><key>multi_info</key><string> </string><key>x</key><string>80093.1484</string><key>y</key><string>79376.9297</string></dict>
+<dict>
+<key>identifier</key><string>98b68dbd-799e-48e8-a340-703c7fd70d93</string><key>stan_name</key><string>乐天阁</string><key>multi_info</key><string> </string><key>x</key><string>76130.5859</string><key>y</key><string>79487.7031</string></dict>
+<dict>
+<key>identifier</key><string>42112f0b-23e0-487f-b083-3f2cc8396296</string><key>stan_name</key><string>四五组公园</string><key>multi_info</key><string> </string><key>x</key><string>85087.8438</string><key>y</key><string>86124.2656</string></dict>
+<dict>
+<key>identifier</key><string>dd0ffd6b-935d-4871-9fe5-631c419b7f24</string><key>stan_name</key><string>浙江省杭州知音国乐团</string><key>multi_info</key><string> </string><key>x</key><string>78848.1443</string><key>y</key><string>83843.0593</string></dict>
+<dict>
+<key>identifier</key><string>3127f62a-3ce1-4008-a77f-5bf6ff09c3a2</string><key>stan_name</key><string>浙江省曲艺杂技总团</string><key>multi_info</key><string> </string><key>x</key><string>76996.4219</string><key>y</key><string>84032.3750</string></dict>
+<dict>
+<key>identifier</key><string>158e9be2-ba77-41cc-b809-a6d9cb53ff54</string><key>stan_name</key><string>杭州歌舞团</string><key>multi_info</key><string> </string><key>x</key><string>79490.4844</string><key>y</key><string>85054.6797</string></dict>
+<dict>
+<key>identifier</key><string>d73acaa8-60f8-4656-8dda-c0fd7671e7aa</string><key>stan_name</key><string>省博宿舍</string><key>multi_info</key><string> </string><key>x</key><string>76057.2969</string><key>y</key><string>83085.4453</string></dict>
+<dict>
+<key>identifier</key><string>d74c42f5-4309-45ce-b0e5-33fdc4b72884</string><key>stan_name</key><string>闸弄口文体中心</string><key>multi_info</key><string> </string><key>x</key><string>82755.0078</string><key>y</key><string>84342.6328</string></dict>
+<dict>
+<key>identifier</key><string>c113f4c6-f303-412e-a4d4-dfe9155e2047</string><key>stan_name</key><string>浙江昆剧团</string><key>multi_info</key><string> </string><key>x</key><string>80397.9375</string><key>y</key><string>84307.2969</string></dict>
+<dict>
+<key>identifier</key><string>99c28bd0-cc52-4477-b10c-bad1df1b121a</string><key>stan_name</key><string>大洋湖钓鱼台</string><key>multi_info</key><string> </string><key>x</key><string>51656.3171</string><key>y</key><string>83278.1339</string></dict>
+<dict>
+<key>identifier</key><string>3efa3346-d2f6-4fd4-8645-71aade76fe38</string><key>stan_name</key><string>浙江省京剧团</string><key>multi_info</key><string> </string><key>x</key><string>78801.8343</string><key>y</key><string>83627.2198</string></dict>
+<dict>
+<key>identifier</key><string>c5fff798-a1c1-4504-a603-38f979669a00</string><key>stan_name</key><string>杭州市群众艺术馆</string><key>multi_info</key><string> </string><key>x</key><string>79944.0469</string><key>y</key><string>84640.3203</string></dict>
+<dict>
+<key>identifier</key><string>4b30e847-0c90-4700-a4ac-e8331a70ad88</string><key>stan_name</key><string>浙江省人民大会堂</string><key>multi_info</key><string> </string><key>x</key><string>78930.8203</string><key>y</key><string>82312.3750</string></dict>
+<dict>
+<key>identifier</key><string>2b628b86-ab82-48f2-83c5-c3f7a3b1b75b</string><key>stan_name</key><string>江干区体育中心</string><key>multi_info</key><string> </string><key>x</key><string>85501.5030</string><key>y</key><string>81344.3570</string></dict>
+<dict>
+<key>identifier</key><string>dccf79ed-3c2b-4189-ad39-cce542cedbcd</string><key>stan_name</key><string>共荣浴场</string><key>multi_info</key><string> </string><key>x</key><string>70724.7814</string><key>y</key><string>80369.8121</string></dict>
+<dict>
+<key>identifier</key><string>23cb400f-17f0-4a7b-a8e3-f51c67d7684c</string><key>stan_name</key><string>天滕艺术</string><key>multi_info</key><string> </string><key>x</key><string>76566.8359</string><key>y</key><string>81413.2344</string></dict>
+</array>
+</plist>

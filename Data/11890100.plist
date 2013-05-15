@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>424661c1-dfc3-4eec-af71-5a1dbec01291</string><key>stan_name</key><string>兴业银行下沙支行</string><key>multi_info</key><string> </string><key>x</key><string>96116.3380</string><key>y</key><string>86417.9620</string></dict>
+<dict>
+<key>identifier</key><string>753e1556-c0dc-4b4e-9874-764492e1b84c</string><key>stan_name</key><string>杭州市商业银行下沙开发区支行</string><key>multi_info</key><string> </string><key>x</key><string>97163.1150</string><key>y</key><string>87243.8340</string></dict>
+<dict>
+<key>identifier</key><string>9e9f4d72-0eac-419e-a5fb-a9b929a76911</string><key>stan_name</key><string>杭州经济技术开发区支行</string><key>multi_info</key><string> </string><key>x</key><string>97285.5120</string><key>y</key><string>86449.4130</string></dict>
+<dict>
+<key>identifier</key><string>37ee8e4b-f5e8-4f54-9dea-0322e4a1410b</string><key>stan_name</key><string>中国农业银行下沙支行</string><key>multi_info</key><string> </string><key>x</key><string>97211.1280</string><key>y</key><string>86578.81</string></dict>
+<dict>
+<key>identifier</key><string>99b95bd8-c505-46aa-bfea-047d94fa82c5</string><key>stan_name</key><string>中国建设银行</string><key>multi_info</key><string> </string><key>x</key><string>101585.0560</string><key>y</key><string>88537.3250</string></dict>
+<dict>
+<key>identifier</key><string>d9ca7957-80b3-47ae-b5e4-e4812bbcf642</string><key>stan_name</key><string>杭州联合银行笕桥支行弄口分理处</string><key>multi_info</key><string> </string><key>x</key><string>83945.3490</string><key>y</key><string>86425.2320</string></dict>
+<dict>
+<key>identifier</key><string>4249c9dc-9a1f-42be-9c29-b51c1e144366</string><key>stan_name</key><string>中国农业银行城东支行机场路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83560.5120</string><key>y</key><string>86074.9560</string></dict>
+<dict>
+<key>identifier</key><string>340ef16a-859d-4864-9b0b-4e5426ff1238</string><key>stan_name</key><string>中国农业银行城东支行天成万家储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83770.1190</string><key>y</key><string>84839.0340</string></dict>
+<dict>
+<key>identifier</key><string>d07495b3-96f5-429f-84fc-941f5f1b848c</string><key>stan_name</key><string>中国建设银行杭州市经济技术开发区支行彭埠分理处</string><key>multi_info</key><string> </string><key>x</key><string>86333.5260</string><key>y</key><string>84996.82</string></dict>
+<dict>
+<key>identifier</key><string>dd7bbab0-0f6f-4143-b1e0-19def714d939</string><key>stan_name</key><string>杭州联合银行彭埠支行艮山分理处</string><key>multi_info</key><string> </string><key>x</key><string>88378.61</string><key>y</key><string>85542.0190</string></dict>
+<dict>
+<key>identifier</key><string>ff408abc-16a8-439c-8e94-d6cd1e3257cb</string><key>stan_name</key><string>杭州联合银行转塘支行杭富分理处</string><key>multi_info</key><string> </string><key>x</key><string>71776.5740</string><key>y</key><string>70710.4260</string></dict>
+<dict>
+<key>identifier</key><string>ca92547e-f370-497a-ae45-3cdf0257a948</string><key>stan_name</key><string>中国农业银行竞舟支行星洲储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>73535.1110</string><key>y</key><string>85015.6560</string></dict>
+<dict>
+<key>identifier</key><string>4f492f91-3517-40ba-a07c-e21860002845</string><key>stan_name</key><string>中国建设银行高新支行文西分理处</string><key>multi_info</key><string> </string><key>x</key><string>75119.6440</string><key>y</key><string>84284.6550</string></dict>
+<dict>
+<key>identifier</key><string>83d71dfa-6e95-498f-b1a0-abecb0ad272d</string><key>stan_name</key><string>杭州联合银行蒋村支行</string><key>multi_info</key><string> </string><key>x</key><string>74654.7070</string><key>y</key><string>83581.3830</string></dict>
+<dict>
+<key>identifier</key><string>7424a4f9-c35a-4586-a0e6-0a6ddd1edec3</string><key>stan_name</key><string>杭州联合银行西湖支行玉泉分理处</string><key>multi_info</key><string> </string><key>x</key><string>76449.0750</string><key>y</key><string>82699.5970</string></dict>
+<dict>
+<key>identifier</key><string>c51cc765-42c5-4ca8-98e4-d4d3235f2f79</string><key>stan_name</key><string>中国农业银行西湖支行莲花储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>74711.1030</string><key>y</key><string>83205.0860</string></dict>
+<dict>
+<key>identifier</key><string>618f1548-8700-4890-8bed-346c83954cf0</string><key>stan_name</key><string>中国农业银行西湖支行文新分理处</string><key>multi_info</key><string> </string><key>x</key><string>74864.8670</string><key>y</key><string>84233.0430</string></dict>
+<dict>
+<key>identifier</key><string>5cbc9f5c-649f-4bf8-bf4e-60b9d0f19f04</string><key>stan_name</key><string>中国农业银行西湖支行古荡分理处</string><key>multi_info</key><string> </string><key>x</key><string>75542.8250</string><key>y</key><string>83183.9960</string></dict>
+<dict>
+<key>identifier</key><string>b1e430b1-6c2f-4d1e-b71a-7575b2994f37</string><key>stan_name</key><string>中国农业银行城西支行竞舟路分理处</string><key>multi_info</key><string> </string><key>x</key><string>74046.3680</string><key>y</key><string>84750.7460</string></dict>
+<dict>
+<key>identifier</key><string>ffa83e3d-eb92-499c-9c5e-ea4182ee2c93</string><key>stan_name</key><string>中国农业银行城西支行文新储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>74253.99</string><key>y</key><string>84219.35</string></dict>
+<dict>
+<key>identifier</key><string>61243f27-adc3-4005-9a1e-028c9b0f8337</string><key>stan_name</key><string>中国建设银行高新支行竞舟路分理处</string><key>multi_info</key><string> </string><key>x</key><string>74328.8630</string><key>y</key><string>83622.9730</string></dict>
+<dict>
+<key>identifier</key><string>2322cac9-1dfc-482e-a0f2-79ce53ad80cd</string><key>stan_name</key><string>中国工商银行保俶支行浙大分理处</string><key>multi_info</key><string> </string><key>x</key><string>76439.2930</string><key>y</key><string>82451.53</string></dict>
+<dict>
+<key>identifier</key><string>a78244bc-f4fd-4000-8227-7ceeb6cb789a</string><key>stan_name</key><string>中国农业银行西湖支行黄龙分理处</string><key>multi_info</key><string> </string><key>x</key><string>76590.7030</string><key>y</key><string>82839.6050</string></dict>
+<dict>
+<key>identifier</key><string>62838ff6-e58c-4275-84c6-2613f5f14b53</string><key>stan_name</key><string>华夏银行杭州分行西溪支行</string><key>multi_info</key><string> </string><key>x</key><string>76601.0870</string><key>y</key><string>83041.5490</string></dict>
+<dict>
+<key>identifier</key><string>0962597f-fbf2-4d2c-83d3-16ba74fe687a</string><key>stan_name</key><string>中国民生银行杭州分行天目山支行</string><key>multi_info</key><string> </string><key>x</key><string>76598.0490</string><key>y</key><string>83033.26</string></dict>
+<dict>
+<key>identifier</key><string>a2fae215-2571-4955-a23b-a5f35dcda18f</string><key>stan_name</key><string>中国建设银行宝石支行城西分理处</string><key>multi_info</key><string> </string><key>x</key><string>76787.4740</string><key>y</key><string>83132.8170</string></dict>
+<dict>
+<key>identifier</key><string>4d84279e-b30f-48fa-a320-62410749b217</string><key>stan_name</key><string>中信银行杭州分行玉泉支行</string><key>multi_info</key><string> </string><key>x</key><string>76303.0850</string><key>y</key><string>83204.6320</string></dict>
+<dict>
+<key>identifier</key><string>ca725d6f-07c1-4807-a1ff-5999b4f0bdc5</string><key>stan_name</key><string>上海浦东发展银行杭州分行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76040.2650</string><key>y</key><string>84353.3780</string></dict>
+<dict>
+<key>identifier</key><string>8576ad7a-8d5b-4164-a605-f422e6147230</string><key>stan_name</key><string>中国农业银行西湖支行学院路支行</string><key>multi_info</key><string> </string><key>x</key><string>76561.8310</string><key>y</key><string>84697.6420</string></dict>
+<dict>
+<key>identifier</key><string>45e8ba32-2ea3-4e44-9972-f4c6c404c3ab</string><key>stan_name</key><string>中国民生银行杭州分行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>76974.6780</string><key>y</key><string>83640.8210</string></dict>
+<dict>
+<key>identifier</key><string>fe368385-3fb7-417e-bd8c-dbb667e709e0</string><key>stan_name</key><string>中国农业银行城西支行科技城分理处</string><key>multi_info</key><string> </string><key>x</key><string>76089.32</string><key>y</key><string>83633.7950</string></dict>
+<dict>
+<key>identifier</key><string>da48cced-4c46-44c8-9d89-10a28684c841</string><key>stan_name</key><string>中国农业银行浙大支行古墩路分理处</string><key>multi_info</key><string> </string><key>x</key><string>73750.2930</string><key>y</key><string>84065.6650</string></dict>
+<dict>
+<key>identifier</key><string>16307734-7533-4316-98d0-45d9f0aa3862</string><key>stan_name</key><string>杭州市商业银行求是支行</string><key>multi_info</key><string> </string><key>x</key><string>76239.6980</string><key>y</key><string>81907.8650</string></dict>
+<dict>
+<key>identifier</key><string>3aa82a60-5a42-4a96-b03e-423624eabf16</string><key>stan_name</key><string>杭州联合银行西湖支行灵隐分理处</string><key>multi_info</key><string> </string><key>x</key><string>74289.0610</string><key>y</key><string>79596.8530</string></dict>
+<dict>
+<key>identifier</key><string>b6c50e4e-c9f8-4203-9dcc-94e959728e2d</string><key>stan_name</key><string>中国农业银行省分行浙大支行</string><key>multi_info</key><string> </string><key>x</key><string>76450.2010</string><key>y</key><string>81796.70</string></dict>
+<dict>
+<key>identifier</key><string>dba4189e-40ea-4112-b81b-88c53075f0b1</string><key>stan_name</key><string>中国银行开元支行浙大支行</string><key>multi_info</key><string> </string><key>x</key><string>76292.0120</string><key>y</key><string>82076.13</string></dict>
+<dict>
+<key>identifier</key><string>9cef437c-0621-444a-a9ea-512d3017a786</string><key>stan_name</key><string>交通银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79617.8720</string><key>y</key><string>81763.1040</string></dict>
+<dict>
+<key>identifier</key><string>fb8fc407-46cd-4703-8c8e-d1a589dc19e3</string><key>stan_name</key><string>上海浦东发展银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79831.1690</string><key>y</key><string>82177.0230</string></dict>
+<dict>
+<key>identifier</key><string>bf38d2b9-4318-45fc-a7e9-eb782c3cf1d5</string><key>stan_name</key><string>中国银行庆春支行</string><key>multi_info</key><string> </string><key>x</key><string>79915.03</string><key>y</key><string>81784.6160</string></dict>
+<dict>
+<key>identifier</key><string>fc45b2f2-1eb6-46e1-ae06-21336121aec1</string><key>stan_name</key><string>中国银行凯旋分行浙华分理处</string><key>multi_info</key><string> </string><key>x</key><string>79752.3370</string><key>y</key><string>80187.9220</string></dict>
+<dict>
+<key>identifier</key><string>9670e14d-1fd6-4f4b-941e-1740c74978d6</string><key>stan_name</key><string>中国建设银行黄龙支行</string><key>multi_info</key><string> </string><key>x</key><string>77010.4640</string><key>y</key><string>82320.8210</string></dict>
+<dict>
+<key>identifier</key><string>bc88e1d4-266d-4a6f-9164-5e4890faddf0</string><key>stan_name</key><string>上海浦东发展银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>79864.1880</string><key>y</key><string>80316.4110</string></dict>
+<dict>
+<key>identifier</key><string>e96951d5-f201-4a65-a2f6-dfd88e6114d4</string><key>stan_name</key><string>中国人民银行杭州中心分行</string><key>multi_info</key><string> </string><key>x</key><string>79881.8110</string><key>y</key><string>80519.6280</string></dict>
+<dict>
+<key>identifier</key><string>540dc777-05b1-4638-bcfd-b2ff506c521e</string><key>stan_name</key><string>杭州联合银行西湖支行四眼井分理处</string><key>multi_info</key><string> </string><key>x</key><string>77114.3150</string><key>y</key><string>76789.04</string></dict>
+<dict>
+<key>identifier</key><string>573291ea-ebe3-48c9-ad60-154ce4e73822</string><key>stan_name</key><string>中国工商银行高新支行益乐分理处</string><key>multi_info</key><string> </string><key>x</key><string>75781.9190</string><key>y</key><string>84913.5230</string></dict>
+<dict>
+<key>identifier</key><string>1e2500a1-4fc4-4833-83e2-f5b597e6eb99</string><key>stan_name</key><string>中国农业银行之江支行文化商城分理处</string><key>multi_info</key><string> </string><key>x</key><string>75567.87</string><key>y</key><string>85713.8290</string></dict>
+<dict>
+<key>identifier</key><string>0192f8ea-e9cf-4e79-90d6-1382b7233b6c</string><key>stan_name</key><string>中国建设银行杭州延安支行</string><key>multi_info</key><string> </string><key>x</key><string>81405.6280</string><key>y</key><string>83117.2270</string></dict>
+<dict>
+<key>identifier</key><string>349a32b9-dee9-455e-a67b-94cc2dabad57</string><key>stan_name</key><string>华夏银行建国支行</string><key>multi_info</key><string> </string><key>x</key><string>81372.6920</string><key>y</key><string>83298.22</string></dict>
+<dict>
+<key>identifier</key><string>4d4b525a-8e96-4fee-91e6-d467db74e606</string><key>stan_name</key><string>中国建设银行潮鸣支行</string><key>multi_info</key><string> </string><key>x</key><string>81510.31</string><key>y</key><string>82692.6580</string></dict>
+<dict>
+<key>identifier</key><string>5ac28915-2429-49fd-a688-d22fcc5941ce</string><key>stan_name</key><string>中国银行杭州建北支行</string><key>multi_info</key><string> </string><key>x</key><string>81393.7010</string><key>y</key><string>83183.8890</string></dict>
+<dict>
+<key>identifier</key><string>082687bc-f333-4fd3-b197-e8b89ddab8ba</string><key>stan_name</key><string>中国银行杭州市凯旋支行</string><key>multi_info</key><string> </string><key>x</key><string>81627.0240</string><key>y</key><string>83000.2950</string></dict>
+<dict>
+<key>identifier</key><string>6b98a8c1-b267-4f5a-83ac-164298810e09</string><key>stan_name</key><string>中国工商银行艮山支行闸弄口储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82848.9270</string><key>y</key><string>83883.4670</string></dict>
+<dict>
+<key>identifier</key><string>58dc3c42-a6b1-4867-89cf-e5dbeca10ec1</string><key>stan_name</key><string>中国农业银行杭州机场路支行</string><key>multi_info</key><string> </string><key>x</key><string>82701.4040</string><key>y</key><string>83657.1830</string></dict>
+<dict>
+<key>identifier</key><string>afb0aae1-8b75-4567-b489-28e170e9c18e</string><key>stan_name</key><string>中国农业银行城东分理处</string><key>multi_info</key><string> </string><key>x</key><string>82505.1230</string><key>y</key><string>84348.3390</string></dict>
+<dict>
+<key>identifier</key><string>e4105bab-d90c-46ea-8493-e2992ccc38c7</string><key>stan_name</key><string>杭州市联合银行石桥支行石桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>82793.50</string><key>y</key><string>89286.9360</string></dict>
+<dict>
+<key>identifier</key><string>c68bf5b8-4c0d-4b00-b243-78244a97e9c0</string><key>stan_name</key><string>中国农业银行之江支行东新储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80872.4260</string><key>y</key><string>88161.3860</string></dict>
+<dict>
+<key>identifier</key><string>90a479d9-533c-446b-b82f-9dc62ef3d61f</string><key>stan_name</key><string>中国农业银行石桥支行</string><key>multi_info</key><string> </string><key>x</key><string>80763.5160</string><key>y</key><string>88458.9130</string></dict>
+<dict>
+<key>identifier</key><string>cb892b5c-290f-4017-a8b8-0f3af5a11cd7</string><key>stan_name</key><string>中国工商银行杭州市半山支行东新园储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81279.2370</string><key>y</key><string>87210.6680</string></dict>
+<dict>
+<key>identifier</key><string>2e4fb3be-78d2-489c-bffa-b4c40684d32c</string><key>stan_name</key><string>广东发展银行德胜支行</string><key>multi_info</key><string> </string><key>x</key><string>81143.5110</string><key>y</key><string>86479.0370</string></dict>
+<dict>
+<key>identifier</key><string>c0d63500-b7a6-49e0-8ba4-d680e4fac09c</string><key>stan_name</key><string>中国工商银行半山支行东新分理处</string><key>multi_info</key><string> </string><key>x</key><string>80971.9740</string><key>y</key><string>86421.2990</string></dict>
+<dict>
+<key>identifier</key><string>9ac7d8ce-0a4b-42d2-9128-2f56185a106c</string><key>stan_name</key><string>中国农业银行之江支行三塘储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80366.0390</string><key>y</key><string>87068.6850</string></dict>
+<dict>
+<key>identifier</key><string>35318777-704d-448b-a92b-c42dafb2e3f4</string><key>stan_name</key><string>中国工商银行杭州市半山支行香积寺路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80520.0760</string><key>y</key><string>87110.6080</string></dict>
+<dict>
+<key>identifier</key><string>6793d3c8-c5c6-4a2b-92d9-44616fb53d5b</string><key>stan_name</key><string>中国光大银行绍兴路支行</string><key>multi_info</key><string> </string><key>x</key><string>80041.3780</string><key>y</key><string>86421.1280</string></dict>
+<dict>
+<key>identifier</key><string>3178e8a2-3d58-4334-8c1a-6e53466a9158</string><key>stan_name</key><string>中国农业银行物质城支行</string><key>multi_info</key><string> </string><key>x</key><string>80957.7930</string><key>y</key><string>85329.1790</string></dict>
+<dict>
+<key>identifier</key><string>caa1be83-3427-4813-baa5-d02f3b862d0e</string><key>stan_name</key><string>浦东发展银行杭州德胜支行</string><key>multi_info</key><string> </string><key>x</key><string>80793.4460</string><key>y</key><string>85307.4190</string></dict>
+<dict>
+<key>identifier</key><string>1c7a549e-a291-42ca-86b8-3ddba2d335e5</string><key>stan_name</key><string>深圳发展银行和平支行</string><key>multi_info</key><string> </string><key>x</key><string>80891.4560</string><key>y</key><string>85364.7280</string></dict>
+<dict>
+<key>identifier</key><string>ab57e89c-611d-46b4-8b29-da0fb2093fd7</string><key>stan_name</key><string>中国农业银行农科学院分理处</string><key>multi_info</key><string> </string><key>x</key><string>82734.2870</string><key>y</key><string>87038.2620</string></dict>
+<dict>
+<key>identifier</key><string>e012cf7c-90cc-4ed3-bb38-86ac65e2c252</string><key>stan_name</key><string>中国银行沁园支行</string><key>multi_info</key><string> </string><key>x</key><string>82716.8080</string><key>y</key><string>84835.9530</string></dict>
+<dict>
+<key>identifier</key><string>7c844ba3-5f41-47cd-a44a-269032c64841</string><key>stan_name</key><string>杭州联合银行笕桥支行三里亭分理处</string><key>multi_info</key><string> </string><key>x</key><string>82680.3630</string><key>y</key><string>85517.6860</string></dict>
+<dict>
+<key>identifier</key><string>1d723f69-5aea-4a1e-9eee-44a5a67268af</string><key>stan_name</key><string>中国银行高新支行文一路分理处</string><key>multi_info</key><string> </string><key>x</key><string>75595.3540</string><key>y</key><string>84908.4590</string></dict>
+<dict>
+<key>identifier</key><string>76864a45-cb99-4fb2-b6ef-e8ecd25039d3</string><key>stan_name</key><string>杭州市商业银行建国路支行</string><key>multi_info</key><string> </string><key>x</key><string>81376.5290</string><key>y</key><string>83282.88</string></dict>
+<dict>
+<key>identifier</key><string>8b1ea07f-36a5-432a-9282-4cd2f571082b</string><key>stan_name</key><string>深圳发展银行杭州宝善支行</string><key>multi_info</key><string> </string><key>x</key><string>81566.5550</string><key>y</key><string>82949.9010</string></dict>
+<dict>
+<key>identifier</key><string>053b9d86-466d-41d5-9ef9-ee07dd7c7b94</string><key>stan_name</key><string>中国工商银行胭脂新村储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80521.9120</string><key>y</key><string>83144.7930</string></dict>
+<dict>
+<key>identifier</key><string>f0e286f8-1e10-4ae5-84f5-99e4f11cfc3d</string><key>stan_name</key><string>中国工商银行西湖支行皇亲苑储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80002.45</string><key>y</key><string>82535.5030</string></dict>
+<dict>
+<key>identifier</key><string>3f644d3e-be6e-40a2-aaf5-7f5ff6542036</string><key>stan_name</key><string>中国银行天水支行</string><key>multi_info</key><string> </string><key>x</key><string>80297.3330</string><key>y</key><string>82541.0380</string></dict>
+<dict>
+<key>identifier</key><string>76a729fe-52e7-4a2c-afbf-6ca8b1a84ee3</string><key>stan_name</key><string>招商银行中山支行</string><key>multi_info</key><string> </string><key>x</key><string>80329.8350</string><key>y</key><string>82560.9610</string></dict>
+<dict>
+<key>identifier</key><string>03b7310e-8d68-4b9b-8156-1cf73036a4be</string><key>stan_name</key><string>中国农业银行杭州市保叔支行</string><key>multi_info</key><string> </string><key>x</key><string>80350.3840</string><key>y</key><string>82473.9430</string></dict>
+<dict>
+<key>identifier</key><string>fa4a7294-ee42-471b-9858-dc38cc906fda</string><key>stan_name</key><string>交通银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>80293.5330</string><key>y</key><string>82641.5130</string></dict>
+<dict>
+<key>identifier</key><string>8bd99446-c8a4-4cc8-b2c1-957d35d46eb0</string><key>stan_name</key><string>光大银行朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>80113.1630</string><key>y</key><string>83679.9940</string></dict>
+<dict>
+<key>identifier</key><string>f41735ce-a16a-4e39-b78a-929f278e03aa</string><key>stan_name</key><string>中国建设银行杭州施家桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>80676.6890</string><key>y</key><string>83885.0330</string></dict>
+<dict>
+<key>identifier</key><string>bda8f240-0846-4127-a89e-eb4d2f6334d2</string><key>stan_name</key><string>中国银行凯旋支行和平分理处</string><key>multi_info</key><string> </string><key>x</key><string>81120.5040</string><key>y</key><string>83855.9990</string></dict>
+<dict>
+<key>identifier</key><string>2b4b90bc-2b2a-445d-b6a4-6e7b40f9e3fc</string><key>stan_name</key><string>交通银行和平支行</string><key>multi_info</key><string> </string><key>x</key><string>81209.6190</string><key>y</key><string>83855.3760</string></dict>
+<dict>
+<key>identifier</key><string>c5e63308-65e2-42e0-8c47-c8028063d344</string><key>stan_name</key><string>杭州联合农村合作银行半山支行</string><key>multi_info</key><string> </string><key>x</key><string>81528.7610</string><key>y</key><string>91787.8840</string></dict>
+<dict>
+<key>identifier</key><string>4a0272d8-080f-4064-8e0b-7aa082755ba6</string><key>stan_name</key><string>中国农业银行半山支行</string><key>multi_info</key><string> </string><key>x</key><string>81646.72</string><key>y</key><string>91765.12</string></dict>
+<dict>
+<key>identifier</key><string>fe2a3932-31c0-4029-b86d-533002707eea</string><key>stan_name</key><string>中国工商银行半山支行半山储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81980.5650</string><key>y</key><string>91816.4830</string></dict>
+<dict>
+<key>identifier</key><string>e7902e8a-9f39-4b14-baba-cd1a019dce5a</string><key>stan_name</key><string>中国建设银行半山支行</string><key>multi_info</key><string> </string><key>x</key><string>81797.3230</string><key>y</key><string>91789.9540</string></dict>
+<dict>
+<key>identifier</key><string>fc83e660-9c74-411e-856a-91840dbfa32c</string><key>stan_name</key><string>杭州联合银行石桥支行永丰分理处</string><key>multi_info</key><string> </string><key>x</key><string>82544.15</string><key>y</key><string>90870.9750</string></dict>
+<dict>
+<key>identifier</key><string>ddd0c401-9a09-4687-98e6-e8befdad9860</string><key>stan_name</key><string>杭州联合农村合作银行半山支行石塘分理处</string><key>multi_info</key><string> </string><key>x</key><string>82534.8790</string><key>y</key><string>95423.3470</string></dict>
+<dict>
+<key>identifier</key><string>85a2c499-9181-4c13-a5a1-6b92e7707c02</string><key>stan_name</key><string>中国银行凯旋支行信义坊分理处</string><key>multi_info</key><string> </string><key>x</key><string>77798.4810</string><key>y</key><string>85615.5760</string></dict>
+<dict>
+<key>identifier</key><string>a73e4fc4-032c-4e15-be51-bd1e72cb9c30</string><key>stan_name</key><string>中国工商银行保叔支行塘河储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77215.1270</string><key>y</key><string>85888.8330</string></dict>
+<dict>
+<key>identifier</key><string>f7d9d5af-3189-4842-a999-8e1101802303</string><key>stan_name</key><string>中国工商银行湖墅支行信义坊分理处</string><key>multi_info</key><string> </string><key>x</key><string>78069.4510</string><key>y</key><string>85616.4260</string></dict>
+<dict>
+<key>identifier</key><string>49aebb04-6415-4e48-be53-21c6dcde9609</string><key>stan_name</key><string>中国工商银行德胜支行</string><key>multi_info</key><string> </string><key>x</key><string>79745.4410</string><key>y</key><string>85802.5310</string></dict>
+<dict>
+<key>identifier</key><string>c5ec17dd-a2ce-404b-8b58-47deb0074f68</string><key>stan_name</key><string>中国工商银行保俶支行塘河储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77213.85</string><key>y</key><string>85889.0250</string></dict>
+<dict>
+<key>identifier</key><string>3b4b93ad-f9d2-47d4-be4d-8b7fdf3bfa60</string><key>stan_name</key><string>中国农业银行海外海支行</string><key>multi_info</key><string> </string><key>x</key><string>78697.9230</string><key>y</key><string>86589.7230</string></dict>
+<dict>
+<key>identifier</key><string>71c69ccd-91c6-43f4-a2af-7ca49bc4d410</string><key>stan_name</key><string>中国银行文辉支行</string><key>multi_info</key><string> </string><key>x</key><string>79467.1410</string><key>y</key><string>86674.7790</string></dict>
+<dict>
+<key>identifier</key><string>34bdcab3-a0c2-495b-9da6-52daf4f92f7c</string><key>stan_name</key><string>中国工商银行朝晖支行东五苑储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78979.48</string><key>y</key><string>86745.5760</string></dict>
+<dict>
+<key>identifier</key><string>3afd4f30-abda-4533-9ee1-ffd0e7e60e0d</string><key>stan_name</key><string>中国农业银行和睦支行</string><key>multi_info</key><string> </string><key>x</key><string>77653.7540</string><key>y</key><string>85818.9030</string></dict>
+<dict>
+<key>identifier</key><string>aa92f444-3f97-4e03-95fc-1f491b8ef051</string><key>stan_name</key><string>杭州联合银行祥符支行观音桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>77390.2630</string><key>y</key><string>85776.9210</string></dict>
+<dict>
+<key>identifier</key><string>a1234526-a36e-4ab3-998c-39ef0289e430</string><key>stan_name</key><string>中国建设银行文晖支行仓基上分理处</string><key>multi_info</key><string> </string><key>x</key><string>78228.8830</string><key>y</key><string>85594.0940</string></dict>
+<dict>
+<key>identifier</key><string>fcafd274-4639-4a32-9a72-6b538370183e</string><key>stan_name</key><string>中国农业银行之江支行</string><key>multi_info</key><string> </string><key>x</key><string>78455.9290</string><key>y</key><string>85253.3640</string></dict>
+<dict>
+<key>identifier</key><string>ac876ffe-925f-4e64-9614-8228f6344479</string><key>stan_name</key><string>中国农业银行之江支行信义坊储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77803.2140</string><key>y</key><string>85517.1560</string></dict>
+<dict>
+<key>identifier</key><string>36fd75b8-24f1-4939-aa83-c4f7857c27d0</string><key>stan_name</key><string>中国民生银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78493.9490</string><key>y</key><string>85172.5990</string></dict>
+<dict>
+<key>identifier</key><string>4c7fe28e-ff84-435f-aa0c-f2b43eb135ec</string><key>stan_name</key><string>华夏银行信义支行</string><key>multi_info</key><string> </string><key>x</key><string>77702.4640</string><key>y</key><string>85511.1040</string></dict>
+<dict>
+<key>identifier</key><string>b7df08b2-ea98-46e4-9428-775a2fc33fe9</string><key>stan_name</key><string>中国银行高新技术开发区支行拱宸桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>78650.2160</string><key>y</key><string>84821.7650</string></dict>
+<dict>
+<key>identifier</key><string>001205bf-37e5-4183-b2ef-7630cc89bf91</string><key>stan_name</key><string>杭州联合农村合作银行康桥支行</string><key>multi_info</key><string> </string><key>x</key><string>78412.7780</string><key>y</key><string>93392.9830</string></dict>
+<dict>
+<key>identifier</key><string>2a1f3181-e844-4e88-8472-b7a8608f9cea</string><key>stan_name</key><string>杭州市商业银行电厂支行</string><key>multi_info</key><string> </string><key>x</key><string>78111.9520</string><key>y</key><string>92678.5980</string></dict>
+<dict>
+<key>identifier</key><string>dc03725a-be8a-4bb4-a8c8-e5fc483dae83</string><key>stan_name</key><string>中国工商银行新宫桥支行</string><key>multi_info</key><string> </string><key>x</key><string>81192.4180</string><key>y</key><string>79469.49</string></dict>
+<dict>
+<key>identifier</key><string>9d74b9d6-68d4-4caa-a078-7693b065a682</string><key>stan_name</key><string>中国工商银行江城支行望江门储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81143.2420</string><key>y</key><string>79266.6110</string></dict>
+<dict>
+<key>identifier</key><string>d6835a4c-fc13-4303-be2f-cd98b1960594</string><key>stan_name</key><string>杭州市商业银行清泰支行</string><key>multi_info</key><string> </string><key>x</key><string>80930.5380</string><key>y</key><string>79618.7170</string></dict>
+<dict>
+<key>identifier</key><string>f1a56d50-b9af-4da7-a408-d5333b474189</string><key>stan_name</key><string>中国民生银行杭州钱塘支行</string><key>multi_info</key><string> </string><key>x</key><string>81276.9690</string><key>y</key><string>79889.3810</string></dict>
+<dict>
+<key>identifier</key><string>7652f602-1a0f-4982-909e-0efff32b76c2</string><key>stan_name</key><string>深圳发展银行清泰支行</string><key>multi_info</key><string> </string><key>x</key><string>81235.2060</string><key>y</key><string>79871.11</string></dict>
+<dict>
+<key>identifier</key><string>d214573e-4173-4546-b9c8-b45ad3e89b36</string><key>stan_name</key><string>中国建设银行杭州星都储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81240.9430</string><key>y</key><string>83767.6110</string></dict>
+<dict>
+<key>identifier</key><string>8b0ca485-d96d-4858-a9b8-a1ab324cdce5</string><key>stan_name</key><string>恒丰银行杭州分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>81344.7690</string><key>y</key><string>83378.4340</string></dict>
+<dict>
+<key>identifier</key><string>b43df7aa-b8ac-43f4-b3e0-26e0271ff16f</string><key>stan_name</key><string>杭州市商业银行</string><key>multi_info</key><string> </string><key>x</key><string>81376.2670</string><key>y</key><string>83283.2430</string></dict>
+<dict>
+<key>identifier</key><string>1e4ed341-7391-4e79-a4e1-844df098fb7b</string><key>stan_name</key><string>广东发展银行宝善支行</string><key>multi_info</key><string> </string><key>x</key><string>81425.14</string><key>y</key><string>83022.0710</string></dict>
+<dict>
+<key>identifier</key><string>b3cd7608-9e9e-4a55-838a-81ae121ad7fe</string><key>stan_name</key><string>中国工商银行半山支行</string><key>multi_info</key><string> </string><key>x</key><string>82029.1930</string><key>y</key><string>91818.5750</string></dict>
+<dict>
+<key>identifier</key><string>b262fd8c-c94f-4386-aac8-0242168f3479</string><key>stan_name</key><string>杭州联合银行半山支行半山分理处</string><key>multi_info</key><string> </string><key>x</key><string>82330.0680</string><key>y</key><string>91782.9530</string></dict>
+<dict>
+<key>identifier</key><string>7133b659-1b5d-4022-9698-745e89cd5b35</string><key>stan_name</key><string>杭州联合农村合作银行丁桥支行三星分理处</string><key>multi_info</key><string> </string><key>x</key><string>86688.87</string><key>y</key><string>93792.65</string></dict>
+<dict>
+<key>identifier</key><string>77466132-bf49-45cf-ba37-60f7dfea1908</string><key>stan_name</key><string>中国建设银行吴山支行大学路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81708.1380</string><key>y</key><string>81448.9090</string></dict>
+<dict>
+<key>identifier</key><string>aff28e30-cca7-4182-ade4-a473c026e2a7</string><key>stan_name</key><string>中国工商银行杭州城站支行大学路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81703.1680</string><key>y</key><string>81241.9880</string></dict>
+<dict>
+<key>identifier</key><string>1984fbc1-b8bc-4221-b2c3-489b3fff5ec2</string><key>stan_name</key><string>中国工商银行杭州葵巷支行</string><key>multi_info</key><string> </string><key>x</key><string>81508.3110</string><key>y</key><string>81064.0940</string></dict>
+<dict>
+<key>identifier</key><string>82852a56-9dbf-4cd3-9430-3315d6ddc111</string><key>stan_name</key><string>中国工商银行杭州市庆春路支行</string><key>multi_info</key><string> </string><key>x</key><string>80264.2960</string><key>y</key><string>81658.9920</string></dict>
+<dict>
+<key>identifier</key><string>737f3e09-f342-47ee-810c-0bd8a7ea515b</string><key>stan_name</key><string>浙商银行杭州建国支行</string><key>multi_info</key><string> </string><key>x</key><string>81448.56</string><key>y</key><string>82308.0650</string></dict>
+<dict>
+<key>identifier</key><string>434cc2fd-3ca1-4b4a-9e6a-19d8593d8520</string><key>stan_name</key><string>中国工商银行庆春路支行红会储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81929.4390</string><key>y</key><string>82318.7950</string></dict>
+<dict>
+<key>identifier</key><string>c48346b6-8fd6-4a2a-bce9-7f0d2a9a38be</string><key>stan_name</key><string>杭州联合银行三墩支行双桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>68020.04</string><key>y</key><string>89504.9540</string></dict>
+<dict>
+<key>identifier</key><string>4d49906b-394a-4717-9c59-e70b084f4f3e</string><key>stan_name</key><string>中国工商银行杭州城东支行采荷储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83288.7470</string><key>y</key><string>81200.1170</string></dict>
+<dict>
+<key>identifier</key><string>87d25ed5-07dc-4a8b-bec3-1ed2bfcb0c83</string><key>stan_name</key><string>中信银行杭州庆春支行</string><key>multi_info</key><string> </string><key>x</key><string>84077.4660</string><key>y</key><string>81896.8810</string></dict>
+<dict>
+<key>identifier</key><string>fa43688d-9995-42b9-920c-41cbe4134430</string><key>stan_name</key><string>上海浦东发展银行杭州钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>83453.8430</string><key>y</key><string>82192.7990</string></dict>
+<dict>
+<key>identifier</key><string>fde57a60-02ad-43b7-8257-3e8172a9380b</string><key>stan_name</key><string>中国农业银行杭州秋涛路支行</string><key>multi_info</key><string> </string><key>x</key><string>83466.6750</string><key>y</key><string>81211.0990</string></dict>
+<dict>
+<key>identifier</key><string>d66e96cd-f68b-4c9b-9d35-247a28aeba4f</string><key>stan_name</key><string>中国建设银行杭州杭海路支行</string><key>multi_info</key><string> </string><key>x</key><string>83792.4230</string><key>y</key><string>81074.7450</string></dict>
+<dict>
+<key>identifier</key><string>d34f8644-b8a6-4aa1-9330-486f504e5b04</string><key>stan_name</key><string>中国农业银行杭海支行</string><key>multi_info</key><string> </string><key>x</key><string>83085.93</string><key>y</key><string>80371.5140</string></dict>
+<dict>
+<key>identifier</key><string>38b1973a-b474-4391-8aa1-6c2a79ead90f</string><key>stan_name</key><string>中国农业银行杭州市芙蓉支行</string><key>multi_info</key><string> </string><key>x</key><string>83057.35</string><key>y</key><string>80924.4270</string></dict>
+<dict>
+<key>identifier</key><string>58d5a18d-66e2-4f13-ac9a-4b00880a3e5c</string><key>stan_name</key><string>中国工商银行杭州市艮山支行景华储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>84225.0720</string><key>y</key><string>82975.2530</string></dict>
+<dict>
+<key>identifier</key><string>0b56aa56-d78f-46fe-b701-73f0294d7912</string><key>stan_name</key><string>杭州联合银行彭埠支行东站分理处</string><key>multi_info</key><string> </string><key>x</key><string>83974.6770</string><key>y</key><string>83766.48</string></dict>
+<dict>
+<key>identifier</key><string>525233ad-5d9e-42c1-bd8c-b2a13fc041d0</string><key>stan_name</key><string>中国工商银行杭州城东支行景芳储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83713.3520</string><key>y</key><string>82639.1220</string></dict>
+<dict>
+<key>identifier</key><string>6949a0cc-0d3b-4f75-b9c4-317f1b746aa1</string><key>stan_name</key><string>中国银行杭州市凯旋支行景芳分理处</string><key>multi_info</key><string> </string><key>x</key><string>83429.49</string><key>y</key><string>82636.8790</string></dict>
+<dict>
+<key>identifier</key><string>2c35380d-5ad6-4e93-8d5b-65b62c932ccd</string><key>stan_name</key><string>中国农业银行杭州城东支行景芳储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83727.1610</string><key>y</key><string>82917.4940</string></dict>
+<dict>
+<key>identifier</key><string>e030ea0b-7034-4ad9-81d4-7bbe66182f61</string><key>stan_name</key><string>中国银行杭州新塘支行</string><key>multi_info</key><string> </string><key>x</key><string>84145.0270</string><key>y</key><string>82688.5990</string></dict>
+<dict>
+<key>identifier</key><string>5997fced-a159-499c-91e1-34f27c5ad431</string><key>stan_name</key><string>中国建设银行莫干山路支行</string><key>multi_info</key><string> </string><key>x</key><string>78871.1020</string><key>y</key><string>83571.5780</string></dict>
+<dict>
+<key>identifier</key><string>26f89277-cb2b-4daa-b6cf-dc92a0a90b7c</string><key>stan_name</key><string>中国工商银行莫干山路支行</string><key>multi_info</key><string> </string><key>x</key><string>78655.5270</string><key>y</key><string>83938.2520</string></dict>
+<dict>
+<key>identifier</key><string>0f963217-e4f9-4621-879c-4f15f94228d0</string><key>stan_name</key><string>中国农业银行杭州大厦支行</string><key>multi_info</key><string> </string><key>x</key><string>79345.8580</string><key>y</key><string>83489.2080</string></dict>
+<dict>
+<key>identifier</key><string>80fba94e-44b6-4e5c-a69e-3539d52e9a7b</string><key>stan_name</key><string>华夏银行文晖支行</string><key>multi_info</key><string> </string><key>x</key><string>78922.23</string><key>y</key><string>83855.9280</string></dict>
+<dict>
+<key>identifier</key><string>62605b1b-9872-413d-83d5-eaa247587cbd</string><key>stan_name</key><string>中国农业银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78969.2030</string><key>y</key><string>83960.9350</string></dict>
+<dict>
+<key>identifier</key><string>0a870cf1-0cdd-41dc-bcdb-5c39d6a95e7f</string><key>stan_name</key><string>广东发展银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>79036.3080</string><key>y</key><string>83941.4990</string></dict>
+<dict>
+<key>identifier</key><string>a4cf4c10-2174-4692-aaef-4c5b4905efbb</string><key>stan_name</key><string>中国农业银行松木场支行</string><key>multi_info</key><string> </string><key>x</key><string>77844.3630</string><key>y</key><string>82555.2820</string></dict>
+<dict>
+<key>identifier</key><string>aef95ae8-d2c1-488a-aef8-d6a1fded023c</string><key>stan_name</key><string>深圳发展银行</string><key>multi_info</key><string> </string><key>x</key><string>78805.72</string><key>y</key><string>73422.5360</string></dict>
+<dict>
+<key>identifier</key><string>ed41926f-84b3-4230-97cf-528818e35d73</string><key>stan_name</key><string>中国工商银行杭州市浣纱支行</string><key>multi_info</key><string> </string><key>x</key><string>80098.5470</string><key>y</key><string>80553.32</string></dict>
+<dict>
+<key>identifier</key><string>f58d8cc4-29b5-47d4-802a-51ee67f13880</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>78653.53</string><key>y</key><string>83236.8570</string></dict>
+<dict>
+<key>identifier</key><string>9ca14e7b-9e6f-49a6-be2b-2db1eb08186d</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>76277.3390</string><key>y</key><string>81957.0640</string></dict>
+<dict>
+<key>identifier</key><string>abe115e1-8b58-4019-8c2d-8d8998d68c38</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>79223.2070</string><key>y</key><string>82404.0160</string></dict>
+<dict>
+<key>identifier</key><string>1d090a9b-1af6-415b-81a7-0042daa5e7ec</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>81847.1520</string><key>y</key><string>83573.3180</string></dict>
+<dict>
+<key>identifier</key><string>7e66f0e1-664d-45fb-bc3a-89ff5115c80e</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>82412.3360</string><key>y</key><string>83415.3910</string></dict>
+<dict>
+<key>identifier</key><string>499948eb-4ca3-4f0d-8101-9f6fe0177b28</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>81535.8270</string><key>y</key><string>82993.2830</string></dict>
+<dict>
+<key>identifier</key><string>e2e0a22e-99c5-45bb-b46c-c3e7e7c12c69</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>82412.0640</string><key>y</key><string>80284.5860</string></dict>
+<dict>
+<key>identifier</key><string>542eaa21-42a5-4f3c-bcfc-72b314af461c</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>83465.9940</string><key>y</key><string>81278.2060</string></dict>
+<dict>
+<key>identifier</key><string>58cc9a9d-6ff1-4ac2-99f6-45eca4434f77</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>76753.4980</string><key>y</key><string>84377.6460</string></dict>
+<dict>
+<key>identifier</key><string>14d88d66-b00d-4571-86a3-8c86e6bb5952</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>78378.4850</string><key>y</key><string>84384.6320</string></dict>
+<dict>
+<key>identifier</key><string>084c7311-7e35-4557-94ce-263b15bf4298</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>77126.2520</string><key>y</key><string>84454.6670</string></dict>
+<dict>
+<key>identifier</key><string>55b7539c-f95c-43e8-9447-7e63620fa6f4</string><key>stan_name</key><string>中国工商银行杭州市庆春路支行庆春路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81112.8530</string><key>y</key><string>81538.7950</string></dict>
+<dict>
+<key>identifier</key><string>63167375-9f95-4e27-a38f-4cb3fcc79c3e</string><key>stan_name</key><string>中国工商银行杭州拱宸支行</string><key>multi_info</key><string> </string><key>x</key><string>77812.6970</string><key>y</key><string>88506.0350</string></dict>
+<dict>
+<key>identifier</key><string>4ad69dbe-1b67-4bd2-b85c-c7bc609f40f5</string><key>stan_name</key><string>中国工商银行杭州市湖墅支行大关储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77147.3320</string><key>y</key><string>86908.61</string></dict>
+<dict>
+<key>identifier</key><string>ef1b2fd5-4687-4f89-b7f9-284d7d7d5bfc</string><key>stan_name</key><string>中国光大银行武林路支行</string><key>multi_info</key><string> </string><key>x</key><string>79311.2750</string><key>y</key><string>82977.0450</string></dict>
+<dict>
+<key>identifier</key><string>502169e4-851c-471f-b75a-c62e46b958fb</string><key>stan_name</key><string>中国工商银行杭州市湖墅支行卖鱼桥储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78361.7880</string><key>y</key><string>85322.80</string></dict>
+<dict>
+<key>identifier</key><string>e5073122-8e81-43a4-aadc-365ced17ff48</string><key>stan_name</key><string>汇丰银行(中国)杭州武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79594.5170</string><key>y</key><string>83025.9280</string></dict>
+<dict>
+<key>identifier</key><string>ac15b96c-238b-4428-822a-0a21dc1a96d7</string><key>stan_name</key><string>中信银行杭州武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79285.3570</string><key>y</key><string>83202.8560</string></dict>
+<dict>
+<key>identifier</key><string>523723d2-8924-40b5-b075-8383918e8a44</string><key>stan_name</key><string>杭州银行华成支行</string><key>multi_info</key><string> </string><key>x</key><string>79481.0480</string><key>y</key><string>82656.5740</string></dict>
+<dict>
+<key>identifier</key><string>34e85854-6f0c-4053-ac7a-6763dc93b964</string><key>stan_name</key><string>中国银行杭州市开元分行自将分理处</string><key>multi_info</key><string> </string><key>x</key><string>79477.4780</string><key>y</key><string>82782.48</string></dict>
+<dict>
+<key>identifier</key><string>53c33917-f694-4e41-93af-0175d9a2b385</string><key>stan_name</key><string>杭州银行天水支行</string><key>multi_info</key><string> </string><key>x</key><string>80258.1110</string><key>y</key><string>82893.6660</string></dict>
+<dict>
+<key>identifier</key><string>38c0133b-dbe7-41ca-ac8a-86a0296a0e16</string><key>stan_name</key><string>中国交通银行</string><key>multi_info</key><string> </string><key>x</key><string>80214.48</string><key>y</key><string>82849.1520</string></dict>
+<dict>
+<key>identifier</key><string>4cd14cc5-9aa1-40ff-ad9f-7bebce194cb3</string><key>stan_name</key><string>中国建设银行浙江省分行</string><key>multi_info</key><string> </string><key>x</key><string>80210.2640</string><key>y</key><string>82979.1610</string></dict>
+<dict>
+<key>identifier</key><string>16021c23-ddfc-4280-abe2-6a79e4f728b5</string><key>stan_name</key><string>广东发展银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>79901.6210</string><key>y</key><string>82564.9510</string></dict>
+<dict>
+<key>identifier</key><string>a28102d0-5eec-442f-a069-f910be269383</string><key>stan_name</key><string>中国邮政皇亲苑邮政所</string><key>multi_info</key><string> </string><key>x</key><string>80041.2140</string><key>y</key><string>82542.9680</string></dict>
+<dict>
+<key>identifier</key><string>f5ad62ce-5f23-41e9-befc-f442b2d63630</string><key>stan_name</key><string>中国工商银行杭州茅廊巷支行</string><key>multi_info</key><string> </string><key>x</key><string>81028.7080</string><key>y</key><string>80767.42</string></dict>
+<dict>
+<key>identifier</key><string>ffa50698-54b9-4757-8256-a20e50c4f889</string><key>stan_name</key><string>中国邮政茅廊巷邮政所</string><key>multi_info</key><string> </string><key>x</key><string>80990.2230</string><key>y</key><string>80770.0380</string></dict>
+<dict>
+<key>identifier</key><string>0db9aa6d-6c6d-4b15-ab6c-1f8f50f78768</string><key>stan_name</key><string>杭州银行城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81054.07</string><key>y</key><string>80457.5140</string></dict>
+<dict>
+<key>identifier</key><string>2e0f46ae-a649-4023-8035-5c3e01d65cb9</string><key>stan_name</key><string>中信银行杭州延安支行</string><key>multi_info</key><string> </string><key>x</key><string>81266.9260</string><key>y</key><string>80452.3530</string></dict>
+<dict>
+<key>identifier</key><string>7d529324-02bb-4c63-9d90-9bccb8992098</string><key>stan_name</key><string>中国工商银行拱宸桥支行和睦桥储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>76411.5410</string><key>y</key><string>87257.9880</string></dict>
+<dict>
+<key>identifier</key><string>b23ee7f0-82d0-4f57-8061-2974e11620af</string><key>stan_name</key><string>杭州联合银行祥符支行祥符桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>74274.67</string><key>y</key><string>89352.4960</string></dict>
+<dict>
+<key>identifier</key><string>0cb7cd7d-69c6-4b3d-a126-c1df7dcb2aed</string><key>stan_name</key><string>中国建设银行三墩支行兰里储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>72893.5630</string><key>y</key><string>88729.3620</string></dict>
+<dict>
+<key>identifier</key><string>cc3df2f9-a5db-4783-a61d-3725fea7c69c</string><key>stan_name</key><string>杭州联合银行三墩支行五里塘分理处</string><key>multi_info</key><string> </string><key>x</key><string>72402.8950</string><key>y</key><string>88649.4720</string></dict>
+<dict>
+<key>identifier</key><string>2e2fe5de-5cf0-4acd-963b-143c7df950a4</string><key>stan_name</key><string>杭州联合银行三墩支行新时代分理处</string><key>multi_info</key><string> </string><key>x</key><string>73309.1090</string><key>y</key><string>87855.5830</string></dict>
+<dict>
+<key>identifier</key><string>48e308f2-54fe-41cf-ae15-a700339598ba</string><key>stan_name</key><string>中国农业银行三墩支行</string><key>multi_info</key><string> </string><key>x</key><string>72472.3180</string><key>y</key><string>88667.4440</string></dict>
+<dict>
+<key>identifier</key><string>a41e4d77-efaa-4ce5-80bf-360546fb1c24</string><key>stan_name</key><string>杭州联合银行新世纪分理处</string><key>multi_info</key><string> </string><key>x</key><string>72744.3560</string><key>y</key><string>89203.9960</string></dict>
+<dict>
+<key>identifier</key><string>9b3120da-88b6-4c22-af82-c02ab53e1ed1</string><key>stan_name</key><string>中国农业银行杭州之江支行温州村分理处</string><key>multi_info</key><string> </string><key>x</key><string>73272.0820</string><key>y</key><string>87772.47</string></dict>
+<dict>
+<key>identifier</key><string>4476532a-376b-4c99-bf7d-12e666fb7e7f</string><key>stan_name</key><string>中国工商银行杭州市湖墅支行观音桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>77592.4910</string><key>y</key><string>85860.3460</string></dict>
+<dict>
+<key>identifier</key><string>69a5cbae-f037-4aa3-affe-53c279caa7d2</string><key>stan_name</key><string>中国工商银行杭州市湖墅支行潮王储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78542.8940</string><key>y</key><string>84561.6720</string></dict>
+<dict>
+<key>identifier</key><string>b5a0ca0d-460a-4bb5-bfa6-d6f8c5bc45e9</string><key>stan_name</key><string>中国工商银行杭州市西湖支行东体育场路分理处</string><key>multi_info</key><string> </string><key>x</key><string>80344.57</string><key>y</key><string>82964.1250</string></dict>
+<dict>
+<key>identifier</key><string>ba24ebb0-ee91-4b2c-b438-d2bdf1d6bc13</string><key>stan_name</key><string>中国工商银行杭州市武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79214.5050</string><key>y</key><string>82981.4860</string></dict>
+<dict>
+<key>identifier</key><string>ac3440bb-7490-43e3-86ab-a22aa577ee66</string><key>stan_name</key><string>中国农业银行杭州城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81435.3250</string><key>y</key><string>79804.2040</string></dict>
+<dict>
+<key>identifier</key><string>09a8fc4d-e1a9-4695-a103-3957411c4476</string><key>stan_name</key><string>华夏银行杭州江城支行</string><key>multi_info</key><string> </string><key>x</key><string>81273.0840</string><key>y</key><string>79981.2140</string></dict>
+<dict>
+<key>identifier</key><string>4fe67433-0b90-4456-8d23-8ccfed0fbbf8</string><key>stan_name</key><string>交通银行杭州城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81472.1880</string><key>y</key><string>79897.8830</string></dict>
+<dict>
+<key>identifier</key><string>6ef20618-73c0-4ddc-8bf4-9af5dd31b78b</string><key>stan_name</key><string>中国银行城东支行近江分理处</string><key>multi_info</key><string> </string><key>x</key><string>82982.7440</string><key>y</key><string>79704.0980</string></dict>
+<dict>
+<key>identifier</key><string>f81c23ca-b38e-4996-902e-393caaea0525</string><key>stan_name</key><string>中国农业银行望江支行</string><key>multi_info</key><string> </string><key>x</key><string>82323.55</string><key>y</key><string>79032.83</string></dict>
+<dict>
+<key>identifier</key><string>9dc483a1-83d5-430c-a77c-35de14e9e36d</string><key>stan_name</key><string>杭州联合银行四季青支行望江分理处</string><key>multi_info</key><string> </string><key>x</key><string>82426.8640</string><key>y</key><string>78659.94</string></dict>
+<dict>
+<key>identifier</key><string>01ebc6de-64d0-432e-a1af-9b33ce780617</string><key>stan_name</key><string>中国建设银行吴山支行河坊街储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79576.8330</string><key>y</key><string>79547.7680</string></dict>
+<dict>
+<key>identifier</key><string>41dac35c-da90-44c0-832d-14cd1fc970e8</string><key>stan_name</key><string>中信实业银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>79990.34</string><key>y</key><string>79941.0910</string></dict>
+<dict>
+<key>identifier</key><string>1793341f-e1dc-42a0-a6c7-93115700b936</string><key>stan_name</key><string>中国农业银行吴山支行</string><key>multi_info</key><string> </string><key>x</key><string>79933.9960</string><key>y</key><string>79937.4430</string></dict>
+<dict>
+<key>identifier</key><string>345b4063-d902-4a03-b7b0-73798a756f4d</string><key>stan_name</key><string>中国工商银行解放路支行河坊街储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80172.42</string><key>y</key><string>79797.7810</string></dict>
+<dict>
+<key>identifier</key><string>9759daf2-3da5-4e28-9d51-305ed4a085ed</string><key>stan_name</key><string>中国银行中山支行</string><key>multi_info</key><string> </string><key>x</key><string>80540.8060</string><key>y</key><string>79821.3080</string></dict>
+<dict>
+<key>identifier</key><string>821d1b12-b8f3-4b90-b756-819fa4527826</string><key>stan_name</key><string>中国银行城东支行莫邪塘分理处</string><key>multi_info</key><string> </string><key>x</key><string>82310.1750</string><key>y</key><string>79990.2060</string></dict>
+<dict>
+<key>identifier</key><string>8465d22c-c930-4da1-aef6-5634e9e8489a</string><key>stan_name</key><string>中国农业银行中山支行滨江分理处</string><key>multi_info</key><string> </string><key>x</key><string>81106.9770</string><key>y</key><string>79207.8370</string></dict>
+<dict>
+<key>identifier</key><string>49d6b9ba-012d-46f9-ab33-e79ad39cb301</string><key>stan_name</key><string>中国工商银行江城支行秋涛南路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81210.8440</string><key>y</key><string>77614.0160</string></dict>
+<dict>
+<key>identifier</key><string>c2513e7c-bdac-4351-b29d-ded1dfd21066</string><key>stan_name</key><string>中国农业银行杭州江干支行</string><key>multi_info</key><string> </string><key>x</key><string>80706.2630</string><key>y</key><string>78206.4050</string></dict>
+<dict>
+<key>identifier</key><string>d65b4234-25eb-438e-a0c5-ff3ebc8b6d10</string><key>stan_name</key><string>中国工商银行江城支行中山南路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80538.8140</string><key>y</key><string>79000.1110</string></dict>
+<dict>
+<key>identifier</key><string>2bff2187-98c4-4e93-9a00-e97f91d55fdb</string><key>stan_name</key><string>中国银行双菱支行</string><key>multi_info</key><string> </string><key>x</key><string>82933.9510</string><key>y</key><string>82010.5080</string></dict>
+<dict>
+<key>identifier</key><string>498483c8-f8f3-480f-83a2-847d5e2e4f5c</string><key>stan_name</key><string>中国农业银行解放路支行春颐储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81063.5070</string><key>y</key><string>81586.4130</string></dict>
+<dict>
+<key>identifier</key><string>1761fa02-7b44-4ecb-b741-b44077e3705e</string><key>stan_name</key><string>中国工商银行浙江省分行(办公大楼)</string><key>multi_info</key><string> </string><key>x</key><string>80741.5390</string><key>y</key><string>80496.0750</string></dict>
+<dict>
+<key>identifier</key><string>216d515f-0c3e-4184-a159-556f0b03fb4d</string><key>stan_name</key><string>中国民生银行杭州解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>80735.0880</string><key>y</key><string>80866.9990</string></dict>
+<dict>
+<key>identifier</key><string>82057647-c37a-482d-87ad-f1c141b3f9b1</string><key>stan_name</key><string>中国银行杭州解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>80830.1650</string><key>y</key><string>80819.4880</string></dict>
+<dict>
+<key>identifier</key><string>cebe5dee-749a-48b9-8cb0-fd268ad01460</string><key>stan_name</key><string>中国建设银行杭州解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>81125.0150</string><key>y</key><string>80762.5520</string></dict>
+<dict>
+<key>identifier</key><string>0d8cd8a6-2e31-4df9-a21b-2fe8329c5980</string><key>stan_name</key><string>中国农业银行杭州解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>81398.29</string><key>y</key><string>80673.9910</string></dict>
+<dict>
+<key>identifier</key><string>2242a910-caef-4d08-8661-c44b7d43877e</string><key>stan_name</key><string>上海浦东发展银行杭州市清泰支行</string><key>multi_info</key><string> </string><key>x</key><string>81012.6930</string><key>y</key><string>80445.7510</string></dict>
+<dict>
+<key>identifier</key><string>5836aee9-57ee-44a0-b8b7-cba9e2e4a3ce</string><key>stan_name</key><string>广东发展银行清泰支行</string><key>multi_info</key><string> </string><key>x</key><string>81040.0750</string><key>y</key><string>80400.6290</string></dict>
+<dict>
+<key>identifier</key><string>7b1aab2f-281b-49a2-bcde-2556cb357039</string><key>stan_name</key><string>中国建设银行杭州城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81765.63</string><key>y</key><string>80185.2660</string></dict>
+<dict>
+<key>identifier</key><string>edbef66c-a906-439d-868f-e2600eca256c</string><key>stan_name</key><string>中信银行凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>80216.7010</string><key>y</key><string>82294.95</string></dict>
+<dict>
+<key>identifier</key><string>9964ec81-188a-4461-bcee-db02a683f284</string><key>stan_name</key><string>中信银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78606.5650</string><key>y</key><string>83157.8560</string></dict>
+<dict>
+<key>identifier</key><string>98c1e0f2-5880-42d2-99a6-c6e453e6dccf</string><key>stan_name</key><string>中国民生银行杭州武林支行</string><key>multi_info</key><string> </string><key>x</key><string>78828.1810</string><key>y</key><string>82829.9150</string></dict>
+<dict>
+<key>identifier</key><string>7455377d-8c95-40ff-8252-8ab137e15730</string><key>stan_name</key><string>中国民生银行杭州城东支行</string><key>multi_info</key><string> </string><key>x</key><string>83026.4060</string><key>y</key><string>82207.3070</string></dict>
+<dict>
+<key>identifier</key><string>d9f0e772-9111-4dc0-90fb-5b02b17ce664</string><key>stan_name</key><string>中国民生银行杭州天目山支行</string><key>multi_info</key><string> </string><key>x</key><string>76577.2890</string><key>y</key><string>83064.0390</string></dict>
+<dict>
+<key>identifier</key><string>bc2e18ee-94e8-40ac-b0d3-a583d4812d53</string><key>stan_name</key><string>中国民生银行杭州凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>81455.8070</string><key>y</key><string>82373.0520</string></dict>
+<dict>
+<key>identifier</key><string>8d6fc5aa-95e2-4595-858d-c8e3ac44e948</string><key>stan_name</key><string>中国银行浙江省分行</string><key>multi_info</key><string> </string><key>x</key><string>80540.98</string><key>y</key><string>82314.0810</string></dict>
+<dict>
+<key>identifier</key><string>6361ea8b-f018-4ac7-b5ff-14d7b0cbd756</string><key>stan_name</key><string>中国民生银行杭州延安路支行</string><key>multi_info</key><string> </string><key>x</key><string>79905.3840</string><key>y</key><string>82084.7410</string></dict>
+<dict>
+<key>identifier</key><string>54ee552a-b745-4ba1-9d12-5695c3764657</string><key>stan_name</key><string>中国银行杭州市高新技术开发区支行武林分理处</string><key>multi_info</key><string> </string><key>x</key><string>78969.1650</string><key>y</key><string>83144.8440</string></dict>
+<dict>
+<key>identifier</key><string>b950b7a2-dee3-4b96-89b1-4fe0d072336e</string><key>stan_name</key><string>中国银行杭州市高新技术开发区支行中晖分理处</string><key>multi_info</key><string> </string><key>x</key><string>78601.5750</string><key>y</key><string>83852.98</string></dict>
+<dict>
+<key>identifier</key><string>4ace163c-d361-4125-acef-1167b2a7299d</string><key>stan_name</key><string>中国银行杭州市高新技术开发支行中晖分理处</string><key>multi_info</key><string> </string><key>x</key><string>86013.3520</string><key>y</key><string>73598.9380</string></dict>
+<dict>
+<key>identifier</key><string>c35ee883-2131-4267-a968-630f7cf04523</string><key>stan_name</key><string>中国银行杭州开元支行新中国分理处</string><key>multi_info</key><string> </string><key>x</key><string>80242.84</string><key>y</key><string>80458.93</string></dict>
+<dict>
+<key>identifier</key><string>72a32634-b342-4d8c-9274-b1fb074bb10c</string><key>stan_name</key><string>中国银行杭州开元支行采荷分理处</string><key>multi_info</key><string> </string><key>x</key><string>82990.0310</string><key>y</key><string>81597.7890</string></dict>
+<dict>
+<key>identifier</key><string>23fed9a2-765e-4836-bf7d-c38fb3aee5b1</string><key>stan_name</key><string>中国银行杭州开元支行双菱分理处</string><key>multi_info</key><string> </string><key>x</key><string>82937.5110</string><key>y</key><string>81380.1420</string></dict>
+<dict>
+<key>identifier</key><string>c33ed3f6-9a8c-44db-a717-40f668891645</string><key>stan_name</key><string>中国银行杭州市凯旋支行仙林分理处</string><key>multi_info</key><string> </string><key>x</key><string>80396.9090</string><key>y</key><string>81945.5650</string></dict>
+<dict>
+<key>identifier</key><string>9ade5b5e-a9c7-4cec-9819-37a48aaf6e82</string><key>stan_name</key><string>中国银行杭州市钱塘支行</string><key>multi_info</key><string> </string><key>x</key><string>81033.6870</string><key>y</key><string>80287.2540</string></dict>
+<dict>
+<key>identifier</key><string>3dbc7f63-5d24-480c-97ba-ddf948a705d0</string><key>stan_name</key><string>中国银行杭海路分理处</string><key>multi_info</key><string> </string><key>x</key><string>82693.50</string><key>y</key><string>80296.2390</string></dict>
+<dict>
+<key>identifier</key><string>95aef42a-f17d-4ef3-af28-33c82bcc3bd5</string><key>stan_name</key><string>中国银行杭州市经开支行近江分理处</string><key>multi_info</key><string> </string><key>x</key><string>82348.0550</string><key>y</key><string>79071.3120</string></dict>
+<dict>
+<key>identifier</key><string>36a9c2c5-6565-4529-880c-83770abe2056</string><key>stan_name</key><string>中国银行杭州市庆春支行江滨分理处</string><key>multi_info</key><string> </string><key>x</key><string>83636.1470</string><key>y</key><string>78975.0260</string></dict>
+<dict>
+<key>identifier</key><string>e6fe5cef-99da-4e5c-92a2-81d86b834ce6</string><key>stan_name</key><string>中国银行杭州市经开支行出口加工区分理处</string><key>multi_info</key><string> </string><key>x</key><string>99176.8430</string><key>y</key><string>85517.0850</string></dict>
+<dict>
+<key>identifier</key><string>3d0f18bc-806c-4edb-84f9-79c8ee1753a1</string><key>stan_name</key><string>中国银行杭州开元支行望江分理处</string><key>multi_info</key><string> </string><key>x</key><string>81094.3760</string><key>y</key><string>79095.8210</string></dict>
+<dict>
+<key>identifier</key><string>d6a9ebfa-362f-48e7-8d4a-f7a16308176f</string><key>stan_name</key><string>中国银行杭州市凯旋支行濮家分理处</string><key>multi_info</key><string> </string><key>x</key><string>83246.5450</string><key>y</key><string>84528.0560</string></dict>
+<dict>
+<key>identifier</key><string>8dcb2048-adb0-4ca1-99f3-4c5bca5aa242</string><key>stan_name</key><string>中国交通银行秋涛路支行</string><key>multi_info</key><string> </string><key>x</key><string>83421.0780</string><key>y</key><string>83194.9530</string></dict>
+<dict>
+<key>identifier</key><string>22b11fa8-1bf6-4764-b098-3aefca373bea</string><key>stan_name</key><string>中国交通银行浣纱支行</string><key>multi_info</key><string> </string><key>x</key><string>80152.3470</string><key>y</key><string>80744.7160</string></dict>
+<dict>
+<key>identifier</key><string>a470f8fe-1436-41b1-b0cf-c83ffa5635fc</string><key>stan_name</key><string>中国交通银行城北支行</string><key>multi_info</key><string> </string><key>x</key><string>78594.05</string><key>y</key><string>85003.36</string></dict>
+<dict>
+<key>identifier</key><string>f83ce532-d300-4fcd-a0a5-96c2b695af1e</string><key>stan_name</key><string>中国交通银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>77194.9450</string><key>y</key><string>84331.3340</string></dict>
+<dict>
+<key>identifier</key><string>25986414-c206-4f45-89e4-10272035122e</string><key>stan_name</key><string>中国交通银行近江支行</string><key>multi_info</key><string> </string><key>x</key><string>83123.4220</string><key>y</key><string>79808.3750</string></dict>
+<dict>
+<key>identifier</key><string>36dae018-fac9-4732-bcc7-7156db6a9f21</string><key>stan_name</key><string>中国交通银行东新支行</string><key>multi_info</key><string> </string><key>x</key><string>80991.8980</string><key>y</key><string>87565.6740</string></dict>
+<dict>
+<key>identifier</key><string>9bee106b-8c1b-4208-9559-ee444c88b059</string><key>stan_name</key><string>中国交通银行杭大路支行</string><key>multi_info</key><string> </string><key>x</key><string>77622.6510</string><key>y</key><string>82777.6780</string></dict>
+<dict>
+<key>identifier</key><string>19394e77-55d8-4289-8fe1-6a7e00c3c73c</string><key>stan_name</key><string>中国光大银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79307.0990</string><key>y</key><string>82977.8660</string></dict>
+<dict>
+<key>identifier</key><string>13896681-31ae-4070-947f-696bffb4fb6c</string><key>stan_name</key><string>中国光大银行建国路支行</string><key>multi_info</key><string> </string><key>x</key><string>81387.8550</string><key>y</key><string>80576.3120</string></dict>
+<dict>
+<key>identifier</key><string>efd70774-7acb-4ca8-a549-d25cf99ad49c</string><key>stan_name</key><string>兴业银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79517.3590</string><key>y</key><string>82959.07</string></dict>
+<dict>
+<key>identifier</key><string>e6d5e3bf-8352-4fd5-bb1f-e2548b444c60</string><key>stan_name</key><string>兴业银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78587.03</string><key>y</key><string>84578.34</string></dict>
+<dict>
+<key>identifier</key><string>686e4ee9-91c8-4203-9c0e-bd78bad5f04b</string><key>stan_name</key><string>兴业银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76419.1540</string><key>y</key><string>83702.63</string></dict>
+<dict>
+<key>identifier</key><string>823591e7-6fe7-4ca7-92e3-a308c378739e</string><key>stan_name</key><string>兴业银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79345.6340</string><key>y</key><string>81950.7910</string></dict>
+<dict>
+<key>identifier</key><string>c79a1ad2-10ec-41f2-942f-b14bbfd0152f</string><key>stan_name</key><string>兴业银行庆春支行</string><key>multi_info</key><string> </string><key>x</key><string>81348.2530</string><key>y</key><string>81663.8670</string></dict>
+<dict>
+<key>identifier</key><string>37a9d6d7-e8ae-49ea-a235-c1319fdf940b</string><key>stan_name</key><string>兴业银行凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>81927.84</string><key>y</key><string>82267.9830</string></dict>
+<dict>
+<key>identifier</key><string>a02a96ea-e931-438d-91ef-8e6f01cee9ae</string><key>stan_name</key><string>华夏银行分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>81344.6480</string><key>y</key><string>81558.2420</string></dict>
+<dict>
+<key>identifier</key><string>2cb0f0d6-a40b-4d3b-a050-9fa219b4eadc</string><key>stan_name</key><string>华夏银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79601.6090</string><key>y</key><string>83257.6560</string></dict>
+<dict>
+<key>identifier</key><string>9c5e6dc8-85b8-4e03-a15e-c45501e4e4de</string><key>stan_name</key><string>华夏银行凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>82710.3340</string><key>y</key><string>82171.1060</string></dict>
+<dict>
+<key>identifier</key><string>c3c7889e-804e-47e6-80e5-01565a1c7a70</string><key>stan_name</key><string>华夏银行之江支行</string><key>multi_info</key><string> </string><key>x</key><string>80033.4520</string><key>y</key><string>81674.0270</string></dict>
+<dict>
+<key>identifier</key><string>fb4d4df0-0a30-45c8-8a0e-f7027824e98d</string><key>stan_name</key><string>中国农业银行杭州景苑支行</string><key>multi_info</key><string> </string><key>x</key><string>84132.3840</string><key>y</key><string>82971.9770</string></dict>
+<dict>
+<key>identifier</key><string>10925497-1bd0-4f4a-89c5-db86d8f0104a</string><key>stan_name</key><string>杭州联合农村合作银行四季青支行三堡分理处</string><key>multi_info</key><string> </string><key>x</key><string>85289.76</string><key>y</key><string>82581.24</string></dict>
+<dict>
+<key>identifier</key><string>324afa8f-c969-405c-b171-7896eb727caf</string><key>stan_name</key><string>杭州市商业银行城东支行</string><key>multi_info</key><string> </string><key>x</key><string>84275.6260</string><key>y</key><string>84687.5580</string></dict>
+<dict>
+<key>identifier</key><string>e0f895c3-5ca0-4292-976f-28de54d386b6</string><key>stan_name</key><string>中国建设银行杭州天成支行</string><key>multi_info</key><string> </string><key>x</key><string>83292.8480</string><key>y</key><string>84684.4670</string></dict>
+<dict>
+<key>identifier</key><string>c18acb2d-901c-4e78-a2ee-b31e2cc4e408</string><key>stan_name</key><string>中国银行杭州濮家支行</string><key>multi_info</key><string> </string><key>x</key><string>83068.6170</string><key>y</key><string>84666.7790</string></dict>
+<dict>
+<key>identifier</key><string>6bfef95d-dc56-4cd2-98ec-c638b5edb476</string><key>stan_name</key><string>中国工商银行杭州市艮山支行机神小区储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83119.2520</string><key>y</key><string>84472.24</string></dict>
+<dict>
+<key>identifier</key><string>879ae609-6ba1-4c3d-b6e8-b09b6cc7e640</string><key>stan_name</key><string>杭州联合农村合作银行杭州市笕桥支行濮家储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83520.9480</string><key>y</key><string>84793.6660</string></dict>
+<dict>
+<key>identifier</key><string>fd2007ec-8103-413e-87ea-f749886c04f7</string><key>stan_name</key><string>杭州联合银行下沙支行文教分理处</string><key>multi_info</key><string> </string><key>x</key><string>94819.7770</string><key>y</key><string>87101.1660</string></dict>
+<dict>
+<key>identifier</key><string>b9015dbe-dc02-4116-8b3c-2e36b3519315</string><key>stan_name</key><string>杭州联合银行长河支行江一分理处</string><key>multi_info</key><string> </string><key>x</key><string>84333.2130</string><key>y</key><string>74449.2560</string></dict>
+<dict>
+<key>identifier</key><string>31be6f97-01a1-4604-a110-553a65cc82f2</string><key>stan_name</key><string>杭州联合银行留下支行西苑分理处</string><key>multi_info</key><string> </string><key>x</key><string>69750.6070</string><key>y</key><string>79889.2470</string></dict>
+<dict>
+<key>identifier</key><string>4df805b1-a29e-4caf-9a81-016601d1eafe</string><key>stan_name</key><string>杭州联合银行浦沿支行之江分理处</string><key>multi_info</key><string> </string><key>x</key><string>78455.1430</string><key>y</key><string>73088.1730</string></dict>
+<dict>
+<key>identifier</key><string>b75f5510-cf16-4883-983c-503c7ef4a332</string><key>stan_name</key><string>杭州联合银行浦沿支行新生分理处</string><key>multi_info</key><string> </string><key>x</key><string>77606.6570</string><key>y</key><string>71446.8970</string></dict>
+<dict>
+<key>identifier</key><string>cdb63281-88c2-4211-ae1e-94688c3bb986</string><key>stan_name</key><string>杭州联合银行浦沿支行浦联分理处</string><key>multi_info</key><string> </string><key>x</key><string>78876.3640</string><key>y</key><string>70862.0610</string></dict>
+<dict>
+<key>identifier</key><string>6ec9ea9f-165c-49b4-bafb-62704bcac28d</string><key>stan_name</key><string>杭州联合银行转塘支行</string><key>multi_info</key><string> </string><key>x</key><string>71744.2580</string><key>y</key><string>71012.0860</string></dict>
+<dict>
+<key>identifier</key><string>28f36500-6043-4476-9fef-a84b4f351620</string><key>stan_name</key><string>杭州联合银行转塘支行凌家桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>71636.3460</string><key>y</key><string>68316.8370</string></dict>
+<dict>
+<key>identifier</key><string>b20d89b3-aee8-460c-997a-47ed1a5cdea7</string><key>stan_name</key><string>杭州联合银行袁浦支行东清分理处</string><key>multi_info</key><string> </string><key>x</key><string>79422.4630</string><key>y</key><string>66474.4080</string></dict>
+<dict>
+<key>identifier</key><string>18ad7c1c-b605-4712-9903-ba569a7781e2</string><key>stan_name</key><string>杭州联合银行四季青支行玉皇分理处</string><key>multi_info</key><string> </string><key>x</key><string>78971.9470</string><key>y</key><string>76081.6380</string></dict>
+<dict>
+<key>identifier</key><string>4203f454-9b35-4017-85e2-edcb2b7d60e2</string><key>stan_name</key><string>中国银行复兴分理处</string><key>multi_info</key><string> </string><key>x</key><string>80595.9530</string><key>y</key><string>76699.4310</string></dict>
+<dict>
+<key>identifier</key><string>ad0ff5b5-587e-4a6f-8845-4886d27c3d0a</string><key>stan_name</key><string>中国农业银行留下支行</string><key>multi_info</key><string> </string><key>x</key><string>69282.6960</string><key>y</key><string>79908.3960</string></dict>
+<dict>
+<key>identifier</key><string>69a24ad5-1d59-4a0a-bacf-3ed344e8ca7e</string><key>stan_name</key><string>中国农业银行中山支行城南分理处</string><key>multi_info</key><string> </string><key>x</key><string>81188.7420</string><key>y</key><string>77505.28</string></dict>
+<dict>
+<key>identifier</key><string>ca42a8ac-e280-471d-889d-6c1279c40ed3</string><key>stan_name</key><string>中国农业银行中山支行城南分理处</string><key>multi_info</key><string> </string><key>x</key><string>81179.1430</string><key>y</key><string>77495.3410</string></dict>
+<dict>
+<key>identifier</key><string>7f20d32e-65b1-45ab-941e-df4f79135159</string><key>stan_name</key><string>中国建设银行钱江支行绍兴路支行</string><key>multi_info</key><string> </string><key>x</key><string>79111.8040</string><key>y</key><string>87557.4120</string></dict>
+<dict>
+<key>identifier</key><string>e03c85c4-0d01-44d9-b71c-4f970ee18910</string><key>stan_name</key><string>中国农业银行之江支行大关支行</string><key>multi_info</key><string> </string><key>x</key><string>78925.6620</string><key>y</key><string>87256.9730</string></dict>
+<dict>
+<key>identifier</key><string>a926a6ab-79e5-4c1c-abf3-756bb3858a43</string><key>stan_name</key><string>中国建设银行文晖支行拱北支行</string><key>multi_info</key><string> </string><key>x</key><string>78237.6060</string><key>y</key><string>89411.5850</string></dict>
+<dict>
+<key>identifier</key><string>7391ed6c-e77a-4cf4-bbec-9710421ed9fe</string><key>stan_name</key><string>中国银行凯旋支行拱北分理处</string><key>multi_info</key><string> </string><key>x</key><string>78125.8890</string><key>y</key><string>89420.5190</string></dict>
+<dict>
+<key>identifier</key><string>563eb7c9-08ff-4d2a-a1bf-c008ae4e5be4</string><key>stan_name</key><string>中国农业银行之江支行城北分理处</string><key>multi_info</key><string> </string><key>x</key><string>77832.3640</string><key>y</key><string>88110.9840</string></dict>
+<dict>
+<key>identifier</key><string>164ebc8e-5c11-48e0-98fa-e1f717545e0f</string><key>stan_name</key><string>中国工商银行拱宸支行蚕花园储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78184.8940</string><key>y</key><string>89383.3580</string></dict>
+<dict>
+<key>identifier</key><string>5692c992-a8f3-4a3d-9fdd-f00334349f2e</string><key>stan_name</key><string>杭州联合银行上塘支行</string><key>multi_info</key><string> </string><key>x</key><string>78167.9770</string><key>y</key><string>89036.9990</string></dict>
+<dict>
+<key>identifier</key><string>45a43caa-cbbd-493d-94c8-ee37c395e165</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>78968.4040</string><key>y</key><string>87315.0220</string></dict>
+<dict>
+<key>identifier</key><string>4d39df5b-56e7-4016-a355-fabf75a7dedb</string><key>stan_name</key><string>中国工商银行湖墅支行半道红分理处</string><key>multi_info</key><string> </string><key>x</key><string>78946.1050</string><key>y</key><string>84139.7780</string></dict>
+<dict>
+<key>identifier</key><string>af00daed-9d1d-4ebd-ab89-a94596096ebb</string><key>stan_name</key><string>广东发展银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78302.56</string><key>y</key><string>82686.6340</string></dict>
+<dict>
+<key>identifier</key><string>c08bab33-8dff-47ed-a338-5521da80add3</string><key>stan_name</key><string>中国建设银行体育场路支行</string><key>multi_info</key><string> </string><key>x</key><string>78812.1060</string><key>y</key><string>82818.4940</string></dict>
+<dict>
+<key>identifier</key><string>c2e2beb3-1c61-4e98-ab02-f3a3e5bac31a</string><key>stan_name</key><string>中信银行省府路支行</string><key>multi_info</key><string> </string><key>x</key><string>79100.69</string><key>y</key><string>82447.0220</string></dict>
+<dict>
+<key>identifier</key><string>1c8f91d4-24f4-4878-becd-64f33ad1c1f3</string><key>stan_name</key><string>中国农业银行松木场支行</string><key>multi_info</key><string> </string><key>x</key><string>78352.4850</string><key>y</key><string>82689.1620</string></dict>
+<dict>
+<key>identifier</key><string>9a8f6f71-801b-4da3-9921-5fd672ce37ab</string><key>stan_name</key><string>中信银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>77811.6690</string><key>y</key><string>82441.7410</string></dict>
+<dict>
+<key>identifier</key><string>137b0bcb-8e1d-4958-8162-397fa29e60a6</string><key>stan_name</key><string>中国光大银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78033.4660</string><key>y</key><string>82539.2640</string></dict>
+<dict>
+<key>identifier</key><string>b761ddd3-c940-496e-95cc-ee7df0bb76ea</string><key>stan_name</key><string>中国建设银行浙江省分行财富管理中心</string><key>multi_info</key><string> </string><key>x</key><string>79907.1260</string><key>y</key><string>82696.5250</string></dict>
+<dict>
+<key>identifier</key><string>e8cb65b7-fc30-4bb9-bcae-a2d6a4abac86</string><key>stan_name</key><string>中国建设银行浙江省分行业务营业部</string><key>multi_info</key><string> </string><key>x</key><string>79923.7550</string><key>y</key><string>82626.9430</string></dict>
+<dict>
+<key>identifier</key><string>3ef16856-772a-4fae-ab3c-ae990c5d3330</string><key>stan_name</key><string>中信银行天水支行</string><key>multi_info</key><string> </string><key>x</key><string>79549.2570</string><key>y</key><string>82948.9090</string></dict>
+<dict>
+<key>identifier</key><string>abb3533e-8af6-417a-8d9a-32d9ba8fb126</string><key>stan_name</key><string>中国农业银行朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>79837.1070</string><key>y</key><string>84432.9480</string></dict>
+<dict>
+<key>identifier</key><string>b79474df-10b5-4489-affb-3579779cc69b</string><key>stan_name</key><string>中国工商银行西湖支行武林路分理处</string><key>multi_info</key><string> </string><key>x</key><string>79547.1770</string><key>y</key><string>82412.5190</string></dict>
+<dict>
+<key>identifier</key><string>80415f76-dd25-41ca-b62b-a6ec557e75b4</string><key>stan_name</key><string>上海浦东发展银行杭州求是支行</string><key>multi_info</key><string> </string><key>x</key><string>77567.0480</string><key>y</key><string>82928.1560</string></dict>
+<dict>
+<key>identifier</key><string>4aad7966-aa94-4934-bf33-dbfc34185ea9</string><key>stan_name</key><string>华夏银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>77044.7130</string><key>y</key><string>83688.2610</string></dict>
+<dict>
+<key>identifier</key><string>d871ab02-e588-40a2-9674-bf16b60dde91</string><key>stan_name</key><string>中国银行开元支行文二路分理处</string><key>multi_info</key><string> </string><key>x</key><string>77292.08</string><key>y</key><string>84367.8340</string></dict>
+<dict>
+<key>identifier</key><string>6c6bb5db-0341-42c3-99a3-7afd68321260</string><key>stan_name</key><string>中国农业银行文三路支行</string><key>multi_info</key><string> </string><key>x</key><string>77983.7880</string><key>y</key><string>83749.6190</string></dict>
+<dict>
+<key>identifier</key><string>f1837201-891b-4b34-9875-5e42930aaa73</string><key>stan_name</key><string>上海浦东发展银行文晖支行</string><key>multi_info</key><string> </string><key>x</key><string>77984.1760</string><key>y</key><string>83804.2920</string></dict>
+<dict>
+<key>identifier</key><string>8e009d2c-2d86-48de-a3b9-0f2f54a73945</string><key>stan_name</key><string>深圳发展银行杭州湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78271.0610</string><key>y</key><string>85502.9440</string></dict>
+<dict>
+<key>identifier</key><string>7850bc8e-dc9c-44e1-ba30-4af04c451eb8</string><key>stan_name</key><string>交通银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>80272.1140</string><key>y</key><string>81596.6950</string></dict>
+<dict>
+<key>identifier</key><string>21f208a1-338c-4f6e-897c-f73d332d0e8a</string><key>stan_name</key><string>上海浦东发展银行建国支行</string><key>multi_info</key><string> </string><key>x</key><string>81543.2260</string><key>y</key><string>82210.8670</string></dict>
+<dict>
+<key>identifier</key><string>5f904498-f85f-46ce-8efc-9ff2e27e2f91</string><key>stan_name</key><string>中国农业银行杭州浣沙支行</string><key>multi_info</key><string> </string><key>x</key><string>80450.8620</string><key>y</key><string>81324.6190</string></dict>
+<dict>
+<key>identifier</key><string>fcdc58e0-e33a-468a-b833-79f2e1f9eeac</string><key>stan_name</key><string>中信银行杭州钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>81776.4610</string><key>y</key><string>82335.4420</string></dict>
+<dict>
+<key>identifier</key><string>9e83dbf0-e057-41d9-8b92-ea071cf5fd30</string><key>stan_name</key><string>中国工商银行杭州解放路支行五洲分理处</string><key>multi_info</key><string> </string><key>x</key><string>80458.1540</string><key>y</key><string>81249.6260</string></dict>
+<dict>
+<key>identifier</key><string>4a138727-8512-4f06-bafd-19d43af5bf14</string><key>stan_name</key><string>中国农业银行中山支行潮鸣分理处</string><key>multi_info</key><string> </string><key>x</key><string>81492.05</string><key>y</key><string>81843.3720</string></dict>
+<dict>
+<key>identifier</key><string>95563e0e-51d3-437b-8147-edf6e21d2dd9</string><key>stan_name</key><string>中国农业银行延庆支行</string><key>multi_info</key><string> </string><key>x</key><string>80161.3850</string><key>y</key><string>80890.6940</string></dict>
+<dict>
+<key>identifier</key><string>adb47779-393c-4946-bf0b-6f323be58f96</string><key>stan_name</key><string>杭州市商业银行四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>82795.5950</string><key>y</key><string>80328.5810</string></dict>
+<dict>
+<key>identifier</key><string>7a838294-64a5-45ee-b835-644d89e3eae3</string><key>stan_name</key><string>中国农业银行杭州市清泰门支行</string><key>multi_info</key><string> </string><key>x</key><string>82489.5650</string><key>y</key><string>80284.1630</string></dict>
+<dict>
+<key>identifier</key><string>7bef83af-fb13-4749-9db0-ab9bb09b2537</string><key>stan_name</key><string>中国银行杭州城东支行清泰分理处</string><key>multi_info</key><string> </string><key>x</key><string>82589.0260</string><key>y</key><string>80314.5540</string></dict>
+<dict>
+<key>identifier</key><string>3c6774cf-9350-4034-a17e-6144c6bb53ac</string><key>stan_name</key><string>中国农业银行杭州市城东支行凯旋储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82480.6680</string><key>y</key><string>81438.52</string></dict>
+<dict>
+<key>identifier</key><string>1ed2cbeb-d25c-4bfc-912a-92cf45e499b5</string><key>stan_name</key><string>中国工商银行庆春东路支行</string><key>multi_info</key><string> </string><key>x</key><string>82722.1950</string><key>y</key><string>81547.4390</string></dict>
+<dict>
+<key>identifier</key><string>1837b6fd-dfa9-4ef7-9837-ec947c7f7b8f</string><key>stan_name</key><string>中国农业银行浙江省分行</string><key>multi_info</key><string> </string><key>x</key><string>80708.5730</string><key>y</key><string>81859.1140</string></dict>
+<dict>
+<key>identifier</key><string>06af6a0f-eff1-4c38-9e9d-57f3d345fe90</string><key>stan_name</key><string>华夏银行杭州新华支行</string><key>multi_info</key><string> </string><key>x</key><string>81073.8970</string><key>y</key><string>81861.62</string></dict>
+<dict>
+<key>identifier</key><string>50181fdb-87d9-4557-ad25-d2da4e173cc5</string><key>stan_name</key><string>东亚银行</string><key>multi_info</key><string> </string><key>x</key><string>80777.2530</string><key>y</key><string>81651.8550</string></dict>
+<dict>
+<key>identifier</key><string>62699662-7306-4a0d-83cc-525eee573116</string><key>stan_name</key><string>中国银行杭州开元支行</string><key>multi_info</key><string> </string><key>x</key><string>81277.7680</string><key>y</key><string>82364.1510</string></dict>
+<dict>
+<key>identifier</key><string>01ddb9ef-0475-4b74-8dd6-7d44543a2170</string><key>stan_name</key><string>中国工商银行杭州市城站支行滨江家苑分理处</string><key>multi_info</key><string> </string><key>x</key><string>83790.0790</string><key>y</key><string>78841.9160</string></dict>
+<dict>
+<key>identifier</key><string>1d8d5ccb-6bf8-4436-a9e2-3c4ac46c3829</string><key>stan_name</key><string>杭州联合银行西兴支行水电储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>85637.2820</string><key>y</key><string>77865.1280</string></dict>
+<dict>
+<key>identifier</key><string>cb6daba9-4fa7-4431-a954-97506df8ebda</string><key>stan_name</key><string>中国农业银行中山支行钱江分理处</string><key>multi_info</key><string> </string><key>x</key><string>83530.12</string><key>y</key><string>79048.3490</string></dict>
+<dict>
+<key>identifier</key><string>81b1b5b1-f987-402d-9e1e-cde7058400be</string><key>stan_name</key><string>中国交通银行滨江支行</string><key>multi_info</key><string> </string><key>x</key><string>84104.5640</string><key>y</key><string>75851.15</string></dict>
+<dict>
+<key>identifier</key><string>c4514e2c-fdb6-46d4-a58a-9c63b2592b95</string><key>stan_name</key><string>中国工商银行江城支行复兴南苑储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80226.7060</string><key>y</key><string>76348.9560</string></dict>
+<dict>
+<key>identifier</key><string>0403c2a0-b365-44ed-b443-154103061168</string><key>stan_name</key><string>中国建设银行宝石支行留下分理处</string><key>multi_info</key><string> </string><key>x</key><string>69262.7280</string><key>y</key><string>79858.0440</string></dict>
+<dict>
+<key>identifier</key><string>7a83fd8a-7882-4b19-8af7-96365a308754</string><key>stan_name</key><string>杭州市商业银行之江度假区支行</string><key>multi_info</key><string> </string><key>x</key><string>74723.6410</string><key>y</key><string>72932.5960</string></dict>
+<dict>
+<key>identifier</key><string>c79ebc8c-cb53-4392-947c-48c2d26d73e3</string><key>stan_name</key><string>杭州市商业银行滨江支行</string><key>multi_info</key><string> </string><key>x</key><string>83961.28</string><key>y</key><string>75635.1430</string></dict>
+<dict>
+<key>identifier</key><string>a6de0142-2418-4add-bc59-7261506810aa</string><key>stan_name</key><string>杭州市商业银行长河支行</string><key>multi_info</key><string> </string><key>x</key><string>82231.0260</string><key>y</key><string>74670.2380</string></dict>
+<dict>
+<key>identifier</key><string>003858b8-e3c1-43fd-9947-d45bb5426ef1</string><key>stan_name</key><string>招商银行钱塘支行</string><key>multi_info</key><string> </string><key>x</key><string>83650.6150</string><key>y</key><string>75900.6670</string></dict>
+<dict>
+<key>identifier</key><string>ca526964-07b2-4d23-8393-2967d29841cd</string><key>stan_name</key><string>杭州联合银行留下支行</string><key>multi_info</key><string> </string><key>x</key><string>69055.7840</string><key>y</key><string>79932.6530</string></dict>
+<dict>
+<key>identifier</key><string>65819d8f-c4ba-487b-b1de-f8b745ca26eb</string><key>stan_name</key><string>杭州联合银行西湖支行宋城分理处</string><key>multi_info</key><string> </string><key>x</key><string>73579.1020</string><key>y</key><string>72099.5450</string></dict>
+<dict>
+<key>identifier</key><string>bcc87889-dc22-4c74-af32-966f9fbb052a</string><key>stan_name</key><string>杭州联合银行留下支行牌楼分理处</string><key>multi_info</key><string> </string><key>x</key><string>70654.5410</string><key>y</key><string>80262.8610</string></dict>
+<dict>
+<key>identifier</key><string>0fb99863-8353-454b-b78d-cf8efa206d0f</string><key>stan_name</key><string>杭州联合银行西兴支行滨康分理处</string><key>multi_info</key><string> </string><key>x</key><string>84505.6710</string><key>y</key><string>73170.4040</string></dict>
+<dict>
+<key>identifier</key><string>2e33d4fd-f81c-4839-b3d8-bbe6c6bfdcc8</string><key>stan_name</key><string>杭州联合银行西兴支行三江储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>85998.1760</string><key>y</key><string>74144.6460</string></dict>
+<dict>
+<key>identifier</key><string>dce4cd0a-75b1-4869-86a6-114e2815b302</string><key>stan_name</key><string>杭州联合银行长河支行滨兴分理处</string><key>multi_info</key><string> </string><key>x</key><string>83128.66</string><key>y</key><string>74268.8060</string></dict>
+<dict>
+<key>identifier</key><string>a41f6d73-9dc1-4f74-9451-c2cfc84ad08f</string><key>stan_name</key><string>杭州联合银行留下支行东岳分理处</string><key>multi_info</key><string> </string><key>x</key><string>72761.4120</string><key>y</key><string>81548.0790</string></dict>
+<dict>
+<key>identifier</key><string>5d81a6fc-25d9-4e3b-8528-1634078e0b90</string><key>stan_name</key><string>杭州联合农村合作银行留下支行小河山分理处</string><key>multi_info</key><string> </string><key>x</key><string>67013.0280</string><key>y</key><string>77306.4780</string></dict>
+<dict>
+<key>identifier</key><string>7d2ec839-56c3-412b-98e0-7a6bb705d6d4</string><key>stan_name</key><string>杭州联合农村合作银行蒋村支行西溪分理处</string><key>multi_info</key><string> </string><key>x</key><string>70120.75</string><key>y</key><string>84517.9290</string></dict>
+<dict>
+<key>identifier</key><string>3dc12b39-0704-4625-a4fe-8b497817b4c6</string><key>stan_name</key><string>中国邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81891.8490</string><key>y</key><string>80652.1890</string></dict>
+<dict>
+<key>identifier</key><string>48ee1383-0ec5-4115-90db-1f7a70935c79</string><key>stan_name</key><string>中国邮政局城站邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>81767.8990</string><key>y</key><string>80280.2090</string></dict>
+<dict>
+<key>identifier</key><string>2f662ff4-5160-4f0c-902b-c2bbfdbabd14</string><key>stan_name</key><string>中国邮政清泰街邮政所</string><key>multi_info</key><string> </string><key>x</key><string>81178.4350</string><key>y</key><string>80403.8850</string></dict>
+<dict>
+<key>identifier</key><string>5898ad5f-6d5a-40c4-853c-923e298ff25c</string><key>stan_name</key><string>杭州联合银行农村合作银行吴山支行</string><key>multi_info</key><string> </string><key>x</key><string>80181.6890</string><key>y</key><string>80236.8290</string></dict>
+<dict>
+<key>identifier</key><string>abbe9133-a5fb-4137-bfc4-a2ede2ebefee</string><key>stan_name</key><string>中国银行浙江分行</string><key>multi_info</key><string> </string><key>x</key><string>80823.8180</string><key>y</key><string>80381.6130</string></dict>
+<dict>
+<key>identifier</key><string>d81a42af-3c40-4d94-9f1a-f9713ae39533</string><key>stan_name</key><string>杭州银行</string><key>multi_info</key><string> </string><key>x</key><string>80028.35</string><key>y</key><string>82316.8760</string></dict>
+<dict>
+<key>identifier</key><string>9f00030c-9f56-4619-b0e2-bb67ca119fd2</string><key>stan_name</key><string>杭州联合农村合作银行</string><key>multi_info</key><string> </string><key>x</key><string>80403.0010</string><key>y</key><string>82320.72</string></dict>
+<dict>
+<key>identifier</key><string>61593f87-1701-45a0-a2aa-3eeacf813f53</string><key>stan_name</key><string>杭州银行环北支行</string><key>multi_info</key><string> </string><key>x</key><string>80821.1310</string><key>y</key><string>82325.8960</string></dict>
+<dict>
+<key>identifier</key><string>ea3e64a4-a981-47a4-9f9f-7a275808782e</string><key>stan_name</key><string>中国银行凤起路支行</string><key>multi_info</key><string> </string><key>x</key><string>80841.1350</string><key>y</key><string>82325.6520</string></dict>
+<dict>
+<key>identifier</key><string>8a8d59d8-ebaf-4bb7-a9cb-c9e3849174a3</string><key>stan_name</key><string>中国建设银行凤起路支行</string><key>multi_info</key><string> </string><key>x</key><string>80700.34</string><key>y</key><string>82322.2120</string></dict>
+<dict>
+<key>identifier</key><string>307313bb-9dac-4883-ab76-d0d7bed9df6e</string><key>stan_name</key><string>上海银行杭州支行</string><key>multi_info</key><string> </string><key>x</key><string>80545.3950</string><key>y</key><string>81675.3860</string></dict>
+<dict>
+<key>identifier</key><string>de16cdf3-9d13-480d-ac73-cb2555ff52ab</string><key>stan_name</key><string>中国光大银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>80149.7880</string><key>y</key><string>81690.7120</string></dict>
+<dict>
+<key>identifier</key><string>ab900740-9cde-4e34-8e43-897709809b7a</string><key>stan_name</key><string>中国农业银行杭州下城支行</string><key>multi_info</key><string> </string><key>x</key><string>80463.5990</string><key>y</key><string>81666.0580</string></dict>
+<dict>
+<key>identifier</key><string>56870ba5-4183-4da4-b87a-cc7e8910ca73</string><key>stan_name</key><string>中国建设银行杭州盐桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>80454.8910</string><key>y</key><string>81696.6880</string></dict>
+<dict>
+<key>identifier</key><string>74e76411-8144-485b-bb4c-13167159b929</string><key>stan_name</key><string>中信银行平海支行</string><key>multi_info</key><string> </string><key>x</key><string>80709.2660</string><key>y</key><string>81566.6020</string></dict>
+<dict>
+<key>identifier</key><string>f1feac85-4f75-44da-a1d1-0f04b716d5bf</string><key>stan_name</key><string>中国邮政杭州市邮政局庆春路支局</string><key>multi_info</key><string> </string><key>x</key><string>80815.0240</string><key>y</key><string>81565.7190</string></dict>
+<dict>
+<key>identifier</key><string>06709f14-8a96-4750-b0e9-b20f8ef13469</string><key>stan_name</key><string>中国银行杭州市开元支行东方分理处</string><key>multi_info</key><string> </string><key>x</key><string>80868.1390</string><key>y</key><string>81578.43</string></dict>
+<dict>
+<key>identifier</key><string>3596f5fd-24db-4b14-a19c-3af643282c24</string><key>stan_name</key><string>上海浦东发展银行中山支行</string><key>multi_info</key><string> </string><key>x</key><string>80461.4640</string><key>y</key><string>81583.5010</string></dict>
+<dict>
+<key>identifier</key><string>5a0d7a88-83a3-464f-a803-ac85f95435f6</string><key>stan_name</key><string>中国工商银行平海路支行</string><key>multi_info</key><string> </string><key>x</key><string>80019.1240</string><key>y</key><string>81206.8660</string></dict>
+<dict>
+<key>identifier</key><string>820813cf-ffb8-43e9-a1ed-5e04cd4d4689</string><key>stan_name</key><string>杭州银行开元支行</string><key>multi_info</key><string> </string><key>x</key><string>80265.8520</string><key>y</key><string>81158.7520</string></dict>
+<dict>
+<key>identifier</key><string>b5b33c16-85f3-418a-a6f6-4db73abd7263</string><key>stan_name</key><string>浙江泰隆商业银行</string><key>multi_info</key><string> </string><key>x</key><string>80701.8120</string><key>y</key><string>81165.6760</string></dict>
+<dict>
+<key>identifier</key><string>7c3420ab-fa51-4356-8fce-1966fdf5ae97</string><key>stan_name</key><string>中国建设银行杭州翠苑分行</string><key>multi_info</key><string> </string><key>x</key><string>75845.75</string><key>y</key><string>85094.6780</string></dict>
+<dict>
+<key>identifier</key><string>ce5bdbe9-6658-4869-bd40-79679bfb268c</string><key>stan_name</key><string>中国商业银行益乐支行</string><key>multi_info</key><string> </string><key>x</key><string>75205.1180</string><key>y</key><string>84869.7630</string></dict>
+<dict>
+<key>identifier</key><string>408f8e3b-2b61-4f09-8959-fb99b624649c</string><key>stan_name</key><string>中国交通银行时代电子市场支行</string><key>multi_info</key><string> </string><key>x</key><string>75374.3760</string><key>y</key><string>85718.6540</string></dict>
+<dict>
+<key>identifier</key><string>58707853-8e24-4eae-8cf3-a803455ee283</string><key>stan_name</key><string>中国邮政高新技术开发区总局古翠路支局</string><key>multi_info</key><string> </string><key>x</key><string>75617.7240</string><key>y</key><string>84340.1540</string></dict>
+<dict>
+<key>identifier</key><string>7907f551-13fe-4f7b-9adc-3e045e641ac6</string><key>stan_name</key><string>招商银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>75780.8520</string><key>y</key><string>84263.8970</string></dict>
+<dict>
+<key>identifier</key><string>1d12dcc8-b035-40d4-b1de-e233e2ff50b0</string><key>stan_name</key><string>中国工商银行杭州高新支行</string><key>multi_info</key><string> </string><key>x</key><string>75699.8710</string><key>y</key><string>84256.9030</string></dict>
+<dict>
+<key>identifier</key><string>34d8cdc7-7948-49d2-851d-daf6b1c5408a</string><key>stan_name</key><string>浙江省杭州市四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>82834.2780</string><key>y</key><string>80259.0420</string></dict>
+<dict>
+<key>identifier</key><string>ebd3a0a7-3edd-415c-905f-1567ce2d11b8</string><key>stan_name</key><string>杭州市朝阳支行</string><key>multi_info</key><string> </string><key>x</key><string>86497.0270</string><key>y</key><string>84897.4790</string></dict>
+<dict>
+<key>identifier</key><string>d0cbea68-173f-4106-9fe0-7069c106f857</string><key>stan_name</key><string>杭州市联合银行览桥分行</string><key>multi_info</key><string> </string><key>x</key><string>83175.9610</string><key>y</key><string>85493.8620</string></dict>
+<dict>
+<key>identifier</key><string>2c461437-f4c0-46df-8d3a-ea9a6734e6d9</string><key>stan_name</key><string>中国农业银行杭州东站支行</string><key>multi_info</key><string> </string><key>x</key><string>83414.3710</string><key>y</key><string>83247.5870</string></dict>
+<dict>
+<key>identifier</key><string>8fd319b4-4488-4bd0-9bf7-1f448de6790c</string><key>stan_name</key><string>中国农业银行杭州东站支行</string><key>multi_info</key><string> </string><key>x</key><string>83604.4050</string><key>y</key><string>83733.9730</string></dict>
+<dict>
+<key>identifier</key><string>b23539d7-5945-4f53-af7b-827fd4e448b7</string><key>stan_name</key><string>中国农业银行杭州东站支行</string><key>multi_info</key><string> </string><key>x</key><string>83417.9850</string><key>y</key><string>83214.7530</string></dict>
+<dict>
+<key>identifier</key><string>90184942-ed0c-4bbb-9cc8-d6697093aa65</string><key>stan_name</key><string>中国光大银行钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>83352.1310</string><key>y</key><string>82628.0310</string></dict>
+<dict>
+<key>identifier</key><string>81aa3b20-ec84-4c99-a6af-573f602cf335</string><key>stan_name</key><string>中国建设银行杭州城东秋涛支行</string><key>multi_info</key><string> </string><key>x</key><string>83390.2090</string><key>y</key><string>81538.6960</string></dict>
+<dict>
+<key>identifier</key><string>3250e8a4-f1b3-4358-9531-414b360a127f</string><key>stan_name</key><string>中国邮政储蓄银行浙江省杭州市城东支行</string><key>multi_info</key><string> </string><key>x</key><string>83403.9460</string><key>y</key><string>80190.6330</string></dict>
+<dict>
+<key>identifier</key><string>e0ad4baa-c85f-4778-be79-f3b4d2609de9</string><key>stan_name</key><string>中国工商银行杭州城东支行观音塘存蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83642.4210</string><key>y</key><string>80119.6980</string></dict>
+<dict>
+<key>identifier</key><string>80bd9173-98e3-4cf8-b076-d3ea92603911</string><key>stan_name</key><string>中国邮政火车东站邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>84311.2130</string><key>y</key><string>85198.2270</string></dict>
+<dict>
+<key>identifier</key><string>ad5c9fb8-eeb7-40ca-ad5e-f8151375eb12</string><key>stan_name</key><string>杭州联合银行</string><key>multi_info</key><string> </string><key>x</key><string>84316.5780</string><key>y</key><string>84491.5380</string></dict>
+<dict>
+<key>identifier</key><string>753ceaa4-a619-4862-bfb0-0e825524e159</string><key>stan_name</key><string>杭州联合农村合作银行四季青水湘分理处</string><key>multi_info</key><string> </string><key>x</key><string>84688.5480</string><key>y</key><string>83084.4140</string></dict>
+<dict>
+<key>identifier</key><string>0487f3bf-09db-4d78-bb67-56dcd0b4ed06</string><key>stan_name</key><string>中国建设银行秋涛支行景苑分理处</string><key>multi_info</key><string> </string><key>x</key><string>84308.8710</string><key>y</key><string>82674.36</string></dict>
+<dict>
+<key>identifier</key><string>0259525e-7a90-47df-90a1-d08778cca864</string><key>stan_name</key><string>中国银行</string><key>multi_info</key><string> </string><key>x</key><string>84035.7220</string><key>y</key><string>82207.56</string></dict>
+<dict>
+<key>identifier</key><string>99db8560-91d6-468d-a50d-d6b76f06908c</string><key>stan_name</key><string>中国建设银行</string><key>multi_info</key><string> </string><key>x</key><string>84092.0090</string><key>y</key><string>82072.8390</string></dict>
+<dict>
+<key>identifier</key><string>8a1cd7f4-28fd-4bdc-beec-3fce31e99714</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>84118.7210</string><key>y</key><string>81482.4430</string></dict>
+<dict>
+<key>identifier</key><string>38079005-58a1-4a02-bb57-cac67f34f544</string><key>stan_name</key><string>中国农业银行银行新塘支行</string><key>multi_info</key><string> </string><key>x</key><string>84129.4770</string><key>y</key><string>81315.5290</string></dict>
+<dict>
+<key>identifier</key><string>b5d69748-3fae-4360-9afb-ff13d5cc0fc4</string><key>stan_name</key><string>华夏银行钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>84116.2510</string><key>y</key><string>81278.2320</string></dict>
+<dict>
+<key>identifier</key><string>91116b8c-e794-4ab0-b670-b337def8dd7e</string><key>stan_name</key><string>杭州联合农村合作银行四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>84127.8990</string><key>y</key><string>81354.9590</string></dict>
+<dict>
+<key>identifier</key><string>8dcbd179-aee3-4bc4-b687-a0761ef6dc22</string><key>stan_name</key><string>中国农业银行杭州新塘路支行</string><key>multi_info</key><string> </string><key>x</key><string>84081.8230</string><key>y</key><string>81959.6420</string></dict>
+<dict>
+<key>identifier</key><string>e6180b88-e1b4-443c-b4ac-ed6ae1a5415c</string><key>stan_name</key><string>杭州联合银行四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>84847.7720</string><key>y</key><string>81728.3430</string></dict>
+<dict>
+<key>identifier</key><string>07fbb4d9-e940-4b64-bf4b-2d3cec907cb6</string><key>stan_name</key><string>杭州市邮政局江干区局新塘路邮政所</string><key>multi_info</key><string> </string><key>x</key><string>84137.7170</string><key>y</key><string>82857.6130</string></dict>
+<dict>
+<key>identifier</key><string>f660d21c-38a9-49b7-b622-c8b435d462bc</string><key>stan_name</key><string>杭州联合银行</string><key>multi_info</key><string> </string><key>x</key><string>86708.8840</string><key>y</key><string>84589.5060</string></dict>
+<dict>
+<key>identifier</key><string>173ef0d3-0af5-47bb-b887-d072ee0e7d8b</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>81140.3530</string><key>y</key><string>77088.8270</string></dict>
+<dict>
+<key>identifier</key><string>9257710e-82ef-4cd1-b023-44664637b17a</string><key>stan_name</key><string>中国农业银行域西支行转塘储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>71751.2950</string><key>y</key><string>70795.2120</string></dict>
+<dict>
+<key>identifier</key><string>f32d8181-9686-46d7-8239-87d7a42a7c2b</string><key>stan_name</key><string>中国农业银行杭州市延市路支行</string><key>multi_info</key><string> </string><key>x</key><string>79807.9860</string><key>y</key><string>82644.2160</string></dict>
+<dict>
+<key>identifier</key><string>48c72d8c-cc3c-4872-89f3-6cbffe7eb559</string><key>stan_name</key><string>中国光大银行文二路支行</string><key>multi_info</key><string> </string><key>x</key><string>77215.1510</string><key>y</key><string>84361.4810</string></dict>
+<dict>
+<key>identifier</key><string>abe32a76-11af-4ad0-9b23-e45da8de4458</string><key>stan_name</key><string>中国建设银行高新支行文欣分理处</string><key>multi_info</key><string> </string><key>x</key><string>77228.4830</string><key>y</key><string>84368.2670</string></dict>
+<dict>
+<key>identifier</key><string>a8c8d832-b23b-497c-9f84-a64cedc2a8c3</string><key>stan_name</key><string>中国农业银行余杭支行乔司农场储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>93592.2170</string><key>y</key><string>90990.9850</string></dict>
+<dict>
+<key>identifier</key><string>d92a9dd2-afdf-458d-8404-98c631806249</string><key>stan_name</key><string>浙商银行城西支行</string><key>multi_info</key><string> </string><key>x</key><string>75669.5220</string><key>y</key><string>83950.9570</string></dict>
+<dict>
+<key>identifier</key><string>8e3bd8c5-0671-4c6c-8a73-7d8ca0cb4fe3</string><key>stan_name</key><string>中国邮政杭州市与邮政局古荡邮政所</string><key>multi_info</key><string> </string><key>x</key><string>75352.8540</string><key>y</key><string>83227.0850</string></dict>
+<dict>
+<key>identifier</key><string>db034bde-474e-4f07-927d-9b97bf377fe1</string><key>stan_name</key><string>中国工商银行杭州湖滨支行</string><key>multi_info</key><string> </string><key>x</key><string>79812.4950</string><key>y</key><string>80716.6910</string></dict>
+<dict>
+<key>identifier</key><string>a3525931-8ac4-4366-8ee3-6651c5d32080</string><key>stan_name</key><string>上海浦东发展银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>79906.4020</string><key>y</key><string>80338.5530</string></dict>
+<dict>
+<key>identifier</key><string>63bbacd9-8f9e-4963-9822-34e5407ae15c</string><key>stan_name</key><string>交通银行杭州浣支行纱</string><key>multi_info</key><string> </string><key>x</key><string>80172.9280</string><key>y</key><string>80760.9230</string></dict>
+<dict>
+<key>identifier</key><string>1410044b-1d03-4370-867e-747e4185ce20</string><key>stan_name</key><string>中国银行杭新中国支行</string><key>multi_info</key><string> </string><key>x</key><string>80246.9290</string><key>y</key><string>80459.8160</string></dict>
+<dict>
+<key>identifier</key><string>b88b0b15-a175-4549-ae58-39296c82848b</string><key>stan_name</key><string>蒋村支行蒋村花园分理处</string><key>multi_info</key><string> </string><key>x</key><string>71957.6240</string><key>y</key><string>84458.7720</string></dict>
+<dict>
+<key>identifier</key><string>c50c1b14-6762-4434-b8b9-05a9eeaee092</string><key>stan_name</key><string>中国工商银行杭州古墩路支行</string><key>multi_info</key><string> </string><key>x</key><string>73495.8420</string><key>y</key><string>85215.44</string></dict>
+<dict>
+<key>identifier</key><string>cf886a60-8828-462c-b896-52d7c50f48c0</string><key>stan_name</key><string>恒丰银行杭州西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>73510.4680</string><key>y</key><string>85151.9950</string></dict>
+<dict>
+<key>identifier</key><string>e498ea7a-a20a-4091-a78a-7a842b23027c</string><key>stan_name</key><string>中国农业银行杭州市城西支行</string><key>multi_info</key><string> </string><key>x</key><string>73530.9370</string><key>y</key><string>85015.3370</string></dict>
+<dict>
+<key>identifier</key><string>71930536-3774-4d37-ac13-caecc6a529ae</string><key>stan_name</key><string>中国建设银行杭州文新储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>73874.6990</string><key>y</key><string>84203.3350</string></dict>
+<dict>
+<key>identifier</key><string>9bc47d68-d056-4c9e-8ca9-4d32b2c8d31a</string><key>stan_name</key><string>交通银行杭州城西支行</string><key>multi_info</key><string> </string><key>x</key><string>73666.0540</string><key>y</key><string>84176.3390</string></dict>
+<dict>
+<key>identifier</key><string>67b42116-aba9-4041-a429-bc8decab1d14</string><key>stan_name</key><string>中国工商银行杭州文新支行</string><key>multi_info</key><string> </string><key>x</key><string>74160.6110</string><key>y</key><string>84284.9220</string></dict>
+<dict>
+<key>identifier</key><string>c28d3288-b3cd-42e1-9caa-696cfa38e14b</string><key>stan_name</key><string>招商银行杭州城西支行</string><key>multi_info</key><string> </string><key>x</key><string>74205.2030</string><key>y</key><string>84281.9750</string></dict>
+<dict>
+<key>identifier</key><string>c0008698-0e5b-45e4-bfca-c694e2dc8d59</string><key>stan_name</key><string>中国农业银行杭州城西支行</string><key>multi_info</key><string> </string><key>x</key><string>74255.0220</string><key>y</key><string>84214.3540</string></dict>
+<dict>
+<key>identifier</key><string>c11059d8-8f45-4e7a-a099-6625f5f1ab8c</string><key>stan_name</key><string>中国银行杭州世纪新城支行</string><key>multi_info</key><string> </string><key>x</key><string>74978.7130</string><key>y</key><string>84284.1170</string></dict>
+<dict>
+<key>identifier</key><string>5eb1931f-c6be-45f3-b21e-f98de9930515</string><key>stan_name</key><string>中国农业银行杭州文新路支行</string><key>multi_info</key><string> </string><key>x</key><string>74869.5150</string><key>y</key><string>84227.8180</string></dict>
+<dict>
+<key>identifier</key><string>39e0db4a-6fec-410f-9885-d7ba4ed1719e</string><key>stan_name</key><string>中国银行杭州高新技术开发区支行古墩路支行</string><key>multi_info</key><string> </string><key>x</key><string>73926.9850</string><key>y</key><string>82641.5490</string></dict>
+<dict>
+<key>identifier</key><string>1bdc09cc-6431-4fdc-a9bd-e1e1b03fda2a</string><key>stan_name</key><string>中国邮政蒋村储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>73867.1950</string><key>y</key><string>83604.9790</string></dict>
+<dict>
+<key>identifier</key><string>18828579-f6a1-496c-83df-3d2ca2f4b046</string><key>stan_name</key><string>中国银行杭州西城支行</string><key>multi_info</key><string> </string><key>x</key><string>73172.8360</string><key>y</key><string>84134.9630</string></dict>
+<dict>
+<key>identifier</key><string>f057001b-00ec-498c-98c9-d9474bd32ea2</string><key>stan_name</key><string>杭州银行高新支行代理业务受理中心</string><key>multi_info</key><string> </string><key>x</key><string>73642.5210</string><key>y</key><string>84346.44</string></dict>
+<dict>
+<key>identifier</key><string>4f8ea630-c33a-4d46-b1f9-dbcf9f8ef823</string><key>stan_name</key><string>杭州联合农村合作银行蒋村支行金桂分理处</string><key>multi_info</key><string> </string><key>x</key><string>73657.0370</string><key>y</key><string>84279.6990</string></dict>
+<dict>
+<key>identifier</key><string>4f487da9-68cf-4019-8411-30abc273eb5b</string><key>stan_name</key><string>中国工商银行杭州市解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>80334.0410</string><key>y</key><string>80751.1740</string></dict>
+<dict>
+<key>identifier</key><string>4ff3e973-4670-4873-bacf-f19a817212ba</string><key>stan_name</key><string>中国工商银行杭州中山中路支行</string><key>multi_info</key><string> </string><key>x</key><string>80568.51</string><key>y</key><string>79892.2890</string></dict>
+<dict>
+<key>identifier</key><string>636192b5-f641-43ad-845b-314f2db16e6e</string><key>stan_name</key><string>中国工商银行杭州凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>80262.8480</string><key>y</key><string>82303.0940</string></dict>
+<dict>
+<key>identifier</key><string>6cc80c62-1ddb-4644-bcb9-f3c53f7b221c</string><key>stan_name</key><string>中国工商银行杭州市庆春路支行新华路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81100.3930</string><key>y</key><string>81884.8960</string></dict>
+<dict>
+<key>identifier</key><string>ac5dd17e-046c-41cf-8f59-ec6adc8e349c</string><key>stan_name</key><string>中国工商银行杭州市江城支行</string><key>multi_info</key><string> </string><key>x</key><string>80848.7340</string><key>y</key><string>78564.6950</string></dict>
+<dict>
+<key>identifier</key><string>17698f78-b342-4d6e-8b60-013a20e467d3</string><key>stan_name</key><string>中国工商银行杭州市湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78545.8120</string><key>y</key><string>84966.4840</string></dict>
+<dict>
+<key>identifier</key><string>a0889624-2019-4e63-ab99-6452d7cf984c</string><key>stan_name</key><string>杭州市商业银行平海支行</string><key>multi_info</key><string> </string><key>x</key><string>80119.3080</string><key>y</key><string>81192.4580</string></dict>
+<dict>
+<key>identifier</key><string>46755a0b-8c26-4c9c-ae6c-5e52e72224d6</string><key>stan_name</key><string>杭州市商业银行九堡支行</string><key>multi_info</key><string> </string><key>x</key><string>89736.0810</string><key>y</key><string>87191.5790</string></dict>
+<dict>
+<key>identifier</key><string>d5c61280-d33d-47f0-b1b6-764a0dad5250</string><key>stan_name</key><string>杭州市商业银行科技支行</string><key>multi_info</key><string> </string><key>x</key><string>78610.3410</string><key>y</key><string>84017.8770</string></dict>
+<dict>
+<key>identifier</key><string>a56b03f4-5630-46a8-b38e-9207974b4d46</string><key>stan_name</key><string>杭州市商业银行上塘支行</string><key>multi_info</key><string> </string><key>x</key><string>78607.5010</string><key>y</key><string>86799.3840</string></dict>
+<dict>
+<key>identifier</key><string>8552a0d2-3f9f-4b06-a468-7ba9c3196986</string><key>stan_name</key><string>杭州市商业银行西兴支行</string><key>multi_info</key><string> </string><key>x</key><string>85908.4220</string><key>y</key><string>73964.1640</string></dict>
+<dict>
+<key>identifier</key><string>f1905973-8f76-4938-a090-2c47a11f3520</string><key>stan_name</key><string>杭州联合银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79366.7950</string><key>y</key><string>83343.4730</string></dict>
+<dict>
+<key>identifier</key><string>39386041-e2b9-4aef-947b-d0fcd74ea291</string><key>stan_name</key><string>杭州联合银行四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>83482.6250</string><key>y</key><string>80776.3150</string></dict>
+<dict>
+<key>identifier</key><string>91c91596-3831-42ef-8160-59a474a25080</string><key>stan_name</key><string>杭州联合银行四季青支行庆春分理处</string><key>multi_info</key><string> </string><key>x</key><string>82951.8280</string><key>y</key><string>82197.4220</string></dict>
+<dict>
+<key>identifier</key><string>01a89325-767c-41fa-9a77-60cc3ce46fe8</string><key>stan_name</key><string>杭州联合银行四季青支行清泰分理处</string><key>multi_info</key><string> </string><key>x</key><string>82537.1710</string><key>y</key><string>80235.3140</string></dict>
+<dict>
+<key>identifier</key><string>4b2fed3a-bb49-4e58-b025-88dceb457967</string><key>stan_name</key><string>杭州联合银行西湖支行九溪分理处</string><key>multi_info</key><string> </string><key>x</key><string>75457.5460</string><key>y</key><string>73651.5860</string></dict>
+<dict>
+<key>identifier</key><string>2a6caa19-cb37-4eb8-b3bb-d2719400189e</string><key>stan_name</key><string>杭州联合银行石桥支行三塘分理处</string><key>multi_info</key><string> </string><key>x</key><string>80203.0450</string><key>y</key><string>86977.4560</string></dict>
+<dict>
+<key>identifier</key><string>55d798ee-f653-44f4-af56-a310a029c6a8</string><key>stan_name</key><string>杭州联合银行上塘支行皋亭分理处</string><key>multi_info</key><string> </string><key>x</key><string>80236.85</string><key>y</key><string>89129.1750</string></dict>
+<dict>
+<key>identifier</key><string>aceee4c0-c19b-4177-b0d8-163b2d86d5ea</string><key>stan_name</key><string>杭州联合银行上塘支行钱江分理处</string><key>multi_info</key><string> </string><key>x</key><string>78839.9990</string><key>y</key><string>86434.1260</string></dict>
+<dict>
+<key>identifier</key><string>d9c5270b-5474-47a6-8a91-fb78b36d8186</string><key>stan_name</key><string>杭州联合银行祥符支行</string><key>multi_info</key><string> </string><key>x</key><string>76189.0230</string><key>y</key><string>87085.4180</string></dict>
+<dict>
+<key>identifier</key><string>004f92d1-cfe9-46e1-b9a8-9e3426643fad</string><key>stan_name</key><string>杭州联合银行四季青支行三叉分理处</string><key>multi_info</key><string> </string><key>x</key><string>83758.4410</string><key>y</key><string>81926.4990</string></dict>
+<dict>
+<key>identifier</key><string>1bbeb480-0132-4d99-82b6-99c4fa1e63e6</string><key>stan_name</key><string>杭州联合银行彭埠支行七堡分理处</string><key>multi_info</key><string> </string><key>x</key><string>89188.8280</string><key>y</key><string>85786.7310</string></dict>
+<dict>
+<key>identifier</key><string>a411e5b4-62ca-48cb-8f64-a7f23c1927d2</string><key>stan_name</key><string>杭州联合银行彭埠支行新塘分理处</string><key>multi_info</key><string> </string><key>x</key><string>83923.8310</string><key>y</key><string>83392.0310</string></dict>
+<dict>
+<key>identifier</key><string>00b3d617-d15a-4a02-b9fe-3a8ff7044aa1</string><key>stan_name</key><string>杭州联合银行九堡支行杨公分理处</string><key>multi_info</key><string> </string><key>x</key><string>89879.6990</string><key>y</key><string>85997.4770</string></dict>
+<dict>
+<key>identifier</key><string>ceec2f79-6cea-4df9-9b7a-ff2d55af2bde</string><key>stan_name</key><string>杭州联合银行下沙支行迎宾分理处</string><key>multi_info</key><string> </string><key>x</key><string>96233.0590</string><key>y</key><string>86079.2520</string></dict>
+<dict>
+<key>identifier</key><string>e25602b1-446b-4ca7-a84f-146262de0079</string><key>stan_name</key><string>杭州联合银行下沙支行高沙分理处</string><key>multi_info</key><string> </string><key>x</key><string>96694.5590</string><key>y</key><string>87982.5740</string></dict>
+<dict>
+<key>identifier</key><string>b1a9fe6e-b1ce-4937-bbb9-bd79e2aba6d1</string><key>stan_name</key><string>杭州联合银行笕桥支行闸弄口分理处</string><key>multi_info</key><string> </string><key>x</key><string>83135.0240</string><key>y</key><string>84774.0250</string></dict>
+<dict>
+<key>identifier</key><string>50d2fcad-4047-4b4e-a91c-24876ce6cae3</string><key>stan_name</key><string>杭州联合银行三墩支行兰里分理处</string><key>multi_info</key><string> </string><key>x</key><string>72094.9960</string><key>y</key><string>88630.0940</string></dict>
+<dict>
+<key>identifier</key><string>c6c6ed5d-3d57-499e-92ea-a03e69c55bc3</string><key>stan_name</key><string>杭州联合银行古荡支行</string><key>multi_info</key><string> </string><key>x</key><string>75469.0730</string><key>y</key><string>83180.8980</string></dict>
+<dict>
+<key>identifier</key><string>70a3deae-52f3-43cd-8c12-3943b783aaf0</string><key>stan_name</key><string>杭州联合银行古荡支行益乐分理处</string><key>multi_info</key><string> </string><key>x</key><string>74584.9790</string><key>y</key><string>84779.2850</string></dict>
+<dict>
+<key>identifier</key><string>e935450d-439b-4e8b-8e34-8216acb66c7a</string><key>stan_name</key><string>杭州联合银行古荡支行文二分理处</string><key>multi_info</key><string> </string><key>x</key><string>76092.5260</string><key>y</key><string>84341.3340</string></dict>
+<dict>
+<key>identifier</key><string>9dcad5c4-da5f-4450-8e57-f963d6bfaf20</string><key>stan_name</key><string>杭州联合银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>76389.0250</string><key>y</key><string>81875.31</string></dict>
+<dict>
+<key>identifier</key><string>a82b0876-082e-4f29-9c08-8cbece10a092</string><key>stan_name</key><string>杭州联合银行西湖支行茅家埠分理处</string><key>multi_info</key><string> </string><key>x</key><string>76028.8350</string><key>y</key><string>79533.0370</string></dict>
+<dict>
+<key>identifier</key><string>705bbace-b0f3-4017-aa39-a7113abdfd15</string><key>stan_name</key><string>杭州联合银行石桥支行</string><key>multi_info</key><string> </string><key>x</key><string>81142.1930</string><key>y</key><string>86413.51</string></dict>
+<dict>
+<key>identifier</key><string>728b1c2f-7c13-4d99-9ed8-6fc2e3fd7a9e</string><key>stan_name</key><string>杭州联合银行石桥支行东新分理处</string><key>multi_info</key><string> </string><key>x</key><string>80929.2090</string><key>y</key><string>87874.8340</string></dict>
+<dict>
+<key>identifier</key><string>994f090d-01af-4a8b-8a3e-3b857e9ab8c5</string><key>stan_name</key><string>杭州联合银行石桥支行石祥分理处</string><key>multi_info</key><string> </string><key>x</key><string>80763.6540</string><key>y</key><string>89158.92</string></dict>
+<dict>
+<key>identifier</key><string>6dad36f2-8f4a-427f-a660-ddfd419438bb</string><key>stan_name</key><string>杭州联合银行上塘支行</string><key>multi_info</key><string> </string><key>x</key><string>78148.5090</string><key>y</key><string>88559.53</string></dict>
+<dict>
+<key>identifier</key><string>c27a52a3-0ad8-48a9-a1b6-82a6c2488324</string><key>stan_name</key><string>杭州联合银行祥符支行运河分理处</string><key>multi_info</key><string> </string><key>x</key><string>75195.2990</string><key>y</key><string>89115.0790</string></dict>
+<dict>
+<key>identifier</key><string>610baefe-f4d3-4573-aba2-39d4f9fbfe99</string><key>stan_name</key><string>杭州联合银行长河支行</string><key>multi_info</key><string> </string><key>x</key><string>82481.92</string><key>y</key><string>72715.0340</string></dict>
+<dict>
+<key>identifier</key><string>1abd17a5-7004-4d85-8c51-690bebe8ef3b</string><key>stan_name</key><string>杭州联合银行长河支行天官储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82787.1280</string><key>y</key><string>72043.1460</string></dict>
+<dict>
+<key>identifier</key><string>726c3900-af63-4a47-87a0-6d3e7bb3cc60</string><key>stan_name</key><string>杭州联合银行浦沿支行</string><key>multi_info</key><string> </string><key>x</key><string>78489.4240</string><key>y</key><string>70543.8920</string></dict>
+<dict>
+<key>identifier</key><string>32ffc47f-b36b-4190-bfcc-a7e73a08564c</string><key>stan_name</key><string>杭州联合银行转塘支行徊龙分理处</string><key>multi_info</key><string> </string><key>x</key><string>73416.7430</string><key>y</key><string>66987.8590</string></dict>
+<dict>
+<key>identifier</key><string>b35819d6-fc3f-460e-bf4b-fe4a7ee6f3b7</string><key>stan_name</key><string>杭州联合银行袁浦支行</string><key>multi_info</key><string> </string><key>x</key><string>76227.3260</string><key>y</key><string>65859.1990</string></dict>
+<dict>
+<key>identifier</key><string>e50d0eb0-9a1b-407c-a359-5cf16fdbc532</string><key>stan_name</key><string>广东发展银行文三支行</string><key>multi_info</key><string> </string><key>x</key><string>76044.0950</string><key>y</key><string>83680.5880</string></dict>
+<dict>
+<key>identifier</key><string>d913fa8f-9deb-4416-b56a-2581097d9da8</string><key>stan_name</key><string>深圳发展银行杭州分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>81759.1910</string><key>y</key><string>81647.4250</string></dict>
+<dict>
+<key>identifier</key><string>97e82230-9826-4cf5-8896-004e869b7d35</string><key>stan_name</key><string>深圳发展银行杭州滨江支行</string><key>multi_info</key><string> </string><key>x</key><string>85989</string><key>y</key><string>74080.6330</string></dict>
+<dict>
+<key>identifier</key><string>c6fd5bb1-bf5d-4cfa-af5e-ad9ca3162d40</string><key>stan_name</key><string>中国银行杭州市开元支行</string><key>multi_info</key><string> </string><key>x</key><string>80120.6530</string><key>y</key><string>84147.3720</string></dict>
+<dict>
+<key>identifier</key><string>46766d59-3ead-4f3a-bdb3-5416291049fd</string><key>stan_name</key><string>杭州银行朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>80137.0030</string><key>y</key><string>84150.6350</string></dict>
+<dict>
+<key>identifier</key><string>18d11843-9ed4-4fa5-85b4-57d3513e495e</string><key>stan_name</key><string>中国工商银行艮山支行现代名苑储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80922.6870</string><key>y</key><string>85223.9970</string></dict>
+<dict>
+<key>identifier</key><string>cc279093-783d-40f5-9534-b8cd3cb824e2</string><key>stan_name</key><string>中国建设银行和平支行</string><key>multi_info</key><string> </string><key>x</key><string>80953.6930</string><key>y</key><string>85178.3440</string></dict>
+<dict>
+<key>identifier</key><string>70378b30-b3cb-4565-9586-1e3b78d4ffb9</string><key>stan_name</key><string>中国建设银行天水支行</string><key>multi_info</key><string> </string><key>x</key><string>80274.8950</string><key>y</key><string>84896.7220</string></dict>
+<dict>
+<key>identifier</key><string>783b3204-9061-4929-a6bb-d8fcb5dfa238</string><key>stan_name</key><string>中国农业银行新晖储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80101.7680</string><key>y</key><string>84824.2050</string></dict>
+<dict>
+<key>identifier</key><string>b7b25ba0-0409-4e8e-9594-fea246082d21</string><key>stan_name</key><string>华夏银行和平支行</string><key>multi_info</key><string> </string><key>x</key><string>81145.5990</string><key>y</key><string>85163.7940</string></dict>
+<dict>
+<key>identifier</key><string>5db87e54-fe3c-43d3-bef8-86718add8875</string><key>stan_name</key><string>中国邮政杭氧邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80934.8080</string><key>y</key><string>86399.4890</string></dict>
+<dict>
+<key>identifier</key><string>a6004c9b-0cdf-4384-a18a-12b604c2b321</string><key>stan_name</key><string>杭州市商业银行东新支行</string><key>multi_info</key><string> </string><key>x</key><string>80939.8970</string><key>y</key><string>86335.0580</string></dict>
+<dict>
+<key>identifier</key><string>a9ca5867-cc61-4686-afb5-70306ed01e47</string><key>stan_name</key><string>杭州银行德胜支行</string><key>multi_info</key><string> </string><key>x</key><string>79335.8450</string><key>y</key><string>85845.1640</string></dict>
+<dict>
+<key>identifier</key><string>0e3f60c7-50e5-4444-a8ba-2fe8e2405eaf</string><key>stan_name</key><string>中国邮政德胜储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79353.5760</string><key>y</key><string>85612.6620</string></dict>
+<dict>
+<key>identifier</key><string>9517f5eb-92e5-455e-b8ee-c33c13c4a36c</string><key>stan_name</key><string>中国工商银行德胜支行</string><key>multi_info</key><string> </string><key>x</key><string>79750.9330</string><key>y</key><string>85804.0470</string></dict>
+<dict>
+<key>identifier</key><string>ee186e32-b73a-45a0-a60e-68ce1a769ac4</string><key>stan_name</key><string>中国工商银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>79224.23</string><key>y</key><string>85240.3840</string></dict>
+<dict>
+<key>identifier</key><string>44b6672b-5979-4bd4-9c91-536826165da5</string><key>stan_name</key><string>中国邮政朝晖储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79551.9430</string><key>y</key><string>84907.0370</string></dict>
+<dict>
+<key>identifier</key><string>73324249-e170-49d8-9d2d-2b858ccbd824</string><key>stan_name</key><string>中国工商银行杭州市朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>79726.8490</string><key>y</key><string>85111.74</string></dict>
+<dict>
+<key>identifier</key><string>824ad901-7426-40e1-8200-a0134b72ab33</string><key>stan_name</key><string>中国银行潮王支行</string><key>multi_info</key><string> </string><key>x</key><string>79770.99</string><key>y</key><string>85069.2540</string></dict>
+<dict>
+<key>identifier</key><string>28717a6f-9880-4d7f-986c-3ffc462a8bb3</string><key>stan_name</key><string>中国邮政杭州市朝晖支局储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79922.1410</string><key>y</key><string>84772.0410</string></dict>
+<dict>
+<key>identifier</key><string>06e24465-8dc6-4a88-9f3d-20e8b5014f0d</string><key>stan_name</key><string>中国工商银行朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>79666.4760</string><key>y</key><string>84661.4090</string></dict>
+<dict>
+<key>identifier</key><string>2df251fd-2869-479b-9c76-e3e6d9d30bd8</string><key>stan_name</key><string>中国邮政杭州市邮政局拱墅分局储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78350.0010</string><key>y</key><string>85350.2590</string></dict>
+<dict>
+<key>identifier</key><string>3e5c1e0a-684a-4dcb-a163-acdba2a74e8f</string><key>stan_name</key><string>中国农业银行杭州莫干山路支行</string><key>multi_info</key><string> </string><key>x</key><string>78208.6750</string><key>y</key><string>84795.1260</string></dict>
+<dict>
+<key>identifier</key><string>039668a0-62dd-4584-9e85-b044b80011aa</string><key>stan_name</key><string>中国邮政储蓄沈塘桥储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78537.9870</string><key>y</key><string>84217.3450</string></dict>
+<dict>
+<key>identifier</key><string>f7d91b4e-9b44-425d-9a2b-8c1d11151d1b</string><key>stan_name</key><string>杭州联合银行祥符支行塘河分理处</string><key>multi_info</key><string> </string><key>x</key><string>77381.9340</string><key>y</key><string>85770.1460</string></dict>
+<dict>
+<key>identifier</key><string>9e810cd5-5d0a-46a3-a086-e3dac9e93ecf</string><key>stan_name</key><string>中国邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77025.0960</string><key>y</key><string>84349.9450</string></dict>
+<dict>
+<key>identifier</key><string>ccb88dc4-5c70-40f4-abde-038aa8b8cbb8</string><key>stan_name</key><string>中国工商银行杭州市武林支行半道红储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79030.1160</string><key>y</key><string>83805.1280</string></dict>
+<dict>
+<key>identifier</key><string>35a79cd6-f5b0-421b-9cfb-d94b57c2a484</string><key>stan_name</key><string>中国工商银行杭州市高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76753.4980</string><key>y</key><string>84377.6460</string></dict>
+<dict>
+<key>identifier</key><string>2a93dbfb-f787-4186-9d9f-6e3dbc4ddd10</string><key>stan_name</key><string>中国工商银行杭州市西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79920.8370</string><key>y</key><string>81480.7470</string></dict>
+<dict>
+<key>identifier</key><string>410d1686-ebac-48ea-9eaf-b96dd258bb7f</string><key>stan_name</key><string>中国工商银行杭州市高新支行教工路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77126.2520</string><key>y</key><string>84454.6670</string></dict>
+<dict>
+<key>identifier</key><string>2ebb4179-4c58-4c57-bf40-a39be539991b</string><key>stan_name</key><string>中国工商银行杭州市高新支行益乐分理处</string><key>multi_info</key><string> </string><key>x</key><string>75821.6970</string><key>y</key><string>84930.73</string></dict>
+<dict>
+<key>identifier</key><string>898d4bff-3a8d-449b-b9af-5c29ac3974eb</string><key>stan_name</key><string>中国工商银行杭州市高新支行日晖储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78378.9180</string><key>y</key><string>84384.0860</string></dict>
+<dict>
+<key>identifier</key><string>34497b77-8e21-4ad0-9dc2-3b891642ab3f</string><key>stan_name</key><string>中国工商银行杭州市保俶支行</string><key>multi_info</key><string> </string><key>x</key><string>78653.53</string><key>y</key><string>83236.8570</string></dict>
+<dict>
+<key>identifier</key><string>77df8768-bc29-4568-8109-d77b6ca4348e</string><key>stan_name</key><string>中国工商银行杭州市保俶支行孝丰分理处</string><key>multi_info</key><string> </string><key>x</key><string>79223.2070</string><key>y</key><string>82404.0160</string></dict>
+<dict>
+<key>identifier</key><string>b6bbe811-8894-4a03-bf67-aaa7fc9e2da3</string><key>stan_name</key><string>中国工商银行杭州市保俶支行求是储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>76277.3390</string><key>y</key><string>81957.0640</string></dict>
+<dict>
+<key>identifier</key><string>c52e061d-a823-4513-8633-013e361c1ad7</string><key>stan_name</key><string>中国工商银行杭州市城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81928.5610</string><key>y</key><string>80708.7910</string></dict>
+<dict>
+<key>identifier</key><string>45257494-943a-4441-b19d-22aa90d30873</string><key>stan_name</key><string>中国工商银行杭州葵巷支行</string><key>multi_info</key><string> </string><key>x</key><string>81477.5230</string><key>y</key><string>80775.4840</string></dict>
+<dict>
+<key>identifier</key><string>4d02e96e-e43c-4c51-8c9d-aea2baba34a8</string><key>stan_name</key><string>中国工商银行杭州市城站支行城站广场分理处</string><key>multi_info</key><string> </string><key>x</key><string>81759.3320</string><key>y</key><string>80174.0060</string></dict>
+<dict>
+<key>identifier</key><string>43cb57f8-929f-4858-8b16-8a7c0f4f7ce0</string><key>stan_name</key><string>中国工商银行杭州市城站支行小营巷分理处</string><key>multi_info</key><string> </string><key>x</key><string>81178.8980</string><key>y</key><string>81114.1170</string></dict>
+<dict>
+<key>identifier</key><string>03933e80-2eb7-426a-9325-012f810cda0c</string><key>stan_name</key><string>中国工商银行杭州市城站支行建国南路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81159.0410</string><key>y</key><string>79482.0550</string></dict>
+<dict>
+<key>identifier</key><string>a037bde2-1b91-434f-ac7e-c3ace541af7f</string><key>stan_name</key><string>中国工商银行杭州市艮山支行</string><key>multi_info</key><string> </string><key>x</key><string>81847.1520</string><key>y</key><string>83573.3180</string></dict>
+<dict>
+<key>identifier</key><string>08cd2e1a-ec65-468f-af49-0cb7ad47ef41</string><key>stan_name</key><string>中国工商银行杭州市艮山支行凯旋路分理处</string><key>multi_info</key><string> </string><key>x</key><string>82412.3360</string><key>y</key><string>83415.3910</string></dict>
+<dict>
+<key>identifier</key><string>2a4e3464-1161-4a01-b304-a315f7136ae3</string><key>stan_name</key><string>中国工商银行杭州市艮山支行宝善桥储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81535.8270</string><key>y</key><string>82993.2830</string></dict>
+<dict>
+<key>identifier</key><string>941b9b60-50d6-4872-a52b-3c10a5490509</string><key>stan_name</key><string>中国工商银行杭州清泰支行</string><key>multi_info</key><string> </string><key>x</key><string>82412.0640</string><key>y</key><string>80284.5860</string></dict>
+<dict>
+<key>identifier</key><string>25a99592-10c3-489e-add9-30e0ff60a326</string><key>stan_name</key><string>中国工商银行杭州经济技术开发区支行采荷东区储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>83465.9940</string><key>y</key><string>81278.2060</string></dict>
+<dict>
+<key>identifier</key><string>7df6aba7-d44c-48a9-a951-ce3d85460c88</string><key>stan_name</key><string>中国工商银行杭州市朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>80203.7190</string><key>y</key><string>83661.6640</string></dict>
+<dict>
+<key>identifier</key><string>6815e46f-36b1-4110-8331-887fee8e06d6</string><key>stan_name</key><string>中国工商银行杭州市朝晖支行朝晖一区储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79963.2080</string><key>y</key><string>84329.9780</string></dict>
+<dict>
+<key>identifier</key><string>b94bb2a8-6b80-4f53-aabc-c2a2adbe2792</string><key>stan_name</key><string>中国农业银行浙江省分行营业部营业中心</string><key>multi_info</key><string> </string><key>x</key><string>81859.8340</string><key>y</key><string>81653.8710</string></dict>
+<dict>
+<key>identifier</key><string>321ed42d-43ba-4e0c-9cb6-5af8697c2fa2</string><key>stan_name</key><string>中国农业银行浙江省分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>81859.8340</string><key>y</key><string>81653.8710</string></dict>
+<dict>
+<key>identifier</key><string>f470a2de-1838-410f-94b7-c0421b33fcda</string><key>stan_name</key><string>中国农业银行杭州市城东之行</string><key>multi_info</key><string> </string><key>x</key><string>81904.0520</string><key>y</key><string>81646.85</string></dict>
+<dict>
+<key>identifier</key><string>4e041abf-2c82-4353-8ed8-9dc047060240</string><key>stan_name</key><string>中国农业银行湖滨支行</string><key>multi_info</key><string> </string><key>x</key><string>79976.6680</string><key>y</key><string>81350.2920</string></dict>
+<dict>
+<key>identifier</key><string>aabd08bd-4bb4-4f2f-bf95-f1097d6ffeb7</string><key>stan_name</key><string>杭州市商业银行和平支行</string><key>multi_info</key><string> </string><key>x</key><string>81024.9840</string><key>y</key><string>87202.25</string></dict>
+<dict>
+<key>identifier</key><string>c8a09e01-f866-4e45-9d01-6225651847d8</string><key>stan_name</key><string>杭州市商业银行朝晖支行</string><key>multi_info</key><string> </string><key>x</key><string>80088.9380</string><key>y</key><string>83855.7030</string></dict>
+<dict>
+<key>identifier</key><string>317886a8-d598-42ee-874f-a54f4a243af0</string><key>stan_name</key><string>杭州市商业银行华成支行</string><key>multi_info</key><string> </string><key>x</key><string>79482.3590</string><key>y</key><string>82655.5520</string></dict>
+<dict>
+<key>identifier</key><string>07cddf36-b2bc-44ac-94c8-dace67d2338c</string><key>stan_name</key><string>杭州市商业银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78442.9330</string><key>y</key><string>83245.1240</string></dict>
+<dict>
+<key>identifier</key><string>a964a5ce-145f-4826-ba34-d81891cf4b6d</string><key>stan_name</key><string>杭州市商业银行延安支行</string><key>multi_info</key><string> </string><key>x</key><string>77118.5160</string><key>y</key><string>82893.7730</string></dict>
+<dict>
+<key>identifier</key><string>7dbcd618-f79f-409c-bbb5-f1ea3c79ddbf</string><key>stan_name</key><string>杭州市商业银行城西支行</string><key>multi_info</key><string> </string><key>x</key><string>74137.0280</string><key>y</key><string>83609.2160</string></dict>
+<dict>
+<key>identifier</key><string>b5f89066-8c2f-4c11-8f8a-967e550ff4a2</string><key>stan_name</key><string>杭州市商业银行益乐支行</string><key>multi_info</key><string> </string><key>x</key><string>75018.4260</string><key>y</key><string>84966.4190</string></dict>
+<dict>
+<key>identifier</key><string>fbfdc804-55ef-4f46-b47f-87edf9f7971c</string><key>stan_name</key><string>杭州市商业银行之江支行</string><key>multi_info</key><string> </string><key>x</key><string>80379.0860</string><key>y</key><string>79946.3050</string></dict>
+<dict>
+<key>identifier</key><string>ab0276b4-99df-417c-b2a1-b55a75bb4188</string><key>stan_name</key><string>杭州市商业银行官巷口支行</string><key>multi_info</key><string> </string><key>x</key><string>80346.9920</string><key>y</key><string>80811.3660</string></dict>
+<dict>
+<key>identifier</key><string>aba9c364-aec6-4742-ad1f-f0d7e3e50ab8</string><key>stan_name</key><string>杭州市商业银行解放路支行</string><key>multi_info</key><string> </string><key>x</key><string>81746.4360</string><key>y</key><string>80726.0980</string></dict>
+<dict>
+<key>identifier</key><string>e9ad0f70-5606-4ed9-b922-a3b4eabdd723</string><key>stan_name</key><string>杭州市商业银行南星支行</string><key>multi_info</key><string> </string><key>x</key><string>80944.6950</string><key>y</key><string>77051.3120</string></dict>
+<dict>
+<key>identifier</key><string>bb782df9-346d-47ec-9f22-f11786d48149</string><key>stan_name</key><string>杭州市商业银行秋涛支行</string><key>multi_info</key><string> </string><key>x</key><string>83375.8830</string><key>y</key><string>82197.1880</string></dict>
+<dict>
+<key>identifier</key><string>1395fcd3-303a-48cc-bdb1-44651919f36e</string><key>stan_name</key><string>杭州市商业银行四季青支行</string><key>multi_info</key><string> </string><key>x</key><string>82807.9880</string><key>y</key><string>80332.5420</string></dict>
+<dict>
+<key>identifier</key><string>824ec753-3557-4a0b-b86e-9410d70ad950</string><key>stan_name</key><string>杭州市商业银行笕桥支行</string><key>multi_info</key><string> </string><key>x</key><string>83267.8440</string><key>y</key><string>84857.1020</string></dict>
+<dict>
+<key>identifier</key><string>25638156-7791-4404-bf7f-106dc5890c43</string><key>stan_name</key><string>杭州市商业银行采荷支行</string><key>multi_info</key><string> </string><key>x</key><string>83487.4750</string><key>y</key><string>81238.2610</string></dict>
+<dict>
+<key>identifier</key><string>e89018c3-5a17-4b02-b814-2d86402215e6</string><key>stan_name</key><string>杭州市商业银行大关支行</string><key>multi_info</key><string> </string><key>x</key><string>77353.0060</string><key>y</key><string>86317.8270</string></dict>
+<dict>
+<key>identifier</key><string>3264de8b-7ea7-45de-b95b-d32a97c0789f</string><key>stan_name</key><string>杭州市商业银行市府大楼支行</string><key>multi_info</key><string> </string><key>x</key><string>79012.0920</string><key>y</key><string>83431.5260</string></dict>
+<dict>
+<key>identifier</key><string>882448dc-0da6-47d2-a538-2e251b40dc28</string><key>stan_name</key><string>杭州市商业银行城北支行</string><key>multi_info</key><string> </string><key>x</key><string>76139.98</string><key>y</key><string>87039.19</string></dict>
+<dict>
+<key>identifier</key><string>ab2fb4a1-c0e5-4375-b686-665b35eebd8b</string><key>stan_name</key><string>杭州市商业银行湖墅支行</string><key>multi_info</key><string> </string><key>x</key><string>78307.9770</string><key>y</key><string>85422.5940</string></dict>
+<dict>
+<key>identifier</key><string>2eb6edbb-dde4-4f6d-bc80-24e4b8f3da1d</string><key>stan_name</key><string>杭州市商业银行浣沙支行</string><key>multi_info</key><string> </string><key>x</key><string>80337.7360</string><key>y</key><string>81653.0570</string></dict>
+<dict>
+<key>identifier</key><string>ea50d333-df57-4fe8-a711-1a6125a2d521</string><key>stan_name</key><string>杭州市商业银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79371.3830</string><key>y</key><string>82203.0970</string></dict>
+<dict>
+<key>identifier</key><string>fcc10e76-ef17-4d32-9e50-62b7caae920c</string><key>stan_name</key><string>杭州市商业银行南山支行</string><key>multi_info</key><string> </string><key>x</key><string>79544.0260</string><key>y</key><string>80100.7820</string></dict>
+<dict>
+<key>identifier</key><string>387a93b8-852b-4fd5-a6b8-38ae6fe68b44</string><key>stan_name</key><string>杭州市商业银行北山支行</string><key>multi_info</key><string> </string><key>x</key><string>78283.45</string><key>y</key><string>82724.7630</string></dict>
+<dict>
+<key>identifier</key><string>3d2a91f1-402e-4486-a830-c75c5e18e651</string><key>stan_name</key><string>杭州市商业银行西苑支行</string><key>multi_info</key><string> </string><key>x</key><string>75934.6320</string><key>y</key><string>83669.2910</string></dict>
+<dict>
+<key>identifier</key><string>61856f38-4113-4bea-8a33-8e5250101e95</string><key>stan_name</key><string>杭州市商业银行西溪支行</string><key>multi_info</key><string> </string><key>x</key><string>78127.3750</string><key>y</key><string>83805.1950</string></dict>
+<dict>
+<key>identifier</key><string>4ba29519-0834-428b-b51b-85cc21f20a8b</string><key>stan_name</key><string>杭州市商业银行江城支行</string><key>multi_info</key><string> </string><key>x</key><string>81100.8720</string><key>y</key><string>79107.2080</string></dict>
+<dict>
+<key>identifier</key><string>8a9d1227-fe46-4710-b0d1-2f4ee54772f4</string><key>stan_name</key><string>杭州市商业银行开源支行</string><key>multi_info</key><string> </string><key>x</key><string>80261.6650</string><key>y</key><string>81160.5610</string></dict>
+<dict>
+<key>identifier</key><string>9459a0cf-c0ec-4343-8689-ccb3313ef9aa</string><key>stan_name</key><string>杭州市商业银行庆春支行</string><key>multi_info</key><string> </string><key>x</key><string>80963.8310</string><key>y</key><string>81402.2720</string></dict>
+<dict>
+<key>identifier</key><string>0d4947bc-3563-471d-8580-b57741102875</string><key>stan_name</key><string>杭州联合农村合作银行丁桥支行三星分理处</string><key>multi_info</key><string> </string><key>x</key><string>86688.87</string><key>y</key><string>93792.65</string></dict>
+<dict>
+<key>identifier</key><string>6a89d628-a914-40d3-8114-51ba382302a7</string><key>stan_name</key><string>中国工商银行保俶支行东山弄储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>76474.4930</string><key>y</key><string>81560.0490</string></dict>
+<dict>
+<key>identifier</key><string>9101c33c-a2ea-4202-bd32-1858d2927f9d</string><key>stan_name</key><string>中国农业银行浙大支行</string><key>multi_info</key><string> </string><key>x</key><string>76452.8090</string><key>y</key><string>81813.6120</string></dict>
+<dict>
+<key>identifier</key><string>973d14b4-cdd1-4555-b4d1-a0c6573b9fb6</string><key>stan_name</key><string>杭州市商业银行</string><key>multi_info</key><string> </string><key>x</key><string>76438.7160</string><key>y</key><string>81758.5980</string></dict>
+<dict>
+<key>identifier</key><string>904d8370-23dd-4849-bb83-81374d3e367b</string><key>stan_name</key><string>中国工商银行杭州曙光路支行</string><key>multi_info</key><string> </string><key>x</key><string>78277.1620</string><key>y</key><string>82602.2260</string></dict>
+<dict>
+<key>identifier</key><string>605031ba-1e55-442b-a73a-74a26a1a96d7</string><key>stan_name</key><string>宁波银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>78369.4590</string><key>y</key><string>82509.4730</string></dict>
+<dict>
+<key>identifier</key><string>95966baa-bed1-47b4-a727-74d5e91dedc5</string><key>stan_name</key><string>中国工商银行杭州文三路支行</string><key>multi_info</key><string> </string><key>x</key><string>78020.4970</string><key>y</key><string>83806.1610</string></dict>
+<dict>
+<key>identifier</key><string>4b35eb8a-899f-4f34-9179-b7b37c4b28ef</string><key>stan_name</key><string>杭州银行西溪支行</string><key>multi_info</key><string> </string><key>x</key><string>78216.7210</string><key>y</key><string>83822.4880</string></dict>
+<dict>
+<key>identifier</key><string>9a91c85f-5f4b-4208-bb4d-097e888842c6</string><key>stan_name</key><string>中国银行文三路分理处</string><key>multi_info</key><string> </string><key>x</key><string>78201.1630</string><key>y</key><string>83846.6330</string></dict>
+<dict>
+<key>identifier</key><string>31a13e15-ed32-4d6f-9830-2c3ae0163102</string><key>stan_name</key><string>中信银行杭州钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>78467.08</string><key>y</key><string>83856.1780</string></dict>
+<dict>
+<key>identifier</key><string>063f5163-7e4a-4f59-b503-546457104616</string><key>stan_name</key><string>中国民生银行杭州武林支行</string><key>multi_info</key><string> </string><key>x</key><string>78491.4410</string><key>y</key><string>83226.0790</string></dict>
+<dict>
+<key>identifier</key><string>dd16a694-1c10-4ca9-b05d-8ad41774a1c1</string><key>stan_name</key><string>华夏银行天目山路支行</string><key>multi_info</key><string> </string><key>x</key><string>78726.1580</string><key>y</key><string>83256.1310</string></dict>
+<dict>
+<key>identifier</key><string>30258273-d332-44c2-9688-caa6f963d48d</string><key>stan_name</key><string>中国民生银行杭州莫干山支行</string><key>multi_info</key><string> </string><key>x</key><string>78962.1310</string><key>y</key><string>83542.3220</string></dict>
+<dict>
+<key>identifier</key><string>8af8e30b-bd1c-4cb3-8d95-d7375f6a6319</string><key>stan_name</key><string>中国工商银行杭州西城支行莫干山路分理处</string><key>multi_info</key><string> </string><key>x</key><string>78971.0210</string><key>y</key><string>83523.9930</string></dict>
+<dict>
+<key>identifier</key><string>05a6811d-f1b7-410a-92d2-51f71d9dad65</string><key>stan_name</key><string>中国工商银行杭州朝晖支行和平储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81049.02</string><key>y</key><string>83906.7960</string></dict>
+<dict>
+<key>identifier</key><string>ce512b5a-25b8-4dd5-bd18-ed18ea585b44</string><key>stan_name</key><string>浙商银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>81251.6840</string><key>y</key><string>83944.0640</string></dict>
+<dict>
+<key>identifier</key><string>f5b9e32c-6e1a-4ada-8db1-91fbd78857f6</string><key>stan_name</key><string>中国农业银行城东支行</string><key>multi_info</key><string> </string><key>x</key><string>81318.8190</string><key>y</key><string>83704.38</string></dict>
+<dict>
+<key>identifier</key><string>02d502d8-7412-4727-b571-25b4487256cc</string><key>stan_name</key><string>中国银行艮山门支行</string><key>multi_info</key><string> </string><key>x</key><string>81801.6950</string><key>y</key><string>83862.3860</string></dict>
+<dict>
+<key>identifier</key><string>1e5c0f18-456f-45b6-a241-1beaf33c2b57</string><key>stan_name</key><string>中国农业银行杭州艮山支行</string><key>multi_info</key><string> </string><key>x</key><string>81605.8590</string><key>y</key><string>83442.3680</string></dict>
+<dict>
+<key>identifier</key><string>cd7df077-80af-457e-b2bb-dbf95e8cc3bb</string><key>stan_name</key><string>中国邮政艮山门邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81518.6130</string><key>y</key><string>83528.3430</string></dict>
+<dict>
+<key>identifier</key><string>283a9bbf-e5de-4d9e-916c-10ab97733555</string><key>stan_name</key><string>中国邮政涌金门邮政所</string><key>multi_info</key><string> </string><key>x</key><string>79751.3650</string><key>y</key><string>80141.3170</string></dict>
+<dict>
+<key>identifier</key><string>49bd857f-81db-4a1e-a21e-128fc7e83f19</string><key>stan_name</key><string>兴业银行杭州湖滨支行</string><key>multi_info</key><string> </string><key>x</key><string>79750.6650</string><key>y</key><string>80156.4190</string></dict>
+<dict>
+<key>identifier</key><string>d60ca714-471a-4c00-b848-9a79847461c0</string><key>stan_name</key><string>中国银行杭州涌金支行</string><key>multi_info</key><string> </string><key>x</key><string>79750.7860</string><key>y</key><string>80188.54</string></dict>
+<dict>
+<key>identifier</key><string>980c568d-c0fa-4cbc-ba7c-71063c3d3fbf</string><key>stan_name</key><string>中国民生银行杭州涌金支行</string><key>multi_info</key><string> </string><key>x</key><string>79894.1160</string><key>y</key><string>80235.4140</string></dict>
+<dict>
+<key>identifier</key><string>00a0f81a-a33e-47cd-acbd-c8e51cf3e0ea</string><key>stan_name</key><string>中国银行国都分行</string><key>multi_info</key><string> </string><key>x</key><string>80442.6590</string><key>y</key><string>83747.1660</string></dict>
+<dict>
+<key>identifier</key><string>504f510c-d51c-4906-9b94-502e79398655</string><key>stan_name</key><string>中国民生银行</string><key>multi_info</key><string> </string><key>x</key><string>80404.3560</string><key>y</key><string>83663.5580</string></dict>
+<dict>
+<key>identifier</key><string>4b5d7e7c-3c00-4d31-828d-11e221d83171</string><key>stan_name</key><string>招商银行杭州深蓝支行</string><key>multi_info</key><string> </string><key>x</key><string>80389.1940</string><key>y</key><string>83611.4640</string></dict>
+<dict>
+<key>identifier</key><string>8c59db45-0a93-4a89-ab91-5e75c07d0342</string><key>stan_name</key><string>中国农业银行杭州嘉汇支行</string><key>multi_info</key><string> </string><key>x</key><string>80539.2370</string><key>y</key><string>83751.4740</string></dict>
+<dict>
+<key>identifier</key><string>b7b3b6a8-0941-4d3e-ba13-28c4c7f034bc</string><key>stan_name</key><string>杭州市商业银行保俶支行</string><key>multi_info</key><string> </string><key>x</key><string>78518.8130</string><key>y</key><string>82353.9680</string></dict>
+<dict>
+<key>identifier</key><string>61105df2-1c5e-4198-944a-51b3a2ec88f2</string><key>stan_name</key><string>中国邮政保俶邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>78579.0990</string><key>y</key><string>82315.4830</string></dict>
+<dict>
+<key>identifier</key><string>050ca67f-128b-401b-a211-17075efeeb9e</string><key>stan_name</key><string>中国建设银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78659.0830</string><key>y</key><string>82236.5340</string></dict>
+<dict>
+<key>identifier</key><string>e300be95-7a12-40ea-93a9-5777bea02453</string><key>stan_name</key><string>中国建设银行杭州西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78616.0770</string><key>y</key><string>82178.4710</string></dict>
+<dict>
+<key>identifier</key><string>127627de-fed3-4fec-bfab-683395fcc635</string><key>stan_name</key><string>中国邮政延安路邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>79895.4940</string><key>y</key><string>82315.7870</string></dict>
+<dict>
+<key>identifier</key><string>a12e56d9-4cc8-46af-afb3-098b891c07b0</string><key>stan_name</key><string>渤海银行杭州分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>79979.1620</string><key>y</key><string>82314.7830</string></dict>
+<dict>
+<key>identifier</key><string>7acb4c33-6ac5-4c4d-a86f-f38a5cbada8e</string><key>stan_name</key><string>浙商银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79697.0470</string><key>y</key><string>81685.38</string></dict>
+<dict>
+<key>identifier</key><string>c57e3512-6c54-486a-bb41-45bcff771ffd</string><key>stan_name</key><string>中国工商银行杭州延中支行</string><key>multi_info</key><string> </string><key>x</key><string>79916.2660</string><key>y</key><string>81742.21</string></dict>
+<dict>
+<key>identifier</key><string>992b2252-39dd-4461-b78a-2db2a5defbe0</string><key>stan_name</key><string>中国农业银行杭州和平支行</string><key>multi_info</key><string> </string><key>x</key><string>81399.4890</string><key>y</key><string>82985.57</string></dict>
+<dict>
+<key>identifier</key><string>8c738913-69dd-4c51-9c40-72a3941d584f</string><key>stan_name</key><string>中国工商银行杭州建国北路支行</string><key>multi_info</key><string> </string><key>x</key><string>81493.4030</string><key>y</key><string>82873.4490</string></dict>
+<dict>
+<key>identifier</key><string>78e68f60-0f0a-4203-a028-a3a3868d21e3</string><key>stan_name</key><string>中国工商银行杭州庆春路支行体东储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81540.0180</string><key>y</key><string>82994.8720</string></dict>
+<dict>
+<key>identifier</key><string>d919e12a-ccd9-42a2-af70-aa9b596338c8</string><key>stan_name</key><string>中国工商银行杭州庆春路支行体东储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81538.0840</string><key>y</key><string>82994.8260</string></dict>
+<dict>
+<key>identifier</key><string>8b163db5-2caa-43c0-8061-968fd96fc721</string><key>stan_name</key><string>中国邮政宝善邮政所</string><key>multi_info</key><string> </string><key>x</key><string>81522.5260</string><key>y</key><string>82992.9380</string></dict>
+<dict>
+<key>identifier</key><string>498ae9a5-bfbf-46c3-95c5-b49cfb85ac1b</string><key>stan_name</key><string>中国农业银行杭州西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>78996.1630</string><key>y</key><string>83033.5620</string></dict>
+<dict>
+<key>identifier</key><string>c479997b-598b-48da-92a6-cb76b3a50f75</string><key>stan_name</key><string>中国工商银行杭州武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79238.9360</string><key>y</key><string>82979.0740</string></dict>
+<dict>
+<key>identifier</key><string>821a4fc1-e696-449a-874c-827ff7600c3f</string><key>stan_name</key><string>上海浦东发展银行杭州保俶支行</string><key>multi_info</key><string> </string><key>x</key><string>79093.3540</string><key>y</key><string>82953.7110</string></dict>
+<dict>
+<key>identifier</key><string>4893a7d0-66cc-42c4-b9c0-125869553936</string><key>stan_name</key><string>邮政储蓄</string><key>multi_info</key><string> </string><key>x</key><string>88553.2160</string><key>y</key><string>91685.3590</string></dict>
+<dict>
+<key>identifier</key><string>4c74040a-3030-48d0-a699-c35f46a484d5</string><key>stan_name</key><string>大井农村信用社</string><key>multi_info</key><string> </string><key>x</key><string>89341.2480</string><key>y</key><string>91787.8940</string></dict>
+<dict>
+<key>identifier</key><string>27353618-0085-41aa-ac2c-b92d1ab5b14e</string><key>stan_name</key><string>余杭农村合作银行</string><key>multi_info</key><string> </string><key>x</key><string>92145.0210</string><key>y</key><string>91938.1930</string></dict>
+<dict>
+<key>identifier</key><string>146ca06b-79fd-4de0-b5ee-aba651684bc3</string><key>stan_name</key><string>中国邮政储蓄</string><key>multi_info</key><string> </string><key>x</key><string>92412.6990</string><key>y</key><string>91864.6860</string></dict>
+<dict>
+<key>identifier</key><string>bc754c01-6c49-4577-ab14-357caff59971</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>92464.9450</string><key>y</key><string>91800.80</string></dict>
+<dict>
+<key>identifier</key><string>56e79d5d-ec39-4d00-87f7-da70d45eb061</string><key>stan_name</key><string>中国光大银行武林路支行</string><key>multi_info</key><string> </string><key>x</key><string>79323.3320</string><key>y</key><string>82975.4010</string></dict>
+<dict>
+<key>identifier</key><string>37e076ed-bafa-45a1-98f3-9c4e5a383a73</string><key>stan_name</key><string>余杭农村合作银行</string><key>multi_info</key><string> </string><key>x</key><string>92389.4280</string><key>y</key><string>91977.5970</string></dict>
+<dict>
+<key>identifier</key><string>011a117f-af47-485f-afcb-0a5314bc299a</string><key>stan_name</key><string>中国建设银行</string><key>multi_info</key><string> </string><key>x</key><string>92426.5980</string><key>y</key><string>91951.0470</string></dict>
+<dict>
+<key>identifier</key><string>f56d3d12-e223-4629-9cd7-ac7eba238e00</string><key>stan_name</key><string>乔司农场储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>93699.7560</string><key>y</key><string>91499.3790</string></dict>
+<dict>
+<key>identifier</key><string>8fc21dbe-ba22-4fb7-8373-a3fb8398eb18</string><key>stan_name</key><string>中国交通银行</string><key>multi_info</key><string> </string><key>x</key><string>91694.5590</string><key>y</key><string>89804.5560</string></dict>
+<dict>
+<key>identifier</key><string>63bd534f-ce9a-4f55-ae43-4d7e888d11e9</string><key>stan_name</key><string>农业银行</string><key>multi_info</key><string> </string><key>x</key><string>92857.8680</string><key>y</key><string>99195.73</string></dict>
+<dict>
+<key>identifier</key><string>f45dd34d-ec46-469a-8ef9-97a1bca860fb</string><key>stan_name</key><string>农业发展银行</string><key>multi_info</key><string> </string><key>x</key><string>92647.2420</string><key>y</key><string>99476.0120</string></dict>
+<dict>
+<key>identifier</key><string>4edb9dfb-2acf-4731-87a5-1d8a59dd1685</string><key>stan_name</key><string>中国银行</string><key>multi_info</key><string> </string><key>x</key><string>92745.3760</string><key>y</key><string>99576.8810</string></dict>
+<dict>
+<key>identifier</key><string>5ac61b58-3257-4bf9-8b20-39bd53ead43a</string><key>stan_name</key><string>余杭工商银行</string><key>multi_info</key><string> </string><key>x</key><string>92697.6430</string><key>y</key><string>99776.9450</string></dict>
+<dict>
+<key>identifier</key><string>35ddfc42-6cfa-4cfb-ab7c-df85ca2f9e27</string><key>stan_name</key><string>商业银行</string><key>multi_info</key><string> </string><key>x</key><string>93086.2750</string><key>y</key><string>100250.4270</string></dict>
+<dict>
+<key>identifier</key><string>3421ac71-1b2b-4298-b66b-8e0c32f59d35</string><key>stan_name</key><string>浦发银行</string><key>multi_info</key><string> </string><key>x</key><string>93263.8970</string><key>y</key><string>99967.19</string></dict>
+<dict>
+<key>identifier</key><string>e7adbecf-97bd-4d78-a74a-e0642e704a68</string><key>stan_name</key><string>人民银行</string><key>multi_info</key><string> </string><key>x</key><string>93288.0960</string><key>y</key><string>100116.1580</string></dict>
+<dict>
+<key>identifier</key><string>6d5a955d-e3d5-442a-a87d-4fa961bc3c5e</string><key>stan_name</key><string>上海浦东发展银行</string><key>multi_info</key><string> </string><key>x</key><string>93267.9030</string><key>y</key><string>99971.1840</string></dict>
+<dict>
+<key>identifier</key><string>f4d311a2-6428-4205-a5b7-669d079377cf</string><key>stan_name</key><string>中国邮政储蓄</string><key>multi_info</key><string> </string><key>x</key><string>76349.8960</string><key>y</key><string>84947.01</string></dict>
+<dict>
+<key>identifier</key><string>c5223d87-b7b7-4863-924a-9e2b995902ce</string><key>stan_name</key><string>杭州联合银行古荡支行</string><key>multi_info</key><string> </string><key>x</key><string>76134.22</string><key>y</key><string>84883.9210</string></dict>
+<dict>
+<key>identifier</key><string>ad60ac2e-077a-46fc-8e50-a9be6fd3ec29</string><key>stan_name</key><string>广东发展银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>76195.1710</string><key>y</key><string>84356.4690</string></dict>
+<dict>
+<key>identifier</key><string>2052e912-b8ff-4eaf-a7a0-f7e6430f4119</string><key>stan_name</key><string>中国农业银行杭州小营支行</string><key>multi_info</key><string> </string><key>x</key><string>81064.6540</string><key>y</key><string>81324.2410</string></dict>
+<dict>
+<key>identifier</key><string>da7d4b63-1362-4e0b-b49e-757cb48d8f4d</string><key>stan_name</key><string>中国民生银行杭州支行</string><key>multi_info</key><string> </string><key>x</key><string>81790.3470</string><key>y</key><string>81576.8930</string></dict>
+<dict>
+<key>identifier</key><string>101c6537-f62a-4e0c-b0f1-28c11a203cc4</string><key>stan_name</key><string>中国银行杭州凯旋支行</string><key>multi_info</key><string> </string><key>x</key><string>81685.10</string><key>y</key><string>81589.8320</string></dict>
+<dict>
+<key>identifier</key><string>8768fc0d-48f9-45e9-a8ae-2f2f45470b69</string><key>stan_name</key><string>浙江稠州商业银行杭州支行</string><key>multi_info</key><string> </string><key>x</key><string>81479.5860</string><key>y</key><string>80828.4980</string></dict>
+<dict>
+<key>identifier</key><string>4d4e764b-8fce-4b71-bc5c-d9a5847e2408</string><key>stan_name</key><string>中国工商银行杭州市城站支行</string><key>multi_info</key><string> </string><key>x</key><string>81183.8160</string><key>y</key><string>81109.7280</string></dict>
+<dict>
+<key>identifier</key><string>5178e04a-5d98-4e47-95b4-fe4d476d5b5d</string><key>stan_name</key><string>交通银行杭州莫干山路支行</string><key>multi_info</key><string> </string><key>x</key><string>78151.3920</string><key>y</key><string>84943.3730</string></dict>
+<dict>
+<key>identifier</key><string>d7d30d4c-d7ab-4172-ba09-7fe0321fb510</string><key>stan_name</key><string>中国邮政储蓄新华储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81093.3110</string><key>y</key><string>82095.8540</string></dict>
+<dict>
+<key>identifier</key><string>689621c0-4fd5-44cd-ab2d-af65bcad9fcd</string><key>stan_name</key><string>中国农业发展银行浙江省分行</string><key>multi_info</key><string> </string><key>x</key><string>81464.3990</string><key>y</key><string>82256.1360</string></dict>
+<dict>
+<key>identifier</key><string>0a8cb041-f14f-42bc-bc7c-bc2bfee7750a</string><key>stan_name</key><string>中国农业银行杭州市凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>81577.9180</string><key>y</key><string>82364.6920</string></dict>
+<dict>
+<key>identifier</key><string>1e25aba9-d6d0-417e-97ed-a06e96c75925</string><key>stan_name</key><string>中国工商银行杭州市庆春路支行</string><key>multi_info</key><string> </string><key>x</key><string>81542.8620</string><key>y</key><string>82109.8240</string></dict>
+<dict>
+<key>identifier</key><string>36767aaa-3c96-4bb8-b1b9-db5ed7e066a8</string><key>stan_name</key><string>兴业银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>81661.8440</string><key>y</key><string>81651.5320</string></dict>
+<dict>
+<key>identifier</key><string>13d62a1b-c0f8-4b49-a76b-91463916fe5e</string><key>stan_name</key><string>兴业银行城西支行</string><key>multi_info</key><string> </string><key>x</key><string>74216.03</string><key>y</key><string>84863.3140</string></dict>
+<dict>
+<key>identifier</key><string>c4189c97-fbbe-462d-8a8a-6413ea319f76</string><key>stan_name</key><string>中国工商银行祥园路支行</string><key>multi_info</key><string> </string><key>x</key><string>74618.3750</string><key>y</key><string>90137.5070</string></dict>
+<dict>
+<key>identifier</key><string>975a85ce-3069-493c-8fd0-c97bae61f6fb</string><key>stan_name</key><string>杭州银行汽车城支行</string><key>multi_info</key><string> </string><key>x</key><string>75886.3640</string><key>y</key><string>89017.9410</string></dict>
+<dict>
+<key>identifier</key><string>2f6f1fd7-f098-4729-8578-fe24bf914923</string><key>stan_name</key><string>杭州联合银行祥符支行汽车城分理处</string><key>multi_info</key><string> </string><key>x</key><string>75790.14</string><key>y</key><string>88838.8930</string></dict>
+<dict>
+<key>identifier</key><string>b676bc72-24d6-4f00-a434-ac9de7c06e18</string><key>stan_name</key><string>中国农业银行汽车城支行</string><key>multi_info</key><string> </string><key>x</key><string>75575.80</string><key>y</key><string>88957.9870</string></dict>
+<dict>
+<key>identifier</key><string>2cfed30d-29bc-4418-9ee6-ad3d436a1528</string><key>stan_name</key><string>余杭农村合作银行良诸支行运河管理处</string><key>multi_info</key><string> </string><key>x</key><string>76718.0860</string><key>y</key><string>90989.64</string></dict>
+<dict>
+<key>identifier</key><string>3ae0d511-23ec-4472-b4bc-7a044b7071c5</string><key>stan_name</key><string>杭州市邮政局三墩邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>72874.3640</string><key>y</key><string>88932.47</string></dict>
+<dict>
+<key>identifier</key><string>ae0167af-cbb5-4479-9800-49d0a7f01796</string><key>stan_name</key><string>杭州联合银行新世纪分理处</string><key>multi_info</key><string> </string><key>x</key><string>72752.7970</string><key>y</key><string>89197.90</string></dict>
+<dict>
+<key>identifier</key><string>6610372d-36d3-4a86-81d7-8b3fe1e33c09</string><key>stan_name</key><string>杭州市邮政局三墩邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>72078.4380</string><key>y</key><string>88451.30</string></dict>
+<dict>
+<key>identifier</key><string>48bf3fa2-9f3f-42d7-aafb-ef0d350f1be8</string><key>stan_name</key><string>中国工商银行杭州城西支行亲亲家园储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>72375.3650</string><key>y</key><string>90048.94</string></dict>
+<dict>
+<key>identifier</key><string>15a1530c-9a59-4c7b-aa85-d9c025e77f4d</string><key>stan_name</key><string>中国银行紫金港分理处</string><key>multi_info</key><string> </string><key>x</key><string>73089.3410</string><key>y</key><string>86944.6170</string></dict>
+<dict>
+<key>identifier</key><string>6ada8e83-6778-407d-8e8d-a6f1222e0344</string><key>stan_name</key><string>杭州联合银行三墩支行</string><key>multi_info</key><string> </string><key>x</key><string>73287.40</string><key>y</key><string>87548.7420</string></dict>
+<dict>
+<key>identifier</key><string>bd9aac76-5df1-4b76-a27b-80f7ccf0f226</string><key>stan_name</key><string>杭州市邮政局和睦储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>76232.1810</string><key>y</key><string>87156.1140</string></dict>
+<dict>
+<key>identifier</key><string>d542bdbf-6d0c-4882-9727-36161f9a1f4c</string><key>stan_name</key><string>中国工商银行杭州运河支行</string><key>multi_info</key><string> </string><key>x</key><string>77837.5770</string><key>y</key><string>87324.2680</string></dict>
+<dict>
+<key>identifier</key><string>f8b13273-cd09-4ec0-9cb8-dfa6c750ab34</string><key>stan_name</key><string>交通银行杭州运河支行</string><key>multi_info</key><string> </string><key>x</key><string>77792.9910</string><key>y</key><string>87337.2550</string></dict>
+<dict>
+<key>identifier</key><string>794d17e4-946c-40de-aefb-bc077d3cd54d</string><key>stan_name</key><string>中国工商银行杭州拱宸支行</string><key>multi_info</key><string> </string><key>x</key><string>77814.6890</string><key>y</key><string>88488.2480</string></dict>
+<dict>
+<key>identifier</key><string>1760fc86-2128-4f8d-9e73-639014471cb4</string><key>stan_name</key><string>杭州市邮政局拱寰桥邮政局</string><key>multi_info</key><string> </string><key>x</key><string>77813.1740</string><key>y</key><string>88522.4810</string></dict>
+<dict>
+<key>identifier</key><string>0ef1139e-d2fa-4e62-93f4-1c866df7f689</string><key>stan_name</key><string>杭州联合农村合作银行上塘支行</string><key>multi_info</key><string> </string><key>x</key><string>78808.5380</string><key>y</key><string>86468.5430</string></dict>
+<dict>
+<key>identifier</key><string>402cc8a9-344b-4050-9620-3566a70bd182</string><key>stan_name</key><string>中国工商银行杭州上塘路支行</string><key>multi_info</key><string> </string><key>x</key><string>78451.8390</string><key>y</key><string>86853.3440</string></dict>
+<dict>
+<key>identifier</key><string>eb69ac83-687b-4fcc-9097-b2958c3bff22</string><key>stan_name</key><string>中国邮政储蓄大关东苑邮政所</string><key>multi_info</key><string> </string><key>x</key><string>79239.5670</string><key>y</key><string>86623.5040</string></dict>
+<dict>
+<key>identifier</key><string>1a00e1ba-a524-4f7d-acd2-d921b2df8051</string><key>stan_name</key><string>杭州联合银行祥符支行</string><key>multi_info</key><string> </string><key>x</key><string>74973.8170</string><key>y</key><string>87928.5920</string></dict>
+<dict>
+<key>identifier</key><string>f7bb48fe-8faf-4632-a90d-3a028b5db2b9</string><key>stan_name</key><string>康桥邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78263.96</string><key>y</key><string>93405.0710</string></dict>
+<dict>
+<key>identifier</key><string>4a3b1fbd-a6d5-498c-8a54-ec228b4d55f1</string><key>stan_name</key><string>中国农业银行杭州石祥路支行</string><key>multi_info</key><string> </string><key>x</key><string>77912.7360</string><key>y</key><string>89939.7380</string></dict>
+<dict>
+<key>identifier</key><string>3e12596d-b657-4263-9834-4710b1882778</string><key>stan_name</key><string>杭州市商业银行拱宸桥支行</string><key>multi_info</key><string> </string><key>x</key><string>77761.95</string><key>y</key><string>88549.68</string></dict>
+<dict>
+<key>identifier</key><string>49cb250a-d0b0-4a0b-93e5-6668756fd9c7</string><key>stan_name</key><string>中国农业银行杭州大关支行</string><key>multi_info</key><string> </string><key>x</key><string>78974.1950</string><key>y</key><string>87311.1560</string></dict>
+<dict>
+<key>identifier</key><string>acf2bbb1-92a0-4800-94d5-76e1f317af76</string><key>stan_name</key><string>杭州艮山支行三里亭储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82463.0320</string><key>y</key><string>85780.1970</string></dict>
+<dict>
+<key>identifier</key><string>6b12755e-69f5-4731-a059-5edb3317f418</string><key>stan_name</key><string>杭州市邮政局下城区局闸弄口邮政所</string><key>multi_info</key><string> </string><key>x</key><string>82831.6290</string><key>y</key><string>83874.0560</string></dict>
+<dict>
+<key>identifier</key><string>62211c58-ead8-4149-8618-206953831fd4</string><key>stan_name</key><string>中国农业银行农大储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82549.72</string><key>y</key><string>82556.2090</string></dict>
+<dict>
+<key>identifier</key><string>7420176d-060c-49d7-9542-dc502e32c06c</string><key>stan_name</key><string>杭州市南肖埠支行</string><key>multi_info</key><string> </string><key>x</key><string>82909.6470</string><key>y</key><string>82257.46</string></dict>
+<dict>
+<key>identifier</key><string>a1634e41-43b9-43b1-bf42-dfa24b6659b7</string><key>stan_name</key><string>北京银行杭州分行</string><key>multi_info</key><string> </string><key>x</key><string>82657.6770</string><key>y</key><string>81624.9270</string></dict>
+<dict>
+<key>identifier</key><string>355ddde0-45d6-4459-870d-59de5db00785</string><key>stan_name</key><string>杭州市庆春支行</string><key>multi_info</key><string> </string><key>x</key><string>82764.5070</string><key>y</key><string>81604.0430</string></dict>
+<dict>
+<key>identifier</key><string>c7c3f9ff-6423-4d5a-8e59-99d88409c0c5</string><key>stan_name</key><string>中国工商银行杭州市武林支行金晖分理处</string><key>multi_info</key><string> </string><key>x</key><string>79906.1170</string><key>y</key><string>84161.5450</string></dict>
+<dict>
+<key>identifier</key><string>9a4a5a12-473e-4882-aa6e-469663063943</string><key>stan_name</key><string>中国建设银行文晖支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>78682.41</string><key>y</key><string>84633.95</string></dict>
+<dict>
+<key>identifier</key><string>3adaf01c-bfd8-4e46-9522-cc003acd97d2</string><key>stan_name</key><string>中国建设银行文晖支行仓基上储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78358.13</string><key>y</key><string>85440.68</string></dict>
+<dict>
+<key>identifier</key><string>5e1bc24a-26d3-44f7-a9af-f38b2fc47504</string><key>stan_name</key><string>中国建设银行吴山支行惠民路分理处</string><key>multi_info</key><string> </string><key>x</key><string>80450.6140</string><key>y</key><string>79934.0070</string></dict>
+<dict>
+<key>identifier</key><string>954b1dee-78ef-499c-bf53-57ceadd08228</string><key>stan_name</key><string>中国建设银行吴山支行国安分理处</string><key>multi_info</key><string> </string><key>x</key><string>80343.8710</string><key>y</key><string>80621.8780</string></dict>
+<dict>
+<key>identifier</key><string>904cb943-f67c-4984-b5e6-c4aa20411706</string><key>stan_name</key><string>中国建设银行钱江支行景佳分理处</string><key>multi_info</key><string> </string><key>x</key><string>83433.0270</string><key>y</key><string>82732.6180</string></dict>
+<dict>
+<key>identifier</key><string>8d26f2d5-182a-4ccb-a6e1-a2606592e49c</string><key>stan_name</key><string>中国建设银行文晖支行运河分理处</string><key>multi_info</key><string> </string><key>x</key><string>77833.2230</string><key>y</key><string>88093.73</string></dict>
+<dict>
+<key>identifier</key><string>fed8f574-bd12-41e8-bc59-40f3fd36ccf4</string><key>stan_name</key><string>中国建设银行高新支行文一路分理处</string><key>multi_info</key><string> </string><key>x</key><string>78032.40</string><key>y</key><string>85070.80</string></dict>
+<dict>
+<key>identifier</key><string>83e72860-e514-4452-a53f-99e1c88e3391</string><key>stan_name</key><string>中国建设银行文晖支行钱江分理处</string><key>multi_info</key><string> </string><key>x</key><string>77514.9260</string><key>y</key><string>85879.2520</string></dict>
+<dict>
+<key>identifier</key><string>29ce5734-20d3-40ed-83ba-1d2df1f0048d</string><key>stan_name</key><string>中国建设银行文晖支行大关分理处</string><key>multi_info</key><string> </string><key>x</key><string>79343.0960</string><key>y</key><string>86657.0290</string></dict>
+<dict>
+<key>identifier</key><string>d73907ac-0175-48c5-ad19-7612aa31e74a</string><key>stan_name</key><string>中国建设银行延安支行营业部</string><key>multi_info</key><string> </string><key>x</key><string>79955.0940</string><key>y</key><string>81907.82</string></dict>
+<dict>
+<key>identifier</key><string>5b60560e-165d-4163-a79b-44af15d2d150</string><key>stan_name</key><string>中国建设银行吴山支行中河路分理处</string><key>multi_info</key><string> </string><key>x</key><string>80599.30</string><key>y</key><string>81298.2990</string></dict>
+<dict>
+<key>identifier</key><string>6bea5df8-27c1-4e05-b512-7fed86d5f600</string><key>stan_name</key><string>中国建设银行庆春支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>81109.2810</string><key>y</key><string>81643.0390</string></dict>
+<dict>
+<key>identifier</key><string>1d17cd7a-d25d-49d0-82ca-75197073d597</string><key>stan_name</key><string>中国建设银行庆春支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>81109.2810</string><key>y</key><string>81643.0390</string></dict>
+<dict>
+<key>identifier</key><string>78b02601-8482-4ab0-bd33-89d849edc1db</string><key>stan_name</key><string>中国建设银行宝石支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>78535.2640</string><key>y</key><string>82763.64</string></dict>
+<dict>
+<key>identifier</key><string>1860be5f-f1ea-4677-a660-54d6885d0a01</string><key>stan_name</key><string>中国建设银行高新支行文二路分理处</string><key>multi_info</key><string> </string><key>x</key><string>77963.7650</string><key>y</key><string>84410.0450</string></dict>
+<dict>
+<key>identifier</key><string>a905ab36-b7e0-4355-a5db-2395c0d81d9e</string><key>stan_name</key><string>中国建设银行滨江支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>84862.57</string><key>y</key><string>76059.8830</string></dict>
+<dict>
+<key>identifier</key><string>f0aa3160-9182-4fc0-97ba-1ed273a7c637</string><key>stan_name</key><string>中国建设银行文三路支行营业部</string><key>multi_info</key><string> </string><key>x</key><string>78402.1550</string><key>y</key><string>83781.7410</string></dict>
+<dict>
+<key>identifier</key><string>d1c12436-ac17-4c66-bf99-41c5060f957c</string><key>stan_name</key><string>中国建设银行秋涛支行通江桥分理处</string><key>multi_info</key><string> </string><key>x</key><string>80545.5780</string><key>y</key><string>79129.8050</string></dict>
+<dict>
+<key>identifier</key><string>7b3dc35e-8774-483b-b61a-fe64523f9a7f</string><key>stan_name</key><string>中国建设银行杭州江南大道分理处</string><key>multi_info</key><string> </string><key>x</key><string>79711.5880</string><key>y</key><string>73365.3730</string></dict>
+<dict>
+<key>identifier</key><string>f109be22-2eac-4e0c-8f4e-74aaf84d9b0b</string><key>stan_name</key><string>中国建设银行文晖支行文华路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>73859.0610</string><key>y</key><string>84794.9630</string></dict>
+<dict>
+<key>identifier</key><string>55c79488-2619-4155-b1c5-51ca95d57338</string><key>stan_name</key><string>中国建设银行天水支行武林路分理处</string><key>multi_info</key><string> </string><key>x</key><string>79459.1370</string><key>y</key><string>82851.7110</string></dict>
+<dict>
+<key>identifier</key><string>56f92d4a-9fed-4686-8e98-cd3be0c33a45</string><key>stan_name</key><string>中国建设银行经济技术开发区支支行</string><key>multi_info</key><string> </string><key>x</key><string>97204.5440</string><key>y</key><string>86686.7620</string></dict>
+<dict>
+<key>identifier</key><string>e4e598ed-51c4-449c-ad28-7ef594fcf11c</string><key>stan_name</key><string>中国建设银行吴山支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>79975.8120</string><key>y</key><string>80157.4990</string></dict>
+<dict>
+<key>identifier</key><string>cd2a68bc-f051-4222-b3ae-a834b01fda22</string><key>stan_name</key><string>中国建设银行中山支行营业部</string><key>multi_info</key><string> </string><key>x</key><string>80349.0670</string><key>y</key><string>82310.6280</string></dict>
+<dict>
+<key>identifier</key><string>052638cb-cf31-467a-b8b9-29204b760a22</string><key>stan_name</key><string>中国建设银行宝石支行建中分理处</string><key>multi_info</key><string> </string><key>x</key><string>81538.9410</string><key>y</key><string>81478.0660</string></dict>
+<dict>
+<key>identifier</key><string>1e3a505e-323d-4491-9224-f87f10b460ff</string><key>stan_name</key><string>中国建设银行秋涛支行江城分理处</string><key>multi_info</key><string> </string><key>x</key><string>81200.1610</string><key>y</key><string>79276.0470</string></dict>
+<dict>
+<key>identifier</key><string>dce9faf7-4bde-492b-9deb-8393d12567ec</string><key>stan_name</key><string>中国建设银行高新支行九莲分理处</string><key>multi_info</key><string> </string><key>x</key><string>76957.0540</string><key>y</key><string>83768.2480</string></dict>
+<dict>
+<key>identifier</key><string>45ccb6bb-fb4d-46df-9ef6-d34a1f37e4b0</string><key>stan_name</key><string>中国建设银行高新支行文华分理处</string><key>multi_info</key><string> </string><key>x</key><string>74899.2420</string><key>y</key><string>84799.2960</string></dict>
+<dict>
+<key>identifier</key><string>05f0a677-a29f-4f11-ac14-b6df3a3cf576</string><key>stan_name</key><string>中国建设银行宝石支行东山弄分理处</string><key>multi_info</key><string> </string><key>x</key><string>76472.5970</string><key>y</key><string>81796.4250</string></dict>
+<dict>
+<key>identifier</key><string>2870e756-ddd7-4a55-aec5-fc90371cabad</string><key>stan_name</key><string>中国建设银行滨江支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>84862.57</string><key>y</key><string>76059.8830</string></dict>
+<dict>
+<key>identifier</key><string>5c2f06d6-052e-429c-8b49-f0641533f8e9</string><key>stan_name</key><string>招商银行之江支行</string><key>multi_info</key><string> </string><key>x</key><string>84033.68</string><key>y</key><string>81236.5550</string></dict>
+<dict>
+<key>identifier</key><string>b54471a8-0f62-4ba6-954f-e7218377ad2b</string><key>stan_name</key><string>招商银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76024.3220</string><key>y</key><string>83676.3440</string></dict>
+<dict>
+<key>identifier</key><string>bf91f68b-0a23-4730-953a-e58b54378454</string><key>stan_name</key><string>招商银行凤起支行</string><key>multi_info</key><string> </string><key>x</key><string>79917.7820</string><key>y</key><string>81830.2360</string></dict>
+<dict>
+<key>identifier</key><string>3cae931e-2867-4851-b8f7-10d5cade5d46</string><key>stan_name</key><string>招商银行保俶支行</string><key>multi_info</key><string> </string><key>x</key><string>78292.1960</string><key>y</key><string>82548.8410</string></dict>
+<dict>
+<key>identifier</key><string>d8a8f5ae-757b-4bcc-9f9a-4c1e52dc06f7</string><key>stan_name</key><string>招商银行分行营业部</string><key>multi_info</key><string> </string><key>x</key><string>77617.2040</string><key>y</key><string>82974.7270</string></dict>
+<dict>
+<key>identifier</key><string>a803d6f2-8acd-46df-a133-42374014d41d</string><key>stan_name</key><string>招商银行城西支行</string><key>multi_info</key><string> </string><key>x</key><string>74203.4330</string><key>y</key><string>84281.93</string></dict>
+<dict>
+<key>identifier</key><string>e31c546d-74a4-4e64-81cd-4c5088aa29c7</string><key>stan_name</key><string>中国农业银行杭州市城西支行</string><key>multi_info</key><string> </string><key>x</key><string>77117.2660</string><key>y</key><string>84401.7580</string></dict>
+<dict>
+<key>identifier</key><string>3ec97536-df74-457f-bc9b-220905384a9f</string><key>stan_name</key><string>联合银行浦沿支行冠山分理处</string><key>multi_info</key><string> </string><key>x</key><string>79844.6610</string><key>y</key><string>71475.2280</string></dict>
+<dict>
+<key>identifier</key><string>f4dc0e03-3f72-46a0-845a-a8a9cfae1b9b</string><key>stan_name</key><string>中国建设银行滨江支行</string><key>multi_info</key><string> </string><key>x</key><string>83850.9130</string><key>y</key><string>75569.1930</string></dict>
+<dict>
+<key>identifier</key><string>82baa52c-cb36-40b6-b5f2-1c9b08d17388</string><key>stan_name</key><string>中兴银行滨江支行</string><key>multi_info</key><string> </string><key>x</key><string>82021.8860</string><key>y</key><string>74745.5490</string></dict>
+<dict>
+<key>identifier</key><string>92de3f8c-4f8e-401a-8edb-e0dc059ca76b</string><key>stan_name</key><string>中国工商银行钱江支行浦沿分理处</string><key>multi_info</key><string> </string><key>x</key><string>78624.8670</string><key>y</key><string>70236.6360</string></dict>
+<dict>
+<key>identifier</key><string>da8e5630-4145-4092-8c80-c079f721e055</string><key>stan_name</key><string>中国建设银行九堡支行</string><key>multi_info</key><string> </string><key>x</key><string>89808.58</string><key>y</key><string>87990.6150</string></dict>
+<dict>
+<key>identifier</key><string>c2259aad-1905-49dc-a68c-b988a81f8470</string><key>stan_name</key><string>杭州联合银行丁桥支行三星分理处</string><key>multi_info</key><string> </string><key>x</key><string>86705.2180</string><key>y</key><string>93786.32</string></dict>
+<dict>
+<key>identifier</key><string>c182bc10-44ac-4410-9b3e-ecc11087f811</string><key>stan_name</key><string>中国农业银行九堡分理处</string><key>multi_info</key><string> </string><key>x</key><string>89821.4920</string><key>y</key><string>87351.1730</string></dict>
+<dict>
+<key>identifier</key><string>b95650d7-bde4-4f29-99b0-611d5f6d4800</string><key>stan_name</key><string>中国银行经济开发区九堡分理处</string><key>multi_info</key><string> </string><key>x</key><string>89746.9810</string><key>y</key><string>87350.5110</string></dict>
+<dict>
+<key>identifier</key><string>4d583b6f-0f43-422d-942b-f7a5424b44c5</string><key>stan_name</key><string>中国工商银行九堡分理处</string><key>multi_info</key><string> </string><key>x</key><string>89741.7440</string><key>y</key><string>87711.4720</string></dict>
+<dict>
+<key>identifier</key><string>01491204-de45-4b7f-9c3b-87528933ed23</string><key>stan_name</key><string>杭州联合银行九堡支行</string><key>multi_info</key><string> </string><key>x</key><string>89797.2860</string><key>y</key><string>87892.3590</string></dict>
+<dict>
+<key>identifier</key><string>6443e5d8-7fa7-4976-becb-03102bdbf96d</string><key>stan_name</key><string>中国农业银行下沙支行九堡储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>90272.6890</string><key>y</key><string>88259.6620</string></dict>
+<dict>
+<key>identifier</key><string>1ba8a052-20d9-4c16-b5fe-d6155edabcae</string><key>stan_name</key><string>杭州市联合银行石桥支行华丰分理处</string><key>multi_info</key><string> </string><key>x</key><string>83363.8540</string><key>y</key><string>90734.6910</string></dict>
+<dict>
+<key>identifier</key><string>4f962c2a-6c96-4fb9-92fe-4890e5788a3f</string><key>stan_name</key><string>中国农业银行笕桥支行</string><key>multi_info</key><string> </string><key>x</key><string>85436.2270</string><key>y</key><string>88246.1910</string></dict>
+<dict>
+<key>identifier</key><string>ebf8e662-74f2-4cf9-8e67-e124f31b73f1</string><key>stan_name</key><string>浙商银行九堡支行</string><key>multi_info</key><string> </string><key>x</key><string>89749.0780</string><key>y</key><string>87391.1210</string></dict>
+<dict>
+<key>identifier</key><string>a908751c-f20e-4b6c-bd43-df46f9094d47</string><key>stan_name</key><string>中国建设银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>77173.3460</string><key>y</key><string>83754.9940</string></dict>
+<dict>
+<key>identifier</key><string>39de0985-6442-4ca0-a21f-a83b25abf7e1</string><key>stan_name</key><string>交通银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>77405.9380</string><key>y</key><string>83720.0550</string></dict>
+<dict>
+<key>identifier</key><string>1cb3fc67-077a-474b-be0d-650885210af2</string><key>stan_name</key><string>上海浦东发展银行杭州文晖支行</string><key>multi_info</key><string> </string><key>x</key><string>77966.4680</string><key>y</key><string>83805.2090</string></dict>
+<dict>
+<key>identifier</key><string>609669f3-d872-461c-a23a-fa2825a14705</string><key>stan_name</key><string>中国邮政</string><key>multi_info</key><string> </string><key>x</key><string>77210.4860</string><key>y</key><string>83306.9480</string></dict>
+<dict>
+<key>identifier</key><string>75d82ebb-2437-41d3-b638-24dcce1d12c7</string><key>stan_name</key><string>中国银行杭州杭大支行</string><key>multi_info</key><string> </string><key>x</key><string>77243.5010</string><key>y</key><string>83585.6480</string></dict>
+<dict>
+<key>identifier</key><string>1fbf1391-10c4-465a-832f-6d4e0eead36b</string><key>stan_name</key><string>中国农业银行杭州西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>79970.88</string><key>y</key><string>81355.7320</string></dict>
+<dict>
+<key>identifier</key><string>556c8894-0cb8-4e73-857f-cdb8685ec08a</string><key>stan_name</key><string>中国建设银行高新支行天目山路分理处</string><key>multi_info</key><string> </string><key>x</key><string>77191.0190</string><key>y</key><string>82990.6120</string></dict>
+<dict>
+<key>identifier</key><string>dd749e74-844f-47f0-8270-e4821eecf14d</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>77484.4520</string><key>y</key><string>82967.6440</string></dict>
+<dict>
+<key>identifier</key><string>71dd4cf7-8a50-4417-a0e0-b2d56164ed47</string><key>stan_name</key><string>杭州联合农村合作银行鼓荡支行黄龙分理处</string><key>multi_info</key><string> </string><key>x</key><string>77499.0340</string><key>y</key><string>82800.3310</string></dict>
+<dict>
+<key>identifier</key><string>46d539d6-c964-4f57-a558-61b43e7f934f</string><key>stan_name</key><string>中国工商银行杭大路支行</string><key>multi_info</key><string> </string><key>x</key><string>77760.3640</string><key>y</key><string>82727.63</string></dict>
+<dict>
+<key>identifier</key><string>ca0ad0f4-67ce-4dd8-91d2-344e8072f425</string><key>stan_name</key><string>华夏银行西湖支行</string><key>multi_info</key><string> </string><key>x</key><string>77657.2580</string><key>y</key><string>82880.3760</string></dict>
+<dict>
+<key>identifier</key><string>31913e0d-a8dc-4627-bc3d-d555e869d9f3</string><key>stan_name</key><string>深圳发展银行杭州黄龙支行</string><key>multi_info</key><string> </string><key>x</key><string>77648.3730</string><key>y</key><string>82907.3650</string></dict>
+<dict>
+<key>identifier</key><string>133e63bf-d50f-4abc-91cd-98ae5f006374</string><key>stan_name</key><string>中国建设银行杭大路分理处</string><key>multi_info</key><string> </string><key>x</key><string>77659.7370</string><key>y</key><string>82824.4340</string></dict>
+<dict>
+<key>identifier</key><string>4b9e74e4-4613-4bdb-9b47-1eced2cc01e2</string><key>stan_name</key><string>广东发展银行文三支行</string><key>multi_info</key><string> </string><key>x</key><string>76111.6740</string><key>y</key><string>83699.2130</string></dict>
+<dict>
+<key>identifier</key><string>2f7029da-a88a-48ef-a5a3-708d5210eab5</string><key>stan_name</key><string>中国建设银行</string><key>multi_info</key><string> </string><key>x</key><string>76146.3330</string><key>y</key><string>83699.0210</string></dict>
+<dict>
+<key>identifier</key><string>e53309f1-8a02-4974-97b9-04742bbac8ff</string><key>stan_name</key><string>中国农业银行科技城支行</string><key>multi_info</key><string> </string><key>x</key><string>76096.9160</string><key>y</key><string>83634.1780</string></dict>
+<dict>
+<key>identifier</key><string>fbe333ce-df90-4fd3-8a94-284b408f07f6</string><key>stan_name</key><string>兴业银行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76412.97</string><key>y</key><string>83710.1810</string></dict>
+<dict>
+<key>identifier</key><string>47c0194b-8e49-4341-b694-7476a5596d60</string><key>stan_name</key><string>中国银行浙江省分行高新支行</string><key>multi_info</key><string> </string><key>x</key><string>76481.1530</string><key>y</key><string>83720.0490</string></dict>
+<dict>
+<key>identifier</key><string>582f7cf2-15fa-454e-b9fe-9c3631ece1f0</string><key>stan_name</key><string>中国邮政局九莲邮政所</string><key>multi_info</key><string> </string><key>x</key><string>76952.8280</string><key>y</key><string>83845.7680</string></dict>
+<dict>
+<key>identifier</key><string>e185ce03-6584-412c-84b9-e1922aa42fdb</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>76088.55</string><key>y</key><string>83607.08</string></dict>
+<dict>
+<key>identifier</key><string>63b200b6-04b1-4a03-9a5d-13907348d848</string><key>stan_name</key><string>中国光大银行财富管理中心(杭州)</string><key>multi_info</key><string> </string><key>x</key><string>76428.1860</string><key>y</key><string>82428.1870</string></dict>
+<dict>
+<key>identifier</key><string>c90d1a24-af2e-4dd0-98c6-dab21eda31e8</string><key>stan_name</key><string>中国邮政浙大玉泉校区邮政所</string><key>multi_info</key><string> </string><key>x</key><string>76332.6670</string><key>y</key><string>82178.4560</string></dict>
+<dict>
+<key>identifier</key><string>041bcbbb-1194-4dbb-828b-99c9145c25fd</string><key>stan_name</key><string>中国工商银行杭州市保俶路支行求实储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>76327.3330</string><key>y</key><string>82168.4970</string></dict>
+<dict>
+<key>identifier</key><string>5e2d1318-0e3d-4185-a790-46214084092e</string><key>stan_name</key><string>中国银行杭州市浙大支行</string><key>multi_info</key><string> </string><key>x</key><string>76290.1890</string><key>y</key><string>82071.0890</string></dict>
+<dict>
+<key>identifier</key><string>2aabdfa6-e749-4837-88b0-86b73500a432</string><key>stan_name</key><string>杭州市联合银行武林支行</string><key>multi_info</key><string> </string><key>x</key><string>79357.0030</string><key>y</key><string>83318.6280</string></dict>
+<dict>
+<key>identifier</key><string>23b20b99-d650-499a-a9a5-d49738caa17f</string><key>stan_name</key><string>中国建设银行杭州环北支行</string><key>multi_info</key><string> </string><key>x</key><string>79386.3050</string><key>y</key><string>83488.29</string></dict>
+<dict>
+<key>identifier</key><string>bfd43064-2059-4382-bee3-d0cb839c0443</string><key>stan_name</key><string>中国交通银行杭州华浙广场支行</string><key>multi_info</key><string> </string><key>x</key><string>79485.20</string><key>y</key><string>83467.9220</string></dict>
+<dict>
+<key>identifier</key><string>724115d9-12e3-4a47-9d9f-0bf2a9399e4c</string><key>stan_name</key><string>中国交通银行杭州白马支行</string><key>multi_info</key><string> </string><key>x</key><string>79512.9150</string><key>y</key><string>83561.7410</string></dict>
+<dict>
+<key>identifier</key><string>f78f485a-af89-4b9e-8809-675593b0b102</string><key>stan_name</key><string>中国邮政武林门邮政所</string><key>multi_info</key><string> </string><key>x</key><string>79490.5070</string><key>y</key><string>83246.6650</string></dict>
+<dict>
+<key>identifier</key><string>82fc0870-a639-4298-99b5-8a0802ef139c</string><key>stan_name</key><string>中国银行杭州市高新技术开发分行宝石分理处</string><key>multi_info</key><string> </string><key>x</key><string>78257.1190</string><key>y</key><string>82799.0390</string></dict>
+<dict>
+<key>identifier</key><string>85aa40b2-d880-4491-8704-a727a15302b8</string><key>stan_name</key><string>中国工商银行体育场路支行</string><key>multi_info</key><string> </string><key>x</key><string>78929.3770</string><key>y</key><string>82973.1710</string></dict>
+<dict>
+<key>identifier</key><string>fa3ce069-2acd-47cf-ad37-6920d091867c</string><key>stan_name</key><string>中国建设银行杭州运河支行</string><key>multi_info</key><string> </string><key>x</key><string>78984.76</string><key>y</key><string>83010.0420</string></dict>
+<dict>
+<key>identifier</key><string>35f8c3f9-d1bf-4b52-8b8d-c8870d5957e4</string><key>stan_name</key><string>中国建设银行体育场路支行</string><key>multi_info</key><string> </string><key>x</key><string>78812.0490</string><key>y</key><string>82811.7740</string></dict>
+<dict>
+<key>identifier</key><string>cdefdd7b-80ea-4c25-879f-88f5c6c1e920</string><key>stan_name</key><string>中国交通银行保俶支行</string><key>multi_info</key><string> </string><key>x</key><string>78293.0560</string><key>y</key><string>82549.34</string></dict>
+<dict>
+<key>identifier</key><string>0c9c7de0-44d7-4ca0-ab96-36516567dabb</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>93236.7130</string><key>y</key><string>99829.2260</string></dict>
+<dict>
+<key>identifier</key><string>9b6552f9-de0a-46c7-b45f-9b64604a8b14</string><key>stan_name</key><string>中国人民银行</string><key>multi_info</key><string> </string><key>x</key><string>93261.0930</string><key>y</key><string>100114.1940</string></dict>
+<dict>
+<key>identifier</key><string>53bfb1be-b83a-4e44-b3af-4e9387616221</string><key>stan_name</key><string>交通银行</string><key>multi_info</key><string> </string><key>x</key><string>93046.5520</string><key>y</key><string>99708.4790</string></dict>
+<dict>
+<key>identifier</key><string>e616e9c3-c532-4ca2-875d-917ef2a0fc72</string><key>stan_name</key><string>杭州银行</string><key>multi_info</key><string> </string><key>x</key><string>81573.7584</string><key>y</key><string>81696.8075</string></dict>
+<dict>
+<key>identifier</key><string>a10bd7e8-4a9d-4561-b16b-bc8fc2659116</string><key>stan_name</key><string>杭州联合银行</string><key>multi_info</key><string> </string><key>x</key><string>81451.5195</string><key>y</key><string>83176.2085</string></dict>
+<dict>
+<key>identifier</key><string>d9e0fcfa-f33c-411d-9919-f3caa44615d9</string><key>stan_name</key><string>中国农业银行</string><key>multi_info</key><string> </string><key>x</key><string>81229.0889</string><key>y</key><string>82901.5592</string></dict>
+<dict>
+<key>identifier</key><string>37177070-ed6b-4932-9210-6243cfeee828</string><key>stan_name</key><string>恒生银行</string><key>multi_info</key><string> </string><key>x</key><string>80730.5487</string><key>y</key><string>81570.3235</string></dict>
+<dict>
+<key>identifier</key><string>9c4eafad-6d3f-403e-9962-2bb9366d4e80</string><key>stan_name</key><string>渣打银行</string><key>multi_info</key><string> </string><key>x</key><string>80730.4769</string><key>y</key><string>81562.7569</string></dict>
+<dict>
+<key>identifier</key><string>be0d297a-1fef-4261-9bd9-45ada582e033</string><key>stan_name</key><string>中国银行</string><key>multi_info</key><string> </string><key>x</key><string>80818.1920</string><key>y</key><string>81561.2508</string></dict>
+<dict>
+<key>identifier</key><string>6d99cf3d-35b3-46d7-911c-365dc2515a24</string><key>stan_name</key><string>中国建设银行</string><key>multi_info</key><string> </string><key>x</key><string>80450.7664</string><key>y</key><string>81236.2057</string></dict>
+<dict>
+<key>identifier</key><string>53d767fb-dbd3-4272-a5e1-cee1e09dc8ff</string><key>stan_name</key><string>余杭农村合作银行</string><key>multi_info</key><string> </string><key>x</key><string>67950.4262</string><key>y</key><string>81816.2814</string></dict>
+<dict>
+<key>identifier</key><string>84dae1da-4a4b-48dd-a9e8-d507dbde5305</string><key>stan_name</key><string>杭州银行之江度假区支行</string><key>multi_info</key><string> </string><key>x</key><string>71578.3374</string><key>y</key><string>71052.5347</string></dict>
+<dict>
+<key>identifier</key><string>3898084d-7e84-4360-85ef-fcc15509cd26</string><key>stan_name</key><string>中国建设银行转塘支行</string><key>multi_info</key><string> </string><key>x</key><string>71809.5263</string><key>y</key><string>70558.4069</string></dict>
+<dict>
+<key>identifier</key><string>299c98fd-0efa-46db-9d92-60e167dc62a1</string><key>stan_name</key><string>中国商业银行新城支行-营业部</string><key>multi_info</key><string> </string><key>x</key><string>85264.1220</string><key>y</key><string>81314.0410</string></dict>
+<dict>
+<key>identifier</key><string>60b7e724-f2fc-48f2-8097-8f71ba3887c2</string><key>stan_name</key><string>商业银行</string><key>multi_info</key><string> </string><key>x</key><string>78407.7266</string><key>y</key><string>83217.3516</string></dict>
+<dict>
+<key>identifier</key><string>d15b5f9e-e496-47bf-87ba-932628cbd352</string><key>stan_name</key><string>农行瓶窑支行</string><key>multi_info</key><string> </string><key>x</key><string>61658.7830</string><key>y</key><string>96557.1520</string></dict>
+<dict>
+<key>identifier</key><string>4619bdf6-cd19-4b5b-b912-181884561040</string><key>stan_name</key><string>余杭农业支行</string><key>multi_info</key><string> </string><key>x</key><string>93143.3149</string><key>y</key><string>100280.3507</string></dict>
+<dict>
+<key>identifier</key><string>065e50f8-c4ce-479f-b28a-e830ea67bfa5</string><key>stan_name</key><string>中国农业行业杭州笕桥支行</string><key>multi_info</key><string> </string><key>x</key><string>85438.6250</string><key>y</key><string>88243.4453</string></dict>
+<dict>
+<key>identifier</key><string>83d75eba-183c-4a74-aeb8-eb3ce5dc4f25</string><key>stan_name</key><string>中国工商银行杭州市半山支行西五苑分理处</string><key>multi_info</key><string> </string><key>x</key><string>78879.8610</string><key>y</key><string>87322.5150</string></dict>
+<dict>
+<key>identifier</key><string>bd72fd1c-3ffd-4a1b-a851-06a8bc1749da</string><key>stan_name</key><string>中国工商银行杭州市半山支行南九苑储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>79516.0390</string><key>y</key><string>86553.5010</string></dict>
+<dict>
+<key>identifier</key><string>0be9adac-18be-4f8b-884f-6b40f1c55857</string><key>stan_name</key><string>中国工商银行杭州市高新支行九莲分理处</string><key>multi_info</key><string> </string><key>x</key><string>77008.99</string><key>y</key><string>83687.0250</string></dict>
+<dict>
+<key>identifier</key><string>4672dc3d-9547-4a31-94f0-993dfd4759ff</string><key>stan_name</key><string>中国工商银行杭州市高新支行三墩分理处</string><key>multi_info</key><string> </string><key>x</key><string>72428.2790</string><key>y</key><string>88661.6910</string></dict>
+<dict>
+<key>identifier</key><string>8448015b-89a0-4bf1-9d37-2f9644d4afaa</string><key>stan_name</key><string>中国工商银行杭州市高新支行文二路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>77783.74</string><key>y</key><string>84401.2190</string></dict>
+<dict>
+<key>identifier</key><string>a6dc2d22-f22f-41a4-a4a9-b3ece7bb4269</string><key>stan_name</key><string>中国工商银行杭州市高新支行文苑路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>74729.2540</string><key>y</key><string>83589.0040</string></dict>
+<dict>
+<key>identifier</key><string>ecea95e0-b82a-4fcc-9ad4-58068d49644c</string><key>stan_name</key><string>中国工商银行杭州市保俶支行古荡分理处</string><key>multi_info</key><string> </string><key>x</key><string>75033.5150</string><key>y</key><string>83316.8420</string></dict>
+<dict>
+<key>identifier</key><string>41a0be57-7a2f-43d0-b6e4-c8b7bdc2ce95</string><key>stan_name</key><string>中国工商银行杭州经济技术开发区支行</string><key>multi_info</key><string> </string><key>x</key><string>82710.8790</string><key>y</key><string>81253.48</string></dict>
+<dict>
+<key>identifier</key><string>52673204-db3c-45a6-ac7c-8281ed9f1027</string><key>stan_name</key><string>中国工商银行杭州钱江支行</string><key>multi_info</key><string> </string><key>x</key><string>84090.4460</string><key>y</key><string>75872.5480</string></dict>
+<dict>
+<key>identifier</key><string>f985eb65-9e8d-4ad6-bac9-0b4992ab7e1d</string><key>stan_name</key><string>中国工商银行杭州钱江支行西兴分理处</string><key>multi_info</key><string> </string><key>x</key><string>85824.9020</string><key>y</key><string>73757.7150</string></dict>
+<dict>
+<key>identifier</key><string>f3c22bbf-58d4-4120-8314-12074b8bfa25</string><key>stan_name</key><string>中国工商银行杭州市朝晖支行文晖路分理处</string><key>multi_info</key><string> </string><key>x</key><string>81132.0050</string><key>y</key><string>84239.6150</string></dict>
+<dict>
+<key>identifier</key><string>5252aea7-0427-4b51-9eef-07317ef6b56a</string><key>stan_name</key><string>中国工商银行杭州市众安支行</string><key>multi_info</key><string> </string><key>x</key><string>80506.8680</string><key>y</key><string>81597.12</string></dict>
+<dict>
+<key>identifier</key><string>592af785-4732-49ab-b350-fec26dc10700</string><key>stan_name</key><string>中国工商银行杭州市之江支行</string><key>multi_info</key><string> </string><key>x</key><string>81206.1890</string><key>y</key><string>82365.6410</string></dict>
+<dict>
+<key>identifier</key><string>fdd1a27e-7f46-4a40-879e-bff6263222ee</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>83587.81</string><key>y</key><string>79117.2860</string></dict>
+<dict>
+<key>identifier</key><string>56135412-3989-4eb2-943b-aa63cf129cd5</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>76461.1510</string><key>y</key><string>81766.6010</string></dict>
+<dict>
+<key>identifier</key><string>3474a002-b62c-47f8-951b-4533600baaa7</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>82710.5960</string><key>y</key><string>81253.1860</string></dict>
+<dict>
+<key>identifier</key><string>a44dbd66-9192-4dbe-921c-0ae33f87aec7</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>97028.2470</string><key>y</key><string>88045.9110</string></dict>
+<dict>
+<key>identifier</key><string>87a0ae82-46f0-4b95-8666-543e0d49eaea</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>97224.8230</string><key>y</key><string>85057.8880</string></dict>
+<dict>
+<key>identifier</key><string>d19f46c1-dd13-43c9-973b-8f87e661231a</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>77008.2620</string><key>y</key><string>83686.3370</string></dict>
+<dict>
+<key>identifier</key><string>6ef0fcc4-220c-42cf-81b5-908b70d93500</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>77782.7120</string><key>y</key><string>84401.4980</string></dict>
+<dict>
+<key>identifier</key><string>be3570a7-c630-464a-abdf-83743c57de78</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>72437.6210</string><key>y</key><string>88658.4840</string></dict>
+<dict>
+<key>identifier</key><string>38cdbd61-384b-4af0-a304-d4cc21febac9</string><key>stan_name</key><string>中国工商银行</string><key>multi_info</key><string> </string><key>x</key><string>77887.4790</string><key>y</key><string>85114.0360</string></dict>
+<dict>
+<key>identifier</key><string>2a25e783-c6c0-485d-8156-4078fa99a9a0</string><key>stan_name</key><string>中国建设银行庆春支行孩儿巷储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80147.4390</string><key>y</key><string>82011.5280</string></dict>
+<dict>
+<key>identifier</key><string>30c96b03-536d-4f60-bfc5-b6a6c316dfa2</string><key>stan_name</key><string>中国建设银行高新支行天目山路分理处</string><key>multi_info</key><string> </string><key>x</key><string>77209.8980</string><key>y</key><string>82976.2420</string></dict>
+<dict>
+<key>identifier</key><string>863159a0-d4eb-4cf8-94b1-da06090f7bc6</string><key>stan_name</key><string>中国建设银行秋涛支行塘苗分理处</string><key>multi_info</key><string> </string><key>x</key><string>82838.9920</string><key>y</key><string>80116.4690</string></dict>
+<dict>
+<key>identifier</key><string>0e48e5f2-6d33-475f-9ccc-d617a9af5068</string><key>stan_name</key><string>中国建设银行秋涛支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>83385.7340</string><key>y</key><string>81544.8360</string></dict>
+<dict>
+<key>identifier</key><string>be0edad6-53ac-467f-a6c3-465d99fd5c01</string><key>stan_name</key><string>中国建设银行吴山支行美政桥储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>80336.6490</string><key>y</key><string>76453.4160</string></dict>
+<dict>
+<key>identifier</key><string>43eb0e2d-391f-4a6e-9b5f-bb18bae05350</string><key>stan_name</key><string>中国建设银行文晖支行湖墅南路储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>78982.0020</string><key>y</key><string>84060.3150</string></dict>
+<dict>
+<key>identifier</key><string>5a745a79-c21e-41f7-a797-f74b810f09e8</string><key>stan_name</key><string>中国建设银行文晖支行核算组</string><key>multi_info</key><string> </string><key>x</key><string>78682.41</string><key>y</key><string>84633.95</string></dict>
+</array>
+</plist>

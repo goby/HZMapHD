@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>55732286-38d1-4fbb-8bca-2a429fa0772c</string><key>stan_name</key><string>永乐生活电器</string><key>multi_info</key><string> </string><key>x</key><string>78962.6562</string><key>y</key><string>83868.5313</string></dict>
+<dict>
+<key>identifier</key><string>c0764179-b11b-41fb-b8cb-e419286515ba</string><key>stan_name</key><string>浙江时代电子市场</string><key>multi_info</key><string> </string><key>x</key><string>75303.8371</string><key>y</key><string>85637.4655</string></dict>
+<dict>
+<key>identifier</key><string>82adc6f2-230e-4d9f-a250-0b4f3f573756</string><key>stan_name</key><string>杭州电子市场</string><key>multi_info</key><string> </string><key>x</key><string>77313.9219</string><key>y</key><string>83263.7578</string></dict>
+<dict>
+<key>identifier</key><string>254703f5-71b5-4585-8491-2ce3e2e7e5a6</string><key>stan_name</key><string>杭州市城北电脑城</string><key>multi_info</key><string> </string><key>x</key><string>78815.6201</string><key>y</key><string>86393.9013</string></dict>
+<dict>
+<key>identifier</key><string>99a45066-17e8-4204-b66a-e1a52e84dc37</string><key>stan_name</key><string>高新电脑数码市场</string><key>multi_info</key><string> </string><key>x</key><string>76790.9219</string><key>y</key><string>83619.6406</string></dict>
+<dict>
+<key>identifier</key><string>c7cc257a-1458-4301-8f8a-9691e9db8c31</string><key>stan_name</key><string>百脑汇</string><key>multi_info</key><string> </string><key>x</key><string>77255.7109</string><key>y</key><string>83665.5469</string></dict>
+<dict>
+<key>identifier</key><string>d0b4c156-974e-4e3d-9f6d-6c80cf485886</string><key>stan_name</key><string>西溪数码港</string><key>multi_info</key><string> </string><key>x</key><string>77975.4531</string><key>y</key><string>83825.0781</string></dict>
+<dict>
+<key>identifier</key><string>c9da38a0-fce2-4384-9ad0-82fd2c4713e6</string><key>stan_name</key><string>百脑汇信息数码港</string><key>multi_info</key><string> </string><key>x</key><string>77119.2422</string><key>y</key><string>83400.3984</string></dict>
+<dict>
+<key>identifier</key><string>2139289f-1b2a-44f4-a7ea-90df5aa05e36</string><key>stan_name</key><string>西溪软件园</string><key>multi_info</key><string> </string><key>x</key><string>76866.9375</string><key>y</key><string>83474.2109</string></dict>
+<dict>
+<key>identifier</key><string>578f7df7-2156-4b1b-837f-c21fadce649c</string><key>stan_name</key><string>颐高数码城</string><key>multi_info</key><string> </string><key>x</key><string>76858.2813</string><key>y</key><string>83534.2813</string></dict>
+</array>
+</plist>

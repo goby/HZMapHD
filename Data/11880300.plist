@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>fd229a1e-02ca-4d0b-a725-ed9fcfc929e3</string><key>stan_name</key><string>浙江省电信有限公司杭州市分公司下城分局艮山支局</string><key>multi_info</key><string> </string><key>x</key><string>81553.2924</string><key>y</key><string>83552.7006</string></dict>
+<dict>
+<key>identifier</key><string>4cae8109-5c66-44e4-aad2-a7bf39865b8f</string><key>stan_name</key><string>余杭电信分局</string><key>multi_info</key><string> </string><key>x</key><string>58678.3750</string><key>y</key><string>82970.8780</string></dict>
+<dict>
+<key>identifier</key><string>a7901f3f-2468-4948-a28f-ad17c9aa5d2d</string><key>stan_name</key><string>杭州市电信局市话七区局</string><key>multi_info</key><string> </string><key>x</key><string>76244.0657</string><key>y</key><string>81642.4671</string></dict>
+<dict>
+<key>identifier</key><string>755b1a98-33d0-4f81-804a-2c110c7ab66f</string><key>stan_name</key><string>浙江省电信有限公司杭州分公司西湖分局</string><key>multi_info</key><string> </string><key>x</key><string>76236.4151</string><key>y</key><string>81650.1177</string></dict>
+<dict>
+<key>identifier</key><string>774b785d-f821-4a61-aa63-f86afc5c161c</string><key>stan_name</key><string>中国电信股份有限公司浙江分公司</string><key>multi_info</key><string> </string><key>x</key><string>79841.1458</string><key>y</key><string>80609.8825</string></dict>
+<dict>
+<key>identifier</key><string>e5347a5a-b586-4f3e-b85b-09e8b2665bee</string><key>stan_name</key><string>浙江省电信有限公司杭州分局留下之局</string><key>multi_info</key><string> </string><key>x</key><string>69240.5973</string><key>y</key><string>79666.8372</string></dict>
+<dict>
+<key>identifier</key><string>7461fe31-0a84-40b2-97af-72827e88f2eb</string><key>stan_name</key><string>杭州电信留下分局</string><key>multi_info</key><string> </string><key>x</key><string>69179.5156</string><key>y</key><string>79696.9141</string></dict>
+<dict>
+<key>identifier</key><string>6005cb64-c6ee-452e-bbe8-2b3a4e1cfab8</string><key>stan_name</key><string>杭州市电信局</string><key>multi_info</key><string> </string><key>x</key><string>77362.2812</string><key>y</key><string>81834.3750</string></dict>
+<dict>
+<key>identifier</key><string>9a0be1c1-4b06-4615-9a8c-007f7db82259</string><key>stan_name</key><string>浙江省电信有限公司杭州市分公司上城分局</string><key>multi_info</key><string> </string><key>x</key><string>80252.7505</string><key>y</key><string>80869.9939</string></dict>
+<dict>
+<key>identifier</key><string>4918303f-4461-480c-bc58-7d2d9e909e4f</string><key>stan_name</key><string>电信营业所</string><key>multi_info</key><string> </string><key>x</key><string>81631.9531</string><key>y</key><string>82763.9766</string></dict>
+<dict>
+<key>identifier</key><string>b47b4197-2c72-40ff-afd3-fb0041363d70</string><key>stan_name</key><string>中国电信留下营业厅</string><key>multi_info</key><string> </string><key>x</key><string>69672.0005</string><key>y</key><string>79881.0249</string></dict>
+<dict>
+<key>identifier</key><string>e817fbab-9c4c-4cd3-812d-8a98786bb527</string><key>stan_name</key><string>杭州电信局用户服务中心</string><key>multi_info</key><string> </string><key>x</key><string>83464.5703</string><key>y</key><string>82194.5547</string></dict>
+<dict>
+<key>identifier</key><string>b6819bcf-6197-400c-894c-57e2765da80c</string><key>stan_name</key><string>塘栖电信分局</string><key>multi_info</key><string> </string><key>x</key><string>82213.4390</string><key>y</key><string>105413.6310</string></dict>
+<dict>
+<key>identifier</key><string>46faa6fc-9f1a-46ce-acfb-6d6da15147a9</string><key>stan_name</key><string>浙江省电信有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82191.9180</string><key>y</key><string>91876.9230</string></dict>
+<dict>
+<key>identifier</key><string>a984880a-298a-4791-ad93-fb77d857ce7c</string><key>stan_name</key><string>乔司电信支局</string><key>multi_info</key><string> </string><key>x</key><string>92384.5211</string><key>y</key><string>91882.82</string></dict>
+<dict>
+<key>identifier</key><string>082c909a-aaa8-4550-b8a8-582de4845ee6</string><key>stan_name</key><string>浙江省电信有限公司余杭分公司</string><key>multi_info</key><string> </string><key>x</key><string>92383.7196</string><key>y</key><string>91874.6621</string></dict>
+<dict>
+<key>identifier</key><string>f12b1cb8-4840-48bb-a958-5d8e3500b4f0</string><key>stan_name</key><string>杭钢物业分公司电信管理部</string><key>multi_info</key><string> </string><key>x</key><string>81073.8797</string><key>y</key><string>91964.9637</string></dict>
+<dict>
+<key>identifier</key><string>bca4f408-f278-4021-85cf-65a4ec948135</string><key>stan_name</key><string>杭州电信局笕桥支局</string><key>multi_info</key><string> </string><key>x</key><string>85377.1094</string><key>y</key><string>87976.3047</string></dict>
+<dict>
+<key>identifier</key><string>ad44317a-16b5-46d7-9a41-cd23c0a0dfff</string><key>stan_name</key><string>浙江省电信有限公司杭州分公司下沙分公司</string><key>multi_info</key><string> </string><key>x</key><string>97519.7874</string><key>y</key><string>87135.7408</string></dict>
+<dict>
+<key>identifier</key><string>93ced635-177d-4cf2-bf7c-fad635d52f4b</string><key>stan_name</key><string>浙江省长途电信线务局</string><key>multi_info</key><string> </string><key>x</key><string>73457.6202</string><key>y</key><string>90478.4489</string></dict>
+<dict>
+<key>identifier</key><string>62dce61a-07bd-4b9f-8f84-8edc32b0ba7a</string><key>stan_name</key><string>中国电信下沙营业厅</string><key>multi_info</key><string> </string><key>x</key><string>95409.1098</string><key>y</key><string>87164.3350</string></dict>
+<dict>
+<key>identifier</key><string>c13e1ed2-9e6f-47e8-955c-913e4cf3d8c0</string><key>stan_name</key><string>笕桥邮政电信联合营业厅</string><key>multi_info</key><string> </string><key>x</key><string>85363.9375</string><key>y</key><string>88120.2187</string></dict>
+<dict>
+<key>identifier</key><string>c94afd14-b443-4b05-b4ec-59b865de0934</string><key>stan_name</key><string>杭州电信局和睦支局</string><key>multi_info</key><string> </string><key>x</key><string>75894.9062</string><key>y</key><string>87251.9844</string></dict>
+<dict>
+<key>identifier</key><string>32fb0c1f-617b-4f46-83d2-b8b7c5a64cb4</string><key>stan_name</key><string>电信所</string><key>multi_info</key><string> </string><key>x</key><string>72232.8750</string><key>y</key><string>88618.7656</string></dict>
+<dict>
+<key>identifier</key><string>f38fa2fd-b849-402b-9702-abc652851c7d</string><key>stan_name</key><string>浙江省电信公司萧山电信局进化分局</string><key>multi_info</key><string> </string><key>x</key><string>93115.9669</string><key>y</key><string>54345.23</string></dict>
+<dict>
+<key>identifier</key><string>1078e371-1182-4071-a8be-a015dde346ac</string><key>stan_name</key><string>中国电信云石收费点</string><key>multi_info</key><string> </string><key>x</key><string>78210.5240</string><key>y</key><string>52440.5880</string></dict>
+<dict>
+<key>identifier</key><string>b25ba186-081c-4ce4-8eb6-2130bfe80579</string><key>stan_name</key><string>中国电信（石岩营业厅）</string><key>multi_info</key><string> </string><key>x</key><string>86619.4870</string><key>y</key><string>65891.7820</string></dict>
+<dict>
+<key>identifier</key><string>0db9659d-ddfb-4da7-bb4d-b50014c00f0c</string><key>stan_name</key><string>浙江省电信有限公司杭州分公司</string><key>multi_info</key><string> </string><key>x</key><string>72309.7559</string><key>y</key><string>68401.8665</string></dict>
+<dict>
+<key>identifier</key><string>58c16754-8974-49c7-a3fc-a6d1f65d0ef4</string><key>stan_name</key><string>中国电信所前局</string><key>multi_info</key><string> </string><key>x</key><string>91077.6410</string><key>y</key><string>65230.4429</string></dict>
+<dict>
+<key>identifier</key><string>8e07ef2d-0e5d-4821-ba64-cf75bce5a018</string><key>stan_name</key><string>电信</string><key>multi_info</key><string> </string><key>x</key><string>70944.50</string><key>y</key><string>62982.0039</string></dict>
+<dict>
+<key>identifier</key><string>281e2539-a949-4c55-af02-31e8ba95e002</string><key>stan_name</key><string>中国电信</string><key>multi_info</key><string> </string><key>x</key><string>89726.5620</string><key>y</key><string>63265.6449</string></dict>
+<dict>
+<key>identifier</key><string>4ff5aa38-ca38-4267-b1ac-7dc5842b0987</string><key>stan_name</key><string>萧山区电信分公司新塘支局</string><key>multi_info</key><string> </string><key>x</key><string>95146.8760</string><key>y</key><string>68948.9969</string></dict>
+<dict>
+<key>identifier</key><string>76b08efe-b87c-4b38-9cc5-fb8762f9b1c2</string><key>stan_name</key><string>中国电信衙前营业厅</string><key>multi_info</key><string> </string><key>x</key><string>103001.2780</string><key>y</key><string>70827.3690</string></dict>
+<dict>
+<key>identifier</key><string>f2e2f002-9b32-4150-8f49-5b3780ea3727</string><key>stan_name</key><string>中国电信翠苑营业厅</string><key>multi_info</key><string> </string><key>x</key><string>76431.9960</string><key>y</key><string>84903.3690</string></dict>
+<dict>
+<key>identifier</key><string>ef21b2e3-fcf4-45ef-8f51-bfa6a195c032</string><key>stan_name</key><string>转塘电信局支局</string><key>multi_info</key><string> </string><key>x</key><string>71717.1918</string><key>y</key><string>70982.7586</string></dict>
+<dict>
+<key>identifier</key><string>a45d857f-67b6-4eea-85d9-c128b8a80116</string><key>stan_name</key><string>萧山市电信公司微波站</string><key>multi_info</key><string> </string><key>x</key><string>103349.3941</string><key>y</key><string>71600.1589</string></dict>
+<dict>
+<key>identifier</key><string>fc64b036-e539-4fc5-a165-b5be52b228cf</string><key>stan_name</key><string>萧山电信局坎山支局</string><key>multi_info</key><string> </string><key>x</key><string>104084.5294</string><key>y</key><string>73967.5281</string></dict>
+<dict>
+<key>identifier</key><string>b14ea684-0b8f-4e59-90b2-4d4a223cb895</string><key>stan_name</key><string>浙江省电信有限公司萧山区分公司城郊分局</string><key>multi_info</key><string> </string><key>x</key><string>91309.1190</string><key>y</key><string>76633.8609</string></dict>
+<dict>
+<key>identifier</key><string>425b8f34-950f-4228-8b9c-b1feb52575ea</string><key>stan_name</key><string>杭州市电信局市话六分局</string><key>multi_info</key><string> </string><key>x</key><string>80055.2734</string><key>y</key><string>76337.0664</string></dict>
+<dict>
+<key>identifier</key><string>9f49e8d1-a995-4de1-94a0-42f1c1e2bf31</string><key>stan_name</key><string>中国电信</string><key>multi_info</key><string> </string><key>x</key><string>96497.8191</string><key>y</key><string>76390.7220</string></dict>
+<dict>
+<key>identifier</key><string>fc69c754-0723-4e6b-a61a-95cbe2be600b</string><key>stan_name</key><string>中国电信江城局</string><key>multi_info</key><string> </string><key>x</key><string>80875.9063</string><key>y</key><string>77788.5703</string></dict>
+<dict>
+<key>identifier</key><string>387d9b86-78c7-4ca3-89d8-a34d0e2bdd6e</string><key>stan_name</key><string>中国电信</string><key>multi_info</key><string> </string><key>x</key><string>93920.3121</string><key>y</key><string>76992.5751</string></dict>
+<dict>
+<key>identifier</key><string>377736c3-d9e7-4f0f-a3e0-8b4d152edd97</string><key>stan_name</key><string>浙江省电信有限公司杭州市分公司</string><key>multi_info</key><string> </string><key>x</key><string>83781.8890</string><key>y</key><string>79478.4150</string></dict>
+<dict>
+<key>identifier</key><string>8ec3038e-6ba9-4269-9355-6a10a9cc938c</string><key>stan_name</key><string>杭州市电信八支局</string><key>multi_info</key><string> </string><key>x</key><string>78904.8906</string><key>y</key><string>86704.9531</string></dict>
+<dict>
+<key>identifier</key><string>eb7a02e3-0f71-4323-a6cd-a81bd149328e</string><key>stan_name</key><string>浙江国际电信设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98464.2008</string><key>y</key><string>86906.0954</string></dict>
+<dict>
+<key>identifier</key><string>f2b2c608-8205-47fd-87a3-cce96da5fcdc</string><key>stan_name</key><string>中国电信股份有限公司杭州分公司文一支局</string><key>multi_info</key><string> </string><key>x</key><string>77917.1897</string><key>y</key><string>85063.8228</string></dict>
+<dict>
+<key>identifier</key><string>155cac07-5974-467d-8a94-a0b2e51e2ea4</string><key>stan_name</key><string>电信营业厅</string><key>multi_info</key><string> </string><key>x</key><string>73095.3984</string><key>y</key><string>84119.0391</string></dict>
+<dict>
+<key>identifier</key><string>f7669e2a-6c55-4bc0-a8ac-f63e46f048fd</string><key>stan_name</key><string>杭州市电信局</string><key>multi_info</key><string> </string><key>x</key><string>80013.1484</string><key>y</key><string>83051.7188</string></dict>
+<dict>
+<key>identifier</key><string>6e81f4d7-35a6-4d3f-bb98-91fb67e34c46</string><key>stan_name</key><string>浙江省电信实业集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79979.9447</string><key>y</key><string>83121.8161</string></dict>
+<dict>
+<key>identifier</key><string>931c02b7-03a7-4262-9eb7-80fd5fd215b1</string><key>stan_name</key><string>中国电信股份有限公司浙江长途电信传输局</string><key>multi_info</key><string> </string><key>x</key><string>78197.5464</string><key>y</key><string>83223.2480</string></dict>
+<dict>
+<key>identifier</key><string>0f5a56cb-bb85-403c-add7-7fb3f3c343ca</string><key>stan_name</key><string>中国邮电工会浙江长途电信线路建设公司</string><key>multi_info</key><string> </string><key>x</key><string>78196.1731</string><key>y</key><string>83223.5485</string></dict>
+<dict>
+<key>identifier</key><string>2dbb0e3d-55bb-4063-90e5-54e4f40a1994</string><key>stan_name</key><string>浙江省长途电信传输局</string><key>multi_info</key><string> </string><key>x</key><string>78197.6682</string><key>y</key><string>83223.8529</string></dict>
+<dict>
+<key>identifier</key><string>10dea737-29f8-4d60-a065-7342079abf38</string><key>stan_name</key><string>中国电信德胜路营业厅</string><key>multi_info</key><string> </string><key>x</key><string>80889.8817</string><key>y</key><string>86387.0737</string></dict>
+<dict>
+<key>identifier</key><string>fd669382-619d-4ea3-8b74-2f69defb2ddc</string><key>stan_name</key><string>中国电信蒋村营业厅</string><key>multi_info</key><string> </string><key>x</key><string>74030.0938</string><key>y</key><string>83606.8516</string></dict>
+<dict>
+<key>identifier</key><string>d43b24c8-14e7-4159-97d0-f945252c5f48</string><key>stan_name</key><string>浙江省电信有限公司杭州市分公司下城分局</string><key>multi_info</key><string> </string><key>x</key><string>80897.8159</string><key>y</key><string>86441.5866</string></dict>
+<dict>
+<key>identifier</key><string>f6a69ef2-ac6b-49cf-89e8-c5a91939b1ff</string><key>stan_name</key><string>中国电信文三高新营业厅</string><key>multi_info</key><string> </string><key>x</key><string>77068.6693</string><key>y</key><string>83690.1961</string></dict>
+</array>
+</plist>
