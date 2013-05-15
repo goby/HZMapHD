@@ -101,11 +101,16 @@
 		_tileSize = CGSizeMake(_tileWidth, _tileHeight);
 		self.spatialReference = [[AGSSpatialReference alloc] initWithWKID:_WKID WKT:_WKT];
 		self.tileOrigin = [[AGSPoint alloc] initWithX:_tileOriginX y:_tileOriginY spatialReference:_spatialReference];
-       
+       /*
         _xmin = 40496418.8722965;
         _ymin = 3319960.4319613;
         _xmax = 40542545.7777764;
-        _ymax = 3381623.52026086;
+        _ymax = 3381623.52026086;*/
+        
+        _xmin =  61233.7016445426;
+        _ymin=  52585.8605198758;
+        _xmax = 107066.301644543;
+        _ymax = 114185.708449647;
         
         self.fullEnvelope = [AGSEnvelope envelopeWithXmin:_xmin
                                                      ymin:_ymin

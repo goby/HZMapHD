@@ -801,7 +801,6 @@
 				F0AE65511741C72B00EEAC78 /* MainStoryboard.storyboard */,
 				F0AE65541741C72B00EEAC78 /* ZGSViewController.h */,
 				F0AE65551741C72B00EEAC78 /* ZGSViewController.m */,
-				F0AE65401741C72B00EEAC78 /* Supporting Files */,
 				F0F56E6E174239510044A0CE /* ZGSLayersViewController.h */,
 				F0F56E6F174239510044A0CE /* ZGSLayersViewController.m */,
 				F0F56E7117423BCC0044A0CE /* ZGSLayerTableViewCell.h */,
@@ -810,6 +809,7 @@
 				F0F56E7517423D200044A0CE /* ZGSSubLayersViewController.m */,
 				F0F56E7F17431B920044A0CE /* ZGSHorizonCurl.h */,
 				F0F56E8017431B920044A0CE /* ZGSHorizonCurl.m */,
+				F0AE65401741C72B00EEAC78 /* Supporting Files */,
 			);
 			path = HZMapHD;
 			sourceTree = "<group>";

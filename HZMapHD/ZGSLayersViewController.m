@@ -26,7 +26,7 @@
 @synthesize tableView = _tableView;
 -(NSArray *)layers {
     if (_layers == nil){
-        NSURL *url = [[NSBundle mainBundle] URLForResource:@"Layers" withExtension:@"plist"];
+        NSURL *url = [[NSBundle mainBundle] URLForResource:@"Theme" withExtension:@"plist"];
         _layers = [NSArray arrayWithContentsOfURL:url];
     }
         
