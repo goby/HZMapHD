@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>ed4af82e-bbe4-4414-817a-46096707c377</string><key>stan_name</key><string>杭州市萧山区进化镇第三避灾所</string><key>multi_info</key><string> </string><key>x</key><string>91448.9410</string><key>y</key><string>54114.2680</string></dict>
+<dict>
+<key>identifier</key><string>25bea130-c16f-4031-9274-dd9062431d50</string><key>stan_name</key><string>西湖区社会福利中心</string><key>multi_info</key><string> </string><key>x</key><string>67188.9209</string><key>y</key><string>76139.1131</string></dict>
+<dict>
+<key>identifier</key><string>d35f4d06-e5bd-4e8d-81b7-22fa1cbb1cc2</string><key>stan_name</key><string>杭州市救生打捞协会水上救助委员会</string><key>multi_info</key><string> </string><key>x</key><string>79437.8358</string><key>y</key><string>66459.7986</string></dict>
+<dict>
+<key>identifier</key><string>444c9c60-a938-4a72-8d35-f785158632ad</string><key>stan_name</key><string>星光浴室</string><key>multi_info</key><string> </string><key>x</key><string>73543.6797</string><key>y</key><string>66671.7734</string></dict>
+<dict>
+<key>identifier</key><string>274df82d-8351-4f4d-b140-d44b6c39e59e</string><key>stan_name</key><string>铁路浴室</string><key>multi_info</key><string> </string><key>x</key><string>81115.8047</string><key>y</key><string>78653.2578</string></dict>
+<dict>
+<key>identifier</key><string>034bb454-60e7-4147-8264-0f9c2a125173</string><key>stan_name</key><string>杭州市城管办应急抢险储备站</string><key>multi_info</key><string> </string><key>x</key><string>82295.3932</string><key>y</key><string>86740.9289</string></dict>
+<dict>
+<key>identifier</key><string>1e6d6946-e865-45b8-8b86-1942a35ed324</string><key>stan_name</key><string>征地事务所</string><key>multi_info</key><string> </string><key>x</key><string>77155.0234</string><key>y</key><string>85016.4844</string></dict>
+<dict>
+<key>identifier</key><string>3809031b-cd2c-4b23-9e73-3763fc556b42</string><key>stan_name</key><string>小区公园</string><key>multi_info</key><string> </string><key>x</key><string>82372.2109</string><key>y</key><string>85669.2656</string></dict>
+<dict>
+<key>identifier</key><string>3c90e830-1896-4020-9a66-f31687621f9e</string><key>stan_name</key><string>杭州市第二福利院</string><key>multi_info</key><string> </string><key>x</key><string>82706.4531</string><key>y</key><string>85405.2969</string></dict>
+<dict>
+<key>identifier</key><string>d657a130-3f5d-4ca1-bc82-4b7df9e377d5</string><key>stan_name</key><string>浙江省人才交流中心</string><key>multi_info</key><string> </string><key>x</key><string>78913.5057</string><key>y</key><string>83374.7618</string></dict>
+<dict>
+<key>identifier</key><string>eb7a6fe1-d064-4ba7-8772-fea1274a4963</string><key>stan_name</key><string>杭州儿童福利院</string><key>multi_info</key><string> </string><key>x</key><string>71851.3867</string><key>y</key><string>81476.3844</string></dict>
+<dict>
+<key>identifier</key><string>d4370bf4-9902-49a6-9d0c-0ec84ea5842e</string><key>stan_name</key><string>思安坊2号车库</string><key>multi_info</key><string> </string><key>x</key><string>83390.0234</string><key>y</key><string>79937.50</string></dict>
+<dict>
+<key>identifier</key><string>a67a26a3-e6ae-4107-b91a-1c50f9118c30</string><key>stan_name</key><string>废品收购站</string><key>multi_info</key><string> </string><key>x</key><string>90245.5749</string><key>y</key><string>101227.2156</string></dict>
+<dict>
+<key>identifier</key><string>b5647531-07c1-4c52-beca-08ae46edf743</string><key>stan_name</key><string>归灵堂</string><key>multi_info</key><string> </string><key>x</key><string>86303.2969</string><key>y</key><string>95674.3437</string></dict>
+<dict>
+<key>identifier</key><string>108d173c-aa05-4b6c-a13e-bc9b138ca6fa</string><key>stan_name</key><string>杭州儿童福利院</string><key>multi_info</key><string> </string><key>x</key><string>62947.37</string><key>y</key><string>96099.2139</string></dict>
+<dict>
+<key>identifier</key><string>d174e5f6-3951-42d6-83ec-91d89e76cbd3</string><key>stan_name</key><string>杭州市江干区三里亭废品收购站</string><key>multi_info</key><string> </string><key>x</key><string>83190.8224</string><key>y</key><string>87126.5678</string></dict>
+<dict>
+<key>identifier</key><string>5f2c451c-f7c2-4c40-9e34-092b2f581a94</string><key>stan_name</key><string>甘长村安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>81586.6722</string><key>y</key><string>90530.0196</string></dict>
+<dict>
+<key>identifier</key><string>6ea9aa27-2e9f-4515-8336-542e910f59ef</string><key>stan_name</key><string>俞章安乐堂</string><key>multi_info</key><string> </string><key>x</key><string>84035.4375</string><key>y</key><string>88082.2031</string></dict>
+<dict>
+<key>identifier</key><string>8a2e420b-5055-4fee-b7a1-706270728b31</string><key>stan_name</key><string>配电房</string><key>multi_info</key><string> </string><key>x</key><string>82314.3520</string><key>y</key><string>85260.8050</string></dict>
+<dict>
+<key>identifier</key><string>9a13abe3-ccf4-4c64-b66a-11d630306f82</string><key>stan_name</key><string>翠苑街道夕阳红文化艺术团棋牌队</string><key>multi_info</key><string> </string><key>x</key><string>76785.4360</string><key>y</key><string>83911.6010</string></dict>
+<dict>
+<key>identifier</key><string>591369aa-48b8-48d1-8ca5-27cee27dd30f</string><key>stan_name</key><string>文新派出所流动人口管理服务中心</string><key>multi_info</key><string> </string><key>x</key><string>73121.6090</string><key>y</key><string>84013.1470</string></dict>
+<dict>
+<key>identifier</key><string>17e630a2-0b47-4a82-9726-960f0e1d75b2</string><key>stan_name</key><string>万峰艺术天地</string><key>multi_info</key><string> </string><key>x</key><string>72990.8460</string><key>y</key><string>85275.0390</string></dict>
+<dict>
+<key>identifier</key><string>8c848d42-d6bc-41e6-8b41-8f5ffed142cf</string><key>stan_name</key><string>同一号</string><key>multi_info</key><string> </string><key>x</key><string>72996.9490</string><key>y</key><string>85308.17</string></dict>
+<dict>
+<key>identifier</key><string>92ad90a0-c0bf-4e88-852e-306d341ddf1b</string><key>stan_name</key><string>杭州闸口街道废品收购站</string><key>multi_info</key><string> </string><key>x</key><string>81354.0320</string><key>y</key><string>78186.6380</string></dict>
+<dict>
+<key>identifier</key><string>dbb24328-ca4b-4020-9d5c-caf5979e3126</string><key>stan_name</key><string>小江公园</string><key>multi_info</key><string> </string><key>x</key><string>76089.3650</string><key>y</key><string>67904.3670</string></dict>
+<dict>
+<key>identifier</key><string>74e34694-1290-4c34-9ee7-0e86b46e8d4d</string><key>stan_name</key><string>社区服务信息亭</string><key>multi_info</key><string> </string><key>x</key><string>80594.09</string><key>y</key><string>87219.2060</string></dict>
+<dict>
+<key>identifier</key><string>a8bae3ef-e34c-4f69-ae6d-86f2799c715f</string><key>stan_name</key><string>上城区社区学院</string><key>multi_info</key><string> </string><key>x</key><string>81141.9380</string><key>y</key><string>80485.8120</string></dict>
+</array>
+</plist>

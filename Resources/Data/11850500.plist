@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>7bb5a62e-aa17-45ba-b9b6-67b53c29bb5a</string><key>stan_name</key><string>杭州永杨化纤厂</string><key>multi_info</key><string> </string><key>x</key><string>75316.1390</string><key>y</key><string>42289.2819</string></dict>
+<dict>
+<key>identifier</key><string>d26f9def-22cf-425d-bd06-847b8deb84b5</string><key>stan_name</key><string>杭州萧山塑料工艺厂</string><key>multi_info</key><string> </string><key>x</key><string>75917.9420</string><key>y</key><string>44205.6820</string></dict>
+<dict>
+<key>identifier</key><string>f24afaba-cedb-474c-8774-a886276db209</string><key>stan_name</key><string>杭州杭通塑胶厂</string><key>multi_info</key><string> </string><key>x</key><string>79929.09</string><key>y</key><string>44902.2740</string></dict>
+<dict>
+<key>identifier</key><string>874f30f8-f45f-4530-a724-3beb323973d4</string><key>stan_name</key><string>杭州韵庭日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79662.1570</string><key>y</key><string>53963.2770</string></dict>
+<dict>
+<key>identifier</key><string>fdad4787-59e1-48be-a432-e0b84dcac812</string><key>stan_name</key><string>美通日用品杭州有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69602.5997</string><key>y</key><string>73596.4194</string></dict>
+<dict>
+<key>identifier</key><string>7bf5e827-8d3b-47f5-a62c-eae41ab10b5b</string><key>stan_name</key><string>杭州西湖农药厂</string><key>multi_info</key><string> </string><key>x</key><string>75407.7545</string><key>y</key><string>66070.3969</string></dict>
+<dict>
+<key>identifier</key><string>d76147a5-e414-4a51-ae4d-f0ea2951b06f</string><key>stan_name</key><string>杭州瑞华香料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69907.3006</string><key>y</key><string>76392.5376</string></dict>
+<dict>
+<key>identifier</key><string>43b40f9e-d8b7-455f-9489-7f615a1a09ae</string><key>stan_name</key><string>飞龙涂料</string><key>multi_info</key><string> </string><key>x</key><string>91905.6240</string><key>y</key><string>65299.90</string></dict>
+<dict>
+<key>identifier</key><string>488ff669-2593-44cd-9e18-4c026f05e30b</string><key>stan_name</key><string>杭州金达搪瓷厂</string><key>multi_info</key><string> </string><key>x</key><string>73222.3422</string><key>y</key><string>64734.1883</string></dict>
+<dict>
+<key>identifier</key><string>1ec4bf41-fada-420a-861b-d6f9be61db7e</string><key>stan_name</key><string>周浦化肥部</string><key>multi_info</key><string> </string><key>x</key><string>71263.5156</string><key>y</key><string>66474.75</string></dict>
+<dict>
+<key>identifier</key><string>c5921173-6367-4af9-b460-255d383b7cc6</string><key>stan_name</key><string>可尼达镜业</string><key>multi_info</key><string> </string><key>x</key><string>115672.86</string><key>y</key><string>70985.2261</string></dict>
+<dict>
+<key>identifier</key><string>56feaef1-c15d-4129-be9e-42c95981423d</string><key>stan_name</key><string>杭州西湖日用化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70226.8355</string><key>y</key><string>67528.0755</string></dict>
+<dict>
+<key>identifier</key><string>1c1740ec-a8ea-479c-aa4a-57e58f2c1866</string><key>stan_name</key><string>杭州德尔福涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88342.6299</string><key>y</key><string>74422.6501</string></dict>
+<dict>
+<key>identifier</key><string>8d065911-fa26-44b1-8631-85580c99120b</string><key>stan_name</key><string>杭州乐贝特实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95117.1650</string><key>y</key><string>69224.4770</string></dict>
+<dict>
+<key>identifier</key><string>e27c61e4-ca0e-4d61-818b-2e931d9f0dc3</string><key>stan_name</key><string>杭州两家化仟有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94100.3779</string><key>y</key><string>69942.2779</string></dict>
+<dict>
+<key>identifier</key><string>6ef3d6bb-9622-4888-aea0-6f64a6406bf2</string><key>stan_name</key><string>杭州沈氏化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99034.0334</string><key>y</key><string>70783.4590</string></dict>
+<dict>
+<key>identifier</key><string>80d86bc5-a361-4383-b72d-d99825621073</string><key>stan_name</key><string>杭州广元润滑油有限公司</string><key>multi_info</key><string> </string><key>x</key><string>102084.7720</string><key>y</key><string>70381.35</string></dict>
+<dict>
+<key>identifier</key><string>d8f13425-2a81-4ba4-bc8c-ba1a84e22f91</string><key>stan_name</key><string>杭州萧山王氏雨具有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98773.6833</string><key>y</key><string>71774.78</string></dict>
+<dict>
+<key>identifier</key><string>093216b4-486f-4a45-a5d1-4ec1337bb6b3</string><key>stan_name</key><string>杭州美邦化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>103884.7340</string><key>y</key><string>72051.59</string></dict>
+<dict>
+<key>identifier</key><string>73d7e5a5-1e19-40fd-b8ac-4529f119be8a</string><key>stan_name</key><string>美通日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69710.8672</string><key>y</key><string>73313.7344</string></dict>
+<dict>
+<key>identifier</key><string>7ce5b26f-a348-4677-ad53-4eefe44ba7bb</string><key>stan_name</key><string>美通日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69599.5938</string><key>y</key><string>73439.5469</string></dict>
+<dict>
+<key>identifier</key><string>c36edbe6-7cf1-4a2a-962f-61732a569600</string><key>stan_name</key><string>李荣玻璃厂</string><key>multi_info</key><string> </string><key>x</key><string>118128.4920</string><key>y</key><string>72947.8250</string></dict>
+<dict>
+<key>identifier</key><string>407bfe5d-fe52-4953-8e5d-df7de6ada990</string><key>stan_name</key><string>杭州汇美化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>101859.8506</string><key>y</key><string>72978.1950</string></dict>
+<dict>
+<key>identifier</key><string>2abd83fc-442f-4aba-94ca-40b7f7536c46</string><key>stan_name</key><string>万茂塑料</string><key>multi_info</key><string> </string><key>x</key><string>81154.6016</string><key>y</key><string>74875.5391</string></dict>
+<dict>
+<key>identifier</key><string>e1da4223-ad16-4609-9674-a1124da51c22</string><key>stan_name</key><string>杭州萧山道远化纤有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93795.3730</string><key>y</key><string>76160.3391</string></dict>
+<dict>
+<key>identifier</key><string>6e1b3ded-f8be-4934-a064-d31f7d9a2a83</string><key>stan_name</key><string>杭州新丽纤维制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88886.4319</string><key>y</key><string>75529.7310</string></dict>
+<dict>
+<key>identifier</key><string>ce574b06-9c32-45b5-a511-3897eed292fe</string><key>stan_name</key><string>杭州市友和玻璃厂</string><key>multi_info</key><string> </string><key>x</key><string>66704.0725</string><key>y</key><string>76984.8998</string></dict>
+<dict>
+<key>identifier</key><string>c20ff3d6-dc70-416c-8751-20d3d05f104f</string><key>stan_name</key><string>传化集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92903.1879</string><key>y</key><string>77225.5919</string></dict>
+<dict>
+<key>identifier</key><string>b88fc83c-6ad6-4ae6-be1f-954144ace5c7</string><key>stan_name</key><string>杭州金盛印铁涂料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>62630.6781</string><key>y</key><string>78278.6730</string></dict>
+<dict>
+<key>identifier</key><string>c0eef72c-1edc-4027-9ca5-348563872730</string><key>stan_name</key><string>杭州碧士日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61768.8830</string><key>y</key><string>78609.68</string></dict>
+<dict>
+<key>identifier</key><string>1246e012-7077-476f-8d6d-810a6588feb5</string><key>stan_name</key><string>露丝贝儿美容用品(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94545.0340</string><key>y</key><string>78196.6360</string></dict>
+<dict>
+<key>identifier</key><string>e4336f59-7975-4c2f-a749-8549a42defef</string><key>stan_name</key><string>杭州奔达胶粘剂厂</string><key>multi_info</key><string> </string><key>x</key><string>69460.6550</string><key>y</key><string>79092.3932</string></dict>
+<dict>
+<key>identifier</key><string>26126211-d6ba-416d-83fe-8e30c25a419b</string><key>stan_name</key><string>杭州化学日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84070.3281</string><key>y</key><string>86664.9453</string></dict>
+<dict>
+<key>identifier</key><string>98d4c715-cf55-49cc-9b84-7ee0cc02b3c1</string><key>stan_name</key><string>杭州乐金化妆品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97271.6929</string><key>y</key><string>86239.9660</string></dict>
+<dict>
+<key>identifier</key><string>9a48d574-2cfe-4913-b580-0f5a503c1932</string><key>stan_name</key><string>玫琳凯</string><key>multi_info</key><string> </string><key>x</key><string>97137.5109</string><key>y</key><string>84938.7519</string></dict>
+<dict>
+<key>identifier</key><string>c52a1f41-bcea-4344-8af5-1d326ea65c0a</string><key>stan_name</key><string>杭州双桥化工厂一车间</string><key>multi_info</key><string> </string><key>x</key><string>67275.6020</string><key>y</key><string>88983.57</string></dict>
+<dict>
+<key>identifier</key><string>bad2feec-02be-47d8-bfb2-c4c5f3098a50</string><key>stan_name</key><string>成佳玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93651.7882</string><key>y</key><string>85771.2031</string></dict>
+<dict>
+<key>identifier</key><string>b1d707fe-8ec0-458e-a433-282667fd0a2f</string><key>stan_name</key><string>浙江百合科莱恩颜料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>121877.7320</string><key>y</key><string>83125.1321</string></dict>
+<dict>
+<key>identifier</key><string>b36fd80d-5869-4cf1-bef1-88d497648d35</string><key>stan_name</key><string>浙江金牛农药有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96606.2775</string><key>y</key><string>84384.1827</string></dict>
+<dict>
+<key>identifier</key><string>aaec980b-7c78-46aa-8e84-f5e17e9dbfd8</string><key>stan_name</key><string>杭州新世纪星眼镜有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78291.8594</string><key>y</key><string>85449.4219</string></dict>
+<dict>
+<key>identifier</key><string>89511880-f7bc-4301-b9fb-c42c64748d98</string><key>stan_name</key><string>杭州宜家日用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87464.1230</string><key>y</key><string>85982.5220</string></dict>
+<dict>
+<key>identifier</key><string>91aef204-335e-4476-8bab-e6f5643395db</string><key>stan_name</key><string>玻璃杯厂</string><key>multi_info</key><string> </string><key>x</key><string>106055.4049</string><key>y</key><string>82334.8720</string></dict>
+<dict>
+<key>identifier</key><string>ed61ce86-a2c2-4b1d-ae41-639c105ba80e</string><key>stan_name</key><string>杭州天达喷漆厂</string><key>multi_info</key><string> </string><key>x</key><string>88934.3099</string><key>y</key><string>82406.2550</string></dict>
+<dict>
+<key>identifier</key><string>0e35fdc2-607c-4d7f-b299-dfe069c2cc0c</string><key>stan_name</key><string>二桥洗涤剂厂</string><key>multi_info</key><string> </string><key>x</key><string>86763.4688</string><key>y</key><string>83525.9141</string></dict>
+<dict>
+<key>identifier</key><string>72800a6e-ccf7-4b4c-a363-4f351e8b1384</string><key>stan_name</key><string>孔凤春</string><key>multi_info</key><string> </string><key>x</key><string>80555.4766</string><key>y</key><string>79630.8828</string></dict>
+<dict>
+<key>identifier</key><string>2336245d-8df5-491e-bb69-73f87dc9ba01</string><key>stan_name</key><string>杭州永恒公司</string><key>multi_info</key><string> </string><key>x</key><string>56861.4660</string><key>y</key><string>79935.88</string></dict>
+<dict>
+<key>identifier</key><string>56b673a6-64f9-45d3-9616-9100ebc0ebd1</string><key>stan_name</key><string>吉美瑞寝具(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79069.4687</string><key>y</key><string>93583.7344</string></dict>
+<dict>
+<key>identifier</key><string>aa3c0733-cefc-4186-999a-aa2285d31430</string><key>stan_name</key><string>市隆盛涂层公司</string><key>multi_info</key><string> </string><key>x</key><string>72122.8910</string><key>y</key><string>96941.5031</string></dict>
+<dict>
+<key>identifier</key><string>10e62352-67e3-456b-8126-2f5744f13acb</string><key>stan_name</key><string>杭州杭日油墨有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65241.8710</string><key>y</key><string>96944.9880</string></dict>
+<dict>
+<key>identifier</key><string>4dd94b56-2aa2-401f-93bf-43b96b5583f3</string><key>stan_name</key><string>杭州佳丽皮具有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65581.2010</string><key>y</key><string>96987.2469</string></dict>
+<dict>
+<key>identifier</key><string>aaa627be-6147-4f77-8bbc-e546d028cd38</string><key>stan_name</key><string>杭州星光油墨厂</string><key>multi_info</key><string> </string><key>x</key><string>86892.5510</string><key>y</key><string>101035.8699</string></dict>
+<dict>
+<key>identifier</key><string>8eb3acd0-9201-4942-9b97-c1a1f2d22cc3</string><key>stan_name</key><string>天利海绵厂</string><key>multi_info</key><string> </string><key>x</key><string>86839.0883</string><key>y</key><string>93774.0136</string></dict>
+<dict>
+<key>identifier</key><string>df7c1cd2-54e3-4e0d-8238-91f3a015c528</string><key>stan_name</key><string>比纳实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>40020.0209</string><key>y</key><string>101490.8839</string></dict>
+<dict>
+<key>identifier</key><string>afae9a3a-bbe4-43b3-bd0e-058cf97f0190</string><key>stan_name</key><string>杭州运达农药制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80114.9861</string><key>y</key><string>102302.6459</string></dict>
+<dict>
+<key>identifier</key><string>ecad6333-18d0-4114-a713-5676c6b733d2</string><key>stan_name</key><string>杭州华峰轻化科技开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>40761.3870</string><key>y</key><string>103490.1251</string></dict>
+<dict>
+<key>identifier</key><string>efc8b8a6-d976-464b-acbe-375f4f99d2da</string><key>stan_name</key><string>杭州科皇饲料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>63037.1060</string><key>y</key><string>94839.7110</string></dict>
+<dict>
+<key>identifier</key><string>221e0d7a-ac47-4808-8265-3088ed673f57</string><key>stan_name</key><string>杭州彭公树脂厂</string><key>multi_info</key><string> </string><key>x</key><string>55529.0790</string><key>y</key><string>99004.1231</string></dict>
+<dict>
+<key>identifier</key><string>f8781450-9c76-4286-85a8-1580fcb6c2f0</string><key>stan_name</key><string>饲料厂</string><key>multi_info</key><string> </string><key>x</key><string>77796.2266</string><key>y</key><string>92466.6016</string></dict>
+<dict>
+<key>identifier</key><string>de16141b-ebad-4591-9767-e0118bcbfd3b</string><key>stan_name</key><string>杭州永余日化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88737.5584</string><key>y</key><string>92488.1135</string></dict>
+<dict>
+<key>identifier</key><string>2eed10bb-2bf3-4626-991d-6f410d399cb1</string><key>stan_name</key><string>杭州余杭振华日化玻璃有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65680.3430</string><key>y</key><string>95171.5641</string></dict>
+<dict>
+<key>identifier</key><string>dba31fd0-a3e2-4e39-a0d9-ff328f39b039</string><key>stan_name</key><string>杭州昆仑特种润滑剂有限公司</string><key>multi_info</key><string> </string><key>x</key><string>45769.0810</string><key>y</key><string>104483.2279</string></dict>
+<dict>
+<key>identifier</key><string>d52c3512-40b3-4cf3-8f13-e57b8158a230</string><key>stan_name</key><string>埃德玛香精有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88639.8590</string><key>y</key><string>104866.3181</string></dict>
+<dict>
+<key>identifier</key><string>c2e99224-96c6-4465-8c03-55188c485f14</string><key>stan_name</key><string>永和村美术塑料装潢厂</string><key>multi_info</key><string> </string><key>x</key><string>78801.5073</string><key>y</key><string>93326.8490</string></dict>
+<dict>
+<key>identifier</key><string>6230a365-35fe-4309-bddc-d78001ef780d</string><key>stan_name</key><string>杭州大营静电喷涂厂</string><key>multi_info</key><string> </string><key>x</key><string>84705.4247</string><key>y</key><string>89047.6378</string></dict>
+<dict>
+<key>identifier</key><string>869da93c-ec5d-467a-993e-73bd1068baa4</string><key>stan_name</key><string>生木涂料厂</string><key>multi_info</key><string> </string><key>x</key><string>89733.4369</string><key>y</key><string>89049.7344</string></dict>
+<dict>
+<key>identifier</key><string>ca893b2d-a433-42c8-91ff-fb5bdd79b735</string><key>stan_name</key><string>杭州下沙油漆厂</string><key>multi_info</key><string> </string><key>x</key><string>94799.2454</string><key>y</key><string>87719.6614</string></dict>
+<dict>
+<key>identifier</key><string>162aefc3-2386-47e9-952f-a35e0cc63d15</string><key>stan_name</key><string>杭州下沙电镀有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94798.0271</string><key>y</key><string>87798.9906</string></dict>
+<dict>
+<key>identifier</key><string>62c8b058-08b6-4522-9260-b641a65a3e5e</string><key>stan_name</key><string>杭州五丰润滑油脂厂</string><key>multi_info</key><string> </string><key>x</key><string>66902.2266</string><key>y</key><string>88327.5703</string></dict>
+<dict>
+<key>identifier</key><string>8064df9c-f260-4dae-847a-959b79439d11</string><key>stan_name</key><string>杭州法曼香精有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85655.1953</string><key>y</key><string>87805.3516</string></dict>
+<dict>
+<key>identifier</key><string>e3442f37-4025-4c1e-bd9b-4eb7816eeb95</string><key>stan_name</key><string>浙江华盛塑胶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81906.5707</string><key>y</key><string>87832.3204</string></dict>
+<dict>
+<key>identifier</key><string>d4ce340c-dd06-4478-805f-0aeca541732d</string><key>stan_name</key><string>杭州中和橡塑制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66235.7729</string><key>y</key><string>88336.9650</string></dict>
+<dict>
+<key>identifier</key><string>6411cfa6-57b1-4ddd-9e94-d72c72437968</string><key>stan_name</key><string>杭州塑料工业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73652.8516</string><key>y</key><string>90212.3047</string></dict>
+<dict>
+<key>identifier</key><string>cca3ddeb-d36a-4dbd-a87b-17adad741914</string><key>stan_name</key><string>杭州邦联氨纶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111426.1640</string><key>y</key><string>90249.7250</string></dict>
+<dict>
+<key>identifier</key><string>e975ccc7-bf49-44ea-97e7-d175a1d390c3</string><key>stan_name</key><string>假日旅游用品公司</string><key>multi_info</key><string> </string><key>x</key><string>73917.5938</string><key>y</key><string>90334.8984</string></dict>
+<dict>
+<key>identifier</key><string>16f2b4cd-c16e-42c5-b1d3-e492fcf3ddb0</string><key>stan_name</key><string>杭州舒美尔氨纶有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111832.9840</string><key>y</key><string>90370.0070</string></dict>
+<dict>
+<key>identifier</key><string>46987d99-85d3-4416-8327-1cba249bd19e</string><key>stan_name</key><string>前进活性炭厂</string><key>multi_info</key><string> </string><key>x</key><string>120909.8813</string><key>y</key><string>88089.5670</string></dict>
+<dict>
+<key>identifier</key><string>65c3edde-1e6c-4ee3-b63d-8d93832c6617</string><key>stan_name</key><string>阳光型材静电喷涂厂</string><key>multi_info</key><string> </string><key>x</key><string>80608.8502</string><key>y</key><string>90473.1539</string></dict>
+<dict>
+<key>identifier</key><string>1e3f119d-5747-4674-95eb-15cd1aeb037a</string><key>stan_name</key><string>杭州兰凯化妆品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66140.7180</string><key>y</key><string>88171.08</string></dict>
+<dict>
+<key>identifier</key><string>83366b15-a6ad-4a0f-b331-d74f106420bc</string><key>stan_name</key><string>杭州春丝丽有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99030.5831</string><key>y</key><string>87349.5568</string></dict>
+<dict>
+<key>identifier</key><string>0d73b210-b875-4750-be87-f402bc7af98f</string><key>stan_name</key><string>杭州静电喷涂厂</string><key>multi_info</key><string> </string><key>x</key><string>83561.3594</string><key>y</key><string>88629.9688</string></dict>
+<dict>
+<key>identifier</key><string>d7e33836-24eb-4cff-866b-6ac6f58337fc</string><key>stan_name</key><string>杭州赛特家化有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85012.8203</string><key>y</key><string>87407.8516</string></dict>
+<dict>
+<key>identifier</key><string>94b19c8c-aba0-4c11-b351-83e7d04ef58c</string><key>stan_name</key><string>洁丽涂料</string><key>multi_info</key><string> </string><key>x</key><string>75159.2344</string><key>y</key><string>89393.6016</string></dict>
+</array>
+</plist>

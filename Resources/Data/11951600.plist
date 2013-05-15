@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>48e981c3-5607-481e-b5d3-29c3965c1d05</string><key>stan_name</key><string>密林度假村</string><key>multi_info</key><string> </string><key>x</key><string>76826.0972</string><key>y</key><string>80425.0907</string></dict>
+<dict>
+<key>identifier</key><string>49489233-c8be-469e-b34b-464de384ebc1</string><key>stan_name</key><string>垦园网吧</string><key>multi_info</key><string> </string><key>x</key><string>77711.8281</string><key>y</key><string>82972.4844</string></dict>
+<dict>
+<key>identifier</key><string>218c2571-9bd4-4c38-b1a2-3e5d3e75fa19</string><key>stan_name</key><string>源源棋牌</string><key>multi_info</key><string> </string><key>x</key><string>75879.6562</string><key>y</key><string>83001.1797</string></dict>
+<dict>
+<key>identifier</key><string>45ae0334-b9db-48f1-a0a4-0a17a8ca078a</string><key>stan_name</key><string>华立南湖花城</string><key>multi_info</key><string> </string><key>x</key><string>53902.7230</string><key>y</key><string>81691.3730</string></dict>
+<dict>
+<key>identifier</key><string>f4660e60-bf26-470f-845b-ce9704403b9a</string><key>stan_name</key><string>爱情故事</string><key>multi_info</key><string> </string><key>x</key><string>79575.4062</string><key>y</key><string>81839.9922</string></dict>
+<dict>
+<key>identifier</key><string>ea8ad75e-b6a4-423a-bef9-2d29a97d5827</string><key>stan_name</key><string>龙凤山庄</string><key>multi_info</key><string> </string><key>x</key><string>75626.7626</string><key>y</key><string>80984.8051</string></dict>
+<dict>
+<key>identifier</key><string>1722fb66-024c-44fa-bf20-2040b145f48a</string><key>stan_name</key><string>理发室</string><key>multi_info</key><string> </string><key>x</key><string>76694.7969</string><key>y</key><string>81967.8359</string></dict>
+<dict>
+<key>identifier</key><string>623ecb9c-1cdf-46e5-8602-a6bada7903c7</string><key>stan_name</key><string>渭泉浴池</string><key>multi_info</key><string> </string><key>x</key><string>80575.2734</string><key>y</key><string>79963.7734</string></dict>
+<dict>
+<key>identifier</key><string>dcdade0d-a89e-475d-b50f-381d6ec0421c</string><key>stan_name</key><string>杭州鹤翔足浴保健有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83245.6172</string><key>y</key><string>80003.9531</string></dict>
+<dict>
+<key>identifier</key><string>8f8300b3-282d-4d2d-972f-c14096a66b27</string><key>stan_name</key><string>宝麓山庄</string><key>multi_info</key><string> </string><key>x</key><string>78312.6875</string><key>y</key><string>82077.4375</string></dict>
+<dict>
+<key>identifier</key><string>afc9931c-3dcb-4582-9dd5-4f62ae648a18</string><key>stan_name</key><string>桃花岛足浴</string><key>multi_info</key><string> </string><key>x</key><string>82960.0703</string><key>y</key><string>80052.2344</string></dict>
+<dict>
+<key>identifier</key><string>6f477388-3a1e-45e7-8571-05c759161844</string><key>stan_name</key><string>陈佳美容工作室</string><key>multi_info</key><string> </string><key>x</key><string>82932.1484</string><key>y</key><string>81315.0703</string></dict>
+<dict>
+<key>identifier</key><string>20ff7ab0-3593-4581-ae8a-f33ae92561ad</string><key>stan_name</key><string>杭州塘栖泉漳农庄</string><key>multi_info</key><string> </string><key>x</key><string>87057.6550</string><key>y</key><string>107880.8870</string></dict>
+<dict>
+<key>identifier</key><string>b638371c-592e-4d3a-b2d1-ccbf9457c11e</string><key>stan_name</key><string>富华休闲农庄</string><key>multi_info</key><string> </string><key>x</key><string>86949.9784</string><key>y</key><string>93718.5522</string></dict>
+<dict>
+<key>identifier</key><string>acf063f0-ae44-4e52-a676-eda2b1f5e5a8</string><key>stan_name</key><string>山农庄</string><key>multi_info</key><string> </string><key>x</key><string>82840.6562</string><key>y</key><string>94338.0391</string></dict>
+<dict>
+<key>identifier</key><string>28becd15-7cc8-4a87-9fef-d650d463751e</string><key>stan_name</key><string>良渚生绿园垂钓基地</string><key>multi_info</key><string> </string><key>x</key><string>69248.5910</string><key>y</key><string>98801.8750</string></dict>
+<dict>
+<key>identifier</key><string>28d1506f-d6ac-48d1-abbe-50845272516c</string><key>stan_name</key><string>博望龙悦水庄</string><key>multi_info</key><string> </string><key>x</key><string>76297.9929</string><key>y</key><string>103537.2840</string></dict>
+<dict>
+<key>identifier</key><string>fb7add5a-a5c8-4d96-a810-e165b27436db</string><key>stan_name</key><string>临平宾馆休闲中心</string><key>multi_info</key><string> </string><key>x</key><string>93532.3239</string><key>y</key><string>100286.8320</string></dict>
+<dict>
+<key>identifier</key><string>b9294d69-1da9-46d3-8777-952b48b9c8ea</string><key>stan_name</key><string>休闲农庄</string><key>multi_info</key><string> </string><key>x</key><string>76468.0189</string><key>y</key><string>91431.9390</string></dict>
+<dict>
+<key>identifier</key><string>026edaaf-ce31-4a40-9004-b680ed047773</string><key>stan_name</key><string>安康浴场</string><key>multi_info</key><string> </string><key>x</key><string>80839.2794</string><key>y</key><string>88314.8970</string></dict>
+<dict>
+<key>identifier</key><string>dedae6c3-eb21-40a2-a30b-2f9ba7b5696e</string><key>stan_name</key><string>圣陶沙大浴场</string><key>multi_info</key><string> </string><key>x</key><string>85455.2230</string><key>y</key><string>91814.0709</string></dict>
+<dict>
+<key>identifier</key><string>da9a54d9-b7fc-436c-82e1-0c9394742693</string><key>stan_name</key><string>迎宾浴室</string><key>multi_info</key><string> </string><key>x</key><string>85108.6016</string><key>y</key><string>87980.75</string></dict>
+<dict>
+<key>identifier</key><string>4a1d74d8-f85d-4cbc-9419-354526ad988c</string><key>stan_name</key><string>采风踩吧</string><key>multi_info</key><string> </string><key>x</key><string>80742.6763</string><key>y</key><string>87150.7933</string></dict>
+<dict>
+<key>identifier</key><string>9710f80b-c56b-41f8-ac53-34b2ad21670b</string><key>stan_name</key><string>唯吾知足足浴</string><key>multi_info</key><string> </string><key>x</key><string>79962.5070</string><key>y</key><string>87163.3687</string></dict>
+<dict>
+<key>identifier</key><string>63ae9b73-f17a-451d-8e9c-20866aa3c504</string><key>stan_name</key><string>都市农业园</string><key>multi_info</key><string> </string><key>x</key><string>100794.4315</string><key>y</key><string>89164.1468</string></dict>
+<dict>
+<key>identifier</key><string>84bf2d01-8077-4de6-a254-6ab7b082db6d</string><key>stan_name</key><string>蓝郡阁足浴</string><key>multi_info</key><string> </string><key>x</key><string>80441.4772</string><key>y</key><string>87219.5346</string></dict>
+<dict>
+<key>identifier</key><string>2f561447-95f6-4108-a57c-fdc4007ff3df</string><key>stan_name</key><string>帝豪会桑拿</string><key>multi_info</key><string> </string><key>x</key><string>80544.3063</string><key>y</key><string>87293.5015</string></dict>
+<dict>
+<key>identifier</key><string>72614c9e-4b73-4db3-9588-53205401d0f2</string><key>stan_name</key><string>文晖浴室游泳池</string><key>multi_info</key><string> </string><key>x</key><string>78829.7737</string><key>y</key><string>83837.6659</string></dict>
+<dict>
+<key>identifier</key><string>50ce0421-90d0-4d11-9d1e-0079519f7ba5</string><key>stan_name</key><string>杭州城北体育公园</string><key>multi_info</key><string> </string><key>x</key><string>79869.1734</string><key>y</key><string>87289.8119</string></dict>
+<dict>
+<key>identifier</key><string>9cc9407b-9efa-44dd-a56a-8fbb458e0209</string><key>stan_name</key><string>浦阳镇休闲垂钓中心</string><key>multi_info</key><string> </string><key>x</key><string>86521.3731</string><key>y</key><string>46552.4059</string></dict>
+<dict>
+<key>identifier</key><string>21e77063-b68e-474d-b8a4-2a0b5ecd4c31</string><key>stan_name</key><string>杭州桃花源度假村</string><key>multi_info</key><string> </string><key>x</key><string>87960.75</string><key>y</key><string>52670.22</string></dict>
+<dict>
+<key>identifier</key><string>3990fffc-3555-41fe-b662-dd17398a51ca</string><key>stan_name</key><string>九溪玫瑰园东区会馆</string><key>multi_info</key><string> </string><key>x</key><string>74889.0703</string><key>y</key><string>73079.3984</string></dict>
+<dict>
+<key>identifier</key><string>d235b123-2222-454f-9907-74ed22be6aad</string><key>stan_name</key><string>梅坞山庄</string><key>multi_info</key><string> </string><key>x</key><string>72493.8750</string><key>y</key><string>75438.9063</string></dict>
+<dict>
+<key>identifier</key><string>5a704e0a-b90e-4747-84c7-3a3994847ee5</string><key>stan_name</key><string>东江嘴口休闲园</string><key>multi_info</key><string> </string><key>x</key><string>80858.2061</string><key>y</key><string>65530.4826</string></dict>
+<dict>
+<key>identifier</key><string>75873b73-9d65-4a1a-8019-659c502ce1d1</string><key>stan_name</key><string>圣贤阁</string><key>multi_info</key><string> </string><key>x</key><string>83251.0490</string><key>y</key><string>64596.6350</string></dict>
+<dict>
+<key>identifier</key><string>72fed449-2c0d-4689-b6d5-dff0ce183cf1</string><key>stan_name</key><string>鼎红水疗馆</string><key>multi_info</key><string> </string><key>x</key><string>78705.5770</string><key>y</key><string>81986.8460</string></dict>
+<dict>
+<key>identifier</key><string>de2a2527-637d-4c1a-b8ad-6d379bca8106</string><key>stan_name</key><string>黄氏休闲农庄</string><key>multi_info</key><string> </string><key>x</key><string>74718.8535</string><key>y</key><string>64995.6803</string></dict>
+<dict>
+<key>identifier</key><string>1c7dd110-f0b0-45f7-a053-9bedfbedf900</string><key>stan_name</key><string>南泥湾山庄</string><key>multi_info</key><string> </string><key>x</key><string>88160.4590</string><key>y</key><string>64058.1350</string></dict>
+<dict>
+<key>identifier</key><string>07c18f47-39a1-4844-932f-16f7af60ff86</string><key>stan_name</key><string>红月亮垂钓休闲园</string><key>multi_info</key><string> </string><key>x</key><string>69804.4014</string><key>y</key><string>64079.5235</string></dict>
+<dict>
+<key>identifier</key><string>6153af3e-b823-4d21-acbe-81f9fc1a3fe6</string><key>stan_name</key><string>湘湖农场休闲中心</string><key>multi_info</key><string> </string><key>x</key><string>84178.9429</string><key>y</key><string>65742.4140</string></dict>
+<dict>
+<key>identifier</key><string>ee7f0304-ba9d-47e4-b16e-ea18381a30a5</string><key>stan_name</key><string>采微草堂休闲中心</string><key>multi_info</key><string> </string><key>x</key><string>69108.0573</string><key>y</key><string>67275.7056</string></dict>
+<dict>
+<key>identifier</key><string>f24d9e83-ddc1-43c9-af9a-3f0d87c3c449</string><key>stan_name</key><string>萧绍农庄</string><key>multi_info</key><string> </string><key>x</key><string>92202.78</string><key>y</key><string>67090.6639</string></dict>
+<dict>
+<key>identifier</key><string>3b26c99a-131a-45c8-92ef-ec0a0753e5f7</string><key>stan_name</key><string>双流农庄休闲渔业中心</string><key>multi_info</key><string> </string><key>x</key><string>70883.3677</string><key>y</key><string>69146.4032</string></dict>
+<dict>
+<key>identifier</key><string>efefd169-b20e-4cc7-8683-4c7e61d726cb</string><key>stan_name</key><string>樟树林茶庄</string><key>multi_info</key><string> </string><key>x</key><string>75281.2188</string><key>y</key><string>74457.4766</string></dict>
+<dict>
+<key>identifier</key><string>9ea09edb-5384-43b7-ab6b-94023f92c83e</string><key>stan_name</key><string>紫京山庄</string><key>multi_info</key><string> </string><key>x</key><string>76930.7656</string><key>y</key><string>75755.9219</string></dict>
+<dict>
+<key>identifier</key><string>2d487bdb-3205-40e0-adbe-b884a6282e4e</string><key>stan_name</key><string>九月会所休闲中心</string><key>multi_info</key><string> </string><key>x</key><string>68260.7349</string><key>y</key><string>77699.8062</string></dict>
+<dict>
+<key>identifier</key><string>ae42e6ca-db98-4e70-b553-635bb7242453</string><key>stan_name</key><string>杭州花家山庄</string><key>multi_info</key><string> </string><key>x</key><string>76771.1953</string><key>y</key><string>77753.9219</string></dict>
+<dict>
+<key>identifier</key><string>42fde77b-f922-4333-98c5-c77b3f8d36a8</string><key>stan_name</key><string>秀秀理容</string><key>multi_info</key><string> </string><key>x</key><string>80613.2734</string><key>y</key><string>76734.6875</string></dict>
+<dict>
+<key>identifier</key><string>76f9953c-af8e-4649-be26-5e6ffcd275b1</string><key>stan_name</key><string>万松山庄</string><key>multi_info</key><string> </string><key>x</key><string>79923.1641</string><key>y</key><string>78167.9375</string></dict>
+<dict>
+<key>identifier</key><string>92ee6746-6813-4a0b-9128-5982bf678e37</string><key>stan_name</key><string>朱娘休闲吧</string><key>multi_info</key><string> </string><key>x</key><string>79009.5703</string><key>y</key><string>78643.50</string></dict>
+<dict>
+<key>identifier</key><string>f10f4d00-d217-4c81-9a65-c2366d63a3c9</string><key>stan_name</key><string>问茶楼</string><key>multi_info</key><string> </string><key>x</key><string>75501.5234</string><key>y</key><string>78733.9375</string></dict>
+<dict>
+<key>identifier</key><string>3bf95eec-9458-4bd4-8b51-95d4a14aa386</string><key>stan_name</key><string>新贵国际俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>79207.1094</string><key>y</key><string>78995.3906</string></dict>
+<dict>
+<key>identifier</key><string>95965106-672c-42c0-8f21-3a9aca7e8cb0</string><key>stan_name</key><string>香江温泉</string><key>multi_info</key><string> </string><key>x</key><string>83441.6563</string><key>y</key><string>78965.5703</string></dict>
+<dict>
+<key>identifier</key><string>b20604a2-a075-465c-bd6f-8f77bc3d32d2</string><key>stan_name</key><string>茶人居</string><key>multi_info</key><string> </string><key>x</key><string>79304</string><key>y</key><string>79167.7266</string></dict>
+<dict>
+<key>identifier</key><string>9ab84d3a-5824-4752-aee8-163f3007ccf8</string><key>stan_name</key><string>龚老汉休闲观光园</string><key>multi_info</key><string> </string><key>x</key><string>64826.7262</string><key>y</key><string>82183.0280</string></dict>
+<dict>
+<key>identifier</key><string>afb6f125-027f-4bf3-bc89-5b7a58a17e28</string><key>stan_name</key><string>香衫足疗</string><key>multi_info</key><string> </string><key>x</key><string>80471.1804</string><key>y</key><string>87047.0486</string></dict>
+<dict>
+<key>identifier</key><string>0138368d-3d30-4140-bbf4-86bb86ab3d8d</string><key>stan_name</key><string>杭州金三角渡假村有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92059.9920</string><key>y</key><string>83087.2660</string></dict>
+<dict>
+<key>identifier</key><string>ef024c7c-3a4f-4487-a044-2ad9eab09451</string><key>stan_name</key><string>重庆富侨足浴</string><key>multi_info</key><string> </string><key>x</key><string>78290.4766</string><key>y</key><string>85457.4844</string></dict>
+<dict>
+<key>identifier</key><string>50a4f905-9eea-4b56-91ac-447ae95af2d5</string><key>stan_name</key><string>行易堂</string><key>multi_info</key><string> </string><key>x</key><string>77265.9609</string><key>y</key><string>86066.5781</string></dict>
+<dict>
+<key>identifier</key><string>1c9516ad-bf93-46ad-8826-f8f364ab75d9</string><key>stan_name</key><string>侨治发型中心</string><key>multi_info</key><string> </string><key>x</key><string>78450.6328</string><key>y</key><string>82321.7578</string></dict>
+<dict>
+<key>identifier</key><string>de7ba4af-7949-41c3-beea-c407794a5c13</string><key>stan_name</key><string>清沐足浴</string><key>multi_info</key><string> </string><key>x</key><string>80515.5625</string><key>y</key><string>82367.6563</string></dict>
+<dict>
+<key>identifier</key><string>998aa604-d75a-41df-89d0-7a7caff1e2ea</string><key>stan_name</key><string>豪园苏可泰足浴馆</string><key>multi_info</key><string> </string><key>x</key><string>78384.8984</string><key>y</key><string>82399.8594</string></dict>
+</array>
+</plist>

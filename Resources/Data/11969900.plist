@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>84f793d9-a363-4e13-90f2-60b5af79eb35</string><key>stan_name</key><string>杭州市公共交通总公司卫生所(对内)</string><key>multi_info</key><string> </string><key>x</key><string>81402.2140</string><key>y</key><string>83286.2664</string></dict>
+<dict>
+<key>identifier</key><string>5a299cbb-8368-417d-abfe-a5894549cfb3</string><key>stan_name</key><string>杭州师范大学卫生所</string><key>multi_info</key><string> </string><key>x</key><string>76677.7120</string><key>y</key><string>84732.3584</string></dict>
+<dict>
+<key>identifier</key><string>0ba312f0-175b-497d-8278-3090591fda3f</string><key>stan_name</key><string>杭州市社会福利中心医务室</string><key>multi_info</key><string> </string><key>x</key><string>76924.2173</string><key>y</key><string>87257.4076</string></dict>
+<dict>
+<key>identifier</key><string>30495a98-cb1c-44d6-bec0-d0ee157aff24</string><key>stan_name</key><string>杭州师范学院下沙校区医务室</string><key>multi_info</key><string> </string><key>x</key><string>101924.1218</string><key>y</key><string>87801.2614</string></dict>
+<dict>
+<key>identifier</key><string>6c38c22c-c4e2-4410-8cc2-7a9f5c42981a</string><key>stan_name</key><string>药品检验所</string><key>multi_info</key><string> </string><key>x</key><string>92623.9793</string><key>y</key><string>99794.2324</string></dict>
+<dict>
+<key>identifier</key><string>f138906e-a64a-430e-9796-43008f3a74ff</string><key>stan_name</key><string>小林卫生院</string><key>multi_info</key><string> </string><key>x</key><string>88882.0574</string><key>y</key><string>100605.2228</string></dict>
+<dict>
+<key>identifier</key><string>a0f244b1-4ad0-4384-b7fe-2bded4e26f28</string><key>stan_name</key><string>区疾控中心</string><key>multi_info</key><string> </string><key>x</key><string>82562.0391</string><key>y</key><string>84736.6190</string></dict>
+<dict>
+<key>identifier</key><string>5a1ff43c-71b8-4ba5-b164-a50e686808fe</string><key>stan_name</key><string>白蚁防治中心</string><key>multi_info</key><string> </string><key>x</key><string>77505.9063</string><key>y</key><string>85547.7753</string></dict>
+<dict>
+<key>identifier</key><string>8954d486-9260-495c-baf0-d944c1f6b4d1</string><key>stan_name</key><string>浙江省中医医药文献信息检索中心</string><key>multi_info</key><string> </string><key>x</key><string>78329.2333</string><key>y</key><string>82973.2703</string></dict>
+<dict>
+<key>identifier</key><string>4eefd5c1-b128-4eac-9e01-18b83a385401</string><key>stan_name</key><string>卫生监督所</string><key>multi_info</key><string> </string><key>x</key><string>74163.9353</string><key>y</key><string>84310.3945</string></dict>
+<dict>
+<key>identifier</key><string>7398c3d6-e704-4a65-a215-d3fb79cca611</string><key>stan_name</key><string>杭州医药特有工种职业技能鉴定站</string><key>multi_info</key><string> </string><key>x</key><string>80142.7560</string><key>y</key><string>82654.7304</string></dict>
+<dict>
+<key>identifier</key><string>d47cb976-6222-4884-bde8-672f228008c8</string><key>stan_name</key><string>浙江环乙医疗用品消毒公司</string><key>multi_info</key><string> </string><key>x</key><string>85710.1987</string><key>y</key><string>93074.7285</string></dict>
+<dict>
+<key>identifier</key><string>f6e2020b-9824-4f97-b0ce-cb04d334e461</string><key>stan_name</key><string>下城区卫生监督所东新石桥分所</string><key>multi_info</key><string> </string><key>x</key><string>80933.9162</string><key>y</key><string>87650.7547</string></dict>
+<dict>
+<key>identifier</key><string>cdaa6b2f-1337-48c6-a949-8133d13b5273</string><key>stan_name</key><string>浙江大学校医院（第二医务室）</string><key>multi_info</key><string> </string><key>x</key><string>73926.27</string><key>y</key><string>85648.1047</string></dict>
+<dict>
+<key>identifier</key><string>778f2d3a-8309-449a-804c-92e3ce822fa3</string><key>stan_name</key><string>浙江国际大酒店医务室</string><key>multi_info</key><string> </string><key>x</key><string>80514.1071</string><key>y</key><string>82853.4710</string></dict>
+<dict>
+<key>identifier</key><string>2b359340-e24a-46fc-b4b3-3e99f2960911</string><key>stan_name</key><string>浙江省送变电工程公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>82726.5986</string><key>y</key><string>81556.8698</string></dict>
+<dict>
+<key>identifier</key><string>222c91f9-6206-4339-b1e7-266110d37dcd</string><key>stan_name</key><string>杭州张小泉集团有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>77342.6216</string><key>y</key><string>86377.2134</string></dict>
+<dict>
+<key>identifier</key><string>2d546cf6-5e18-4118-8d75-be92e0dc4782</string><key>stan_name</key><string>浙江省火电建设公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>82869.1546</string><key>y</key><string>81554.8430</string></dict>
+<dict>
+<key>identifier</key><string>e676f9bf-9ee7-44b1-8967-dedde85ac4fe</string><key>stan_name</key><string>杭州市第二建筑工程公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>78144.2860</string><key>y</key><string>84927.1011</string></dict>
+<dict>
+<key>identifier</key><string>6e8d6c77-c57b-4bf5-886d-cf522b03e591</string><key>stan_name</key><string>杭州民生药业集团有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>76762.8823</string><key>y</key><string>85573.1461</string></dict>
+<dict>
+<key>identifier</key><string>3d137bcb-91b3-4034-a2d7-dac34445e3ac</string><key>stan_name</key><string>浙江省建工集团有限责任公司劳务公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>78286.6642</string><key>y</key><string>87973.5582</string></dict>
+<dict>
+<key>identifier</key><string>41137849-2d3b-4477-a909-61cbc762758a</string><key>stan_name</key><string>杭州石化有限责任公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>77632.3660</string><key>y</key><string>92616.2870</string></dict>
+<dict>
+<key>identifier</key><string>579cf9dc-1731-49b2-a350-4f872ae6649d</string><key>stan_name</key><string>普天东方通信集团有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>76329.4026</string><key>y</key><string>83712.6501</string></dict>
+<dict>
+<key>identifier</key><string>fff99af5-5442-4100-88ae-d9fe1f4cd639</string><key>stan_name</key><string>浙江新世纪大酒店医务室</string><key>multi_info</key><string> </string><key>x</key><string>78482.7540</string><key>y</key><string>83838.9447</string></dict>
+<dict>
+<key>identifier</key><string>ad82f8d2-cb36-441f-ab8c-92efe9ff3561</string><key>stan_name</key><string>浙江中烟工业有限责任公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>80453.9828</string><key>y</key><string>78137.7352</string></dict>
+<dict>
+<key>identifier</key><string>cae19592-6116-4a10-8f9a-43df6c607a39</string><key>stan_name</key><string>杭州新侨饭店卫生站</string><key>multi_info</key><string> </string><key>x</key><string>80044.3773</string><key>y</key><string>80793.3880</string></dict>
+<dict>
+<key>identifier</key><string>c833f731-90a4-48b3-bd1d-babb2c44ea2a</string><key>stan_name</key><string>中美华东制药有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>74404.5523</string><key>y</key><string>89245.7043</string></dict>
+<dict>
+<key>identifier</key><string>8612bf77-3c4e-4414-bbe8-325dd5c21b7c</string><key>stan_name</key><string>中国新型建筑材料工业杭州设计研究院医务室</string><key>multi_info</key><string> </string><key>x</key><string>80215.7515</string><key>y</key><string>82833.3823</string></dict>
+<dict>
+<key>identifier</key><string>a14057ed-d880-4349-9a4a-26a6da79f747</string><key>stan_name</key><string>西湖电子集团有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>77283.4008</string><key>y</key><string>83104.0124</string></dict>
+<dict>
+<key>identifier</key><string>0930e079-f79b-44d8-b5fd-cd929c833c4f</string><key>stan_name</key><string>杭州汽轮动力集团有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>82451.9164</string><key>y</key><string>90176.6242</string></dict>
+<dict>
+<key>identifier</key><string>536191ca-d81b-460b-b2f1-3186560e05fa</string><key>stan_name</key><string>杭州西湖啤酒朝日（股份）有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>74024.0369</string><key>y</key><string>82016.0091</string></dict>
+<dict>
+<key>identifier</key><string>cf201c88-743b-4b1a-9d37-969edfa728b1</string><key>stan_name</key><string>杭州香溢大酒店股份有限公司卫生站</string><key>multi_info</key><string> </string><key>x</key><string>80929.0904</string><key>y</key><string>80834.1884</string></dict>
+<dict>
+<key>identifier</key><string>a8119dbc-ced8-4145-bdb6-2d9f5228819f</string><key>stan_name</key><string>杭州博济健康管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73563.1211</string><key>y</key><string>83590.4983</string></dict>
+<dict>
+<key>identifier</key><string>8ed57c98-cbcb-4909-90da-208efa2be25f</string><key>stan_name</key><string>杭州师范大学文一路校区医务室（对内）</string><key>multi_info</key><string> </string><key>x</key><string>76677.5478</string><key>y</key><string>84963.8913</string></dict>
+<dict>
+<key>identifier</key><string>ae336593-460a-4a9b-98be-9c82e63c0a32</string><key>stan_name</key><string>杭州艾迪康医学检验中心有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73413.9379</string><key>y</key><string>82741.6785</string></dict>
+<dict>
+<key>identifier</key><string>d7995ba5-07fd-4d99-b7e9-0f675b860737</string><key>stan_name</key><string>杭州友好医学检验中心有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80839.6210</string><key>y</key><string>73478.1272</string></dict>
+<dict>
+<key>identifier</key><string>3b697d4b-be7b-400c-8e0d-0380e5d278f2</string><key>stan_name</key><string>正大青春宝药业有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>73864.5974</string><key>y</key><string>81895.3677</string></dict>
+<dict>
+<key>identifier</key><string>2e3e1c88-d547-4d8f-934b-226d74937a4e</string><key>stan_name</key><string>杭州天鸿饭店有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>78470.9726</string><key>y</key><string>84222.4287</string></dict>
+<dict>
+<key>identifier</key><string>0a7805a9-373e-4b24-ba6f-2e5d6073a4cf</string><key>stan_name</key><string>杭芝机电有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>77195.2257</string><key>y</key><string>83535.0191</string></dict>
+<dict>
+<key>identifier</key><string>06e68a67-3299-4a1c-8335-13ad11d0b37c</string><key>stan_name</key><string>杭州娃哈哈集团有限公司景芳基地医务室</string><key>multi_info</key><string> </string><key>x</key><string>83407.3678</string><key>y</key><string>82849.5864</string></dict>
+<dict>
+<key>identifier</key><string>bbeb94ec-119b-4357-bd4e-88953b7cebdc</string><key>stan_name</key><string>杭州木材有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>81597.8013</string><key>y</key><string>78122.6018</string></dict>
+<dict>
+<key>identifier</key><string>2724c4dc-9837-48a2-b01a-97292b88124e</string><key>stan_name</key><string>杭州市水业集团有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>82245.6432</string><key>y</key><string>80289.2350</string></dict>
+<dict>
+<key>identifier</key><string>f5a32070-4d01-4183-b08f-bf40c10ebd6e</string><key>stan_name</key><string>杭州油脂化工有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>77919.3016</string><key>y</key><string>70219.6386</string></dict>
+<dict>
+<key>identifier</key><string>9c508706-ef9f-4d22-b430-a1f3a22994a7</string><key>stan_name</key><string>浙江近江集团公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>82717.7122</string><key>y</key><string>79459.8401</string></dict>
+<dict>
+<key>identifier</key><string>7f037992-607f-4a9d-b80a-362ada062c1b</string><key>stan_name</key><string>杭州东南化工有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>80700.5877</string><key>y</key><string>78445.4818</string></dict>
+<dict>
+<key>identifier</key><string>c544b125-24d0-4830-81fd-b08f2ac03144</string><key>stan_name</key><string>杭州中策橡胶有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>81542.3742</string><key>y</key><string>78816.1344</string></dict>
+<dict>
+<key>identifier</key><string>89da14eb-5382-477e-b81b-519b17d7f907</string><key>stan_name</key><string>浙江世贸君澜中心大饭店医务室</string><key>multi_info</key><string> </string><key>x</key><string>77621.8109</string><key>y</key><string>82471.2305</string></dict>
+<dict>
+<key>identifier</key><string>050c3f94-a1b6-45ac-b13a-a7d373d0c320</string><key>stan_name</key><string>华东医药股份有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>80169.0107</string><key>y</key><string>82892.6357</string></dict>
+<dict>
+<key>identifier</key><string>324b4e62-1095-4ccb-b2ce-bac448772657</string><key>stan_name</key><string>杭州海华大酒店医务室</string><key>multi_info</key><string> </string><key>x</key><string>79575.3322</string><key>y</key><string>81674.2210</string></dict>
+<dict>
+<key>identifier</key><string>e92014f9-563a-47d4-9462-d97f15e991a1</string><key>stan_name</key><string>杭州市电力局建国南路卫生所</string><key>multi_info</key><string> </string><key>x</key><string>81184.4150</string><key>y</key><string>79759.4870</string></dict>
+<dict>
+<key>identifier</key><string>94c3301d-67f0-4b18-bb8b-551aa2e527cc</string><key>stan_name</key><string>杭州市电力局建国中路医务室</string><key>multi_info</key><string> </string><key>x</key><string>81488.0627</string><key>y</key><string>81553.1505</string></dict>
+<dict>
+<key>identifier</key><string>63c8e985-0e14-442a-89c0-e09282e5e0d9</string><key>stan_name</key><string>杭州纺织机械有限公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>82828.9002</string><key>y</key><string>88335.6496</string></dict>
+<dict>
+<key>identifier</key><string>96291a81-6cb2-45e6-b1e0-defaecb6eaa0</string><key>stan_name</key><string>浙江省建工集团有限责任公司医务室</string><key>multi_info</key><string> </string><key>x</key><string>78476.4951</string><key>y</key><string>83865.3169</string></dict>
+<dict>
+<key>identifier</key><string>8c00c9cc-2784-4f7b-8153-7a1fc154b713</string><key>stan_name</key><string>杭州机床集团有限公司卫生所</string><key>multi_info</key><string> </string><key>x</key><string>82155.8273</string><key>y</key><string>82018.2041</string></dict>
+<dict>
+<key>identifier</key><string>12c19b65-981a-4bf3-a7f4-fc2938cd6057</string><key>stan_name</key><string>萧山区大桥卫生院</string><key>multi_info</key><string> </string><key>x</key><string>82560.1331</string><key>y</key><string>49556.8093</string></dict>
+<dict>
+<key>identifier</key><string>9da0ee6f-ccb9-4474-af63-fa445ae7a96a</string><key>stan_name</key><string>杭州互爱卫生用品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82200.3420</string><key>y</key><string>54638.2884</string></dict>
+<dict>
+<key>identifier</key><string>91dfefb4-9a39-4961-8835-710fdbd3e855</string><key>stan_name</key><string>保健院</string><key>multi_info</key><string> </string><key>x</key><string>80825.5234</string><key>y</key><string>70674.5878</string></dict>
+<dict>
+<key>identifier</key><string>1a361ca2-105e-41a1-80eb-97c3afe239fe</string><key>stan_name</key><string>保健站</string><key>multi_info</key><string> </string><key>x</key><string>77617.1406</string><key>y</key><string>71249.2910</string></dict>
+<dict>
+<key>identifier</key><string>7eba037c-f36f-4776-8ad8-bcf88f243a19</string><key>stan_name</key><string>浙江大学校医院（浙大医院）</string><key>multi_info</key><string> </string><key>x</key><string>75911.6297</string><key>y</key><string>81537.0805</string></dict>
+<dict>
+<key>identifier</key><string>c75417aa-2063-496f-b379-318243aa807c</string><key>stan_name</key><string>安徽医科大学杭州临床学院</string><key>multi_info</key><string> </string><key>x</key><string>81310.3550</string><key>y</key><string>80074.4256</string></dict>
+<dict>
+<key>identifier</key><string>646610dc-13dd-4a20-a3cf-c6d0c6bfe53f</string><key>stan_name</key><string>中国共产党上城区卫生局委员会虹桥医院支部</string><key>multi_info</key><string> </string><key>x</key><string>81835.2325</string><key>y</key><string>80215.7726</string></dict>
+<dict>
+<key>identifier</key><string>d6df5544-0e06-4778-b8bd-f389f32d7bcb</string><key>stan_name</key><string>华家池校区医院</string><key>multi_info</key><string> </string><key>x</key><string>83024.8359</string><key>y</key><string>82070.9003</string></dict>
+<dict>
+<key>identifier</key><string>0b2292b9-0a49-4588-ab13-5e6db72bc9e8</string><key>stan_name</key><string>杭州市第二社会福利院医务室(对内)</string><key>multi_info</key><string> </string><key>x</key><string>82747.7250</string><key>y</key><string>85177.4403</string></dict>
+</array>
+</plist>

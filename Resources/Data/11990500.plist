@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>2f21cff6-9360-4f14-9f2e-35fd16008772</string><key>stan_name</key><string>平安桥</string><key>multi_info</key><string> </string><key>x</key><string>77334.8828</string><key>y</key><string>92636.0547</string></dict>
+<dict>
+<key>identifier</key><string>16cba89e-6219-4cda-8c52-5efa1a91cbc2</string><key>stan_name</key><string>乔司农场</string><key>multi_info</key><string> </string><key>x</key><string>97075.8145</string><key>y</key><string>92643.8785</string></dict>
+<dict>
+<key>identifier</key><string>6befd0db-2ded-4b40-8983-a1d16ef1d705</string><key>stan_name</key><string>田园社区</string><key>multi_info</key><string> </string><key>x</key><string>82870.6094</string><key>y</key><string>92886.4141</string></dict>
+<dict>
+<key>identifier</key><string>57a6cc99-1655-453a-9763-3acd5dde4566</string><key>stan_name</key><string>西杨社区</string><key>multi_info</key><string> </string><key>x</key><string>76560.8594</string><key>y</key><string>92938.6328</string></dict>
+<dict>
+<key>identifier</key><string>b66a8260-f19b-4903-a79d-8dc84618f0fe</string><key>stan_name</key><string>独城</string><key>multi_info</key><string> </string><key>x</key><string>79305.9297</string><key>y</key><string>93067.3672</string></dict>
+<dict>
+<key>identifier</key><string>90b3f1fb-a40c-4ec8-8703-9708f9e52358</string><key>stan_name</key><string>沈家桥村</string><key>multi_info</key><string> </string><key>x</key><string>80402.7031</string><key>y</key><string>93145.7109</string></dict>
+<dict>
+<key>identifier</key><string>4dadcd58-4715-41c6-9f08-de484b3f75cb</string><key>stan_name</key><string>长睦村</string><key>multi_info</key><string> </string><key>x</key><string>87451.8281</string><key>y</key><string>93182.4688</string></dict>
+<dict>
+<key>identifier</key><string>5c67f475-df1f-4538-82dc-59ff30c80255</string><key>stan_name</key><string>西杨社区</string><key>multi_info</key><string> </string><key>x</key><string>76504.7734</string><key>y</key><string>93210.0703</string></dict>
+<dict>
+<key>identifier</key><string>6407a3af-c399-4288-9d70-509cee74aa03</string><key>stan_name</key><string>计家村</string><key>multi_info</key><string> </string><key>x</key><string>80119.1587</string><key>y</key><string>93294.2545</string></dict>
+<dict>
+<key>identifier</key><string>0f8cbd3d-a39d-4921-933d-84fa37d9a42c</string><key>stan_name</key><string>中沙村</string><key>multi_info</key><string> </string><key>x</key><string>94285.8095</string><key>y</key><string>87309.8433</string></dict>
+<dict>
+<key>identifier</key><string>17f79fdf-e066-4eb3-a421-2787beb896c7</string><key>stan_name</key><string>和睦社区</string><key>multi_info</key><string> </string><key>x</key><string>76048.8906</string><key>y</key><string>87318</string></dict>
+<dict>
+<key>identifier</key><string>83a1ae66-490a-40a3-bb83-a423ab3e4099</string><key>stan_name</key><string>水墩村</string><key>multi_info</key><string> </string><key>x</key><string>83812.3828</string><key>y</key><string>87329.0547</string></dict>
+<dict>
+<key>identifier</key><string>097a08c4-bb77-4197-9d8d-62d112a3cc03</string><key>stan_name</key><string>紫荆家园社区</string><key>multi_info</key><string> </string><key>x</key><string>77639.1719</string><key>y</key><string>87472.25</string></dict>
+<dict>
+<key>identifier</key><string>7c2389f8-d862-47f4-9b58-e24c3612b81e</string><key>stan_name</key><string>绍兴路社区</string><key>multi_info</key><string> </string><key>x</key><string>78413.6719</string><key>y</key><string>87474.5781</string></dict>
+<dict>
+<key>identifier</key><string>b50c12d2-6816-4096-9d29-e293335cd61b</string><key>stan_name</key><string>黎明村</string><key>multi_info</key><string> </string><key>x</key><string>86102.7031</string><key>y</key><string>87475.1484</string></dict>
+<dict>
+<key>identifier</key><string>02142435-91f9-439a-bf5e-7e457eb227c2</string><key>stan_name</key><string>东新园社区</string><key>multi_info</key><string> </string><key>x</key><string>81387.4375</string><key>y</key><string>87513.5938</string></dict>
+<dict>
+<key>identifier</key><string>2837f83d-07d2-42dc-a43b-a783b0033cbd</string><key>stan_name</key><string>普福村</string><key>multi_info</key><string> </string><key>x</key><string>87807.4922</string><key>y</key><string>87527.0859</string></dict>
+<dict>
+<key>identifier</key><string>5d964142-c6d2-4e1e-9ace-48b10d03f0c4</string><key>stan_name</key><string>浜河村</string><key>multi_info</key><string> </string><key>x</key><string>87061.8672</string><key>y</key><string>87568.7812</string></dict>
+<dict>
+<key>identifier</key><string>64dd8fda-81b5-4760-9465-26c04b718579</string><key>stan_name</key><string>望月社区</string><key>multi_info</key><string> </string><key>x</key><string>72736.0902</string><key>y</key><string>87578.1773</string></dict>
+<dict>
+<key>identifier</key><string>a58c6d86-1c45-47e8-af79-f234b07ec73d</string><key>stan_name</key><string>罗家村社区</string><key>multi_info</key><string> </string><key>x</key><string>70206.0625</string><key>y</key><string>87637.1406</string></dict>
+<dict>
+<key>identifier</key><string>647fef01-6abb-4207-8efb-c1052b8c8523</string><key>stan_name</key><string>罗家村社区</string><key>multi_info</key><string> </string><key>x</key><string>70206.0625</string><key>y</key><string>87637.1406</string></dict>
+<dict>
+<key>identifier</key><string>31bbdb33-1db6-455c-862f-77ca72b12440</string><key>stan_name</key><string>红建河社区</string><key>multi_info</key><string> </string><key>x</key><string>78942.6250</string><key>y</key><string>87668.25</string></dict>
+<dict>
+<key>identifier</key><string>219a7a97-f418-4d4e-991a-f697248021a4</string><key>stan_name</key><string>白石村</string><key>multi_info</key><string> </string><key>x</key><string>86087.6328</string><key>y</key><string>86367.0547</string></dict>
+<dict>
+<key>identifier</key><string>95837abf-5519-4893-93d0-4ff3d2932099</string><key>stan_name</key><string>头格村</string><key>multi_info</key><string> </string><key>x</key><string>93009.2495</string><key>y</key><string>86564.6025</string></dict>
+<dict>
+<key>identifier</key><string>97ccd857-2deb-463d-9778-35a480c3c0fb</string><key>stan_name</key><string>工业区2</string><key>multi_info</key><string> </string><key>x</key><string>99533.9530</string><key>y</key><string>86942.3211</string></dict>
+<dict>
+<key>identifier</key><string>7cf32838-cb9a-456e-8993-a2c8346f8c87</string><key>stan_name</key><string>农科院社区</string><key>multi_info</key><string> </string><key>x</key><string>82448.7972</string><key>y</key><string>87128.1744</string></dict>
+<dict>
+<key>identifier</key><string>4f0c676a-63a1-48b6-981a-f5f59449c08c</string><key>stan_name</key><string>杭江村</string><key>multi_info</key><string> </string><key>x</key><string>72421.5443</string><key>y</key><string>62624.2867</string></dict>
+<dict>
+<key>identifier</key><string>5d1acac2-3558-4371-9b55-5a2a08bc39d0</string><key>stan_name</key><string>周家埭村</string><key>multi_info</key><string> </string><key>x</key><string>70831.8438</string><key>y</key><string>63086.9922</string></dict>
+<dict>
+<key>identifier</key><string>ffb263b5-e85d-4e2c-8691-e0f60df52fdd</string><key>stan_name</key><string>桑园地村</string><key>multi_info</key><string> </string><key>x</key><string>73647.6953</string><key>y</key><string>63343.6250</string></dict>
+<dict>
+<key>identifier</key><string>7dc85a5a-3daf-41a3-9fd2-bc53eae35222</string><key>stan_name</key><string>杭富村</string><key>multi_info</key><string> </string><key>x</key><string>70137.8359</string><key>y</key><string>63653.4922</string></dict>
+<dict>
+<key>identifier</key><string>5fc9db92-3657-4d23-aa24-26ec5bb5568c</string><key>stan_name</key><string>白鸟村</string><key>multi_info</key><string> </string><key>x</key><string>74146.4766</string><key>y</key><string>63746.1719</string></dict>
+<dict>
+<key>identifier</key><string>bdad4194-50f9-4ff6-b177-f1b6b9ff9897</string><key>stan_name</key><string>翁家埭村</string><key>multi_info</key><string> </string><key>x</key><string>71509.3594</string><key>y</key><string>63865.0977</string></dict>
+<dict>
+<key>identifier</key><string>133ad80c-2610-43fd-8761-31e9d4f5d0c9</string><key>stan_name</key><string>周家埭村</string><key>multi_info</key><string> </string><key>x</key><string>70989.2344</string><key>y</key><string>64057.4297</string></dict>
+<dict>
+<key>identifier</key><string>7b5f8c06-961c-4867-ae5c-7e92c97ad6fb</string><key>stan_name</key><string>板桥村</string><key>multi_info</key><string> </string><key>x</key><string>72487.2109</string><key>y</key><string>64177.5391</string></dict>
+<dict>
+<key>identifier</key><string>c2368293-c08c-4abb-a6df-81865d7bc7f5</string><key>stan_name</key><string>新浦沿村</string><key>multi_info</key><string> </string><key>x</key><string>74853.3882</string><key>y</key><string>64365.5827</string></dict>
+<dict>
+<key>identifier</key><string>c855070b-ef00-45e1-9f22-7fd3f59e9e0f</string><key>stan_name</key><string>龙池村</string><key>multi_info</key><string> </string><key>x</key><string>75422.6810</string><key>y</key><string>64860.7151</string></dict>
+<dict>
+<key>identifier</key><string>f965d5fa-b0fc-4f1d-90ab-83d85b2db067</string><key>stan_name</key><string>东江嘴村</string><key>multi_info</key><string> </string><key>x</key><string>80464.7190</string><key>y</key><string>65085.4810</string></dict>
+<dict>
+<key>identifier</key><string>2ee988d2-4b62-46ee-8c52-c71a26451319</string><key>stan_name</key><string>周富村</string><key>multi_info</key><string> </string><key>x</key><string>69293.2031</string><key>y</key><string>65347.0977</string></dict>
+<dict>
+<key>identifier</key><string>58add428-96fe-48fb-9115-89f1e0486588</string><key>stan_name</key><string>吴家村</string><key>multi_info</key><string> </string><key>x</key><string>77628.9713</string><key>y</key><string>65457.2560</string></dict>
+<dict>
+<key>identifier</key><string>13864b97-6375-41ac-8fd5-01fb2fe51a01</string><key>stan_name</key><string>小叔房村</string><key>multi_info</key><string> </string><key>x</key><string>76955.0269</string><key>y</key><string>65515.2393</string></dict>
+<dict>
+<key>identifier</key><string>1abec90e-71d4-423c-a0e6-277cb5516d1c</string><key>stan_name</key><string>下杨村</string><key>multi_info</key><string> </string><key>x</key><string>70287.3281</string><key>y</key><string>65529.0313</string></dict>
+<dict>
+<key>identifier</key><string>720b0228-6ee6-46b6-a0a7-331905153012</string><key>stan_name</key><string>夏家桥村</string><key>multi_info</key><string> </string><key>x</key><string>73156.4138</string><key>y</key><string>65561.1593</string></dict>
+<dict>
+<key>identifier</key><string>ad615159-2c50-41e3-bff0-a4f216dff41a</string><key>stan_name</key><string>外张村</string><key>multi_info</key><string> </string><key>x</key><string>78818.4183</string><key>y</key><string>65613.5561</string></dict>
+<dict>
+<key>identifier</key><string>ae5606bb-2804-4450-aa2f-1a71da8d4048</string><key>stan_name</key><string>袁家浦村</string><key>multi_info</key><string> </string><key>x</key><string>76292.6313</string><key>y</key><string>65719.7614</string></dict>
+<dict>
+<key>identifier</key><string>864bc419-2368-449e-939b-7cd487317009</string><key>stan_name</key><string>何家埠村</string><key>multi_info</key><string> </string><key>x</key><string>74255.9922</string><key>y</key><string>66140.7344</string></dict>
+<dict>
+<key>identifier</key><string>7230ac93-2e71-4c89-b0c6-3a77e8284b74</string><key>stan_name</key><string>南村村</string><key>multi_info</key><string> </string><key>x</key><string>74312.8594</string><key>y</key><string>66663.8828</string></dict>
+<dict>
+<key>identifier</key><string>f136988a-3603-4cc2-b464-07c9d6026055</string><key>stan_name</key><string>老沙村</string><key>multi_info</key><string> </string><key>x</key><string>78342.5644</string><key>y</key><string>66679.5642</string></dict>
+<dict>
+<key>identifier</key><string>722822f7-7463-4b53-8278-01573cae82f8</string><key>stan_name</key><string>回龙村</string><key>multi_info</key><string> </string><key>x</key><string>72995.4219</string><key>y</key><string>66757.0703</string></dict>
+<dict>
+<key>identifier</key><string>ee1745d6-29d9-4c6b-8fa4-868f1a4eb1cc</string><key>stan_name</key><string>灵山村</string><key>multi_info</key><string> </string><key>x</key><string>67771.7813</string><key>y</key><string>66811.8516</string></dict>
+<dict>
+<key>identifier</key><string>b09a15f2-8fc5-4d5d-9b72-1b379ca188d0</string><key>stan_name</key><string>大塘村</string><key>multi_info</key><string> </string><key>x</key><string>85849.4219</string><key>y</key><string>93334.3594</string></dict>
+<dict>
+<key>identifier</key><string>969b7191-71df-4662-8110-968ed32af767</string><key>stan_name</key><string>米市巷社区</string><key>multi_info</key><string> </string><key>x</key><string>78474.8125</string><key>y</key><string>84735.7187</string></dict>
+<dict>
+<key>identifier</key><string>98c73ff7-e80b-44d4-a8b8-27fe2d4ea549</string><key>stan_name</key><string>闻皇庙社区</string><key>multi_info</key><string> </string><key>x</key><string>82621.0391</string><key>y</key><string>84829.0547</string></dict>
+<dict>
+<key>identifier</key><string>eec8af3f-46dc-40d4-a2ef-5e04737fb128</string><key>stan_name</key><string>董家社区</string><key>multi_info</key><string> </string><key>x</key><string>82032.8594</string><key>y</key><string>84850.2109</string></dict>
+<dict>
+<key>identifier</key><string>e8b75799-83ba-424e-83c3-2e96bf168f4c</string><key>stan_name</key><string>锦绣社区</string><key>multi_info</key><string> </string><key>x</key><string>78689.6094</string><key>y</key><string>84899.9453</string></dict>
+<dict>
+<key>identifier</key><string>bc80d54d-eab5-462f-8547-63b49c643fff</string><key>stan_name</key><string>六堡村</string><key>multi_info</key><string> </string><key>x</key><string>88948.50</string><key>y</key><string>84953.0391</string></dict>
+<dict>
+<key>identifier</key><string>b6b227f3-f810-4a3a-89aa-49d9e3ffc827</string><key>stan_name</key><string>应家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>79656.1016</string><key>y</key><string>85014.5312</string></dict>
+<dict>
+<key>identifier</key><string>cd50a756-5429-4382-9bee-0c4626766e8e</string><key>stan_name</key><string>虹园社区</string><key>multi_info</key><string> </string><key>x</key><string>79186.9531</string><key>y</key><string>85020.6797</string></dict>
+<dict>
+<key>identifier</key><string>23b205ec-879f-4813-b2c1-52acfd5c3cfd</string><key>stan_name</key><string>大木桥社区</string><key>multi_info</key><string> </string><key>x</key><string>80296.9219</string><key>y</key><string>85039.3281</string></dict>
+<dict>
+<key>identifier</key><string>e5bba6bf-a0bf-4cb3-adaf-5bf08c136511</string><key>stan_name</key><string>湖畔社区</string><key>multi_info</key><string> </string><key>x</key><string>73701.8438</string><key>y</key><string>85073.6641</string></dict>
+<dict>
+<key>identifier</key><string>06929098-f5d1-4f01-941b-e7805b108e60</string><key>stan_name</key><string>范家社区</string><key>multi_info</key><string> </string><key>x</key><string>83424.0391</string><key>y</key><string>85076.8828</string></dict>
+<dict>
+<key>identifier</key><string>10804e8b-1af9-431a-8d39-002c250937ae</string><key>stan_name</key><string>和平社区</string><key>multi_info</key><string> </string><key>x</key><string>81089.1875</string><key>y</key><string>85106.6563</string></dict>
+<dict>
+<key>identifier</key><string>a6e79e81-935a-4b33-9cbd-b914b12a4b58</string><key>stan_name</key><string>南都社区</string><key>multi_info</key><string> </string><key>x</key><string>74218.7109</string><key>y</key><string>85116.3125</string></dict>
+<dict>
+<key>identifier</key><string>e904ad71-7161-4ae0-aa16-fb21c3637632</string><key>stan_name</key><string>彭埠社区</string><key>multi_info</key><string> </string><key>x</key><string>85715.3828</string><key>y</key><string>85125.6016</string></dict>
+<dict>
+<key>identifier</key><string>4bdaa654-9287-49da-9b6c-35ce28c7fa2b</string><key>stan_name</key><string>翠苑三区社区</string><key>multi_info</key><string> </string><key>x</key><string>75746.25</string><key>y</key><string>85214.7578</string></dict>
+<dict>
+<key>identifier</key><string>de008020-8989-4c53-b7f1-98c27eea3702</string><key>stan_name</key><string>蒋村社区</string><key>multi_info</key><string> </string><key>x</key><string>70959.2109</string><key>y</key><string>85221.8516</string></dict>
+<dict>
+<key>identifier</key><string>4fab9f89-a0af-4618-aa6d-3a474f8538e2</string><key>stan_name</key><string>白荡海社区</string><key>multi_info</key><string> </string><key>x</key><string>77501.9219</string><key>y</key><string>85240.8359</string></dict>
+<dict>
+<key>identifier</key><string>b0c5a85e-ec41-40c2-affe-72891430a140</string><key>stan_name</key><string>星洲社区</string><key>multi_info</key><string> </string><key>x</key><string>72994.0391</string><key>y</key><string>85241.4609</string></dict>
+<dict>
+<key>identifier</key><string>b48e999d-a85c-4765-844c-012fc1ace43f</string><key>stan_name</key><string>双龙社区</string><key>multi_info</key><string> </string><key>x</key><string>71787.6406</string><key>y</key><string>85250.7578</string></dict>
+<dict>
+<key>identifier</key><string>0a4a343d-a5fe-4240-9e12-54664bec609e</string><key>stan_name</key><string>文华社区</string><key>multi_info</key><string> </string><key>x</key><string>74558.5078</string><key>y</key><string>85254.3594</string></dict>
+<dict>
+<key>identifier</key><string>b0081faf-2cb6-4d19-9c15-4e170cf5168a</string><key>stan_name</key><string>保亭社区</string><key>multi_info</key><string> </string><key>x</key><string>76730.0156</string><key>y</key><string>85276.8984</string></dict>
+<dict>
+<key>identifier</key><string>fae85fbd-df98-4090-abd9-66f0241b2f77</string><key>stan_name</key><string>双荡弄社区</string><key>multi_info</key><string> </string><key>x</key><string>78144.8828</string><key>y</key><string>85279.4063</string></dict>
+<dict>
+<key>identifier</key><string>f48e59e6-3248-4220-b4f4-e9e91179126c</string><key>stan_name</key><string>翠苑二区社区</string><key>multi_info</key><string> </string><key>x</key><string>76229.8203</string><key>y</key><string>85295.4453</string></dict>
+<dict>
+<key>identifier</key><string>070df792-8cee-4491-aa22-f8d5d30c8e11</string><key>stan_name</key><string>七格村</string><key>multi_info</key><string> </string><key>x</key><string>94283.8218</string><key>y</key><string>85353.8365</string></dict>
+<dict>
+<key>identifier</key><string>5749c074-4caf-42b8-b5d2-3b26cdb2e388</string><key>stan_name</key><string>董家社区</string><key>multi_info</key><string> </string><key>x</key><string>82133.6953</string><key>y</key><string>85367.3047</string></dict>
+<dict>
+<key>identifier</key><string>ab43745d-2677-4007-a036-a330b9eb1cf8</string><key>stan_name</key><string>新风村</string><key>multi_info</key><string> </string><key>x</key><string>84566.8360</string><key>y</key><string>85377.2813</string></dict>
+<dict>
+<key>identifier</key><string>8a1b7c38-ccc9-4597-b07e-b1d562e43560</string><key>stan_name</key><string>西苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81893.3359</string><key>y</key><string>93490.6719</string></dict>
+<dict>
+<key>identifier</key><string>13b87b8d-dbd0-4cd2-ad8f-207327898af8</string><key>stan_name</key><string>永和村</string><key>multi_info</key><string> </string><key>x</key><string>78704.4219</string><key>y</key><string>93497.3203</string></dict>
+<dict>
+<key>identifier</key><string>dca3d513-9f1f-4785-8d2f-430bf8d8c07b</string><key>stan_name</key><string>西杨社区</string><key>multi_info</key><string> </string><key>x</key><string>76287.1797</string><key>y</key><string>93664.3359</string></dict>
+<dict>
+<key>identifier</key><string>0cb825a8-bcc9-47d6-b6c6-297e41028f15</string><key>stan_name</key><string>西杨社区</string><key>multi_info</key><string> </string><key>x</key><string>76996.0625</string><key>y</key><string>93761.9219</string></dict>
+<dict>
+<key>identifier</key><string>0ed35fd2-f566-43c9-9d22-d2497ac7f3fb</string><key>stan_name</key><string>吴家墩</string><key>multi_info</key><string> </string><key>x</key><string>79343.0625</string><key>y</key><string>93888.8281</string></dict>
+<dict>
+<key>identifier</key><string>e6c7a765-d9f6-40e0-975e-ee0c37a92bcd</string><key>stan_name</key><string>三义村</string><key>multi_info</key><string> </string><key>x</key><string>86686.4609</string><key>y</key><string>94112.3281</string></dict>
+<dict>
+<key>identifier</key><string>eda950b4-ba40-4fa5-886a-0b4e02937880</string><key>stan_name</key><string>蒋家浜村</string><key>multi_info</key><string> </string><key>x</key><string>78199.7734</string><key>y</key><string>94282.7344</string></dict>
+<dict>
+<key>identifier</key><string>7c37b4bc-0585-4f72-82a2-1900e10ca848</string><key>stan_name</key><string>沿山村</string><key>multi_info</key><string> </string><key>x</key><string>84991.1172</string><key>y</key><string>94666</string></dict>
+<dict>
+<key>identifier</key><string>190b88c6-fb10-477e-a282-ed96e79c36a3</string><key>stan_name</key><string>义桥</string><key>multi_info</key><string> </string><key>x</key><string>76836.7969</string><key>y</key><string>94796.0703</string></dict>
+<dict>
+<key>identifier</key><string>aba6a99e-6c4b-4f33-bf93-69f6dee24810</string><key>stan_name</key><string>石塘村</string><key>multi_info</key><string> </string><key>x</key><string>83138.4453</string><key>y</key><string>95329.6797</string></dict>
+<dict>
+<key>identifier</key><string>d9c5945b-419b-4027-b1eb-4881948eb9e3</string><key>stan_name</key><string>皋城村</string><key>multi_info</key><string> </string><key>x</key><string>86146.9141</string><key>y</key><string>95643.8281</string></dict>
+<dict>
+<key>identifier</key><string>bceff122-4b4f-4865-b255-abee6f4267b1</string><key>stan_name</key><string>老房地社区</string><key>multi_info</key><string> </string><key>x</key><string>80447.3047</string><key>y</key><string>84719.4063</string></dict>
+<dict>
+<key>identifier</key><string>0bee5c96-1128-4d68-b820-73d68c3117cd</string><key>stan_name</key><string>石灰桥社区</string><key>multi_info</key><string> </string><key>x</key><string>77853.0234</string><key>y</key><string>84724.6484</string></dict>
+<dict>
+<key>identifier</key><string>65fe5944-b5c4-4c99-9a22-057aa8743175</string><key>stan_name</key><string>三围村</string><key>multi_info</key><string> </string><key>x</key><string>90458.5313</string><key>y</key><string>89738.7109</string></dict>
+<dict>
+<key>identifier</key><string>6c1b0b86-aa10-4264-9faf-02641936ce0e</string><key>stan_name</key><string>新文村</string><key>multi_info</key><string> </string><key>x</key><string>73999.1016</string><key>y</key><string>90367.1328</string></dict>
+<dict>
+<key>identifier</key><string>8f789859-e9d6-4ce4-ac61-3042aafcf821</string><key>stan_name</key><string>丁桥村</string><key>multi_info</key><string> </string><key>x</key><string>86220.0859</string><key>y</key><string>91590.9297</string></dict>
+<dict>
+<key>identifier</key><string>01266712-c8fb-4e4f-a061-02f3b40ddb7e</string><key>stan_name</key><string>卖鱼桥社区</string><key>multi_info</key><string> </string><key>x</key><string>78043.8125</string><key>y</key><string>85479.2891</string></dict>
+<dict>
+<key>identifier</key><string>00fb8eba-797d-4912-8594-4f7a3a47f254</string><key>stan_name</key><string>兴隆村</string><key>multi_info</key><string> </string><key>x</key><string>86758.9766</string><key>y</key><string>85616.7422</string></dict>
+<dict>
+<key>identifier</key><string>49bef180-4cf4-4880-acba-fc8766581cb4</string><key>stan_name</key><string>假山路社区</string><key>multi_info</key><string> </string><key>x</key><string>79168.4687</string><key>y</key><string>85649.8047</string></dict>
+<dict>
+<key>identifier</key><string>4a7d0206-e8a4-4f55-8bc5-b7abe99107c0</string><key>stan_name</key><string>翠玉社区</string><key>multi_info</key><string> </string><key>x</key><string>79739.7656</string><key>y</key><string>85695.7031</string></dict>
+<dict>
+<key>identifier</key><string>d13c2a02-6151-4fc4-80a1-2033a498cf84</string><key>stan_name</key><string>红梅社区</string><key>multi_info</key><string> </string><key>x</key><string>82202.50</string><key>y</key><string>85722.5234</string></dict>
+<dict>
+<key>identifier</key><string>6141a912-5dce-4c7b-93f5-47abe6c32ac0</string><key>stan_name</key><string>余杭塘路社区</string><key>multi_info</key><string> </string><key>x</key><string>76303.0781</string><key>y</key><string>85732.2188</string></dict>
+<dict>
+<key>identifier</key><string>10809f55-cd05-4900-ab53-2b9b516f11d5</string><key>stan_name</key><string>智格村</string><key>multi_info</key><string> </string><key>x</key><string>95834.2127</string><key>y</key><string>85739.2087</string></dict>
+<dict>
+<key>identifier</key><string>1f19ff04-046d-4b01-88bc-fe366bb008d5</string><key>stan_name</key><string>珠儿潭社区</string><key>multi_info</key><string> </string><key>x</key><string>77906.8203</string><key>y</key><string>85772.5547</string></dict>
+<dict>
+<key>identifier</key><string>8491335c-35da-4389-8a09-aaf4bc0d46f0</string><key>stan_name</key><string>春晖社区</string><key>multi_info</key><string> </string><key>x</key><string>82628.0312</string><key>y</key><string>85814.1172</string></dict>
+<dict>
+<key>identifier</key><string>f09cde55-3160-4e3c-bca2-c2ce54958098</string><key>stan_name</key><string>庆隆社区</string><key>multi_info</key><string> </string><key>x</key><string>75482.9297</string><key>y</key><string>85852.3906</string></dict>
+<dict>
+<key>identifier</key><string>f3921874-8dc8-447b-8b04-c95bbe561372</string><key>stan_name</key><string>霞湾巷社区</string><key>multi_info</key><string> </string><key>x</key><string>78328.25</string><key>y</key><string>85880.8984</string></dict>
+<dict>
+<key>identifier</key><string>2b2b3dc4-18dd-401d-8890-3fc2ce304d19</string><key>stan_name</key><string>杨公社区</string><key>multi_info</key><string> </string><key>x</key><string>91055.7578</string><key>y</key><string>85905.8125</string></dict>
+<dict>
+<key>identifier</key><string>a570992d-9628-426b-a4aa-76689159eb33</string><key>stan_name</key><string>塘河新村社区</string><key>multi_info</key><string> </string><key>x</key><string>76922.4297</string><key>y</key><string>85938.2422</string></dict>
+<dict>
+<key>identifier</key><string>54eee4a5-9751-46a3-9c62-51026ec3b4a7</string><key>stan_name</key><string>杨家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>71612.9474</string><key>y</key><string>85984.7427</string></dict>
+<dict>
+<key>identifier</key><string>35a0f70c-af3a-4924-819a-79698ac8ccfd</string><key>stan_name</key><string>德胜社区</string><key>multi_info</key><string> </string><key>x</key><string>79685.0312</string><key>y</key><string>85986.8438</string></dict>
+<dict>
+<key>identifier</key><string>d370f137-2bf9-4bb7-9d09-d705e4ecd90a</string><key>stan_name</key><string>弄口村</string><key>multi_info</key><string> </string><key>x</key><string>83865.2734</string><key>y</key><string>86009.5313</string></dict>
+<dict>
+<key>identifier</key><string>28d05e39-b67a-45ae-8adb-bcd6d52aedf0</string><key>stan_name</key><string>德胜东村社区</string><key>multi_info</key><string> </string><key>x</key><string>80649.5938</string><key>y</key><string>86045.1484</string></dict>
+<dict>
+<key>identifier</key><string>dbc8977e-bac1-4ea7-9f43-9c03fa05451a</string><key>stan_name</key><string>杨家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>70676.4141</string><key>y</key><string>86089.0391</string></dict>
+<dict>
+<key>identifier</key><string>f60d9bdf-f618-4e30-badb-dcc8abc4b6ba</string><key>stan_name</key><string>八丈井社区</string><key>multi_info</key><string> </string><key>x</key><string>78780.1562</string><key>y</key><string>86103.5312</string></dict>
+<dict>
+<key>identifier</key><string>4da21531-06d6-4545-a414-11a1316e3173</string><key>stan_name</key><string>杭氧社区</string><key>multi_info</key><string> </string><key>x</key><string>81090.6172</string><key>y</key><string>86106.6016</string></dict>
+<dict>
+<key>identifier</key><string>aee18394-db7c-4212-9518-fccc40f00549</string><key>stan_name</key><string>三坝社区</string><key>multi_info</key><string> </string><key>x</key><string>73731.0938</string><key>y</key><string>86143.0859</string></dict>
+<dict>
+<key>identifier</key><string>5b31c5a6-1920-4cf3-b449-801b7d349536</string><key>stan_name</key><string>三坝社区</string><key>multi_info</key><string> </string><key>x</key><string>73731.0938</string><key>y</key><string>86143.0859</string></dict>
+<dict>
+<key>identifier</key><string>84b9e38c-0719-4e82-98e8-f657792095c9</string><key>stan_name</key><string>富春园社区</string><key>multi_info</key><string> </string><key>x</key><string>80919.0391</string><key>y</key><string>86143.6406</string></dict>
+<dict>
+<key>identifier</key><string>a1e7ade2-ec47-46dc-a7d8-513e0edb70e1</string><key>stan_name</key><string>建华村</string><key>multi_info</key><string> </string><key>x</key><string>87621.5703</string><key>y</key><string>86166.6719</string></dict>
+<dict>
+<key>identifier</key><string>cb178cc2-a157-4b43-aec3-a25b45e3df44</string><key>stan_name</key><string>娑婆桥社区</string><key>multi_info</key><string> </string><key>x</key><string>77752.1641</string><key>y</key><string>86168.5234</string></dict>
+<dict>
+<key>identifier</key><string>c34b5e70-9426-4e69-bbbe-4912db7e9db2</string><key>stan_name</key><string>阮家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>74119.2510</string><key>y</key><string>86181.2890</string></dict>
+<dict>
+<key>identifier</key><string>dea09777-2df9-4c28-8715-b2a547bd6368</string><key>stan_name</key><string>董家新村社区</string><key>multi_info</key><string> </string><key>x</key><string>77410.0938</string><key>y</key><string>86181.2969</string></dict>
+<dict>
+<key>identifier</key><string>90755f82-6ef6-4264-ac5e-f1d111a6a3a5</string><key>stan_name</key><string>七堡社区</string><key>multi_info</key><string> </string><key>x</key><string>89797.1094</string><key>y</key><string>84971.6563</string></dict>
+<dict>
+<key>identifier</key><string>db0ddcce-25f1-4c91-b79b-2288e8483e2b</string><key>stan_name</key><string>夹城巷社区</string><key>multi_info</key><string> </string><key>x</key><string>78779.0547</string><key>y</key><string>85216.2188</string></dict>
+<dict>
+<key>identifier</key><string>7c3f9283-bb40-45bd-857d-d1d49c9bdafe</string><key>stan_name</key><string>七堡社区</string><key>multi_info</key><string> </string><key>x</key><string>89573.3984</string><key>y</key><string>86228.1328</string></dict>
+<dict>
+<key>identifier</key><string>71c57b04-3e4f-40f5-aa3a-f47f1334dec3</string><key>stan_name</key><string>香积社区</string><key>multi_info</key><string> </string><key>x</key><string>79145.3281</string><key>y</key><string>86254.2422</string></dict>
+<dict>
+<key>identifier</key><string>39bc3341-b3a8-4f05-aaab-ce1486e5356a</string><key>stan_name</key><string>杭氧社区</string><key>multi_info</key><string> </string><key>x</key><string>80607.1172</string><key>y</key><string>86338.1719</string></dict>
+<dict>
+<key>identifier</key><string>526bb228-af92-47c5-9aa9-9fde6f091a7b</string><key>stan_name</key><string>计家村</string><key>multi_info</key><string> </string><key>x</key><string>78935.6797</string><key>y</key><string>92459.5781</string></dict>
+<dict>
+<key>identifier</key><string>d99d7638-9a42-4adb-b60c-662397097cf5</string><key>stan_name</key><string>康桥社区</string><key>multi_info</key><string> </string><key>x</key><string>78467.2969</string><key>y</key><string>93234.1172</string></dict>
+<dict>
+<key>identifier</key><string>592b65a2-7c33-4f02-8a06-92c822e7de9c</string><key>stan_name</key><string>三里亭社区</string><key>multi_info</key><string> </string><key>x</key><string>82823.2891</string><key>y</key><string>85386.1641</string></dict>
+<dict>
+<key>identifier</key><string>125e0b75-9fa5-4bca-844e-408815b2231d</string><key>stan_name</key><string>仓基新村社区</string><key>multi_info</key><string> </string><key>x</key><string>78379.3437</string><key>y</key><string>85447.2344</string></dict>
+<dict>
+<key>identifier</key><string>18460d24-6bf4-4354-98ff-623d33bbca93</string><key>stan_name</key><string>杨家埭社区</string><key>multi_info</key><string> </string><key>x</key><string>69714.2578</string><key>y</key><string>85473.6094</string></dict>
+<dict>
+<key>identifier</key><string>3481ac16-0fde-42ec-92cd-54c0857ed921</string><key>stan_name</key><string>杨家埭社区</string><key>multi_info</key><string> </string><key>x</key><string>69714.2578</string><key>y</key><string>85473.6094</string></dict>
+<dict>
+<key>identifier</key><string>6b107c70-b474-4a19-8e87-3c4eacea9164</string><key>stan_name</key><string>现代城社区</string><key>multi_info</key><string> </string><key>x</key><string>80540.2734</string><key>y</key><string>85534.3047</string></dict>
+<dict>
+<key>identifier</key><string>dc801ad8-00bd-49ca-9bc8-8e7113bdfc40</string><key>stan_name</key><string>东社村四组</string><key>multi_info</key><string> </string><key>x</key><string>104052.7654</string><key>y</key><string>74902.3364</string></dict>
+<dict>
+<key>identifier</key><string>a66832b8-3deb-40bb-b7cd-f70b6e5b43b0</string><key>stan_name</key><string>新湾镇新湾村</string><key>multi_info</key><string> </string><key>x</key><string>116222.5670</string><key>y</key><string>83541.0494</string></dict>
+<dict>
+<key>identifier</key><string>53816ae6-fcda-46ca-a012-4c97a8916b3c</string><key>stan_name</key><string>元成村</string><key>multi_info</key><string> </string><key>x</key><string>97408.1065</string><key>y</key><string>89540.9475</string></dict>
+<dict>
+<key>identifier</key><string>6c74c527-d4d3-4ae8-a956-f76e8d4f9a19</string><key>stan_name</key><string>星桥村</string><key>multi_info</key><string> </string><key>x</key><string>75094.0156</string><key>y</key><string>89615.0781</string></dict>
+<dict>
+<key>identifier</key><string>99035317-0df7-4cfd-ba22-4a65e06b9f06</string><key>stan_name</key><string>东方村</string><key>multi_info</key><string> </string><key>x</key><string>96301.8951</string><key>y</key><string>89649.7021</string></dict>
+<dict>
+<key>identifier</key><string>c5c2d7cd-f132-4100-adf8-85c51495c32b</string><key>stan_name</key><string>陆家圩村</string><key>multi_info</key><string> </string><key>x</key><string>72677.9810</string><key>y</key><string>89747.2258</string></dict>
+<dict>
+<key>identifier</key><string>b1b1e0bc-10a6-49ca-877c-9175b96a3823</string><key>stan_name</key><string>厨房斗社区</string><key>multi_info</key><string> </string><key>x</key><string>72053.1382</string><key>y</key><string>89774.3435</string></dict>
+<dict>
+<key>identifier</key><string>cceaf0c2-b164-4e90-afc4-49026320e9d1</string><key>stan_name</key><string>湾南村</string><key>multi_info</key><string> </string><key>x</key><string>94662.8133</string><key>y</key><string>89784.6945</string></dict>
+<dict>
+<key>identifier</key><string>5cc9728d-161c-4a84-8ebc-c53ed99b29d6</string><key>stan_name</key><string>机场社区</string><key>multi_info</key><string> </string><key>x</key><string>86610.9375</string><key>y</key><string>89805.9219</string></dict>
+<dict>
+<key>identifier</key><string>4d981e07-fbf0-46f6-a472-c6fc783dda09</string><key>stan_name</key><string>山联村</string><key>multi_info</key><string> </string><key>x</key><string>67262.5078</string><key>y</key><string>89892.4922</string></dict>
+<dict>
+<key>identifier</key><string>e9fbf6aa-3d82-43ce-afd1-5e2ddf17200c</string><key>stan_name</key><string>孔家埭村</string><key>multi_info</key><string> </string><key>x</key><string>73511.3906</string><key>y</key><string>90000.6797</string></dict>
+<dict>
+<key>identifier</key><string>9582f383-ee0d-4007-80f2-99d63ac73caa</string><key>stan_name</key><string>石桥社区</string><key>multi_info</key><string> </string><key>x</key><string>81883.4471</string><key>y</key><string>90069.3497</string></dict>
+<dict>
+<key>identifier</key><string>eeca6f6e-0664-4900-997d-cefb10e73cb2</string><key>stan_name</key><string>瓜山社区</string><key>multi_info</key><string> </string><key>x</key><string>78522.8984</string><key>y</key><string>90129.6953</string></dict>
+<dict>
+<key>identifier</key><string>8d6424b2-7a6d-49d7-8ad8-5c7b8fb11124</string><key>stan_name</key><string>皋亭村</string><key>multi_info</key><string> </string><key>x</key><string>80012.3065</string><key>y</key><string>90154.2831</string></dict>
+<dict>
+<key>identifier</key><string>cdfa7eb7-f331-4229-bb4e-51078e05d110</string><key>stan_name</key><string>总管堂村</string><key>multi_info</key><string> </string><key>x</key><string>76389.9766</string><key>y</key><string>90386.7812</string></dict>
+<dict>
+<key>identifier</key><string>500cc26a-9b01-4e98-b932-6a8b7593ec8b</string><key>stan_name</key><string>华丰社区</string><key>multi_info</key><string> </string><key>x</key><string>83715.7422</string><key>y</key><string>90583.7187</string></dict>
+<dict>
+<key>identifier</key><string>76c811ed-7b58-48fc-bfab-19a15b5f4bff</string><key>stan_name</key><string>同协村</string><key>multi_info</key><string> </string><key>x</key><string>84839.8359</string><key>y</key><string>90600.6328</string></dict>
+<dict>
+<key>identifier</key><string>4080936b-e41c-473d-9aae-b052fd66b68a</string><key>stan_name</key><string>吉鸿社区</string><key>multi_info</key><string> </string><key>x</key><string>70747.3750</string><key>y</key><string>90729.3125</string></dict>
+<dict>
+<key>identifier</key><string>9af2b40d-53db-4c00-8dc6-dae6621e44b0</string><key>stan_name</key><string>绕城村</string><key>multi_info</key><string> </string><key>x</key><string>68939.9609</string><key>y</key><string>90929.3828</string></dict>
+<dict>
+<key>identifier</key><string>73d3ca1a-147c-439d-9bb0-e4bd564a0a9e</string><key>stan_name</key><string>半山村</string><key>multi_info</key><string> </string><key>x</key><string>81324.2812</string><key>y</key><string>91074.7813</string></dict>
+<dict>
+<key>identifier</key><string>c6f6033e-ce20-4ea0-94ee-27f2d6ef2ac9</string><key>stan_name</key><string>七甲闸村</string><key>multi_info</key><string> </string><key>x</key><string>86298.7734</string><key>y</key><string>77498.4844</string></dict>
+<dict>
+<key>identifier</key><string>83f377a3-f2e3-4180-b821-caa5b5bf0c59</string><key>stan_name</key><string>馒头山社区</string><key>multi_info</key><string> </string><key>x</key><string>80045.5234</string><key>y</key><string>77612.3359</string></dict>
+<dict>
+<key>identifier</key><string>ccdd35f5-12fd-4bdd-81f9-af18f9d2eda5</string><key>stan_name</key><string>凤凰社区</string><key>multi_info</key><string> </string><key>x</key><string>81525.8594</string><key>y</key><string>77655.4375</string></dict>
+<dict>
+<key>identifier</key><string>3e3146b7-2c7a-4d5e-a022-8029f319274e</string><key>stan_name</key><string>净寺社区</string><key>multi_info</key><string> </string><key>x</key><string>77988.3984</string><key>y</key><string>77738.25</string></dict>
+<dict>
+<key>identifier</key><string>4474ecf8-1833-45e1-af1d-ee43341046a5</string><key>stan_name</key><string>水电社区</string><key>multi_info</key><string> </string><key>x</key><string>85559.1875</string><key>y</key><string>77831.9844</string></dict>
+<dict>
+<key>identifier</key><string>6c67ee26-8cf8-4edf-a864-81ba5af55b42</string><key>stan_name</key><string>新工社区</string><key>multi_info</key><string> </string><key>x</key><string>81195.3672</string><key>y</key><string>77891.9297</string></dict>
+<dict>
+<key>identifier</key><string>3dbb2726-f27e-4ae9-ac56-272902098f7b</string><key>stan_name</key><string>海潮社区</string><key>multi_info</key><string> </string><key>x</key><string>82052.4531</string><key>y</key><string>78191.9297</string></dict>
+<dict>
+<key>identifier</key><string>25f32575-390c-40ba-8acb-9fc8079fec7a</string><key>stan_name</key><string>候潮门社区</string><key>multi_info</key><string> </string><key>x</key><string>80608.0313</string><key>y</key><string>78287.0469</string></dict>
+<dict>
+<key>identifier</key><string>e66cb725-84dd-49af-84c7-7914eaf3e0ed</string><key>stan_name</key><string>横街社区</string><key>multi_info</key><string> </string><key>x</key><string>69100.1953</string><key>y</key><string>78599.9844</string></dict>
+<dict>
+<key>identifier</key><string>c2873407-af14-4f91-8efe-89e5a0423408</string><key>stan_name</key><string>近江西园社区</string><key>multi_info</key><string> </string><key>x</key><string>82852.2422</string><key>y</key><string>78610.3672</string></dict>
+<dict>
+<key>identifier</key><string>b4f94bf0-d1c7-4749-80af-3880bed37d47</string><key>stan_name</key><string>彩霞岭社区</string><key>multi_info</key><string> </string><key>x</key><string>80766.5312</string><key>y</key><string>78677.9219</string></dict>
+<dict>
+<key>identifier</key><string>861d7204-81e6-4b85-a071-de4b94e46169</string><key>stan_name</key><string>太庙社区</string><key>multi_info</key><string> </string><key>x</key><string>80129.6562</string><key>y</key><string>78681.7422</string></dict>
+<dict>
+<key>identifier</key><string>2deaaf14-c3a6-42fa-a1e9-e2e28b0cd817</string><key>stan_name</key><string>北落马营社区</string><key>multi_info</key><string> </string><key>x</key><string>81082.8281</string><key>y</key><string>78715.8906</string></dict>
+<dict>
+<key>identifier</key><string>fcfb53b1-3cbf-4324-977e-9b2b7969b4d7</string><key>stan_name</key><string>西穆坞社区</string><key>multi_info</key><string> </string><key>x</key><string>70510.6953</string><key>y</key><string>78898.0547</string></dict>
+<dict>
+<key>identifier</key><string>55fbfc61-d1b2-4fb3-8506-05d061d85990</string><key>stan_name</key><string>木场巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81336.0312</string><key>y</key><string>78898.5156</string></dict>
+<dict>
+<key>identifier</key><string>3877f38a-0611-4cfb-bdfb-13a69671301e</string><key>stan_name</key><string>在水一方社区</string><key>multi_info</key><string> </string><key>x</key><string>83782.8828</string><key>y</key><string>78910.3281</string></dict>
+<dict>
+<key>identifier</key><string>2b6f6180-0850-4f49-8eaf-63d8eb596669</string><key>stan_name</key><string>清波门社区</string><key>multi_info</key><string> </string><key>x</key><string>79455.6719</string><key>y</key><string>79009.7031</string></dict>
+<dict>
+<key>identifier</key><string>a74934ff-7a8f-4519-88ca-6837dad37653</string><key>stan_name</key><string>袁井巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80887.0469</string><key>y</key><string>79088.0313</string></dict>
+<dict>
+<key>identifier</key><string>1ddaf68e-fdb8-4de2-be32-1ba89249d7d0</string><key>stan_name</key><string>徐家埠社区</string><key>multi_info</key><string> </string><key>x</key><string>82707.8906</string><key>y</key><string>79147.1953</string></dict>
+<dict>
+<key>identifier</key><string>c03a9cf5-3625-4096-a299-6fac6fa723e0</string><key>stan_name</key><string>耀华社区</string><key>multi_info</key><string> </string><key>x</key><string>83368.3438</string><key>y</key><string>79240.5859</string></dict>
+<dict>
+<key>identifier</key><string>3daa3e29-e121-40bb-b6b1-3f259a4c6c38</string><key>stan_name</key><string>灵隐社区</string><key>multi_info</key><string> </string><key>x</key><string>73645.0726</string><key>y</key><string>79269.7534</string></dict>
+<dict>
+<key>identifier</key><string>0dab8efe-1638-443d-80cd-5f3a384bb91a</string><key>stan_name</key><string>十五奎巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80235.9062</string><key>y</key><string>79221.7656</string></dict>
+<dict>
+<key>identifier</key><string>fad02db6-be83-4713-82ac-ca40ffecea85</string><key>stan_name</key><string>西牌楼社区</string><key>multi_info</key><string> </string><key>x</key><string>81088.3984</string><key>y</key><string>79424.4687</string></dict>
+<dict>
+<key>identifier</key><string>a5501361-6243-4ffd-9684-9c5fddcdb718</string><key>stan_name</key><string>始版桥社区</string><key>multi_info</key><string> </string><key>x</key><string>82065.0390</string><key>y</key><string>79483.6485</string></dict>
+<dict>
+<key>identifier</key><string>b4608160-f8b1-442c-82fc-efde00f77e75</string><key>stan_name</key><string>清河坊社区</string><key>multi_info</key><string> </string><key>x</key><string>80148.0391</string><key>y</key><string>79541.5859</string></dict>
+<dict>
+<key>identifier</key><string>6d4d3a56-2cda-46d4-8015-99c3ee57eb75</string><key>stan_name</key><string>茶市街社区</string><key>multi_info</key><string> </string><key>x</key><string>69702.3594</string><key>y</key><string>79632.6172</string></dict>
+<dict>
+<key>identifier</key><string>2f42e9da-9971-4903-8b43-3c709d689af5</string><key>stan_name</key><string>姚园寺巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81309.7812</string><key>y</key><string>79756</string></dict>
+<dict>
+<key>identifier</key><string>3cb0fcfd-6811-4b28-bef3-61e83c0414e3</string><key>stan_name</key><string>劳动路社区</string><key>multi_info</key><string> </string><key>x</key><string>79440.8594</string><key>y</key><string>79794.9922</string></dict>
+<dict>
+<key>identifier</key><string>eeaaa356-30b1-4eba-86f3-48f456c954ff</string><key>stan_name</key><string>杨家牌楼社区</string><key>multi_info</key><string> </string><key>x</key><string>71044.1016</string><key>y</key><string>79809.8203</string></dict>
+<dict>
+<key>identifier</key><string>9c60437a-8b90-4399-8a86-41f9f57a11f5</string><key>stan_name</key><string>兴隆社区</string><key>multi_info</key><string> </string><key>x</key><string>82072.2109</string><key>y</key><string>79827.50</string></dict>
+<dict>
+<key>identifier</key><string>df9bf2b5-000b-4254-9206-b15c2aedfd69</string><key>stan_name</key><string>莫邪塘社区</string><key>multi_info</key><string> </string><key>x</key><string>82376.1562</string><key>y</key><string>79852.8906</string></dict>
+<dict>
+<key>identifier</key><string>cc4b4a46-e25c-4277-82e7-bde7d6742aa3</string><key>stan_name</key><string>静怡社区</string><key>multi_info</key><string> </string><key>x</key><string>83391.4375</string><key>y</key><string>79858.75</string></dict>
+<dict>
+<key>identifier</key><string>56c0a8be-92b4-4d5a-ba7a-41815ffec364</string><key>stan_name</key><string>梅花碑社区</string><key>multi_info</key><string> </string><key>x</key><string>80959.0234</string><key>y</key><string>79888.9844</string></dict>
+<dict>
+<key>identifier</key><string>2f9cf970-4b67-4808-8cba-821f5a9c13d8</string><key>stan_name</key><string>留下社区</string><key>multi_info</key><string> </string><key>x</key><string>69093.5391</string><key>y</key><string>79901.9063</string></dict>
+<dict>
+<key>identifier</key><string>06b79ebc-3835-46f8-9dfd-af965bf04ad3</string><key>stan_name</key><string>清泰门社区</string><key>multi_info</key><string> </string><key>x</key><string>82554.5234</string><key>y</key><string>79996.3047</string></dict>
+<dict>
+<key>identifier</key><string>64d89160-4942-4a99-8f86-d93af186310f</string><key>stan_name</key><string>惠民苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80588.6957</string><key>y</key><string>80006.82</string></dict>
+<dict>
+<key>identifier</key><string>36605509-6771-4791-9a25-0833d7997e55</string><key>stan_name</key><string>定安路社区</string><key>multi_info</key><string> </string><key>x</key><string>80230.6328</string><key>y</key><string>80067.0937</string></dict>
+<dict>
+<key>identifier</key><string>1a47cafd-36ea-4b16-b16a-3aaa05f2a425</string><key>stan_name</key><string>栖霞岭社区</string><key>multi_info</key><string> </string><key>x</key><string>78073.9375</string><key>y</key><string>80099.8125</string></dict>
+<dict>
+<key>identifier</key><string>776cf570-3e6a-4e98-abfa-06f99802de83</string><key>stan_name</key><string>江汀社区</string><key>multi_info</key><string> </string><key>x</key><string>83654.6484</string><key>y</key><string>80143.7109</string></dict>
+<dict>
+<key>identifier</key><string>acc969ec-296e-4c27-ad85-437f0a7bac84</string><key>stan_name</key><string>金沙港社区</string><key>multi_info</key><string> </string><key>x</key><string>75089.32</string><key>y</key><string>80300.3807</string></dict>
+<dict>
+<key>identifier</key><string>54e3f768-ac76-4627-965f-56b51a7c8f70</string><key>stan_name</key><string>夕照社区</string><key>multi_info</key><string> </string><key>x</key><string>83071.1172</string><key>y</key><string>80318.8906</string></dict>
+<dict>
+<key>identifier</key><string>f6e20494-f3c8-46e3-a54a-17eae9ab761d</string><key>stan_name</key><string>长明寺巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81588.7891</string><key>y</key><string>80363.6719</string></dict>
+<dict>
+<key>identifier</key><string>7ba79b1f-fed5-4237-868f-5179eae04c55</string><key>stan_name</key><string>金钱巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81103.0938</string><key>y</key><string>80430.0703</string></dict>
+<dict>
+<key>identifier</key><string>ea65bae8-b436-4294-b28f-be9c16fefc5f</string><key>stan_name</key><string>商教苑社区</string><key>multi_info</key><string> </string><key>x</key><string>82480.5078</string><key>y</key><string>80432.1953</string></dict>
+<dict>
+<key>identifier</key><string>b3983d94-6ccf-44e4-96a4-a06f7bdc6bfb</string><key>stan_name</key><string>唐祝社区</string><key>multi_info</key><string> </string><key>x</key><string>83958.3203</string><key>y</key><string>80441.1641</string></dict>
+<dict>
+<key>identifier</key><string>9fd3a559-9a3a-4088-be78-b261866972c4</string><key>stan_name</key><string>青年路社区</string><key>multi_info</key><string> </string><key>x</key><string>80207.7266</string><key>y</key><string>80446.1719</string></dict>
+<dict>
+<key>identifier</key><string>08dfa71e-8062-477d-a709-d975f712a2e2</string><key>stan_name</key><string>涌金门社区</string><key>multi_info</key><string> </string><key>x</key><string>79719.3906</string><key>y</key><string>80500.0391</string></dict>
+<dict>
+<key>identifier</key><string>b8db814f-e5f4-4358-b077-c70e7a162dd0</string><key>stan_name</key><string>常青苑社区</string><key>multi_info</key><string> </string><key>x</key><string>83553.8672</string><key>y</key><string>80507.8516</string></dict>
+<dict>
+<key>identifier</key><string>b23f01cc-b2db-4a43-92cd-2dd26aec9430</string><key>stan_name</key><string>西溪村</string><key>multi_info</key><string> </string><key>x</key><string>69511.2109</string><key>y</key><string>80595.9141</string></dict>
+<dict>
+<key>identifier</key><string>6758ceb2-2d63-45ac-8c99-2f20529e4dfb</string><key>stan_name</key><string>东平巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80456.9609</string><key>y</key><string>80596.1797</string></dict>
+<dict>
+<key>identifier</key><string>c4a109c4-d3b2-4691-b596-1cb39ff3864f</string><key>stan_name</key><string>金沙港社区</string><key>multi_info</key><string> </string><key>x</key><string>76273.3672</string><key>y</key><string>80639.5313</string></dict>
+<dict>
+<key>identifier</key><string>d7c88b80-42d8-409c-9b69-58a53ef6ef33</string><key>stan_name</key><string>茅廊巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80786.2969</string><key>y</key><string>80655.1016</string></dict>
+<dict>
+<key>identifier</key><string>29da54cd-27ce-43e6-8a0f-b45b750cfcec</string><key>stan_name</key><string>绿茗社区</string><key>multi_info</key><string> </string><key>x</key><string>82594.9531</string><key>y</key><string>80660.2891</string></dict>
+<dict>
+<key>identifier</key><string>96ed9c96-84ea-4fa3-91bf-84b426cbc62a</string><key>stan_name</key><string>青荷苑社区</string><key>multi_info</key><string> </string><key>x</key><string>83099.8672</string><key>y</key><string>80739.1328</string></dict>
+<dict>
+<key>identifier</key><string>dc3b50b7-a100-4eef-81a8-ee5c3e1dcae5</string><key>stan_name</key><string>龙井村</string><key>multi_info</key><string> </string><key>x</key><string>74354.9141</string><key>y</key><string>77390.3438</string></dict>
+<dict>
+<key>identifier</key><string>b1fd1855-d93c-4927-aef5-a28d5718754d</string><key>stan_name</key><string>近江东园社区</string><key>multi_info</key><string> </string><key>x</key><string>83167.4141</string><key>y</key><string>78309.0234</string></dict>
+<dict>
+<key>identifier</key><string>812829dd-f33d-442d-b072-e60f2f3f9131</string><key>stan_name</key><string>大通桥社区</string><key>multi_info</key><string> </string><key>x</key><string>81646.75</string><key>y</key><string>79120.3750</string></dict>
+<dict>
+<key>identifier</key><string>0868782e-894a-4693-b488-5c58d79b6df9</string><key>stan_name</key><string>定海社区</string><key>multi_info</key><string> </string><key>x</key><string>84392.4297</string><key>y</key><string>80809.2266</string></dict>
+<dict>
+<key>identifier</key><string>0fee95b2-840f-4630-9218-1c2baba5c034</string><key>stan_name</key><string>新凯苑社区</string><key>multi_info</key><string> </string><key>x</key><string>82253.8281</string><key>y</key><string>80888.6484</string></dict>
+<dict>
+<key>identifier</key><string>759c6f96-9a9e-474e-920c-3e9d2d94116f</string><key>stan_name</key><string>荷花塘社区</string><key>multi_info</key><string> </string><key>x</key><string>82690.50</string><key>y</key><string>80897.3281</string></dict>
+<dict>
+<key>identifier</key><string>bada9f9b-a985-4fd5-a282-9f60fce118f8</string><key>stan_name</key><string>大学路社区</string><key>multi_info</key><string> </string><key>x</key><string>81846.1406</string><key>y</key><string>80956.3594</string></dict>
+<dict>
+<key>identifier</key><string>8a3c7dc4-2c8a-4268-b8a5-8f320789c32d</string><key>stan_name</key><string>小营巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80867.1875</string><key>y</key><string>81042.1641</string></dict>
+<dict>
+<key>identifier</key><string>903dc9e7-07c6-4081-b7f7-e70a99989bfa</string><key>stan_name</key><string>芙蓉社区</string><key>multi_info</key><string> </string><key>x</key><string>82716.0469</string><key>y</key><string>81103.9688</string></dict>
+<dict>
+<key>identifier</key><string>c1d84118-f563-43e8-922b-fd25236f36d7</string><key>stan_name</key><string>红菱社区</string><key>multi_info</key><string> </string><key>x</key><string>83292.4297</string><key>y</key><string>81256.2891</string></dict>
+<dict>
+<key>identifier</key><string>e1649c4b-181a-4b70-b47d-af55333074e4</string><key>stan_name</key><string>洁莲社区</string><key>multi_info</key><string> </string><key>x</key><string>83032.6250</string><key>y</key><string>81302.9297</string></dict>
+<dict>
+<key>identifier</key><string>2bf06464-8cc5-4d73-afcc-1b8a48b788e2</string><key>stan_name</key><string>东岳村</string><key>multi_info</key><string> </string><key>x</key><string>73034.6406</string><key>y</key><string>81314.7734</string></dict>
+<dict>
+<key>identifier</key><string>d60ae0ac-02d2-4d9b-9f9b-608994c40856</string><key>stan_name</key><string>马市街社区</string><key>multi_info</key><string> </string><key>x</key><string>81088.5547</string><key>y</key><string>81316.8750</string></dict>
+<dict>
+<key>identifier</key><string>b915a493-a6e6-4c4b-a482-15734f528381</string><key>stan_name</key><string>金鱼井社区</string><key>multi_info</key><string> </string><key>x</key><string>71184.9766</string><key>y</key><string>81335.1406</string></dict>
+<dict>
+<key>identifier</key><string>befb7d6e-7a9b-42a7-8958-757ffbc3729d</string><key>stan_name</key><string>健风社区</string><key>multi_info</key><string> </string><key>x</key><string>83685.6875</string><key>y</key><string>81338.3906</string></dict>
+<dict>
+<key>identifier</key><string>87a9de19-b6d4-4b04-95ab-e3217a443734</string><key>stan_name</key><string>岳王路社区</string><key>multi_info</key><string> </string><key>x</key><string>80392.8437</string><key>y</key><string>81355.6094</string></dict>
+<dict>
+<key>identifier</key><string>66922638-d094-4bf5-922a-b2b4561df9b0</string><key>stan_name</key><string>东坡路社区</string><key>multi_info</key><string> </string><key>x</key><string>79852.1172</string><key>y</key><string>81408.3516</string></dict>
+<dict>
+<key>identifier</key><string>492de30a-716c-4ab2-a4a1-3f1e54091af3</string><key>stan_name</key><string>紫金社区</string><key>multi_info</key><string> </string><key>x</key><string>80810.8984</string><key>y</key><string>81409.1094</string></dict>
+<dict>
+<key>identifier</key><string>9aae3980-38bc-4578-920d-160ac811e6ce</string><key>stan_name</key><string>人民社区</string><key>multi_info</key><string> </string><key>x</key><string>82530.9375</string><key>y</key><string>81423.7344</string></dict>
+<dict>
+<key>identifier</key><string>b25bdf24-941b-47f9-ae70-a294b5942cc7</string><key>stan_name</key><string>双菱社区</string><key>multi_info</key><string> </string><key>x</key><string>82787.3984</string><key>y</key><string>81465.1953</string></dict>
+<dict>
+<key>identifier</key><string>151a864d-3a48-4b89-8133-faf5bbe2f1ac</string><key>stan_name</key><string>老浙大社区</string><key>multi_info</key><string> </string><key>x</key><string>81764.7734</string><key>y</key><string>81524.3594</string></dict>
+<dict>
+<key>identifier</key><string>25784668-5c67-415a-88db-98868693b808</string><key>stan_name</key><string>庆春门社区</string><key>multi_info</key><string> </string><key>x</key><string>82811.5625</string><key>y</key><string>81652.3516</string></dict>
+<dict>
+<key>identifier</key><string>58723060-d7c3-4d48-bf3f-6d2c70e17873</string><key>stan_name</key><string>玉泉社区</string><key>multi_info</key><string> </string><key>x</key><string>75950.6719</string><key>y</key><string>81656.1719</string></dict>
+<dict>
+<key>identifier</key><string>2547ea39-164b-4016-b139-56da6deee73b</string><key>stan_name</key><string>吴牙社区</string><key>multi_info</key><string> </string><key>x</key><string>80816.1016</string><key>y</key><string>81761.3437</string></dict>
+<dict>
+<key>identifier</key><string>cd5f5128-3cdf-4f57-a7f9-33d8e34b6699</string><key>stan_name</key><string>曲院社区</string><key>multi_info</key><string> </string><key>x</key><string>77100.50</string><key>y</key><string>81818.8047</string></dict>
+<dict>
+<key>identifier</key><string>64c697c6-2b0c-4a0e-8123-ac9ca5dac1b3</string><key>stan_name</key><string>竹竿巷社区</string><key>multi_info</key><string> </string><key>x</key><string>80153.5078</string><key>y</key><string>81840.4297</string></dict>
+<dict>
+<key>identifier</key><string>79989492-c8b7-4b9d-aec2-49c28646ebe6</string><key>stan_name</key><string>仙林社区</string><key>multi_info</key><string> </string><key>x</key><string>80472.1719</string><key>y</key><string>81931.3516</string></dict>
+<dict>
+<key>identifier</key><string>eba891f9-d946-4426-bf8c-3dfcd445e880</string><key>stan_name</key><string>曙光社区</string><key>multi_info</key><string> </string><key>x</key><string>76671.6441</string><key>y</key><string>81939.4649</string></dict>
+<dict>
+<key>identifier</key><string>05f0fd27-1291-42a9-9be3-d9f5e19c9d66</string><key>stan_name</key><string>三叉社区</string><key>multi_info</key><string> </string><key>x</key><string>83841.3594</string><key>y</key><string>82004.5625</string></dict>
+<dict>
+<key>identifier</key><string>7905f966-596c-4088-b56f-c12c2046d1ff</string><key>stan_name</key><string>长寿社区</string><key>multi_info</key><string> </string><key>x</key><string>79591.7188</string><key>y</key><string>82017.8594</string></dict>
+<dict>
+<key>identifier</key><string>ec01b9f5-6459-4b1e-b16e-898622ac06d4</string><key>stan_name</key><string>长青苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80356.0469</string><key>y</key><string>86350.7578</string></dict>
+<dict>
+<key>identifier</key><string>ba10fbbf-c002-4ccd-a0df-c52e2ea48097</string><key>stan_name</key><string>南苑社区</string><key>multi_info</key><string> </string><key>x</key><string>79517.7422</string><key>y</key><string>86393.6094</string></dict>
+<dict>
+<key>identifier</key><string>db0fa04f-9412-4804-8075-83243db36582</string><key>stan_name</key><string>红建河社区</string><key>multi_info</key><string> </string><key>x</key><string>78684.5625</string><key>y</key><string>86401.7422</string></dict>
+<dict>
+<key>identifier</key><string>d66e3065-e79a-4b22-ae9f-b0cfb2e5cefe</string><key>stan_name</key><string>胜利社区</string><key>multi_info</key><string> </string><key>x</key><string>81711.8750</string><key>y</key><string>86404.1016</string></dict>
+<dict>
+<key>identifier</key><string>7bf9f071-dc2c-4097-8ce6-ab1ea7e5969b</string><key>stan_name</key><string>仁和仓社区</string><key>multi_info</key><string> </string><key>x</key><string>77989.0625</string><key>y</key><string>86451.4766</string></dict>
+<dict>
+<key>identifier</key><string>97a284ce-e80e-4921-8338-599568d1c87e</string><key>stan_name</key><string>勤丰社区</string><key>multi_info</key><string> </string><key>x</key><string>76231.5391</string><key>y</key><string>86451.6797</string></dict>
+<dict>
+<key>identifier</key><string>a42fef7d-a228-4e21-b035-cf452cd06caa</string><key>stan_name</key><string>中舟社区</string><key>multi_info</key><string> </string><key>x</key><string>80487.9113</string><key>y</key><string>86463.9812</string></dict>
+<dict>
+<key>identifier</key><string>0c9b6c43-41c0-4231-89cd-b55e74130724</string><key>stan_name</key><string>花园村</string><key>multi_info</key><string> </string><key>x</key><string>84790.0547</string><key>y</key><string>86476.4609</string></dict>
+<dict>
+<key>identifier</key><string>59a90e8b-0e52-4894-a1f2-f45f0b77fa32</string><key>stan_name</key><string>弄口社区</string><key>multi_info</key><string> </string><key>x</key><string>83919.9609</string><key>y</key><string>86494.0391</string></dict>
+<dict>
+<key>identifier</key><string>50215929-72d0-4165-a3aa-2b954f5c2875</string><key>stan_name</key><string>杨家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>71871.8357</string><key>y</key><string>86507.3797</string></dict>
+<dict>
+<key>identifier</key><string>9ea394ec-bfe1-45df-b0ae-6388359b6e95</string><key>stan_name</key><string>弄口村</string><key>multi_info</key><string> </string><key>x</key><string>82929.2872</string><key>y</key><string>86562.1750</string></dict>
+<dict>
+<key>identifier</key><string>ffb49486-9aaa-4bd5-8fe2-915a552f19e6</string><key>stan_name</key><string>明真宫社区</string><key>multi_info</key><string> </string><key>x</key><string>77426.9688</string><key>y</key><string>86570.8437</string></dict>
+<dict>
+<key>identifier</key><string>504411e7-740d-42a3-b0f1-c7e89b4a014a</string><key>stan_name</key><string>浙江大学基础部校区</string><key>multi_info</key><string> </string><key>x</key><string>72355.9922</string><key>y</key><string>86599.8984</string></dict>
+<dict>
+<key>identifier</key><string>6fd816c0-c694-464b-951d-5c0d3a69ec47</string><key>stan_name</key><string>红五月村</string><key>multi_info</key><string> </string><key>x</key><string>88539.6641</string><key>y</key><string>86655.4141</string></dict>
+<dict>
+<key>identifier</key><string>e85c8b60-4699-4bed-aa91-f9cb3f7077cf</string><key>stan_name</key><string>长乐苑社区</string><key>multi_info</key><string> </string><key>x</key><string>78289.9141</string><key>y</key><string>86682.1719</string></dict>
+<dict>
+<key>identifier</key><string>4c81f889-9ee8-4bd9-9258-9041ea68b1eb</string><key>stan_name</key><string>八堡村</string><key>multi_info</key><string> </string><key>x</key><string>91235.8438</string><key>y</key><string>86775.0547</string></dict>
+<dict>
+<key>identifier</key><string>0da17931-0a6e-4636-b9b7-c3843e652e24</string><key>stan_name</key><string>工业区1</string><key>multi_info</key><string> </string><key>x</key><string>97553.5743</string><key>y</key><string>86799.3064</string></dict>
+<dict>
+<key>identifier</key><string>15c5cd3f-7513-4112-bffb-a5066f51e07d</string><key>stan_name</key><string>小河社区</string><key>multi_info</key><string> </string><key>x</key><string>76945.2422</string><key>y</key><string>86801.2734</string></dict>
+<dict>
+<key>identifier</key><string>a082e49e-ef67-4390-aecf-7aea0a45310f</string><key>stan_name</key><string>长青苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80699.6328</string><key>y</key><string>86831.6484</string></dict>
+<dict>
+<key>identifier</key><string>1a43fc16-cbdd-4ed1-be73-732d5a17d78d</string><key>stan_name</key><string>牛田村</string><key>multi_info</key><string> </string><key>x</key><string>89547.5703</string><key>y</key><string>86924.1094</string></dict>
+<dict>
+<key>identifier</key><string>8d00b543-bc0e-4c4d-a02d-acef1de28d33</string><key>stan_name</key><string>东苑第一社区</string><key>multi_info</key><string> </string><key>x</key><string>79233.0703</string><key>y</key><string>86949.8203</string></dict>
+<dict>
+<key>identifier</key><string>afd2c48c-934e-4eb6-acb1-216681a09eaf</string><key>stan_name</key><string>西苑第二社区</string><key>multi_info</key><string> </string><key>x</key><string>78550.9062</string><key>y</key><string>86956.3047</string></dict>
+<dict>
+<key>identifier</key><string>8862ffbb-9e31-4d2e-a605-d1efa9760585</string><key>stan_name</key><string>西苑第一社区</string><key>multi_info</key><string> </string><key>x</key><string>78865.6953</string><key>y</key><string>86974.7812</string></dict>
+<dict>
+<key>identifier</key><string>d6237564-0e8c-4c47-a58d-6d0a1dfeeec3</string><key>stan_name</key><string>沁苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80612.5987</string><key>y</key><string>86990.7964</string></dict>
+<dict>
+<key>identifier</key><string>e6907e7d-746f-4e23-807d-8fa61236621d</string><key>stan_name</key><string>下沙社区</string><key>multi_info</key><string> </string><key>x</key><string>96092.8505</string><key>y</key><string>87018.3368</string></dict>
+<dict>
+<key>identifier</key><string>6327a201-a4fe-4ed3-b93c-f08b747c39c7</string><key>stan_name</key><string>李家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>76338.8828</string><key>y</key><string>87040.2656</string></dict>
+<dict>
+<key>identifier</key><string>d71fa973-527e-4f29-bbcd-a0f9e2828a18</string><key>stan_name</key><string>长征桥社区</string><key>multi_info</key><string> </string><key>x</key><string>76715.1640</string><key>y</key><string>87046.7422</string></dict>
+<dict>
+<key>identifier</key><string>aa39457b-362e-4d05-8cca-c8c6836e0913</string><key>stan_name</key><string>三塘北苑社区</string><key>multi_info</key><string> </string><key>x</key><string>79997.6251</string><key>y</key><string>87063.3981</string></dict>
+<dict>
+<key>identifier</key><string>dd3001ce-baf9-4ba1-b719-b7b0440001df</string><key>stan_name</key><string>南阳坝社区</string><key>multi_info</key><string> </string><key>x</key><string>71696.4015</string><key>y</key><string>87069.6280</string></dict>
+<dict>
+<key>identifier</key><string>7cbb1967-9c09-4cb4-8381-ddcbc3615441</string><key>stan_name</key><string>草庄村</string><key>multi_info</key><string> </string><key>x</key><string>84869.3125</string><key>y</key><string>87127.0625</string></dict>
+<dict>
+<key>identifier</key><string>67231808-b183-4d42-95aa-7dbd0f269bff</string><key>stan_name</key><string>虾龙圩社区</string><key>multi_info</key><string> </string><key>x</key><string>73128.1387</string><key>y</key><string>87137.5036</string></dict>
+<dict>
+<key>identifier</key><string>c3e6277e-8b2f-4f39-a420-bf019e3f170e</string><key>stan_name</key><string>方家埭村</string><key>multi_info</key><string> </string><key>x</key><string>74587.6406</string><key>y</key><string>87170.4688</string></dict>
+<dict>
+<key>identifier</key><string>25e8acf5-e489-44c5-9f52-c64064ee4509</string><key>stan_name</key><string>大浒路社区</string><key>multi_info</key><string> </string><key>x</key><string>78068.2031</string><key>y</key><string>87211.9765</string></dict>
+<dict>
+<key>identifier</key><string>d4c01e13-ac53-4138-97f5-06ae852196cc</string><key>stan_name</key><string>东苑第二社区</string><key>multi_info</key><string> </string><key>x</key><string>79016.7031</string><key>y</key><string>87212.4219</string></dict>
+<dict>
+<key>identifier</key><string>f132d477-db05-4af9-91bb-237098aa2cf5</string><key>stan_name</key><string>塘河村</string><key>multi_info</key><string> </string><key>x</key><string>68361.4531</string><key>y</key><string>87136.6875</string></dict>
+<dict>
+<key>identifier</key><string>8946235f-5acf-4c8b-b46e-a77e2bdf86bf</string><key>stan_name</key><string>东苑第二社区</string><key>multi_info</key><string> </string><key>x</key><string>78969.5234</string><key>y</key><string>87247.1640</string></dict>
+<dict>
+<key>identifier</key><string>6864d94e-9626-45d3-98d7-163da3bd8b98</string><key>stan_name</key><string>三塘苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80448.6964</string><key>y</key><string>87262.4485</string></dict>
+<dict>
+<key>identifier</key><string>eab72dc5-8887-4ad4-bce2-79d2361a675d</string><key>stan_name</key><string>三塘社区</string><key>multi_info</key><string> </string><key>x</key><string>79666.7734</string><key>y</key><string>87279.1484</string></dict>
+<dict>
+<key>identifier</key><string>748fb0be-f22f-4b8a-b7bc-df55653420bb</string><key>stan_name</key><string>荡王头社区</string><key>multi_info</key><string> </string><key>x</key><string>71132.9766</string><key>y</key><string>87297.9375</string></dict>
+<dict>
+<key>identifier</key><string>d430021b-a6b6-4c44-84b9-60860ea76a93</string><key>stan_name</key><string>下马塍社区</string><key>multi_info</key><string> </string><key>x</key><string>78363.8438</string><key>y</key><string>84108.3672</string></dict>
+<dict>
+<key>identifier</key><string>310a02e9-dec6-405b-baa5-d5eaf44e1044</string><key>stan_name</key><string>登云圩社区</string><key>multi_info</key><string> </string><key>x</key><string>72602.2422</string><key>y</key><string>84117.6484</string></dict>
+<dict>
+<key>identifier</key><string>b996a843-a15a-4d4a-a600-07eb5639f810</string><key>stan_name</key><string>华联村</string><key>multi_info</key><string> </string><key>x</key><string>67709.1797</string><key>y</key><string>91081.1641</string></dict>
+<dict>
+<key>identifier</key><string>a673a129-e7c2-4ab5-a023-2f389a2e6a11</string><key>stan_name</key><string>永丰社区</string><key>multi_info</key><string> </string><key>x</key><string>82431.4684</string><key>y</key><string>91302.02</string></dict>
+<dict>
+<key>identifier</key><string>e0aed4ef-62a6-436b-b075-8510645b430f</string><key>stan_name</key><string>金星村</string><key>multi_info</key><string> </string><key>x</key><string>80583.4609</string><key>y</key><string>91554.1563</string></dict>
+<dict>
+<key>identifier</key><string>d2b5f3a3-a3ff-4800-8abd-f55360bc26be</string><key>stan_name</key><string>南苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81821.2109</string><key>y</key><string>91661.6016</string></dict>
+<dict>
+<key>identifier</key><string>75e5bbed-4bb5-43ee-825f-08830cb6d89c</string><key>stan_name</key><string>阔板桥社区</string><key>multi_info</key><string> </string><key>x</key><string>81292.9297</string><key>y</key><string>91726.7734</string></dict>
+<dict>
+<key>identifier</key><string>0fc5c8e7-4c3f-4ef0-a557-e5f9d6e9afcf</string><key>stan_name</key><string>丁桥社区</string><key>multi_info</key><string> </string><key>x</key><string>85596.4844</string><key>y</key><string>91823.6328</string></dict>
+<dict>
+<key>identifier</key><string>335a7250-ec70-4985-8ba2-c924246a4e51</string><key>stan_name</key><string>建塘村</string><key>multi_info</key><string> </string><key>x</key><string>84193.2734</string><key>y</key><string>91859.6250</string></dict>
+<dict>
+<key>identifier</key><string>ebc65def-eda3-4dcf-833e-493f847b98cb</string><key>stan_name</key><string>谢村</string><key>multi_info</key><string> </string><key>x</key><string>77613.6484</string><key>y</key><string>91902.1406</string></dict>
+<dict>
+<key>identifier</key><string>950ccd70-a991-49c3-b189-460e9e474387</string><key>stan_name</key><string>后珠村</string><key>multi_info</key><string> </string><key>x</key><string>87064.5078</string><key>y</key><string>92092.2578</string></dict>
+<dict>
+<key>identifier</key><string>cae74c69-be6e-47d1-b824-089ce6bcfc63</string><key>stan_name</key><string>北苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81529.2734</string><key>y</key><string>92112.3281</string></dict>
+<dict>
+<key>identifier</key><string>9a775aa0-b54b-4d55-9019-4cbf4b3de073</string><key>stan_name</key><string>康桥村</string><key>multi_info</key><string> </string><key>x</key><string>78324.7031</string><key>y</key><string>92134.9844</string></dict>
+<dict>
+<key>identifier</key><string>644f9fce-2953-4efa-852a-d1b37476cc1b</string><key>stan_name</key><string>西杨社区</string><key>multi_info</key><string> </string><key>x</key><string>76766.1250</string><key>y</key><string>92455.7578</string></dict>
+<dict>
+<key>identifier</key><string>339206c2-ab69-4b3b-9aaa-b927286aa70e</string><key>stan_name</key><string>赵家村</string><key>multi_info</key><string> </string><key>x</key><string>85073.1172</string><key>y</key><string>92631.2734</string></dict>
+<dict>
+<key>identifier</key><string>6fe11ede-cc44-480b-ba88-c45d4fe1feb0</string><key>stan_name</key><string>景新社区</string><key>multi_info</key><string> </string><key>x</key><string>83864.4687</string><key>y</key><string>82825.7266</string></dict>
+<dict>
+<key>identifier</key><string>b8a67abf-158b-4155-96d8-8da322baf3bf</string><key>stan_name</key><string>凯西社区</string><key>multi_info</key><string> </string><key>x</key><string>82322.8906</string><key>y</key><string>82839.2422</string></dict>
+<dict>
+<key>identifier</key><string>1efe63f9-4680-4864-b282-c287f916f387</string><key>stan_name</key><string>环西社区</string><key>multi_info</key><string> </string><key>x</key><string>79252.2578</string><key>y</key><string>82887.6328</string></dict>
+<dict>
+<key>identifier</key><string>dadc3e94-cc74-4150-87ce-599461b8a532</string><key>stan_name</key><string>深潭口社区</string><key>multi_info</key><string> </string><key>x</key><string>70445.3516</string><key>y</key><string>82998.2109</string></dict>
+<dict>
+<key>identifier</key><string>79cf637b-ebb3-4be1-99c0-b7ded8085709</string><key>stan_name</key><string>金祝社区</string><key>multi_info</key><string> </string><key>x</key><string>78715.4609</string><key>y</key><string>83007.0703</string></dict>
+<dict>
+<key>identifier</key><string>6f2474d4-7b02-4bed-9e7b-e2f9168d6014</string><key>stan_name</key><string>庆丰社区</string><key>multi_info</key><string> </string><key>x</key><string>76039.1328</string><key>y</key><string>83026.0547</string></dict>
+<dict>
+<key>identifier</key><string>6193fd69-7577-48ae-926e-252a7e53a3fc</string><key>stan_name</key><string>古荡南区社区</string><key>multi_info</key><string> </string><key>x</key><string>75262.3047</string><key>y</key><string>83029.9141</string></dict>
+<dict>
+<key>identifier</key><string>3a1fa28d-3cc0-4a25-bc20-8739d1fd1b3b</string><key>stan_name</key><string>沿山河社区</string><key>multi_info</key><string> </string><key>x</key><string>77980.4531</string><key>y</key><string>83043.0078</string></dict>
+<dict>
+<key>identifier</key><string>64253f24-8950-419f-a30e-8c2a5ff98d46</string><key>stan_name</key><string>浙大御跸社区</string><key>multi_info</key><string> </string><key>x</key><string>80913.8438</string><key>y</key><string>83080.2109</string></dict>
+<dict>
+<key>identifier</key><string>87a466a2-c13f-44db-83a3-3cb33c2d46c3</string><key>stan_name</key><string>体东社区</string><key>multi_info</key><string> </string><key>x</key><string>81612.7969</string><key>y</key><string>83100.2422</string></dict>
+<dict>
+<key>identifier</key><string>c5555951-78cf-48d4-8ccb-c8438bef3b38</string><key>stan_name</key><string>华家池社区</string><key>multi_info</key><string> </string><key>x</key><string>82836.8359</string><key>y</key><string>83121.2031</string></dict>
+<dict>
+<key>identifier</key><string>93fc5ba4-c21e-4b21-976b-a18ef0e86e45</string><key>stan_name</key><string>三深社区</string><key>multi_info</key><string> </string><key>x</key><string>71054.1641</string><key>y</key><string>83151.3672</string></dict>
+<dict>
+<key>identifier</key><string>3e3b3e98-e816-4240-b0f9-f01582159582</string><key>stan_name</key><string>莲花社区</string><key>multi_info</key><string> </string><key>x</key><string>74613.6953</string><key>y</key><string>83157.7969</string></dict>
+<dict>
+<key>identifier</key><string>793e9ed1-4a5d-4f5d-acdd-fa36d49d6fa0</string><key>stan_name</key><string>胭脂新村社区</string><key>multi_info</key><string> </string><key>x</key><string>80255.8906</string><key>y</key><string>83178.8750</string></dict>
+<dict>
+<key>identifier</key><string>4cbae022-5e37-49ae-89b4-f97245261758</string><key>stan_name</key><string>水湘社区</string><key>multi_info</key><string> </string><key>x</key><string>84916.8984</string><key>y</key><string>83184.5703</string></dict>
+<dict>
+<key>identifier</key><string>83160af7-a26b-452f-82dd-9858f43b7497</string><key>stan_name</key><string>景华社区</string><key>multi_info</key><string> </string><key>x</key><string>84212.2656</string><key>y</key><string>83202.3125</string></dict>
+<dict>
+<key>identifier</key><string>194c4674-f1eb-480c-b7c0-4251937f907c</string><key>stan_name</key><string>御道村</string><key>multi_info</key><string> </string><key>x</key><string>86731.3359</string><key>y</key><string>83259.8984</string></dict>
+<dict>
+<key>identifier</key><string>5df412ae-60bb-47e9-b2bf-bb7edab9be63</string><key>stan_name</key><string>古墩社区</string><key>multi_info</key><string> </string><key>x</key><string>74712.7812</string><key>y</key><string>83282.0156</string></dict>
+<dict>
+<key>identifier</key><string>38331623-c4de-4279-b56f-fe4d60d615e6</string><key>stan_name</key><string>环北新村社区</string><key>multi_info</key><string> </string><key>x</key><string>79692.7266</string><key>y</key><string>83287.8125</string></dict>
+<dict>
+<key>identifier</key><string>a291bc2b-88f3-48dd-b5de-3e2b300b5874</string><key>stan_name</key><string>花园亭社区</string><key>multi_info</key><string> </string><key>x</key><string>77633.1094</string><key>y</key><string>83327.9375</string></dict>
+<dict>
+<key>identifier</key><string>4cdb52f7-b9d0-4ba8-9a77-39dccd95addb</string><key>stan_name</key><string>古荡东区社区</string><key>multi_info</key><string> </string><key>x</key><string>75488.5781</string><key>y</key><string>83363.75</string></dict>
+<dict>
+<key>identifier</key><string>0da05f6d-9ea6-419c-ae72-8dee3d552e70</string><key>stan_name</key><string>桂花园社区</string><key>multi_info</key><string> </string><key>x</key><string>73429.0156</string><key>y</key><string>83405.1875</string></dict>
+<dict>
+<key>identifier</key><string>3463ddd4-69a0-4c91-9f48-6a7d041c75c2</string><key>stan_name</key><string>黄姑山社区</string><key>multi_info</key><string> </string><key>x</key><string>76321.9219</string><key>y</key><string>83408.6953</string></dict>
+<dict>
+<key>identifier</key><string>3492bd1e-4f0c-4a94-929d-e14614b6ce77</string><key>stan_name</key><string>沁雅社区</string><key>multi_info</key><string> </string><key>x</key><string>74523.3281</string><key>y</key><string>83467</string></dict>
+<dict>
+<key>identifier</key><string>673b3326-7cd2-4b25-8611-19d7c9dbb9a0</string><key>stan_name</key><string>新元村</string><key>multi_info</key><string> </string><key>x</key><string>95580.3259</string><key>y</key><string>89495.6861</string></dict>
+<dict>
+<key>identifier</key><string>bfaaab03-d3ee-414c-a4cc-41da154338a0</string><key>stan_name</key><string>紫花埠社区</string><key>multi_info</key><string> </string><key>x</key><string>80776.8203</string><key>y</key><string>76880.1719</string></dict>
+<dict>
+<key>identifier</key><string>bcf3bcac-d655-4381-959d-28070efa3263</string><key>stan_name</key><string>小和山社区</string><key>multi_info</key><string> </string><key>x</key><string>66765.7891</string><key>y</key><string>76982.5625</string></dict>
+<dict>
+<key>identifier</key><string>4e1c0417-3c0a-429c-8bd0-a13f2bbbe73d</string><key>stan_name</key><string>龙井村</string><key>multi_info</key><string> </string><key>x</key><string>74982.8331</string><key>y</key><string>77023.0587</string></dict>
+<dict>
+<key>identifier</key><string>a63692a8-7a54-42a8-ad18-c5f6c5a46cbb</string><key>stan_name</key><string>星民村</string><key>multi_info</key><string> </string><key>x</key><string>84681.9453</string><key>y</key><string>77235.3203</string></dict>
+<dict>
+<key>identifier</key><string>1f2c9c26-8ee8-48ae-8003-b8c1b78db9bf</string><key>stan_name</key><string>岩大房村</string><key>multi_info</key><string> </string><key>x</key><string>80467.4141</string><key>y</key><string>71409.2656</string></dict>
+<dict>
+<key>identifier</key><string>4bf98895-74c6-4972-810d-ba397622f3cf</string><key>stan_name</key><string>汤家桥村</string><key>multi_info</key><string> </string><key>x</key><string>83475.75</string><key>y</key><string>71513.1563</string></dict>
+<dict>
+<key>identifier</key><string>5788a78e-b8e3-4d77-9d46-fe95a8ac1a69</string><key>stan_name</key><string>长一村</string><key>multi_info</key><string> </string><key>x</key><string>81668.6641</string><key>y</key><string>71953.9453</string></dict>
+<dict>
+<key>identifier</key><string>e24d1e51-f704-4a89-bdc1-8b72be2080e6</string><key>stan_name</key><string>何家村</string><key>multi_info</key><string> </string><key>x</key><string>67698.5938</string><key>y</key><string>73239.1328</string></dict>
+<dict>
+<key>identifier</key><string>e17eea0b-e747-4c2b-ae46-5fb4f51cd034</string><key>stan_name</key><string>江三村</string><key>multi_info</key><string> </string><key>x</key><string>81187.6953</string><key>y</key><string>74250.3828</string></dict>
+<dict>
+<key>identifier</key><string>dcafdd6c-4647-4d20-83df-efd2573fef83</string><key>stan_name</key><string>大清社区</string><key>multi_info</key><string> </string><key>x</key><string>70762.5703</string><key>y</key><string>75734.3828</string></dict>
+<dict>
+<key>identifier</key><string>582c743b-c3f6-47a8-b17f-c07ab1a406a6</string><key>stan_name</key><string>屏峰村</string><key>multi_info</key><string> </string><key>x</key><string>68467.3438</string><key>y</key><string>77259.5625</string></dict>
+<dict>
+<key>identifier</key><string>0e005ecc-009c-46cc-9453-1502ccf62e9a</string><key>stan_name</key><string>东穆坞村</string><key>multi_info</key><string> </string><key>x</key><string>70641.0781</string><key>y</key><string>77451.6875</string></dict>
+<dict>
+<key>identifier</key><string>6a6d77e7-dcce-476b-9a7b-778020eac10b</string><key>stan_name</key><string>桕联社区</string><key>multi_info</key><string> </string><key>x</key><string>73578.6016</string><key>y</key><string>69027.0938</string></dict>
+<dict>
+<key>identifier</key><string>4b5536ad-6e90-44d4-9086-026ccb504837</string><key>stan_name</key><string>金家岭村</string><key>multi_info</key><string> </string><key>x</key><string>66116.75</string><key>y</key><string>69091.5469</string></dict>
+<dict>
+<key>identifier</key><string>05e12e19-03b5-4e8a-95c4-750ce931ad7f</string><key>stan_name</key><string>张家村</string><key>multi_info</key><string> </string><key>x</key><string>83120.2422</string><key>y</key><string>69185.8828</string></dict>
+<dict>
+<key>identifier</key><string>7f338a0e-0e3d-41fe-8f52-12233169c48c</string><key>stan_name</key><string>汤家井</string><key>multi_info</key><string> </string><key>x</key><string>83985.8359</string><key>y</key><string>69206.2031</string></dict>
+<dict>
+<key>identifier</key><string>24c097b9-514d-4efb-a07c-6e1933e65047</string><key>stan_name</key><string>麦岭沙村</string><key>multi_info</key><string> </string><key>x</key><string>74803.4794</string><key>y</key><string>69244.7199</string></dict>
+<dict>
+<key>identifier</key><string>72a49ab8-80be-4771-b3ad-f9e79bfc9a97</string><key>stan_name</key><string>中村村</string><key>multi_info</key><string> </string><key>x</key><string>67619.6719</string><key>y</key><string>69318.9063</string></dict>
+<dict>
+<key>identifier</key><string>8f047df2-0d7d-46e6-8ed6-0496eb43879e</string><key>stan_name</key><string>狮子社区</string><key>multi_info</key><string> </string><key>x</key><string>73098.4141</string><key>y</key><string>69597.8281</string></dict>
+<dict>
+<key>identifier</key><string>95a7ef30-2d2b-450a-af8e-1fc5b41305f6</string><key>stan_name</key><string>浦联村</string><key>multi_info</key><string> </string><key>x</key><string>78296.9922</string><key>y</key><string>69615.0313</string></dict>
+<dict>
+<key>identifier</key><string>bf8a9227-8f3f-4018-af15-abf93a6080af</string><key>stan_name</key><string>象山社区</string><key>multi_info</key><string> </string><key>x</key><string>71984.0938</string><key>y</key><string>69760.6563</string></dict>
+<dict>
+<key>identifier</key><string>7b6f99c6-de75-4cd0-b578-1192cf63d491</string><key>stan_name</key><string>塘子堰村</string><key>multi_info</key><string> </string><key>x</key><string>84781.7734</string><key>y</key><string>69870.9297</string></dict>
+<dict>
+<key>identifier</key><string>2094f9d3-8d68-47b2-b5de-5cc56fe3306c</string><key>stan_name</key><string>村口社区</string><key>multi_info</key><string> </string><key>x</key><string>68886.9688</string><key>y</key><string>69939.3125</string></dict>
+<dict>
+<key>identifier</key><string>ab345c68-99a9-4fe5-9922-a5206eca6565</string><key>stan_name</key><string>双流社区</string><key>multi_info</key><string> </string><key>x</key><string>69346.7266</string><key>y</key><string>70277.7578</string></dict>
+<dict>
+<key>identifier</key><string>7b73be4b-bd65-4bb7-b441-219f3b10a339</string><key>stan_name</key><string>新浦社区</string><key>multi_info</key><string> </string><key>x</key><string>78511.5547</string><key>y</key><string>70339.9922</string></dict>
+<dict>
+<key>identifier</key><string>d189e53d-1c1c-4cc1-8b94-2574ab1e7bb9</string><key>stan_name</key><string>龙心社区</string><key>multi_info</key><string> </string><key>x</key><string>72574.9375</string><key>y</key><string>70357.9844</string></dict>
+<dict>
+<key>identifier</key><string>73c3d439-b82a-468b-82f0-ff10fb9f22e0</string><key>stan_name</key><string>山二村</string><key>multi_info</key><string> </string><key>x</key><string>80587.0781</string><key>y</key><string>70420.3281</string></dict>
+<dict>
+<key>identifier</key><string>232ffbbf-8438-4af2-9285-3880bb8c7a4a</string><key>stan_name</key><string>山一村</string><key>multi_info</key><string> </string><key>x</key><string>82124.5469</string><key>y</key><string>70503.9844</string></dict>
+<dict>
+<key>identifier</key><string>80a02295-030b-4cb8-9836-d321ee8b35b9</string><key>stan_name</key><string>横桥社区</string><key>multi_info</key><string> </string><key>x</key><string>70469.9609</string><key>y</key><string>70562.5625</string></dict>
+<dict>
+<key>identifier</key><string>5aa64d32-83f3-49b5-b416-fd1a56a8a384</string><key>stan_name</key><string>龙王沙社区</string><key>multi_info</key><string> </string><key>x</key><string>73449.0547</string><key>y</key><string>70565.7266</string></dict>
+<dict>
+<key>identifier</key><string>e581030c-c68b-45f6-9dac-3209dc65ca6d</string><key>stan_name</key><string>傅家峙</string><key>multi_info</key><string> </string><key>x</key><string>84696.5078</string><key>y</key><string>70579.1953</string></dict>
+<dict>
+<key>identifier</key><string>71df9391-a404-4766-b561-2fe44fd8fe8a</string><key>stan_name</key><string>转塘街社区</string><key>multi_info</key><string> </string><key>x</key><string>72018.5547</string><key>y</key><string>70658.5859</string></dict>
+<dict>
+<key>identifier</key><string>b68b11f8-4165-4f9e-94b8-d79710e8c101</string><key>stan_name</key><string>转塘社区</string><key>multi_info</key><string> </string><key>x</key><string>71694.6563</string><key>y</key><string>70698.1797</string></dict>
+<dict>
+<key>identifier</key><string>e114a720-6a70-4ccb-8fba-82c4cfcec1ee</string><key>stan_name</key><string>浦塘村</string><key>multi_info</key><string> </string><key>x</key><string>73683.0034</string><key>y</key><string>64563.6224</string></dict>
+<dict>
+<key>identifier</key><string>0741e71c-9850-44e4-b52e-9e4faf88f21b</string><key>stan_name</key><string>兰溪口村</string><key>multi_info</key><string> </string><key>x</key><string>75062.6815</string><key>y</key><string>66000.9807</string></dict>
+<dict>
+<key>identifier</key><string>dbb324a3-779c-45fc-86d6-572fbbf0fd3f</string><key>stan_name</key><string>江口社区</string><key>multi_info</key><string> </string><key>x</key><string>72079.25</string><key>y</key><string>71107.6172</string></dict>
+<dict>
+<key>identifier</key><string>30f5231c-d6a2-4e6b-a0e2-e63ce8bb7b40</string><key>stan_name</key><string>沈家弄社区</string><key>multi_info</key><string> </string><key>x</key><string>70027.5724</string><key>y</key><string>71260.8920</string></dict>
+<dict>
+<key>identifier</key><string>b58eacf6-fade-4b83-b142-5848033c5c15</string><key>stan_name</key><string>方家畈社区</string><key>multi_info</key><string> </string><key>x</key><string>71234.7031</string><key>y</key><string>71262.4453</string></dict>
+<dict>
+<key>identifier</key><string>321f3287-4471-4395-94be-66bf4f5d32ef</string><key>stan_name</key><string>午山社区</string><key>multi_info</key><string> </string><key>x</key><string>72532.6484</string><key>y</key><string>71272.3672</string></dict>
+<dict>
+<key>identifier</key><string>87ebb8a6-3abc-4c2d-85a8-09cb747f566e</string><key>stan_name</key><string>冠一村</string><key>multi_info</key><string> </string><key>x</key><string>80956.7188</string><key>y</key><string>71628.0391</string></dict>
+<dict>
+<key>identifier</key><string>2c022573-a0a5-4a6e-9037-c3f2329692aa</string><key>stan_name</key><string>马湖村</string><key>multi_info</key><string> </string><key>x</key><string>85068.9219</string><key>y</key><string>71707.4141</string></dict>
+<dict>
+<key>identifier</key><string>491ea6ca-351c-484e-b713-3dc0e9733f63</string><key>stan_name</key><string>杨家墩社区</string><key>multi_info</key><string> </string><key>x</key><string>79853.1641</string><key>y</key><string>71716.3359</string></dict>
+<dict>
+<key>identifier</key><string>94833e88-1a6d-4614-8ffb-b477f83fbe6d</string><key>stan_name</key><string>天官社区</string><key>multi_info</key><string> </string><key>x</key><string>82785.0938</string><key>y</key><string>71817.8203</string></dict>
+<dict>
+<key>identifier</key><string>7361477b-029d-4173-a730-ba4f19edd0ad</string><key>stan_name</key><string>新生村</string><key>multi_info</key><string> </string><key>x</key><string>77550.7813</string><key>y</key><string>71841.9141</string></dict>
+<dict>
+<key>identifier</key><string>6db3552d-7ed8-47ae-b8c1-2095d3abfc4f</string><key>stan_name</key><string>梦湖社区</string><key>multi_info</key><string> </string><key>x</key><string>71062.3125</string><key>y</key><string>71862.4375</string></dict>
+<dict>
+<key>identifier</key><string>faee8090-c3de-4884-a451-30b73459bd44</string><key>stan_name</key><string>大诸桥社区</string><key>multi_info</key><string> </string><key>x</key><string>72995.8281</string><key>y</key><string>71891.2734</string></dict>
+<dict>
+<key>identifier</key><string>9298db6f-3e28-4612-bd65-a8be7206d853</string><key>stan_name</key><string>长埭村</string><key>multi_info</key><string> </string><key>x</key><string>68686.50</string><key>y</key><string>71924.4297</string></dict>
+<dict>
+<key>identifier</key><string>3e142d1a-5a32-4c99-a39b-5dec27293666</string><key>stan_name</key><string>杨家墩社区</string><key>multi_info</key><string> </string><key>x</key><string>78772.2656</string><key>y</key><string>71951.5234</string></dict>
+<dict>
+<key>identifier</key><string>dd6eb28e-260b-4b5f-afae-7dbf0c9add06</string><key>stan_name</key><string>珊瑚沙村</string><key>multi_info</key><string> </string><key>x</key><string>74931.3438</string><key>y</key><string>72002.9297</string></dict>
+<dict>
+<key>identifier</key><string>e88c8579-f891-4123-af98-09a745ecaff3</string><key>stan_name</key><string>冠二村</string><key>multi_info</key><string> </string><key>x</key><string>80407.6797</string><key>y</key><string>72116.7734</string></dict>
+<dict>
+<key>identifier</key><string>799d5b17-ee43-47d2-8215-20fe5bd5914d</string><key>stan_name</key><string>长二村</string><key>multi_info</key><string> </string><key>x</key><string>83471.1406</string><key>y</key><string>72226.0625</string></dict>
+<dict>
+<key>identifier</key><string>2f10d539-b4a6-4fdb-89a9-4343777354c2</string><key>stan_name</key><string>长河村</string><key>multi_info</key><string> </string><key>x</key><string>82532.0078</string><key>y</key><string>72290.6328</string></dict>
+<dict>
+<key>identifier</key><string>f937a28f-4a1e-4f53-afbf-ac602bcb1d2d</string><key>stan_name</key><string>上城埭村</string><key>multi_info</key><string> </string><key>x</key><string>67201.4141</string><key>y</key><string>72366.5547</string></dict>
+<dict>
+<key>identifier</key><string>7f3a8fee-cb00-446f-aec6-e5a6c314ac48</string><key>stan_name</key><string>叶埠桥社区</string><key>multi_info</key><string> </string><key>x</key><string>70500.8516</string><key>y</key><string>72549.7969</string></dict>
+<dict>
+<key>identifier</key><string>7020d28f-1bfc-4142-8d08-beaaa8cd255f</string><key>stan_name</key><string>庙后王社区</string><key>multi_info</key><string> </string><key>x</key><string>84750.1094</string><key>y</key><string>72824.6172</string></dict>
+<dict>
+<key>identifier</key><string>6011cdff-9376-4da9-8b49-8161fd3829c4</string><key>stan_name</key><string>襄七房村</string><key>multi_info</key><string> </string><key>x</key><string>84000.8438</string><key>y</key><string>72970.8750</string></dict>
+<dict>
+<key>identifier</key><string>4eb8d10b-1ce9-42fd-ba0d-418d813ef8ec</string><key>stan_name</key><string>五云社区</string><key>multi_info</key><string> </string><key>x</key><string>74372.9339</string><key>y</key><string>72972.7852</string></dict>
+<dict>
+<key>identifier</key><string>be2cbc3a-cf15-40f9-b34c-ccda8139c090</string><key>stan_name</key><string>葛衙庄社区</string><key>multi_info</key><string> </string><key>x</key><string>69475.1953</string><key>y</key><string>73038.3906</string></dict>
+<dict>
+<key>identifier</key><string>fd0b5dec-79f5-4d56-91cd-788bc9fdf948</string><key>stan_name</key><string>联庄社区</string><key>multi_info</key><string> </string><key>x</key><string>78455.8203</string><key>y</key><string>73298.4453</string></dict>
+<dict>
+<key>identifier</key><string>a7678fe7-7a83-4d96-a0a2-d69fe1bc07df</string><key>stan_name</key><string>梵村</string><key>multi_info</key><string> </string><key>x</key><string>73065.5703</string><key>y</key><string>73828.0703</string></dict>
+<dict>
+<key>identifier</key><string>cc2035e8-827b-4fb5-aa50-c378236b8351</string><key>stan_name</key><string>慈母桥村</string><key>multi_info</key><string> </string><key>x</key><string>67986.0078</string><key>y</key><string>73831.5781</string></dict>
+<dict>
+<key>identifier</key><string>67c170cf-bccc-480d-a680-2ab17ae89694</string><key>stan_name</key><string>西兴村</string><key>multi_info</key><string> </string><key>x</key><string>85478.9453</string><key>y</key><string>73923.1797</string></dict>
+<dict>
+<key>identifier</key><string>504dd35a-916e-4379-a929-f66aca6aff4c</string><key>stan_name</key><string>之江社区</string><key>multi_info</key><string> </string><key>x</key><string>78846.0781</string><key>y</key><string>73990.6563</string></dict>
+<dict>
+<key>identifier</key><string>6fca91be-082f-4310-b5a8-5509b76774f5</string><key>stan_name</key><string>江二社区</string><key>multi_info</key><string> </string><key>x</key><string>83083.1563</string><key>y</key><string>74192.6563</string></dict>
+<dict>
+<key>identifier</key><string>61f1dbc0-a3e5-4ab8-bb16-d44aa6967b06</string><key>stan_name</key><string>西陵社区</string><key>multi_info</key><string> </string><key>x</key><string>85605.6172</string><key>y</key><string>74193.0234</string></dict>
+<dict>
+<key>identifier</key><string>bebf7c3e-2d25-41c9-8d06-ef93825acf25</string><key>stan_name</key><string>龙门坎村</string><key>multi_info</key><string> </string><key>x</key><string>66977.1016</string><key>y</key><string>74197.8125</string></dict>
+<dict>
+<key>identifier</key><string>decd8523-035c-4bf4-994d-f019bab9bb63</string><key>stan_name</key><string>西兴村</string><key>multi_info</key><string> </string><key>x</key><string>86042.8516</string><key>y</key><string>74232.2031</string></dict>
+<dict>
+<key>identifier</key><string>e58f81bc-7583-44dc-b12e-582e31b2784f</string><key>stan_name</key><string>九溪社区</string><key>multi_info</key><string> </string><key>x</key><string>75750.0933</string><key>y</key><string>74474.6672</string></dict>
+<dict>
+<key>identifier</key><string>d58f5346-4d3b-4bcc-b450-819dfa131755</string><key>stan_name</key><string>桐坞村</string><key>multi_info</key><string> </string><key>x</key><string>69134.6016</string><key>y</key><string>75076.0156</string></dict>
+<dict>
+<key>identifier</key><string>da5c360f-e607-4af7-9c2f-ea4d9e63978b</string><key>stan_name</key><string>江一村</string><key>multi_info</key><string> </string><key>x</key><string>84085.6016</string><key>y</key><string>75130.8750</string></dict>
+<dict>
+<key>identifier</key><string>e67d7aff-be28-4398-90cf-4c59bc57a34c</string><key>stan_name</key><string>龙井村</string><key>multi_info</key><string> </string><key>x</key><string>74591.3203</string><key>y</key><string>75231.2344</string></dict>
+<dict>
+<key>identifier</key><string>a3c5e9fa-c66f-4ce2-a3dc-5a4c38a86d46</string><key>stan_name</key><string>外桐坞村</string><key>multi_info</key><string> </string><key>x</key><string>69553.0156</string><key>y</key><string>75252.7422</string></dict>
+<dict>
+<key>identifier</key><string>44714421-5070-4860-9863-4608be5fc887</string><key>stan_name</key><string>协同村</string><key>multi_info</key><string> </string><key>x</key><string>86081.1953</string><key>y</key><string>75260.2109</string></dict>
+<dict>
+<key>identifier</key><string>124fff6d-24a9-465a-8bdb-49a2f1f39482</string><key>stan_name</key><string>共联村</string><key>multi_info</key><string> </string><key>x</key><string>85663.50</string><key>y</key><string>75439.2891</string></dict>
+<dict>
+<key>identifier</key><string>2d0f133f-398d-45a6-88dc-ab785a1acaa2</string><key>stan_name</key><string>白塔岭社区</string><key>multi_info</key><string> </string><key>x</key><string>77744.50</string><key>y</key><string>75474.3125</string></dict>
+<dict>
+<key>identifier</key><string>50dd6d85-c481-4658-9bcf-b634571dfbf9</string><key>stan_name</key><string>十亩田社区</string><key>multi_info</key><string> </string><key>x</key><string>79130.4609</string><key>y</key><string>75665.6015</string></dict>
+<dict>
+<key>identifier</key><string>296cbe38-b509-4986-ab47-597a096d2d48</string><key>stan_name</key><string>中兴社区</string><key>multi_info</key><string> </string><key>x</key><string>83852.25</string><key>y</key><string>75763.6250</string></dict>
+<dict>
+<key>identifier</key><string>0ca5146e-cdc5-4f79-b1fc-0bd4cc7c1cb9</string><key>stan_name</key><string>石马村</string><key>multi_info</key><string> </string><key>x</key><string>66021.8437</string><key>y</key><string>75793.1172</string></dict>
+<dict>
+<key>identifier</key><string>47ab64fd-b2bd-4fda-be5a-5987df117602</string><key>stan_name</key><string>梅家坞村</string><key>multi_info</key><string> </string><key>x</key><string>72125.0547</string><key>y</key><string>76030.2031</string></dict>
+<dict>
+<key>identifier</key><string>80efbe98-246f-4fef-89f4-7047f48fd050</string><key>stan_name</key><string>海月桥社区</string><key>multi_info</key><string> </string><key>x</key><string>79783.3984</string><key>y</key><string>76088.5469</string></dict>
+<dict>
+<key>identifier</key><string>2f3d1b29-0126-4cfb-9c60-b3a88b6f9a7c</string><key>stan_name</key><string>满觉陇社区</string><key>multi_info</key><string> </string><key>x</key><string>76646.4844</string><key>y</key><string>76167.9766</string></dict>
+<dict>
+<key>identifier</key><string>1ed6bb28-6b5d-4d34-9783-3596233df8d2</string><key>stan_name</key><string>复兴街社区</string><key>multi_info</key><string> </string><key>x</key><string>80169.1016</string><key>y</key><string>76281.4688</string></dict>
+<dict>
+<key>identifier</key><string>c5599a3d-908b-4229-87ef-87ceb03f7b25</string><key>stan_name</key><string>玉皇山社区</string><key>multi_info</key><string> </string><key>x</key><string>78899.1563</string><key>y</key><string>76469.5234</string></dict>
+<dict>
+<key>identifier</key><string>3e35eff2-f2fc-4e54-8abe-bcc2a361fda8</string><key>stan_name</key><string>美政桥社区</string><key>multi_info</key><string> </string><key>x</key><string>80470.7578</string><key>y</key><string>76475.7031</string></dict>
+<dict>
+<key>identifier</key><string>50b6f2d9-5972-4c63-a74f-210ea4b6bbab</string><key>stan_name</key><string>文天社区</string><key>multi_info</key><string> </string><key>x</key><string>78240.6328</string><key>y</key><string>83490.4922</string></dict>
+<dict>
+<key>identifier</key><string>f1d84ad0-0ff5-4232-8b33-9a3ee717a31d</string><key>stan_name</key><string>古荡北区社区</string><key>multi_info</key><string> </string><key>x</key><string>75130.3359</string><key>y</key><string>83498.9922</string></dict>
+<dict>
+<key>identifier</key><string>0fac0acd-ef58-43e5-87ff-dff979aa3e50</string><key>stan_name</key><string>艮山门社区</string><key>multi_info</key><string> </string><key>x</key><string>81718.2188</string><key>y</key><string>83502.6797</string></dict>
+<dict>
+<key>identifier</key><string>4458bd87-b425-4623-92f2-024fd93b60af</string><key>stan_name</key><string>上马塍社区</string><key>multi_info</key><string> </string><key>x</key><string>78640.7422</string><key>y</key><string>83525.7344</string></dict>
+<dict>
+<key>identifier</key><string>bb4c68c8-70e9-47f6-abed-7fafeb7e33fa</string><key>stan_name</key><string>新塘社区</string><key>multi_info</key><string> </string><key>x</key><string>84070.2813</string><key>y</key><string>83568.2109</string></dict>
+<dict>
+<key>identifier</key><string>de2bf3f6-d90f-4f8f-8db2-fedaca934bf9</string><key>stan_name</key><string>施家花园社区</string><key>multi_info</key><string> </string><key>x</key><string>80640.4922</string><key>y</key><string>83628.7187</string></dict>
+<dict>
+<key>identifier</key><string>ae7a5da5-3a29-40ca-bf6f-a9717f77798f</string><key>stan_name</key><string>京都苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81005.1562</string><key>y</key><string>83694.0235</string></dict>
+<dict>
+<key>identifier</key><string>1698e0aa-1510-472f-9e47-f2ff1f1686f5</string><key>stan_name</key><string>工业南部区</string><key>multi_info</key><string> </string><key>x</key><string>95469.8198</string><key>y</key><string>83720.6101</string></dict>
+<dict>
+<key>identifier</key><string>e3b60d97-e0b1-4dfc-a69a-e76c0eb5be07</string><key>stan_name</key><string>半道红社区</string><key>multi_info</key><string> </string><key>x</key><string>79175.3672</string><key>y</key><string>83747.75</string></dict>
+<dict>
+<key>identifier</key><string>6d52767d-52be-403c-822c-12fb39468f64</string><key>stan_name</key><string>京惠社区</string><key>multi_info</key><string> </string><key>x</key><string>82298.7031</string><key>y</key><string>83765.2266</string></dict>
+<dict>
+<key>identifier</key><string>a7acbc99-2f10-44a5-ade2-c22a224b10f5</string><key>stan_name</key><string>金乐社区</string><key>multi_info</key><string> </string><key>x</key><string>73957.8281</string><key>y</key><string>83772.7109</string></dict>
+<dict>
+<key>identifier</key><string>4f6f9190-d17e-410b-8c13-cf3c0539c2df</string><key>stan_name</key><string>流水西苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81413.2578</string><key>y</key><string>83820.5937</string></dict>
+<dict>
+<key>identifier</key><string>60923868-958f-418e-a160-2636ba750452</string><key>stan_name</key><string>大家苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80224.1016</string><key>y</key><string>83831.8672</string></dict>
+<dict>
+<key>identifier</key><string>37da3a7a-7d16-4875-b371-b4822756f35a</string><key>stan_name</key><string>工业东部区</string><key>multi_info</key><string> </string><key>x</key><string>98519.6686</string><key>y</key><string>83835.3130</string></dict>
+<dict>
+<key>identifier</key><string>514d3079-45ec-4bc2-9031-2233ed678f36</string><key>stan_name</key><string>香樟社区</string><key>multi_info</key><string> </string><key>x</key><string>74357.5547</string><key>y</key><string>83858.4453</string></dict>
+<dict>
+<key>identifier</key><string>b9be2c3d-9afe-45bd-b93b-2475e9f37338</string><key>stan_name</key><string>天杭社区</string><key>multi_info</key><string> </string><key>x</key><string>82649.0234</string><key>y</key><string>83861.1172</string></dict>
+<dict>
+<key>identifier</key><string>6fb40f5b-20d0-4570-9982-a26c4bf9d4ff</string><key>stan_name</key><string>府新社区</string><key>multi_info</key><string> </string><key>x</key><string>73196.5547</string><key>y</key><string>83928.4297</string></dict>
+<dict>
+<key>identifier</key><string>fd2ee7ff-673b-4b77-8116-56917be93a48</string><key>stan_name</key><string>河东社区</string><key>multi_info</key><string> </string><key>x</key><string>79778.0859</string><key>y</key><string>83957.9141</string></dict>
+<dict>
+<key>identifier</key><string>59c0fa54-eaa4-46cb-b848-e81a3d192f34</string><key>stan_name</key><string>五堡村</string><key>multi_info</key><string> </string><key>x</key><string>87153.8984</string><key>y</key><string>83965.2188</string></dict>
+<dict>
+<key>identifier</key><string>bbec6c22-e66f-4245-b7d4-519c4e0c69eb</string><key>stan_name</key><string>闸弄口社区</string><key>multi_info</key><string> </string><key>x</key><string>83190.3437</string><key>y</key><string>83971.8516</string></dict>
+<dict>
+<key>identifier</key><string>7661ab96-86e1-4e4e-bb50-4738e5b9c87a</string><key>stan_name</key><string>求智社区</string><key>multi_info</key><string> </string><key>x</key><string>77940.50</string><key>y</key><string>84004.5156</string></dict>
+<dict>
+<key>identifier</key><string>75679707-6e8b-4cd5-a8d9-d92b307d5787</string><key>stan_name</key><string>古荡湾社区</string><key>multi_info</key><string> </string><key>x</key><string>76025.0313</string><key>y</key><string>84015.1406</string></dict>
+<dict>
+<key>identifier</key><string>14b2a9d5-df77-42bc-8f16-3f6d5fff98ff</string><key>stan_name</key><string>嘉绿苑社区</string><key>multi_info</key><string> </string><key>x</key><string>75392.1971</string><key>y</key><string>84027.8444</string></dict>
+<dict>
+<key>identifier</key><string>97d4c293-6022-4e6d-9764-ed8357c9e03d</string><key>stan_name</key><string>合建社区</string><key>multi_info</key><string> </string><key>x</key><string>71722.6094</string><key>y</key><string>84029.1250</string></dict>
+<dict>
+<key>identifier</key><string>3ea80044-7a17-4fef-abdf-55d19bc4e2c9</string><key>stan_name</key><string>新华坊社区</string><key>multi_info</key><string> </string><key>x</key><string>81213.2031</string><key>y</key><string>82747.6094</string></dict>
+<dict>
+<key>identifier</key><string>6febecd8-2d06-49db-9e4f-ff7dcd16424d</string><key>stan_name</key><string>松木场社区</string><key>multi_info</key><string> </string><key>x</key><string>78284.8984</string><key>y</key><string>82949.6797</string></dict>
+<dict>
+<key>identifier</key><string>613e3953-7b2f-4e74-8ba0-2f9106ed7d9b</string><key>stan_name</key><string>景芳社区</string><key>multi_info</key><string> </string><key>x</key><string>83828.4766</string><key>y</key><string>83175.2656</string></dict>
+<dict>
+<key>identifier</key><string>b0b573bb-b96e-443f-9916-4ebf20008835</string><key>stan_name</key><string>九莲社区</string><key>multi_info</key><string> </string><key>x</key><string>76828.8828</string><key>y</key><string>84041.1484</string></dict>
+<dict>
+<key>identifier</key><string>08634ab2-369a-42de-b082-175e6d2e9973</string><key>stan_name</key><string>云峰村</string><key>multi_info</key><string> </string><key>x</key><string>86058.3281</string><key>y</key><string>84046.9219</string></dict>
+<dict>
+<key>identifier</key><string>00cd41ac-5c83-4d7a-b0a5-18a07c28f100</string><key>stan_name</key><string>德加社区</string><key>multi_info</key><string> </string><key>x</key><string>74031.0703</string><key>y</key><string>84053.1719</string></dict>
+<dict>
+<key>identifier</key><string>d4a173cf-996a-4d75-a01a-7df09a9a6bdb</string><key>stan_name</key><string>衢州路社区</string><key>multi_info</key><string> </string><key>x</key><string>76950.5547</string><key>y</key><string>88236.1641</string></dict>
+<dict>
+<key>identifier</key><string>1666642d-f9ad-40c3-a6e7-5007609378de</string><key>stan_name</key><string>善贤社区</string><key>multi_info</key><string> </string><key>x</key><string>79542.0972</string><key>y</key><string>88250.2451</string></dict>
+<dict>
+<key>identifier</key><string>472ca616-689a-487b-883b-d07ac1a1e808</string><key>stan_name</key><string>笕桥社区</string><key>multi_info</key><string> </string><key>x</key><string>85193.4688</string><key>y</key><string>88368.1250</string></dict>
+<dict>
+<key>identifier</key><string>a399182a-e874-4846-9fc8-620d1f1e28ae</string><key>stan_name</key><string>拱宸社区</string><key>multi_info</key><string> </string><key>x</key><string>78365.3125</string><key>y</key><string>88372.8281</string></dict>
+<dict>
+<key>identifier</key><string>45e2c44e-79b1-48e9-a3c0-a17ab4c93a56</string><key>stan_name</key><string>吉如社区</string><key>multi_info</key><string> </string><key>x</key><string>76210.8125</string><key>y</key><string>88387.8906</string></dict>
+<dict>
+<key>identifier</key><string>b7093b04-9a6b-4e87-a330-23a615e73b03</string><key>stan_name</key><string>大塘巷社区</string><key>multi_info</key><string> </string><key>x</key><string>79217.8594</string><key>y</key><string>84093.4531</string></dict>
+<dict>
+<key>identifier</key><string>a47b0c0f-c12b-458c-8899-29b70c7b9555</string><key>stan_name</key><string>台州路社区</string><key>multi_info</key><string> </string><key>x</key><string>77878.8906</string><key>y</key><string>88389.1172</string></dict>
+<dict>
+<key>identifier</key><string>b5eb6016-b274-4113-b16e-c4517dd3ccfd</string><key>stan_name</key><string>高沙村</string><key>multi_info</key><string> </string><key>x</key><string>96253.6261</string><key>y</key><string>88400.2102</string></dict>
+<dict>
+<key>identifier</key><string>c139ca97-b2f4-47ed-ace6-e3a0399c6602</string><key>stan_name</key><string>西文社区</string><key>multi_info</key><string> </string><key>x</key><string>80245.8423</string><key>y</key><string>88406.4918</string></dict>
+<dict>
+<key>identifier</key><string>a21e534e-6e40-438e-b3dd-e17f1a935f4f</string><key>stan_name</key><string>桥西社区</string><key>multi_info</key><string> </string><key>x</key><string>77273.8281</string><key>y</key><string>88431.6953</string></dict>
+<dict>
+<key>identifier</key><string>fca0cb0b-1066-465c-a264-13b671e29e68</string><key>stan_name</key><string>同心村</string><key>multi_info</key><string> </string><key>x</key><string>85959.3281</string><key>y</key><string>88445.5703</string></dict>
+<dict>
+<key>identifier</key><string>01375b9d-67bc-4242-a404-2aa872ac3c1f</string><key>stan_name</key><string>章家坝社区</string><key>multi_info</key><string> </string><key>x</key><string>85223.4453</string><key>y</key><string>84069.6328</string></dict>
+<dict>
+<key>identifier</key><string>09176e8a-238f-4208-8781-8dee8c5f5efe</string><key>stan_name</key><string>打铁关社区</string><key>multi_info</key><string> </string><key>x</key><string>81208.2109</string><key>y</key><string>84155.6328</string></dict>
+<dict>
+<key>identifier</key><string>c6ed68d4-f7ed-4e43-a060-ca8eee7003fa</string><key>stan_name</key><string>红石板社区</string><key>multi_info</key><string> </string><key>x</key><string>78946.3750</string><key>y</key><string>84416.4844</string></dict>
+<dict>
+<key>identifier</key><string>e9bb9591-3bc9-4f6a-a1e7-146df5a01b92</string><key>stan_name</key><string>塘南社区</string><key>multi_info</key><string> </string><key>x</key><string>79470.0859</string><key>y</key><string>84656.1250</string></dict>
+<dict>
+<key>identifier</key><string>f52a0daf-959d-4706-8c61-1212a0ea6bd7</string><key>stan_name</key><string>笕桥村</string><key>multi_info</key><string> </string><key>x</key><string>84582.50</string><key>y</key><string>87914.5937</string></dict>
+<dict>
+<key>identifier</key><string>1ec5c8fc-7ee9-4790-8171-795d62c45c75</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81006.0434</string><key>y</key><string>88221.6989</string></dict>
+<dict>
+<key>identifier</key><string>b5fd17d6-bccc-4cb8-bde1-86383a0bbd55</string><key>stan_name</key><string>杨家村</string><key>multi_info</key><string> </string><key>x</key><string>82706.2724</string><key>y</key><string>88453.7165</string></dict>
+<dict>
+<key>identifier</key><string>fdb66304-4e09-4c9a-b987-fd3a7e12972a</string><key>stan_name</key><string>松合村</string><key>multi_info</key><string> </string><key>x</key><string>94809.5210</string><key>y</key><string>88503.8389</string></dict>
+<dict>
+<key>identifier</key><string>d8124564-0c5f-4119-a099-3cc87976b196</string><key>stan_name</key><string>五里塘社区</string><key>multi_info</key><string> </string><key>x</key><string>72861.3828</string><key>y</key><string>88510.0078</string></dict>
+<dict>
+<key>identifier</key><string>587cc82e-bf79-4e60-adf5-af1e1769f61b</string><key>stan_name</key><string>陆板桥社区</string><key>multi_info</key><string> </string><key>x</key><string>70033.6094</string><key>y</key><string>88557.5234</string></dict>
+<dict>
+<key>identifier</key><string>8696e9fd-7305-47bb-9e24-6b5c21fefb33</string><key>stan_name</key><string>俞章村</string><key>multi_info</key><string> </string><key>x</key><string>83972.6563</string><key>y</key><string>88558.6797</string></dict>
+<dict>
+<key>identifier</key><string>7d9141c5-0b21-423b-a9af-787306d89dc5</string><key>stan_name</key><string>三村村</string><key>multi_info</key><string> </string><key>x</key><string>87843.6406</string><key>y</key><string>88571.8437</string></dict>
+<dict>
+<key>identifier</key><string>721745cb-a18e-4fc3-a92f-654e271e72cd</string><key>stan_name</key><string>流水东苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81707.3281</string><key>y</key><string>84174.3438</string></dict>
+<dict>
+<key>identifier</key><string>2c329338-5b3e-4a6b-8b40-0e43bf41ecb7</string><key>stan_name</key><string>沈塘桥社区</string><key>multi_info</key><string> </string><key>x</key><string>78668.6484</string><key>y</key><string>84206.4219</string></dict>
+<dict>
+<key>identifier</key><string>fbb07ee8-a9fd-4d7b-974a-0daaa61fc2b0</string><key>stan_name</key><string>龙章社区</string><key>multi_info</key><string> </string><key>x</key><string>69648.0379</string><key>y</key><string>84245.0661</string></dict>
+<dict>
+<key>identifier</key><string>5f244839-b530-4a3d-b130-339d28461519</string><key>stan_name</key><string>天仙社区</string><key>multi_info</key><string> </string><key>x</key><string>82194.3672</string><key>y</key><string>84293.1250</string></dict>
+<dict>
+<key>identifier</key><string>c7114ab9-05a8-46c3-84d7-3a856927a186</string><key>stan_name</key><string>黎园社区</string><key>multi_info</key><string> </string><key>x</key><string>80146.6875</string><key>y</key><string>84324.6641</string></dict>
+<dict>
+<key>identifier</key><string>9048518d-c513-4673-a708-42a06762f3f3</string><key>stan_name</key><string>皋塘社区</string><key>multi_info</key><string> </string><key>x</key><string>84419.5313</string><key>y</key><string>84335.4141</string></dict>
+<dict>
+<key>identifier</key><string>9a9c5d20-cdc7-4464-93c5-b101fa04ab2f</string><key>stan_name</key><string>机神社区</string><key>multi_info</key><string> </string><key>x</key><string>82675.0469</string><key>y</key><string>84340.9844</string></dict>
+<dict>
+<key>identifier</key><string>fe430ef1-1d65-4d18-b681-9a2119398c04</string><key>stan_name</key><string>濮家社区</string><key>multi_info</key><string> </string><key>x</key><string>83093.4440</string><key>y</key><string>84371.4910</string></dict>
+<dict>
+<key>identifier</key><string>3f334774-389b-4235-a6a0-a4effe7655e1</string><key>stan_name</key><string>文教社区</string><key>multi_info</key><string> </string><key>x</key><string>77395.7891</string><key>y</key><string>84400.1094</string></dict>
+<dict>
+<key>identifier</key><string>b75ada19-b4d5-41b3-87ab-2640c3562494</string><key>stan_name</key><string>竞舟社区</string><key>multi_info</key><string> </string><key>x</key><string>73951.4063</string><key>y</key><string>84425.0234</string></dict>
+<dict>
+<key>identifier</key><string>62a7b790-1731-490c-8afb-35ad5e9b91d9</string><key>stan_name</key><string>玉公桥社区</string><key>multi_info</key><string> </string><key>x</key><string>80490.25</string><key>y</key><string>84433.9766</string></dict>
+<dict>
+<key>identifier</key><string>c1e35ae8-d1bd-4bf1-98f2-184ddeaf4559</string><key>stan_name</key><string>益乐社区</string><key>multi_info</key><string> </string><key>x</key><string>74741.1484</string><key>y</key><string>84442.7656</string></dict>
+<dict>
+<key>identifier</key><string>1025a1e2-66fc-43ab-a6a1-3566188890ab</string><key>stan_name</key><string>六堡村</string><key>multi_info</key><string> </string><key>x</key><string>88024.8516</string><key>y</key><string>84490.2578</string></dict>
+<dict>
+<key>identifier</key><string>151ae5e8-e299-4daa-8460-84721103216a</string><key>stan_name</key><string>新金都社区</string><key>multi_info</key><string> </string><key>x</key><string>73312.7813</string><key>y</key><string>84515.1875</string></dict>
+<dict>
+<key>identifier</key><string>f1a7ff69-7e15-452d-9eab-f3993ed04c05</string><key>stan_name</key><string>天城社区</string><key>multi_info</key><string> </string><key>x</key><string>83048.3359</string><key>y</key><string>84612.4063</string></dict>
+<dict>
+<key>identifier</key><string>3e875c07-70f1-4139-9443-ad7216f1b050</string><key>stan_name</key><string>华联社区</string><key>multi_info</key><string> </string><key>x</key><string>79845.8594</string><key>y</key><string>84616.8984</string></dict>
+<dict>
+<key>identifier</key><string>0b70e7c3-c8c2-4825-856f-3929cc13eb38</string><key>stan_name</key><string>翠苑四区社区</string><key>multi_info</key><string> </string><key>x</key><string>75814.8281</string><key>y</key><string>84633.8359</string></dict>
+<dict>
+<key>identifier</key><string>fc35b171-9311-48fa-aa5f-f7a07e4f0a7a</string><key>stan_name</key><string>万家花园社区</string><key>multi_info</key><string> </string><key>x</key><string>83810.0859</string><key>y</key><string>84648.2578</string></dict>
+<dict>
+<key>identifier</key><string>bf682c63-f625-49ac-baf4-75028ae27d83</string><key>stan_name</key><string>稻香园社区</string><key>multi_info</key><string> </string><key>x</key><string>79031.5312</string><key>y</key><string>84649.3203</string></dict>
+<dict>
+<key>identifier</key><string>7f8b570f-dcf6-428d-bf5e-8ffbe124a6a9</string><key>stan_name</key><string>翠苑一区社区</string><key>multi_info</key><string> </string><key>x</key><string>76346.2031</string><key>y</key><string>84657.5234</string></dict>
+<dict>
+<key>identifier</key><string>ffa71652-7506-4116-b271-52551b6df6ed</string><key>stan_name</key><string>花园社区</string><key>multi_info</key><string> </string><key>x</key><string>76812.8516</string><key>y</key><string>84659.3594</string></dict>
+<dict>
+<key>identifier</key><string>1573a1da-9c1b-4e06-9cf0-b0e9290d4d9e</string><key>stan_name</key><string>灯塔社区</string><key>multi_info</key><string> </string><key>x</key><string>79838.1641</string><key>y</key><string>87729.8828</string></dict>
+<dict>
+<key>identifier</key><string>f9af53fa-de68-4ba2-b251-e7ac2d283755</string><key>stan_name</key><string>水月社区</string><key>multi_info</key><string> </string><key>x</key><string>73023.8047</string><key>y</key><string>87730.5161</string></dict>
+<dict>
+<key>identifier</key><string>9c7a71a6-a387-4910-a370-7b42cfa7033c</string><key>stan_name</key><string>蚕桑社区</string><key>multi_info</key><string> </string><key>x</key><string>89458.2734</string><key>y</key><string>87708.3906</string></dict>
+<dict>
+<key>identifier</key><string>8f61f01a-b18f-4bc2-b09d-4e9fd9ea0036</string><key>stan_name</key><string>华丰社区</string><key>multi_info</key><string> </string><key>x</key><string>75746.7187</string><key>y</key><string>87778.8828</string></dict>
+<dict>
+<key>identifier</key><string>7c23b9e0-cf35-4836-8e32-ee0c5f23f898</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81005.6413</string><key>y</key><string>87800.8038</string></dict>
+<dict>
+<key>identifier</key><string>2c37534a-ce4b-4d88-834d-5a6d220d06d6</string><key>stan_name</key><string>九堡村</string><key>multi_info</key><string> </string><key>x</key><string>91359.7969</string><key>y</key><string>87844.3203</string></dict>
+<dict>
+<key>identifier</key><string>7e75771e-f090-46ae-a17a-e75c40f2678e</string><key>stan_name</key><string>花园岗村</string><key>multi_info</key><string> </string><key>x</key><string>74516.6719</string><key>y</key><string>87910.7891</string></dict>
+<dict>
+<key>identifier</key><string>ecf43177-8780-4028-a9b3-e7730e80e7ed</string><key>stan_name</key><string>南阳坝社区</string><key>multi_info</key><string> </string><key>x</key><string>72068.3750</string><key>y</key><string>87941.3906</string></dict>
+<dict>
+<key>identifier</key><string>9f9f4563-549d-4eba-918b-3ec95dfde261</string><key>stan_name</key><string>登云路社区</string><key>multi_info</key><string> </string><key>x</key><string>77854.4766</string><key>y</key><string>87954.9141</string></dict>
+<dict>
+<key>identifier</key><string>9f6f3576-25d1-4510-bbbe-448d24820f68</string><key>stan_name</key><string>高教园东区</string><key>multi_info</key><string> </string><key>x</key><string>100713.7762</string><key>y</key><string>87965.5623</string></dict>
+<dict>
+<key>identifier</key><string>e8a87f74-459b-4a36-9212-3b38feb05e9e</string><key>stan_name</key><string>化纤社区</string><key>multi_info</key><string> </string><key>x</key><string>75052.6562</string><key>y</key><string>87985.6016</string></dict>
+<dict>
+<key>identifier</key><string>f906db09-1531-4072-8e94-0a8f95d12882</string><key>stan_name</key><string>九堡社区</string><key>multi_info</key><string> </string><key>x</key><string>90101.1458</string><key>y</key><string>88055.6356</string></dict>
+<dict>
+<key>identifier</key><string>fb247bbe-f50d-47a4-95e7-9248908dd800</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>81013.5469</string><key>y</key><string>88079.0547</string></dict>
+<dict>
+<key>identifier</key><string>3e67fd8a-2faa-4bab-abbd-b18841355ecc</string><key>stan_name</key><string>七古社区</string><key>multi_info</key><string> </string><key>x</key><string>78973.2734</string><key>y</key><string>88102.2578</string></dict>
+<dict>
+<key>identifier</key><string>2b2d9647-0f7e-4259-ba8d-781f6ccb4eb9</string><key>stan_name</key><string>高教西园区</string><key>multi_info</key><string> </string><key>x</key><string>97689.5222</string><key>y</key><string>88148.0176</string></dict>
+<dict>
+<key>identifier</key><string>84ee1d36-7b6a-4cd1-a7c1-fbb6113e7712</string><key>stan_name</key><string>双桥村</string><key>multi_info</key><string> </string><key>x</key><string>67504.8750</string><key>y</key><string>88148.5469</string></dict>
+<dict>
+<key>identifier</key><string>c745f99d-98eb-4fae-ad32-8dc53c02c31d</string><key>stan_name</key><string>铜鉴湖村</string><key>multi_info</key><string> </string><key>x</key><string>71268.2188</string><key>y</key><string>66835.50</string></dict>
+<dict>
+<key>identifier</key><string>81fd778f-d65c-4d7c-82dd-3fc781c4b062</string><key>stan_name</key><string>双灵村</string><key>multi_info</key><string> </string><key>x</key><string>65607.2266</string><key>y</key><string>67028.1094</string></dict>
+<dict>
+<key>identifier</key><string>30cda1b7-63ec-4e5c-8f1b-b23b157fdc2f</string><key>stan_name</key><string>新沙村</string><key>multi_info</key><string> </string><key>x</key><string>76898.2524</string><key>y</key><string>67053.5733</string></dict>
+<dict>
+<key>identifier</key><string>62d9d44a-6e4f-4cbe-bd83-ce53afb7c611</string><key>stan_name</key><string>横埭街村</string><key>multi_info</key><string> </string><key>x</key><string>74132.6797</string><key>y</key><string>67083.3750</string></dict>
+<dict>
+<key>identifier</key><string>a2579791-c229-47ea-b9d1-970a9fe7ed22</string><key>stan_name</key><string>良户村</string><key>multi_info</key><string> </string><key>x</key><string>72871.5469</string><key>y</key><string>67287.8750</string></dict>
+<dict>
+<key>identifier</key><string>16aced17-a321-4e55-8501-c28836617877</string><key>stan_name</key><string>小江村</string><key>multi_info</key><string> </string><key>x</key><string>75731.3196</string><key>y</key><string>67459.4489</string></dict>
+<dict>
+<key>identifier</key><string>195baf3b-0b47-4a19-b63d-d9954880876a</string><key>stan_name</key><string>湖埠村</string><key>multi_info</key><string> </string><key>x</key><string>68893.4219</string><key>y</key><string>67498.8750</string></dict>
+<dict>
+<key>identifier</key><string>521d8e78-4f12-4b90-9666-8275f8f827a6</string><key>stan_name</key><string>浮山村</string><key>multi_info</key><string> </string><key>x</key><string>73599.3203</string><key>y</key><string>67560.9453</string></dict>
+<dict>
+<key>identifier</key><string>80c24940-3c2c-4820-a775-6837ecfc2ed6</string><key>stan_name</key><string>石龙山社区</string><key>multi_info</key><string> </string><key>x</key><string>71680.4609</string><key>y</key><string>67671.25</string></dict>
+<dict>
+<key>identifier</key><string>d6853826-f4c5-45fb-af54-34ca6daf21b5</string><key>stan_name</key><string>缪家村</string><key>multi_info</key><string> </string><key>x</key><string>74321.8203</string><key>y</key><string>67943.1094</string></dict>
+<dict>
+<key>identifier</key><string>20b0bcdb-77c9-494d-8786-3bd82c18a780</string><key>stan_name</key><string>贤家庄村</string><key>multi_info</key><string> </string><key>x</key><string>72947.8359</string><key>y</key><string>68213.2969</string></dict>
+<dict>
+<key>identifier</key><string>adf8cdc9-fa57-4a83-96c1-7672c11539e6</string><key>stan_name</key><string>凌家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>71978.0469</string><key>y</key><string>68747.9375</string></dict>
+<dict>
+<key>identifier</key><string>fa79e5f1-4ee6-46f5-90e2-ec6075575544</string><key>stan_name</key><string>双流社区</string><key>multi_info</key><string> </string><key>x</key><string>70111.0703</string><key>y</key><string>68939.0156</string></dict>
+<dict>
+<key>identifier</key><string>684fc803-f16f-4b1c-9f9c-3a002ac04323</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80942.9173</string><key>y</key><string>88614.6299</string></dict>
+<dict>
+<key>identifier</key><string>f920e3b3-ba80-4e93-9469-aeafb0b12297</string><key>stan_name</key><string>沈家社区</string><key>multi_info</key><string> </string><key>x</key><string>81599.5703</string><key>y</key><string>88625.3594</string></dict>
+<dict>
+<key>identifier</key><string>37d5e563-d94b-4b9b-b4a9-431cf5d78f96</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80682.1265</string><key>y</key><string>88632.3957</string></dict>
+<dict>
+<key>identifier</key><string>de773586-9bb5-4525-bd59-fde578988c28</string><key>stan_name</key><string>庙前街社区</string><key>multi_info</key><string> </string><key>x</key><string>71727.9969</string><key>y</key><string>88647.6539</string></dict>
+<dict>
+<key>identifier</key><string>0d9d3f6e-da23-4192-817c-582c892930db</string><key>stan_name</key><string>格畈村</string><key>multi_info</key><string> </string><key>x</key><string>89299.7656</string><key>y</key><string>88711.2188</string></dict>
+<dict>
+<key>identifier</key><string>f2e7b252-2c99-412a-81c4-c6a215d5dbb1</string><key>stan_name</key><string>新颜苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80614.4844</string><key>y</key><string>88724.3984</string></dict>
+<dict>
+<key>identifier</key><string>bd627b85-0fb7-4ebe-9aec-7c45fb73fdcc</string><key>stan_name</key><string>五里塘社区</string><key>multi_info</key><string> </string><key>x</key><string>72152.4975</string><key>y</key><string>88761.7267</string></dict>
+<dict>
+<key>identifier</key><string>1dc1fea5-e30b-4b5b-979c-6b54de88d6b8</string><key>stan_name</key><string>温州路社区</string><key>multi_info</key><string> </string><key>x</key><string>77901.6641</string><key>y</key><string>88815.1719</string></dict>
+<dict>
+<key>identifier</key><string>729b13d5-3547-4460-a514-f58edf19df9d</string><key>stan_name</key><string>祥符桥村</string><key>multi_info</key><string> </string><key>x</key><string>73801.3828</string><key>y</key><string>88846.5078</string></dict>
+<dict>
+<key>identifier</key><string>1c1115b9-16ae-476b-8c44-dddf8913f6ea</string><key>stan_name</key><string>渡驾桥社区</string><key>multi_info</key><string> </string><key>x</key><string>75409.7734</string><key>y</key><string>88938.3750</string></dict>
+<dict>
+<key>identifier</key><string>2e1f685d-f68f-4a34-bbc4-30da441f9c79</string><key>stan_name</key><string>兰里社区</string><key>multi_info</key><string> </string><key>x</key><string>72685.7422</string><key>y</key><string>89046.1875</string></dict>
+<dict>
+<key>identifier</key><string>e433f39f-e9eb-4222-96e2-6448a97752cd</string><key>stan_name</key><string>兰里社区</string><key>multi_info</key><string> </string><key>x</key><string>72116.0198</string><key>y</key><string>89120.6575</string></dict>
+<dict>
+<key>identifier</key><string>92548eaf-be12-4893-a892-1b0b600cce34</string><key>stan_name</key><string>蔡马社区</string><key>multi_info</key><string> </string><key>x</key><string>79210.5391</string><key>y</key><string>88949.2266</string></dict>
+<dict>
+<key>identifier</key><string>9cd0cf49-5e9b-4eb6-968f-39dd27826e26</string><key>stan_name</key><string>大港桥社区</string><key>multi_info</key><string> </string><key>x</key><string>71440.6221</string><key>y</key><string>89144.0203</string></dict>
+<dict>
+<key>identifier</key><string>cd35be93-cc2f-44b9-a356-d4bb3b6624d6</string><key>stan_name</key><string>郭家厍村</string><key>multi_info</key><string> </string><key>x</key><string>76383.5078</string><key>y</key><string>89223.9219</string></dict>
+<dict>
+<key>identifier</key><string>df856e77-ebe8-4137-a09c-9474bb84ec01</string><key>stan_name</key><string>五幸村</string><key>multi_info</key><string> </string><key>x</key><string>69500.1328</string><key>y</key><string>89282.9063</string></dict>
+<dict>
+<key>identifier</key><string>b817168b-d89c-4922-ad39-44a3cdc5f493</string><key>stan_name</key><string>横塘村</string><key>multi_info</key><string> </string><key>x</key><string>84356.1953</string><key>y</key><string>89412.1562</string></dict>
+<dict>
+<key>identifier</key><string>1bfc374b-6fb5-43e2-9a36-df831b26ccd1</string><key>stan_name</key><string>横塘村</string><key>multi_info</key><string> </string><key>x</key><string>84356.1953</string><key>y</key><string>89412.1562</string></dict>
+<dict>
+<key>identifier</key><string>77c92968-3820-4edc-a0a1-f8273a606a85</string><key>stan_name</key><string>天堂园社区</string><key>multi_info</key><string> </string><key>x</key><string>82998.2963</string><key>y</key><string>89433.7468</string></dict>
+<dict>
+<key>identifier</key><string>36d1d229-b46d-46a2-96a6-c20e5b6de009</string><key>stan_name</key><string>蚕花园社区</string><key>multi_info</key><string> </string><key>x</key><string>77737.2891</string><key>y</key><string>89442.6172</string></dict>
+<dict>
+<key>identifier</key><string>3402bf66-5564-420e-8672-5887c1f42846</string><key>stan_name</key><string>宣家埠社区</string><key>multi_info</key><string> </string><key>x</key><string>88565.4063</string><key>y</key><string>89453.4063</string></dict>
+<dict>
+<key>identifier</key><string>32cfad2b-a0fa-40fb-bb3a-69ba122f08b7</string><key>stan_name</key><string>厚诚桥社区</string><key>multi_info</key><string> </string><key>x</key><string>72039.8533</string><key>y</key><string>89458.5044</string></dict>
+<dict>
+<key>identifier</key><string>b3fba256-78d9-4de4-83f1-4cd7dd28d7a9</string><key>stan_name</key><string>黄家村</string><key>multi_info</key><string> </string><key>x</key><string>87075.2578</string><key>y</key><string>88517.9062</string></dict>
+<dict>
+<key>identifier</key><string>553f0d77-2d10-4550-95c8-b3edcd9b2489</string><key>stan_name</key><string>新星社区</string><key>multi_info</key><string> </string><key>x</key><string>72403.9531</string><key>y</key><string>88771.1719</string></dict>
+<dict>
+<key>identifier</key><string>906caf1a-ff84-46f4-9236-1ecaa20b363e</string><key>stan_name</key><string>祥符社区</string><key>multi_info</key><string> </string><key>x</key><string>74466.9609</string><key>y</key><string>89283.0859</string></dict>
+<dict>
+<key>identifier</key><string>0ba39528-7203-4bd5-94e8-9bfeaa1b5b0c</string><key>stan_name</key><string>南肖埠社区</string><key>multi_info</key><string> </string><key>x</key><string>83130.3359</string><key>y</key><string>82027.7812</string></dict>
+<dict>
+<key>identifier</key><string>b514d3cb-9278-48e7-b46e-140a7c1c68b7</string><key>stan_name</key><string>知足弄社区</string><key>multi_info</key><string> </string><key>x</key><string>81595.9609</string><key>y</key><string>82074.5078</string></dict>
+<dict>
+<key>identifier</key><string>4f0c6b80-af5f-44a5-b45f-c80929bc6356</string><key>stan_name</key><string>柳营社区</string><key>multi_info</key><string> </string><key>x</key><string>80838.0313</string><key>y</key><string>82084.1953</string></dict>
+<dict>
+<key>identifier</key><string>d6b647b6-54ee-40b9-84c9-4a7f778c558f</string><key>stan_name</key><string>金兰池社区</string><key>multi_info</key><string> </string><key>x</key><string>82591.4844</string><key>y</key><string>82015</string></dict>
+<dict>
+<key>identifier</key><string>927157b5-c467-474a-8c2d-d905e64174d8</string><key>stan_name</key><string>凤麟社区</string><key>multi_info</key><string> </string><key>x</key><string>79927.5391</string><key>y</key><string>82104.4219</string></dict>
+<dict>
+<key>identifier</key><string>e0dcb23e-28a3-41fc-9d3e-73380caa166c</string><key>stan_name</key><string>周家村社区</string><key>multi_info</key><string> </string><key>x</key><string>69803.0547</string><key>y</key><string>82118.8125</string></dict>
+<dict>
+<key>identifier</key><string>90901647-0979-4f22-a678-bd2b0f1b1d9a</string><key>stan_name</key><string>王马社区</string><key>multi_info</key><string> </string><key>x</key><string>81139.75</string><key>y</key><string>82119.2734</string></dict>
+<dict>
+<key>identifier</key><string>588bf225-ca53-4067-87e8-1a5c1f7e84f2</string><key>stan_name</key><string>小天竺社区</string><key>multi_info</key><string> </string><key>x</key><string>81852.5703</string><key>y</key><string>82121.4609</string></dict>
+<dict>
+<key>identifier</key><string>3aec647c-c012-42a6-840d-fff8ce923a0e</string><key>stan_name</key><string>浙大求是社区</string><key>multi_info</key><string> </string><key>x</key><string>76478.3259</string><key>y</key><string>82163.5971</string></dict>
+<dict>
+<key>identifier</key><string>490e0d95-0527-496f-bd28-fc92777255c6</string><key>stan_name</key><string>中北社区</string><key>multi_info</key><string> </string><key>x</key><string>80183.3438</string><key>y</key><string>82194.7734</string></dict>
+<dict>
+<key>identifier</key><string>c49d68e6-e711-4c26-b01d-199605634a35</string><key>stan_name</key><string>王家桥社区</string><key>multi_info</key><string> </string><key>x</key><string>71074.5469</string><key>y</key><string>82221.1953</string></dict>
+<dict>
+<key>identifier</key><string>280328d0-2a85-47f2-9370-c3644964c2ab</string><key>stan_name</key><string>金秋花园社区</string><key>multi_info</key><string> </string><key>x</key><string>82765.8516</string><key>y</key><string>82306.2578</string></dict>
+<dict>
+<key>identifier</key><string>3e896bb2-5d67-4612-90ab-2b4b4fe8fe16</string><key>stan_name</key><string>五福社区</string><key>multi_info</key><string> </string><key>x</key><string>84514.6484</string><key>y</key><string>82323.8281</string></dict>
+<dict>
+<key>identifier</key><string>ab968152-bbbe-4959-8457-4a2962e38747</string><key>stan_name</key><string>东河社区</string><key>multi_info</key><string> </string><key>x</key><string>81434.2109</string><key>y</key><string>82339.8828</string></dict>
+<dict>
+<key>identifier</key><string>3cf5632d-f8d5-4928-88d4-882c733e6ccc</string><key>stan_name</key><string>安吉社区</string><key>multi_info</key><string> </string><key>x</key><string>79345.7031</string><key>y</key><string>82350.4141</string></dict>
+<dict>
+<key>identifier</key><string>18d09997-ba9b-4ebb-9e91-924af1bc9b0e</string><key>stan_name</key><string>三堡社区</string><key>multi_info</key><string> </string><key>x</key><string>85991.6172</string><key>y</key><string>82353.2969</string></dict>
+<dict>
+<key>identifier</key><string>a01c9dae-f7df-486a-b708-776b5293437e</string><key>stan_name</key><string>灯芯巷社区</string><key>multi_info</key><string> </string><key>x</key><string>79692.9844</string><key>y</key><string>82374.1328</string></dict>
+<dict>
+<key>identifier</key><string>9c233830-d2a0-40fe-9889-e92eeb2df37c</string><key>stan_name</key><string>古墩社区</string><key>multi_info</key><string> </string><key>x</key><string>74595.4375</string><key>y</key><string>82382.5938</string></dict>
+<dict>
+<key>identifier</key><string>10e9b4c3-6265-46b9-84e5-56828da83f23</string><key>stan_name</key><string>金秋花园社区</string><key>multi_info</key><string> </string><key>x</key><string>83231.0625</string><key>y</key><string>82387.9766</string></dict>
+<dict>
+<key>identifier</key><string>4e3513dc-cc9b-4669-aee4-1feca252305d</string><key>stan_name</key><string>上保社区</string><key>multi_info</key><string> </string><key>x</key><string>78840.4453</string><key>y</key><string>82401.4297</string></dict>
+<dict>
+<key>identifier</key><string>bfb4f072-4087-466a-9318-da67ede0cab0</string><key>stan_name</key><string>浙大求是社区</string><key>multi_info</key><string> </string><key>x</key><string>75815.3281</string><key>y</key><string>82414.0234</string></dict>
+<dict>
+<key>identifier</key><string>f825c368-1d96-4f52-8534-a4de71ca7673</string><key>stan_name</key><string>皇亲苑社区</string><key>multi_info</key><string> </string><key>x</key><string>80040.0625</string><key>y</key><string>82452.5313</string></dict>
+<dict>
+<key>identifier</key><string>2611d09f-ff4f-45e1-8be7-caa9bfcc93a4</string><key>stan_name</key><string>府苑社区</string><key>multi_info</key><string> </string><key>x</key><string>73067.3906</string><key>y</key><string>82486.4687</string></dict>
+<dict>
+<key>identifier</key><string>521f23a3-76e1-4492-8de0-20847bc94e69</string><key>stan_name</key><string>所巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81600.6875</string><key>y</key><string>82524.7266</string></dict>
+<dict>
+<key>identifier</key><string>ba2eb6a6-d646-488b-a3b4-5a3551c6c0a7</string><key>stan_name</key><string>十五家园社区</string><key>multi_info</key><string> </string><key>x</key><string>80819.0078</string><key>y</key><string>82528.8125</string></dict>
+<dict>
+<key>identifier</key><string>7f9fa865-5ccb-4d03-b719-5b5eda8a51c9</string><key>stan_name</key><string>景秀社区</string><key>multi_info</key><string> </string><key>x</key><string>83595.8359</string><key>y</key><string>82595.7344</string></dict>
+<dict>
+<key>identifier</key><string>4db92ea7-8249-425f-82b6-1d126092db45</string><key>stan_name</key><string>友谊社区</string><key>multi_info</key><string> </string><key>x</key><string>77842.6563</string><key>y</key><string>82651.2422</string></dict>
+<dict>
+<key>identifier</key><string>a58758c0-561a-4977-9eae-922dbe012718</string><key>stan_name</key><string>吴山路社区</string><key>multi_info</key><string> </string><key>x</key><string>80049.3125</string><key>y</key><string>80986.8047</string></dict>
+<dict>
+<key>identifier</key><string>f0795821-93e9-4f57-a727-3ecc154c84e8</string><key>stan_name</key><string>葵巷社区</string><key>multi_info</key><string> </string><key>x</key><string>81421.3906</string><key>y</key><string>81128.7109</string></dict>
+<dict>
+<key>identifier</key><string>b52afb82-86a6-44cb-ad3e-43ba0bc5f37c</string><key>stan_name</key><string>东山弄社区</string><key>multi_info</key><string> </string><key>x</key><string>76308.6641</string><key>y</key><string>81463.3828</string></dict>
+<dict>
+<key>identifier</key><string>813f7787-8057-48b0-aa67-139621229dc3</string><key>stan_name</key><string>宝石社区</string><key>multi_info</key><string> </string><key>x</key><string>78008.3828</string><key>y</key><string>82149.7187</string></dict>
+<dict>
+<key>identifier</key><string>931fc0fb-bdc2-439a-bb83-29fea48f497e</string><key>stan_name</key><string>仓桥社区</string><key>multi_info</key><string> </string><key>x</key><string>80363.5547</string><key>y</key><string>82661.3281</string></dict>
+<dict>
+<key>identifier</key><string>ce7a502f-e09d-4587-9cff-3d460975696d</string><key>stan_name</key><string>黄龙社区</string><key>multi_info</key><string> </string><key>x</key><string>77093.8125</string><key>y</key><string>82682.3906</string></dict>
+<dict>
+<key>identifier</key><string>325aae35-0a88-463f-af4c-2cf4d5d4d3a3</string><key>stan_name</key><string>刀茅巷社区</string><key>multi_info</key><string> </string><key>x</key><string>82078.6406</string><key>y</key><string>81986.5391</string></dict>
+<dict>
+<key>identifier</key><string>3fc2b00b-ef28-470a-b357-8982eedef386</string><key>stan_name</key><string>延安新村社区</string><key>multi_info</key><string> </string><key>x</key><string>80022.3984</string><key>y</key><string>82753.8750</string></dict>
+<dict>
+<key>identifier</key><string>3f7988b6-4dcd-4f01-a33d-3c6dd2728267</string><key>stan_name</key><string>戒坛寺巷社区</string><key>multi_info</key><string> </string><key>x</key><string>79606.6016</string><key>y</key><string>82756.0156</string></dict>
+<dict>
+<key>identifier</key><string>f1f91d74-384e-43c8-a9cd-66a147fa68cb</string><key>stan_name</key><string>包建社区</string><key>multi_info</key><string> </string><key>x</key><string>72254.4922</string><key>y</key><string>82784.6563</string></dict>
+<dict>
+<key>identifier</key><string>3623b589-bcdf-4208-b416-3de31ec7d2d0</string><key>stan_name</key><string>景昙社区</string><key>multi_info</key><string> </string><key>x</key><string>83546.3047</string><key>y</key><string>82809.7656</string></dict>
+<dict>
+<key>identifier</key><string>3de4f56a-8bc9-4b64-aadb-2881a654fd59</string><key>stan_name</key><string>艮园社区</string><key>multi_info</key><string> </string><key>x</key><string>81861.8281</string><key>y</key><string>82815.5313</string></dict>
+<dict>
+<key>identifier</key><string>e77f971e-a9f5-4025-916d-ea389984aaa0</string><key>stan_name</key><string>景湖社区</string><key>multi_info</key><string> </string><key>x</key><string>84316.4687</string><key>y</key><string>82823.5156</string></dict>
+</array>
+</plist>

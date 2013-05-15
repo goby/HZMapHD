@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>45648ce0-ac53-416c-b75a-16a085b8d5f5</string><key>stan_name</key><string>杭州市排水设施养护所绍兴路泵站</string><key>multi_info</key><string> </string><key>x</key><string>80210.3848</string><key>y</key><string>86200.0941</string></dict>
+<dict>
+<key>identifier</key><string>3d2bfefd-9d5f-4588-adae-6e6d1f2a9c54</string><key>stan_name</key><string>弄口村污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>83220.1915</string><key>y</key><string>86783.7709</string></dict>
+<dict>
+<key>identifier</key><string>84ed9f92-03cf-49cc-bb4f-0d6cb9e6fc46</string><key>stan_name</key><string>河A15上泵站</string><key>multi_info</key><string> </string><key>x</key><string>81662.5859</string><key>y</key><string>84007.1406</string></dict>
+<dict>
+<key>identifier</key><string>187c5b4b-ccd5-4274-a9c3-eea4f7ff8872</string><key>stan_name</key><string>申花路泵站</string><key>multi_info</key><string> </string><key>x</key><string>73026.3936</string><key>y</key><string>86927.4106</string></dict>
+<dict>
+<key>identifier</key><string>3c05f020-0388-4560-948f-16376d4ae422</string><key>stan_name</key><string>蒋堰坝排涝站</string><key>multi_info</key><string> </string><key>x</key><string>61804.7260</string><key>y</key><string>85044.6370</string></dict>
+<dict>
+<key>identifier</key><string>8a65064c-5f89-45b6-a4c6-8f1acbb95206</string><key>stan_name</key><string>石灰桥泵站</string><key>multi_info</key><string> </string><key>x</key><string>78087.4609</string><key>y</key><string>85078.2449</string></dict>
+<dict>
+<key>identifier</key><string>f6b058c0-04d6-4d6f-99db-d774183d2979</string><key>stan_name</key><string>泵站</string><key>multi_info</key><string> </string><key>x</key><string>82700.4922</string><key>y</key><string>84232.5703</string></dict>
+<dict>
+<key>identifier</key><string>1ad9c11f-fea9-41ed-803b-373bc5bf65ee</string><key>stan_name</key><string>杭州萧山污水处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116548.7290</string><key>y</key><string>85189</string></dict>
+<dict>
+<key>identifier</key><string>19b16cf9-3f06-4252-97a8-ac68d9f4f74b</string><key>stan_name</key><string>杭州市七格污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>94180.1254</string><key>y</key><string>85487.7517</string></dict>
+<dict>
+<key>identifier</key><string>e3bf3ae1-0f1a-41cf-a13d-defb45bac092</string><key>stan_name</key><string>排水站</string><key>multi_info</key><string> </string><key>x</key><string>80702.1562</string><key>y</key><string>84594.7578</string></dict>
+<dict>
+<key>identifier</key><string>09031b88-f3c6-4ba6-b8a7-21a869ff4ff2</string><key>stan_name</key><string>磁带厂泵站</string><key>multi_info</key><string> </string><key>x</key><string>70525.9364</string><key>y</key><string>81370.3113</string></dict>
+<dict>
+<key>identifier</key><string>e286225e-93e0-40ef-9ac1-69d730c8b8f2</string><key>stan_name</key><string>水泵厂</string><key>multi_info</key><string> </string><key>x</key><string>82267.9453</string><key>y</key><string>80345.9688</string></dict>
+<dict>
+<key>identifier</key><string>246834d8-6306-400d-9010-651aab20aaa9</string><key>stan_name</key><string>洪春桥泵站</string><key>multi_info</key><string> </string><key>x</key><string>76063.4844</string><key>y</key><string>80468.8516</string></dict>
+<dict>
+<key>identifier</key><string>688d58fe-bb5e-42af-a9bc-9d086d8eab15</string><key>stan_name</key><string>杭州四堡污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>86207.64</string><key>y</key><string>82496.8430</string></dict>
+<dict>
+<key>identifier</key><string>db7abbc0-5a3c-41e0-8439-ef8cf75aeca2</string><key>stan_name</key><string>自来水公司下沙南部泵站</string><key>multi_info</key><string> </string><key>x</key><string>97323.3695</string><key>y</key><string>83556.5775</string></dict>
+<dict>
+<key>identifier</key><string>6e34a56b-a835-4f89-8b00-a61cbb9acb2c</string><key>stan_name</key><string>污水提升泵站</string><key>multi_info</key><string> </string><key>x</key><string>76279.7344</string><key>y</key><string>80543.0391</string></dict>
+<dict>
+<key>identifier</key><string>5e796429-690e-43bd-a099-6cf851e28010</string><key>stan_name</key><string>江干区三堡排灌站</string><key>multi_info</key><string> </string><key>x</key><string>85672.0370</string><key>y</key><string>82604.4320</string></dict>
+<dict>
+<key>identifier</key><string>bb91bd96-6bcf-4857-87c3-170878dac2d9</string><key>stan_name</key><string>杭州市排水设施养护所乌龙泵站</string><key>multi_info</key><string> </string><key>x</key><string>83549.5106</string><key>y</key><string>80974.3488</string></dict>
+<dict>
+<key>identifier</key><string>9e4e92a6-da1c-4fb0-b01e-7df447b57ecf</string><key>stan_name</key><string>杭州市排水设施养护所松岳泵站</string><key>multi_info</key><string> </string><key>x</key><string>76628.3047</string><key>y</key><string>80983.8281</string></dict>
+<dict>
+<key>identifier</key><string>0ac302cc-076c-429d-923f-a07c438f298c</string><key>stan_name</key><string>杭州市自来水公司灵隐泵站</string><key>multi_info</key><string> </string><key>x</key><string>74286.4375</string><key>y</key><string>79901.1328</string></dict>
+<dict>
+<key>identifier</key><string>f0a567fd-f7c7-4e65-8393-c77fc00e481d</string><key>stan_name</key><string>万安水泵站</string><key>multi_info</key><string> </string><key>x</key><string>81433.8438</string><key>y</key><string>81010.0313</string></dict>
+<dict>
+<key>identifier</key><string>73fbac60-e787-443c-a3f4-a1bca6676dfc</string><key>stan_name</key><string>华家桥泵站</string><key>multi_info</key><string> </string><key>x</key><string>82975.7578</string><key>y</key><string>79976.8906</string></dict>
+<dict>
+<key>identifier</key><string>42741831-7684-42c8-ba8a-f7e645ef7ec1</string><key>stan_name</key><string>杭州市排水总公司</string><key>multi_info</key><string> </string><key>x</key><string>79363.9844</string><key>y</key><string>83312.0313</string></dict>
+<dict>
+<key>identifier</key><string>013e2a1c-bd05-4dd0-aaae-877bf275a2a4</string><key>stan_name</key><string>杭州司迈特水处理工程有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98914.0478</string><key>y</key><string>83363.3178</string></dict>
+<dict>
+<key>identifier</key><string>936d721a-a268-4c23-ade4-ebee58416791</string><key>stan_name</key><string>杭州余杭塘栖排水分公司</string><key>multi_info</key><string> </string><key>x</key><string>84068.49</string><key>y</key><string>106880.7821</string></dict>
+<dict>
+<key>identifier</key><string>706d6649-6e7d-420d-86c4-cdb91f74464a</string><key>stan_name</key><string>余杭区黄湖镇污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>46577.6720</string><key>y</key><string>101147.8280</string></dict>
+<dict>
+<key>identifier</key><string>1728d7f7-0d8b-4da6-86a4-7aadaa23c7f6</string><key>stan_name</key><string>西杨污水处理站</string><key>multi_info</key><string> </string><key>x</key><string>76703.1172</string><key>y</key><string>93962.9219</string></dict>
+<dict>
+<key>identifier</key><string>b0b37fe9-8fea-42ee-8374-318a72c559d4</string><key>stan_name</key><string>杭州兴龙泵业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>63415.7240</string><key>y</key><string>94345.8820</string></dict>
+<dict>
+<key>identifier</key><string>b2027fcf-b803-48f0-8606-e5035086ce45</string><key>stan_name</key><string>四工段闸</string><key>multi_info</key><string> </string><key>x</key><string>106566.9140</string><key>y</key><string>92057.2510</string></dict>
+<dict>
+<key>identifier</key><string>92215522-fd79-43c5-b279-81993c4edc00</string><key>stan_name</key><string>丁桥排涝站</string><key>multi_info</key><string> </string><key>x</key><string>86482.9737</string><key>y</key><string>94480.0506</string></dict>
+<dict>
+<key>identifier</key><string>08c78fe1-952d-4784-8dbb-4822fc6452a2</string><key>stan_name</key><string>钱塘江排灌总站</string><key>multi_info</key><string> </string><key>x</key><string>112859.8440</string><key>y</key><string>95148.6670</string></dict>
+<dict>
+<key>identifier</key><string>19779c8c-0279-444e-b1eb-f8662263bd02</string><key>stan_name</key><string>横山二级翻水站</string><key>multi_info</key><string> </string><key>x</key><string>87804.4690</string><key>y</key><string>99520.0260</string></dict>
+<dict>
+<key>identifier</key><string>e2758487-7d0c-4994-ac16-f75e7ddf85f8</string><key>stan_name</key><string>余杭市水泵厂</string><key>multi_info</key><string> </string><key>x</key><string>82206.2980</string><key>y</key><string>104023.90</string></dict>
+<dict>
+<key>identifier</key><string>b65f2a0a-3180-4966-825b-3bc507735f3f</string><key>stan_name</key><string>杭州余杭水务有限公司良渚排水分公司</string><key>multi_info</key><string> </string><key>x</key><string>70262.1180</string><key>y</key><string>95541.2890</string></dict>
+<dict>
+<key>identifier</key><string>2530ba83-5c48-496d-a926-a3d2ef5d4ff3</string><key>stan_name</key><string>康家润排涝站</string><key>multi_info</key><string> </string><key>x</key><string>70650.5330</string><key>y</key><string>99812.5811</string></dict>
+<dict>
+<key>identifier</key><string>4afb91ef-22cf-42b9-8fea-4b1df6d757e2</string><key>stan_name</key><string>排水公司</string><key>multi_info</key><string> </string><key>x</key><string>83639.3660</string><key>y</key><string>105847.8831</string></dict>
+<dict>
+<key>identifier</key><string>ed68e82f-b243-4845-826d-968a2b6c4506</string><key>stan_name</key><string>排水总公司泵站分公司</string><key>multi_info</key><string> </string><key>x</key><string>86050.1149</string><key>y</key><string>91581.3992</string></dict>
+<dict>
+<key>identifier</key><string>9dd8dbef-79f7-45d8-88c1-799c02c065d4</string><key>stan_name</key><string>北景苑泵站</string><key>multi_info</key><string> </string><key>x</key><string>81599.2799</string><key>y</key><string>90661.0750</string></dict>
+<dict>
+<key>identifier</key><string>98e15c16-6f33-4cf3-b3be-cf7f20030e61</string><key>stan_name</key><string>杭州通顺五金装饰材料厂</string><key>multi_info</key><string> </string><key>x</key><string>95486.6255</string><key>y</key><string>87201.7466</string></dict>
+<dict>
+<key>identifier</key><string>feb24bc3-89e9-4ea2-b71a-11af8dea8d47</string><key>stan_name</key><string>钱江染化污水处理站</string><key>multi_info</key><string> </string><key>x</key><string>109627.4189</string><key>y</key><string>90650.4220</string></dict>
+<dict>
+<key>identifier</key><string>c04333d0-7b7c-411b-bb47-855d23aa4b30</string><key>stan_name</key><string>和睦泵站</string><key>multi_info</key><string> </string><key>x</key><string>75973.2034</string><key>y</key><string>87248.9570</string></dict>
+<dict>
+<key>identifier</key><string>e933d0db-b254-4be8-b3a6-fcc98f15d343</string><key>stan_name</key><string>西湖科技园泵站</string><key>multi_info</key><string> </string><key>x</key><string>71033.7167</string><key>y</key><string>87284.4168</string></dict>
+<dict>
+<key>identifier</key><string>c13cbcc7-9a2c-4fd3-8290-3db03e60b47f</string><key>stan_name</key><string>杭州中洲潜水泵厂</string><key>multi_info</key><string> </string><key>x</key><string>84117.5788</string><key>y</key><string>89325.3579</string></dict>
+<dict>
+<key>identifier</key><string>36461b3a-1ec5-4e0d-8fa6-3c5ca72c04f7</string><key>stan_name</key><string>钱塘江涵闸管理所</string><key>multi_info</key><string> </string><key>x</key><string>112961.4080</string><key>y</key><string>87388.4719</string></dict>
+<dict>
+<key>identifier</key><string>c992235f-9d58-41e0-96b5-bc9949e4caad</string><key>stan_name</key><string>杭州西子泵业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86015.7234</string><key>y</key><string>90960.0422</string></dict>
+<dict>
+<key>identifier</key><string>93e71477-46b5-4fcd-8115-6069675b9dd0</string><key>stan_name</key><string>杭州湖滨水泵总厂</string><key>multi_info</key><string> </string><key>x</key><string>62739.6270</string><key>y</key><string>91037.0740</string></dict>
+<dict>
+<key>identifier</key><string>cf1e7a4c-66e5-4bab-9711-d68a04aa44fa</string><key>stan_name</key><string>方家塘泵站</string><key>multi_info</key><string> </string><key>x</key><string>75429.9609</string><key>y</key><string>87506.1580</string></dict>
+<dict>
+<key>identifier</key><string>e01f516b-60f3-428d-895b-f8bfc73f5fb2</string><key>stan_name</key><string>石祥路泵站</string><key>multi_info</key><string> </string><key>x</key><string>82086.7676</string><key>y</key><string>89526.7578</string></dict>
+<dict>
+<key>identifier</key><string>11f0ab5c-32cc-4467-b498-154915e7b737</string><key>stan_name</key><string>张家桥排灌站</string><key>multi_info</key><string> </string><key>x</key><string>93509.1780</string><key>y</key><string>54571.0911</string></dict>
+<dict>
+<key>identifier</key><string>ea11c4b6-b8de-4230-b283-9a6423856e14</string><key>stan_name</key><string>戴村镇生活污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>82414.3370</string><key>y</key><string>55183.6530</string></dict>
+<dict>
+<key>identifier</key><string>e03f74c9-cac6-4433-850a-9090e2e6ba0b</string><key>stan_name</key><string>杭州高新（滨江）水务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86460.1016</string><key>y</key><string>73767.8203</string></dict>
+<dict>
+<key>identifier</key><string>4c6e8a54-808a-4a49-90b6-af4ac2637a84</string><key>stan_name</key><string>杭州萧山航民污水处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>107330.1477</string><key>y</key><string>73826.0920</string></dict>
+<dict>
+<key>identifier</key><string>19c0d8d3-88b9-47d3-8da0-9184ec66c1c8</string><key>stan_name</key><string>排水管理处</string><key>multi_info</key><string> </string><key>x</key><string>85551.2620</string><key>y</key><string>68517.1020</string></dict>
+<dict>
+<key>identifier</key><string>9b2a8c30-e9da-4ba9-b41d-b975e4ce4773</string><key>stan_name</key><string>乔司泵站</string><key>multi_info</key><string> </string><key>x</key><string>94222.0722</string><key>y</key><string>91211.4103</string></dict>
+<dict>
+<key>identifier</key><string>64618a59-d1ad-4f6e-b237-892859496990</string><key>stan_name</key><string>杭州萧山污水处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88353.4770</string><key>y</key><string>68193.6180</string></dict>
+<dict>
+<key>identifier</key><string>491f4806-7548-4e85-9dae-fa5d30cd8c3a</string><key>stan_name</key><string>周浦排灌站</string><key>multi_info</key><string> </string><key>x</key><string>73231.4745</string><key>y</key><string>62082.9147</string></dict>
+<dict>
+<key>identifier</key><string>d3a66178-1e5a-46e5-8055-a5205c8bba2a</string><key>stan_name</key><string>浇灌站</string><key>multi_info</key><string> </string><key>x</key><string>81139.2371</string><key>y</key><string>62218.5840</string></dict>
+<dict>
+<key>identifier</key><string>86ba2da1-30e7-4c24-9210-13955ca6d003</string><key>stan_name</key><string>杭州奇顺制动泵有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88936.2430</string><key>y</key><string>57337.1140</string></dict>
+<dict>
+<key>identifier</key><string>55e7b705-f5b4-44cf-aeba-08ed582fc0ac</string><key>stan_name</key><string>小砾山排灌站</string><key>multi_info</key><string> </string><key>x</key><string>82143.0240</string><key>y</key><string>64755.6189</string></dict>
+<dict>
+<key>identifier</key><string>bd77a70d-c0b0-48ce-85e7-8f43a4998cf5</string><key>stan_name</key><string>杭州萧山海通水泵制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>108000.4853</string><key>y</key><string>74137.14</string></dict>
+<dict>
+<key>identifier</key><string>99736948-0189-4a40-b59b-e50845f34c81</string><key>stan_name</key><string>杭州市萧山区排水管理处排水监测站</string><key>multi_info</key><string> </string><key>x</key><string>91734.1590</string><key>y</key><string>74270.8599</string></dict>
+<dict>
+<key>identifier</key><string>d8f3d9ad-538a-44c1-a0e8-2f61cd785906</string><key>stan_name</key><string>闻堰蓄水站</string><key>multi_info</key><string> </string><key>x</key><string>81768.5420</string><key>y</key><string>67144.6530</string></dict>
+<dict>
+<key>identifier</key><string>714b2514-375c-46a3-9423-a93a4c6d0390</string><key>stan_name</key><string>杭州市西湖区排灌站赤通浦排涝分站</string><key>multi_info</key><string> </string><key>x</key><string>75868.4845</string><key>y</key><string>69109.4933</string></dict>
+<dict>
+<key>identifier</key><string>2b9bb10d-ae3f-4f54-8bef-2cba83a3ba1f</string><key>stan_name</key><string>九堡污水泵站</string><key>multi_info</key><string> </string><key>x</key><string>90981.0560</string><key>y</key><string>86616.9750</string></dict>
+<dict>
+<key>identifier</key><string>9e551c1e-03b4-4a31-a564-79c0b9110732</string><key>stan_name</key><string>杭州市政排水公司</string><key>multi_info</key><string> </string><key>x</key><string>75140.1412</string><key>y</key><string>73272.6547</string></dict>
+<dict>
+<key>identifier</key><string>44c6130e-700f-46bd-96da-415e15f3a8c6</string><key>stan_name</key><string>林水局泵房</string><key>multi_info</key><string> </string><key>x</key><string>77808.5547</string><key>y</key><string>73944.8516</string></dict>
+<dict>
+<key>identifier</key><string>b812245c-14f4-4bcb-865f-d979a1c0ab9a</string><key>stan_name</key><string>杭州市河道养护所双向泵站</string><key>multi_info</key><string> </string><key>x</key><string>78174.6719</string><key>y</key><string>75204.5391</string></dict>
+<dict>
+<key>identifier</key><string>e33b591a-3939-4b2b-87ce-1a73e5adb639</string><key>stan_name</key><string>杭州自来水公司白塔岭泵站</string><key>multi_info</key><string> </string><key>x</key><string>77358.7266</string><key>y</key><string>75209.5391</string></dict>
+<dict>
+<key>identifier</key><string>34b310e3-ceec-4c07-87b0-ec3564c50d79</string><key>stan_name</key><string>西湖引水泵房</string><key>multi_info</key><string> </string><key>x</key><string>78487.6719</string><key>y</key><string>75268.6797</string></dict>
+<dict>
+<key>identifier</key><string>f8843453-a849-4362-8828-1996078c8cdd</string><key>stan_name</key><string>西湖引水清污处理工程</string><key>multi_info</key><string> </string><key>x</key><string>78163.0391</string><key>y</key><string>75926.8516</string></dict>
+<dict>
+<key>identifier</key><string>50051c1f-dcf6-4b6f-be2c-3311caebd1e9</string><key>stan_name</key><string>荣盛化纤污水处理站</string><key>multi_info</key><string> </string><key>x</key><string>121095.9880</string><key>y</key><string>75487.7510</string></dict>
+<dict>
+<key>identifier</key><string>7206b128-cf07-4bfc-9c7f-83728955c5f1</string><key>stan_name</key><string>杭州市排水总公司复兴泵站</string><key>multi_info</key><string> </string><key>x</key><string>81482.8790</string><key>y</key><string>77293.4970</string></dict>
+<dict>
+<key>identifier</key><string>60f7252c-3184-4cb1-8820-789a050dbd69</string><key>stan_name</key><string>排涝站</string><key>multi_info</key><string> </string><key>x</key><string>85001.2813</string><key>y</key><string>77559.8359</string></dict>
+<dict>
+<key>identifier</key><string>a2f6593e-20eb-4efa-b509-b1ac63584420</string><key>stan_name</key><string>小和山加压泵站</string><key>multi_info</key><string> </string><key>x</key><string>68812.4773</string><key>y</key><string>78430.3060</string></dict>
+<dict>
+<key>identifier</key><string>6c16e937-a799-436a-a45f-0a3e1a641dd8</string><key>stan_name</key><string>杭州党湾污水处理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>117654.9260</string><key>y</key><string>78463.6650</string></dict>
+<dict>
+<key>identifier</key><string>eb117232-589f-4606-b7cf-9bce03a16724</string><key>stan_name</key><string>和睦港泵站</string><key>multi_info</key><string> </string><key>x</key><string>90204.9390</string><key>y</key><string>87748.4640</string></dict>
+<dict>
+<key>identifier</key><string>3d1188b5-883a-448e-9b02-f35bc64725e8</string><key>stan_name</key><string>萧山区污水处理厂</string><key>multi_info</key><string> </string><key>x</key><string>95931.1254</string><key>y</key><string>78914.4820</string></dict>
+<dict>
+<key>identifier</key><string>880774db-8081-4f45-ba52-0375acdeb3ed</string><key>stan_name</key><string>杭州市排水设施养护所滨江泵站</string><key>multi_info</key><string> </string><key>x</key><string>83737.6406</string><key>y</key><string>79270.5235</string></dict>
+<dict>
+<key>identifier</key><string>0a48b2f7-d540-44ce-9232-b727e11e7657</string><key>stan_name</key><string>水泵房</string><key>multi_info</key><string> </string><key>x</key><string>68656.7969</string><key>y</key><string>79347.3281</string></dict>
+<dict>
+<key>identifier</key><string>e553daa3-cdeb-4ad9-9adb-3b4c1b053049</string><key>stan_name</key><string>自来开发公司</string><key>multi_info</key><string> </string><key>x</key><string>97115.8454</string><key>y</key><string>86154.0549</string></dict>
+</array>
+</plist>

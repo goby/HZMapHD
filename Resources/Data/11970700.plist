@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>a983cb39-c72c-4e0a-b413-749a8e6da33e</string><key>stan_name</key><string>浙江省残疾人职业技术学校</string><key>multi_info</key><string></string><key>x</key><string>83423.4990</string><key>y</key><string>84765.0910</string></dict>
+<dict>
+<key>identifier</key><string>1c8f3d7e-2553-4f01-b9dd-4fe5b0c6686b</string><key>stan_name</key><string>杭州市杨绫子学校</string><key>multi_info</key><string></string><key>x</key><string>81789.2140</string><key>y</key><string>77246.5510</string></dict>
+<dict>
+<key>identifier</key><string>15e5345b-55b4-4834-a636-908c17f96354</string><key>stan_name</key><string>杨绫子巷学校</string><key>multi_info</key><string></string><key>x</key><string>80926.4220</string><key>y</key><string>81092.2270</string></dict>
+<dict>
+<key>identifier</key><string>3e399def-dec3-4c2a-9138-8f29d7ffa063</string><key>stan_name</key><string>杭州市健康实验学校</string><key>multi_info</key><string></string><key>x</key><string>79480.1170</string><key>y</key><string>84692.0780</string></dict>
+<dict>
+<key>identifier</key><string>f5ade895-430f-4093-87d8-edbf1aef8420</string><key>stan_name</key><string>杭州拱墅区老年大学</string><key>multi_info</key><string></string><key>x</key><string>78306.7970</string><key>y</key><string>85627.2340</string></dict>
+<dict>
+<key>identifier</key><string>3adfbd05-43c3-4c46-9403-7753a1d9f20d</string><key>stan_name</key><string>聋哑学校</string><key>multi_info</key><string></string><key>x</key><string>82316.7340</string><key>y</key><string>80293.1880</string></dict>
+<dict>
+<key>identifier</key><string>9a08e7b1-289c-4f84-b57c-09e5e461f74f</string><key>stan_name</key><string>聋哑学校</string><key>multi_info</key><string></string><key>x</key><string>82311.4770</string><key>y</key><string>80333.0860</string></dict>
+<dict>
+<key>identifier</key><string>ece4d3fa-566b-4253-9721-453db4b85088</string><key>stan_name</key><string>聋哑学校</string><key>multi_info</key><string></string><key>x</key><string>82275.9840</string><key>y</key><string>80313.3590</string></dict>
+<dict>
+<key>identifier</key><string>ce08788a-066d-4f3f-ab81-3029ef19ca79</string><key>stan_name</key><string>杭州市湖墅学校</string><key>multi_info</key><string></string><key>x</key><string>77334.4140</string><key>y</key><string>85818.0160</string></dict>
+<dict>
+<key>identifier</key><string>da22b132-f115-4f73-beda-ee6fd7a7b4ba</string><key>stan_name</key><string>杭州国际学校</string><key>multi_info</key><string></string><key>x</key><string>77333.2190</string><key>y</key><string>72618.4060</string></dict>
+<dict>
+<key>identifier</key><string>0d926a42-030d-479e-a0f7-951626f9a3c9</string><key>stan_name</key><string>杭州聋人学校</string><key>multi_info</key><string></string><key>x</key><string>96013.88</string><key>y</key><string>90062.3650</string></dict>
+<dict>
+<key>identifier</key><string>9b898022-5120-4b06-942f-0ecc7f082db6</string><key>stan_name</key><string>杭州市紫荆花学校</string><key>multi_info</key><string></string><key>x</key><string>74189.6950</string><key>y</key><string>84493.3120</string></dict>
+<dict>
+<key>identifier</key><string>61b51c83-2808-444f-93d4-21e43374b70a</string><key>stan_name</key><string>杭州聋儿康复中心</string><key>multi_info</key><string></string><key>x</key><string>72664.1875</string><key>y</key><string>73472.5391</string></dict>
+<dict>
+<key>identifier</key><string>7910a41d-cd68-486e-b40c-f82b08956241</string><key>stan_name</key><string>余杭聋校</string><key>multi_info</key><string></string><key>x</key><string>92452.1996</string><key>y</key><string>100944.2729</string></dict>
+</array>
+</plist>

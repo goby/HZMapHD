@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>5e6ba38b-4eaf-4939-ab64-4c97c27ab900</string><key>stan_name</key><string>浙江省省级机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>78501.9456</string><key>y</key><string>82289.9531</string></dict>
+<dict>
+<key>identifier</key><string>889cc8a7-19ba-4d4a-852b-a63e08d71c71</string><key>stan_name</key><string>浙江省机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>78469.8906</string><key>y</key><string>82303.25</string></dict>
+<dict>
+<key>identifier</key><string>0f1b4cd9-0e29-4ec9-b550-d915b5ad3604</string><key>stan_name</key><string>浙江省人民代表大会常务委员会</string><key>multi_info</key><string> </string><key>x</key><string>78778.4128</string><key>y</key><string>82314.3564</string></dict>
+<dict>
+<key>identifier</key><string>af86be25-9f03-49c2-958e-ceefb1a7208a</string><key>stan_name</key><string>浙江省地震局</string><key>multi_info</key><string> </string><key>x</key><string>75851.2266</string><key>y</key><string>83370.5547</string></dict>
+<dict>
+<key>identifier</key><string>9c0f1fca-7769-4630-8277-7e37ce2a5412</string><key>stan_name</key><string>浙江省地震监测预报中心</string><key>multi_info</key><string> </string><key>x</key><string>75853.0722</string><key>y</key><string>83373.2847</string></dict>
+<dict>
+<key>identifier</key><string>1fb07160-793e-4580-bdf6-14a54a7b647b</string><key>stan_name</key><string>浙江省防震减灾工作领导小组办公室</string><key>multi_info</key><string> </string><key>x</key><string>75854.1378</string><key>y</key><string>83373.8191</string></dict>
+<dict>
+<key>identifier</key><string>ee7e1dc9-dc3a-4fed-a342-edacd98fec71</string><key>stan_name</key><string>浙江省灾难防御协会</string><key>multi_info</key><string> </string><key>x</key><string>75852.4633</string><key>y</key><string>83374.0133</string></dict>
+<dict>
+<key>identifier</key><string>51981252-31d7-41c0-97eb-b62a9b4e1183</string><key>stan_name</key><string>浙江省工商局</string><key>multi_info</key><string> </string><key>x</key><string>78908.1641</string><key>y</key><string>83397.0078</string></dict>
+<dict>
+<key>identifier</key><string>fc9d8be7-9ef8-427b-a4f2-a8cc24ce707a</string><key>stan_name</key><string>浙江省工商行政管理局</string><key>multi_info</key><string> </string><key>x</key><string>78915.4248</string><key>y</key><string>83407.7458</string></dict>
+<dict>
+<key>identifier</key><string>7e41618b-1575-4983-ab0f-be0a5c97d6b9</string><key>stan_name</key><string>浙江省企业证件办理中心</string><key>multi_info</key><string> </string><key>x</key><string>78933.7235</string><key>y</key><string>83409.2377</string></dict>
+<dict>
+<key>identifier</key><string>dec6dea8-83e2-412b-a52f-f29c3492998f</string><key>stan_name</key><string>浙江省公安厅用房</string><key>multi_info</key><string> </string><key>x</key><string>79558.4141</string><key>y</key><string>81363.0781</string></dict>
+<dict>
+<key>identifier</key><string>6e86ef9f-4f90-4987-b513-a08f4f10ec8e</string><key>stan_name</key><string>浙江省卫生监督所</string><key>multi_info</key><string> </string><key>x</key><string>81884.7344</string><key>y</key><string>81365.7031</string></dict>
+<dict>
+<key>identifier</key><string>16b21a9d-56f6-4334-b928-9efca3125626</string><key>stan_name</key><string>浙江省信访局</string><key>multi_info</key><string> </string><key>x</key><string>78649.1016</string><key>y</key><string>82326.7656</string></dict>
+<dict>
+<key>identifier</key><string>8202ae6b-67fc-48af-8919-f9233820c202</string><key>stan_name</key><string>浙江省对外贸易经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>79910.5884</string><key>y</key><string>82331.2839</string></dict>
+<dict>
+<key>identifier</key><string>8be09eeb-3e91-4dfc-b9c5-dcbbf8c7e69a</string><key>stan_name</key><string>浙江省总工会</string><key>multi_info</key><string> </string><key>x</key><string>78412.7891</string><key>y</key><string>82335.4531</string></dict>
+<dict>
+<key>identifier</key><string>7e378569-f040-4186-a559-3b9737cc69be</string><key>stan_name</key><string>中国共产党浙江省委浙江人民政府信访局</string><key>multi_info</key><string> </string><key>x</key><string>78649.2111</string><key>y</key><string>82337.9588</string></dict>
+<dict>
+<key>identifier</key><string>e5369657-4f7a-4593-97b2-80bbce424a94</string><key>stan_name</key><string>浙江省机关后勤经济发展中心</string><key>multi_info</key><string> </string><key>x</key><string>78520.0970</string><key>y</key><string>82364.9154</string></dict>
+<dict>
+<key>identifier</key><string>46dbb15a-59ee-4f89-83e2-11d90bbf6fd5</string><key>stan_name</key><string>浙江省对外贸易经济合作社办事大厅</string><key>multi_info</key><string> </string><key>x</key><string>79909.8508</string><key>y</key><string>82367.7984</string></dict>
+<dict>
+<key>identifier</key><string>f9cca133-f4ef-41e6-bf27-30b64de9dde1</string><key>stan_name</key><string>浙江省高级人民法院</string><key>multi_info</key><string> </string><key>x</key><string>78459</string><key>y</key><string>83418.5313</string></dict>
+<dict>
+<key>identifier</key><string>9cdbc071-6307-45c5-a66e-20a5e607aa5c</string><key>stan_name</key><string>浙江省高级人民法院司法警察总队</string><key>multi_info</key><string> </string><key>x</key><string>78471.9705</string><key>y</key><string>83425.0664</string></dict>
+<dict>
+<key>identifier</key><string>31064cc1-0e2a-4f8e-9ac9-86ca6cb17b1a</string><key>stan_name</key><string>浙江省文化厅</string><key>multi_info</key><string> </string><key>x</key><string>77772.2422</string><key>y</key><string>82355.3203</string></dict>
+<dict>
+<key>identifier</key><string>92be6ad7-2c94-40f4-800c-05ad9d635aa3</string><key>stan_name</key><string>浙江省对外贸易服务中心</string><key>multi_info</key><string> </string><key>x</key><string>79909.4854</string><key>y</key><string>82367.9580</string></dict>
+<dict>
+<key>identifier</key><string>5e1935be-d4b3-4eae-adbe-553f38eeb90b</string><key>stan_name</key><string>浙江省老教授协会</string><key>multi_info</key><string> </string><key>x</key><string>79110.4003</string><key>y</key><string>82410.3180</string></dict>
+<dict>
+<key>identifier</key><string>dedf95fc-11f6-4c1b-bd40-d15d93e51088</string><key>stan_name</key><string>浙江省档案局</string><key>multi_info</key><string> </string><key>x</key><string>78036.3109</string><key>y</key><string>82419.5058</string></dict>
+<dict>
+<key>identifier</key><string>2dbcc31f-dd42-4a23-abfe-f048d0c00d48</string><key>stan_name</key><string>浙江省发表改革委员会服务中心</string><key>multi_info</key><string> </string><key>x</key><string>76661.5137</string><key>y</key><string>83484.9799</string></dict>
+<dict>
+<key>identifier</key><string>5db564a0-a399-4f77-9c50-20c0030098ba</string><key>stan_name</key><string>省林业局</string><key>multi_info</key><string> </string><key>x</key><string>82578.8516</string><key>y</key><string>82435.8672</string></dict>
+<dict>
+<key>identifier</key><string>67da8b91-33c6-43a2-9df0-f936643586b0</string><key>stan_name</key><string>浙江省广播局</string><key>multi_info</key><string> </string><key>x</key><string>78639.5817</string><key>y</key><string>83536.6549</string></dict>
+<dict>
+<key>identifier</key><string>502e4a05-42c6-4e9a-9998-29a8e13b9e51</string><key>stan_name</key><string>浙江省邮票局</string><key>multi_info</key><string> </string><key>x</key><string>81645.25</string><key>y</key><string>80499.4531</string></dict>
+<dict>
+<key>identifier</key><string>ca84dcfd-ef0f-4ffc-bdad-04c297cb7f1d</string><key>stan_name</key><string>浙江保卫人员资质培训中心</string><key>multi_info</key><string> </string><key>x</key><string>70982.5445</string><key>y</key><string>81552.2696</string></dict>
+<dict>
+<key>identifier</key><string>9fadca94-4381-43a5-959a-3e4a6744ac8f</string><key>stan_name</key><string>浙江省土畜产进出口集团公司</string><key>multi_info</key><string> </string><key>x</key><string>80366.3886</string><key>y</key><string>82481.3739</string></dict>
+<dict>
+<key>identifier</key><string>de8fb771-8a06-44d5-a9fa-d06b25d088de</string><key>stan_name</key><string>浙江省司法厅</string><key>multi_info</key><string> </string><key>x</key><string>79013.2187</string><key>y</key><string>82497.0938</string></dict>
+<dict>
+<key>identifier</key><string>4ceca70a-40c2-48af-a1eb-3c7c6e1028ba</string><key>stan_name</key><string>中国共产主义青年团浙江省委员会</string><key>multi_info</key><string> </string><key>x</key><string>79299.0353</string><key>y</key><string>82504.6279</string></dict>
+<dict>
+<key>identifier</key><string>c406edd4-fc72-4924-948f-a06971143819</string><key>stan_name</key><string>中国少年先锋队浙江省工作委员会</string><key>multi_info</key><string> </string><key>x</key><string>79301.4711</string><key>y</key><string>82505.0113</string></dict>
+<dict>
+<key>identifier</key><string>7a41ad18-8f77-40c9-9b9b-ac819a627f51</string><key>stan_name</key><string>浙江省就业管理局</string><key>multi_info</key><string> </string><key>x</key><string>79576.3359</string><key>y</key><string>82513.2578</string></dict>
+<dict>
+<key>identifier</key><string>5c8de687-dc07-4ff8-89be-c8f447135f5d</string><key>stan_name</key><string>浙江省海事局</string><key>multi_info</key><string> </string><key>x</key><string>80610.5391</string><key>y</key><string>83559.5391</string></dict>
+<dict>
+<key>identifier</key><string>6d9ad873-94fc-4451-b296-fef4c175f4df</string><key>stan_name</key><string>浙江省地方税务局直属第一分局</string><key>multi_info</key><string> </string><key>x</key><string>77023.9623</string><key>y</key><string>82978.8646</string></dict>
+<dict>
+<key>identifier</key><string>1a866962-16f1-43c1-8acc-205b03bdc491</string><key>stan_name</key><string>浙江省烟草专卖局</string><key>multi_info</key><string> </string><key>x</key><string>80028.1875</string><key>y</key><string>80522.4453</string></dict>
+<dict>
+<key>identifier</key><string>00308af8-9043-493e-b206-056b0b0c2eee</string><key>stan_name</key><string>浙江省机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>79606.7891</string><key>y</key><string>82528.8047</string></dict>
+<dict>
+<key>identifier</key><string>9c70afd8-6dc2-45d2-b701-e856df2382f9</string><key>stan_name</key><string>浙江省劳动好社会保障厅职业介绍服务领导中心</string><key>multi_info</key><string> </string><key>x</key><string>80014.2375</string><key>y</key><string>82538.2323</string></dict>
+<dict>
+<key>identifier</key><string>e5bc7311-3fab-4206-a125-49542696122d</string><key>stan_name</key><string>中国邮电工会浙江省邮政委员会</string><key>multi_info</key><string> </string><key>x</key><string>80049.6475</string><key>y</key><string>82544.6188</string></dict>
+<dict>
+<key>identifier</key><string>6c14bd3c-cff2-429f-b771-dba000031357</string><key>stan_name</key><string>浙江省建筑管理局</string><key>multi_info</key><string> </string><key>x</key><string>80102.1992</string><key>y</key><string>82551.2805</string></dict>
+<dict>
+<key>identifier</key><string>12ca332b-c57a-4ae4-9665-b418fa47975e</string><key>stan_name</key><string>浙江省地方税务局</string><key>multi_info</key><string> </string><key>x</key><string>77023.9623</string><key>y</key><string>82980.3002</string></dict>
+<dict>
+<key>identifier</key><string>0c01ba38-14b3-47d9-bb56-1cb07c102624</string><key>stan_name</key><string>浙江省涉外税征收管理分局</string><key>multi_info</key><string> </string><key>x</key><string>77026.1232</string><key>y</key><string>82981.2673</string></dict>
+<dict>
+<key>identifier</key><string>3eb4bf44-aa75-4337-9a6b-a8fdad140bee</string><key>stan_name</key><string>浙江省体育局总会</string><key>multi_info</key><string> </string><key>x</key><string>80636.3097</string><key>y</key><string>82988.3485</string></dict>
+<dict>
+<key>identifier</key><string>4eb8775a-b76a-4705-b563-7e8ad6c065a3</string><key>stan_name</key><string>浙江省国土资源厅</string><key>multi_info</key><string> </string><key>x</key><string>77527.1644</string><key>y</key><string>83008.0372</string></dict>
+<dict>
+<key>identifier</key><string>e900b8c6-1bb9-4872-85c2-69e12deb0677</string><key>stan_name</key><string>浙江省国土资源厅</string><key>multi_info</key><string> </string><key>x</key><string>78813.2422</string><key>y</key><string>83026.3125</string></dict>
+<dict>
+<key>identifier</key><string>feb3fef3-f72c-4668-8abb-4a6eff301e90</string><key>stan_name</key><string>浙江省公安厅人民群众来信来访接待室</string><key>multi_info</key><string> </string><key>x</key><string>80852.9217</string><key>y</key><string>80603.7854</string></dict>
+<dict>
+<key>identifier</key><string>97064387-72af-444b-a44a-7d221f89e737</string><key>stan_name</key><string>浙江省卫生厅</string><key>multi_info</key><string> </string><key>x</key><string>80010.3984</string><key>y</key><string>81691.2656</string></dict>
+<dict>
+<key>identifier</key><string>cda7935c-4547-442b-b8de-091a7c9d7574</string><key>stan_name</key><string>浙江省人民政府侨务室</string><key>multi_info</key><string> </string><key>x</key><string>78762.0526</string><key>y</key><string>82124.6426</string></dict>
+<dict>
+<key>identifier</key><string>9575dc54-cee6-42eb-8316-31d80cf52fd7</string><key>stan_name</key><string>浙江省老龄工作委员会办公室</string><key>multi_info</key><string> </string><key>x</key><string>78746.0670</string><key>y</key><string>82133.6228</string></dict>
+<dict>
+<key>identifier</key><string>63ffdf15-01fb-4e5b-bd07-ec8b81830997</string><key>stan_name</key><string>浙江省外国专家局</string><key>multi_info</key><string> </string><key>x</key><string>78743.8453</string><key>y</key><string>82133.7578</string></dict>
+<dict>
+<key>identifier</key><string>5815bd26-be36-4113-89e4-4937ec0ec109</string><key>stan_name</key><string>浙江省人事争议仲裁院</string><key>multi_info</key><string> </string><key>x</key><string>78739.8135</string><key>y</key><string>82133.7747</string></dict>
+<dict>
+<key>identifier</key><string>2bdab200-c087-4245-86a8-0bd39705be31</string><key>stan_name</key><string>浙江省人士宣传中心</string><key>multi_info</key><string> </string><key>x</key><string>78748.5575</string><key>y</key><string>82134.0183</string></dict>
+<dict>
+<key>identifier</key><string>d64c00f0-46d0-42c8-a1ba-5d12c781d601</string><key>stan_name</key><string>浙江省民防局</string><key>multi_info</key><string> </string><key>x</key><string>78276.0590</string><key>y</key><string>82135.0879</string></dict>
+<dict>
+<key>identifier</key><string>c70f96f2-6090-4bee-9f76-936965ed9fc1</string><key>stan_name</key><string>浙江省乡镇企业局</string><key>multi_info</key><string> </string><key>x</key><string>79329.5797</string><key>y</key><string>83314.6630</string></dict>
+<dict>
+<key>identifier</key><string>f12645e5-fc17-4f38-979e-ace5ff93824b</string><key>stan_name</key><string>浙江省机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>78611.1875</string><key>y</key><string>82177.7813</string></dict>
+<dict>
+<key>identifier</key><string>5c928931-e13f-4c38-995a-91204ab06af0</string><key>stan_name</key><string>浙江省杭州市钱江地方海事处袁浦海事所</string><key>multi_info</key><string> </string><key>x</key><string>75826.3592</string><key>y</key><string>69408.7846</string></dict>
+<dict>
+<key>identifier</key><string>242f3414-a718-4f6b-96ac-1fbeae022ee1</string><key>stan_name</key><string>浙江省水上运动基地大队</string><key>multi_info</key><string> </string><key>x</key><string>75214.4651</string><key>y</key><string>71410.9503</string></dict>
+<dict>
+<key>identifier</key><string>03bd3769-9e0c-48f4-9c16-bf7f26ff2c2f</string><key>stan_name</key><string>浙江省交通厅工程质量监督局</string><key>multi_info</key><string> </string><key>x</key><string>91847.0301</string><key>y</key><string>77031.5350</string></dict>
+<dict>
+<key>identifier</key><string>48e92ecd-4494-49fb-8d70-142420f03e75</string><key>stan_name</key><string>甘肃省人民政府驻浙江办事处</string><key>multi_info</key><string> </string><key>x</key><string>80559.0547</string><key>y</key><string>78383.0625</string></dict>
+<dict>
+<key>identifier</key><string>1007a704-509d-4a4c-87dd-c5cc26ee8670</string><key>stan_name</key><string>浙江省警卫局</string><key>multi_info</key><string> </string><key>x</key><string>78336.2656</string><key>y</key><string>78398.6797</string></dict>
+<dict>
+<key>identifier</key><string>cc7ed2f3-1132-468f-a530-23054cfce775</string><key>stan_name</key><string>浙江省商品检验检疫局</string><key>multi_info</key><string> </string><key>x</key><string>78579.4687</string><key>y</key><string>83870.4688</string></dict>
+<dict>
+<key>identifier</key><string>e00b8d2a-8289-4e3c-a5f7-3428ea5625b3</string><key>stan_name</key><string>浙江省检验检疫科学技术研究院</string><key>multi_info</key><string> </string><key>x</key><string>78588.2175</string><key>y</key><string>83877.8451</string></dict>
+<dict>
+<key>identifier</key><string>fa65c581-167d-4ba6-98e3-9bb386d0e9ac</string><key>stan_name</key><string>中华人民共和国浙江出入局检验检疫局</string><key>multi_info</key><string> </string><key>x</key><string>78588.7655</string><key>y</key><string>83879.1848</string></dict>
+<dict>
+<key>identifier</key><string>07c9cc72-03ca-4522-86a1-c83a0b0ee736</string><key>stan_name</key><string>浙江省环境监测中心</string><key>multi_info</key><string> </string><key>x</key><string>76499.5547</string><key>y</key><string>83922.4609</string></dict>
+<dict>
+<key>identifier</key><string>13198bd6-a5e2-4034-a532-f4e842fe3506</string><key>stan_name</key><string>浙江省文物局</string><key>multi_info</key><string> </string><key>x</key><string>77115.4089</string><key>y</key><string>83993.5877</string></dict>
+<dict>
+<key>identifier</key><string>ed9daa1d-54b2-411c-ab9f-efd06568f827</string><key>stan_name</key><string>浙江省环境保护局</string><key>multi_info</key><string> </string><key>x</key><string>75706.2259</string><key>y</key><string>84959.3022</string></dict>
+<dict>
+<key>identifier</key><string>a24143ba-578b-45a4-a7a5-22aa48d87d9a</string><key>stan_name</key><string>浙江省报刊发行局</string><key>multi_info</key><string> </string><key>x</key><string>79325.9766</string><key>y</key><string>85599.1172</string></dict>
+<dict>
+<key>identifier</key><string>94d32445-8777-469c-b2e0-4667ee092abc</string><key>stan_name</key><string>浙江省财政厅配套用房</string><key>multi_info</key><string> </string><key>x</key><string>78324.0547</string><key>y</key><string>84134.5469</string></dict>
+<dict>
+<key>identifier</key><string>d75f89ae-eeda-4f32-9597-f73453c96656</string><key>stan_name</key><string>浙江医药工业设计院</string><key>multi_info</key><string> </string><key>x</key><string>77058.7812</string><key>y</key><string>85731.0234</string></dict>
+<dict>
+<key>identifier</key><string>7c30eefc-bb1e-4a58-973a-fc330b9f75ee</string><key>stan_name</key><string>浙江省保护知识产权举报投诉服务中心</string><key>multi_info</key><string> </string><key>x</key><string>78083.8518</string><key>y</key><string>83066.5074</string></dict>
+<dict>
+<key>identifier</key><string>0dcfb346-19dd-49de-be14-559e8367d0db</string><key>stan_name</key><string>浙江省国家资源委员会</string><key>multi_info</key><string> </string><key>x</key><string>79087.6872</string><key>y</key><string>83190.4511</string></dict>
+<dict>
+<key>identifier</key><string>b1327afc-7884-4b2a-97a9-ac640fe8c59b</string><key>stan_name</key><string>中国共产党浙江省纪律检查委员会</string><key>multi_info</key><string> </string><key>x</key><string>78813.6630</string><key>y</key><string>82583.5582</string></dict>
+<dict>
+<key>identifier</key><string>180e5eb8-d30d-4f38-a9a9-2ae18c9fb966</string><key>stan_name</key><string>中国共产党浙江省委员会</string><key>multi_info</key><string> </string><key>x</key><string>78812.0797</string><key>y</key><string>82585.7504</string></dict>
+<dict>
+<key>identifier</key><string>477346da-7d44-4d12-8757-203d802f2e22</string><key>stan_name</key><string>浙江省政协</string><key>multi_info</key><string> </string><key>x</key><string>79027.5781</string><key>y</key><string>82599.0391</string></dict>
+<dict>
+<key>identifier</key><string>9a4272ab-b943-4fdc-9324-28ababe7a67d</string><key>stan_name</key><string>中国银行业监督管理委员会浙江监督局</string><key>multi_info</key><string> </string><key>x</key><string>80632.9225</string><key>y</key><string>80736.4434</string></dict>
+<dict>
+<key>identifier</key><string>a0fdc6a1-daab-434e-bcc3-85267398bf1c</string><key>stan_name</key><string>浙江省公安厅</string><key>multi_info</key><string> </string><key>x</key><string>80812.1953</string><key>y</key><string>80738.6641</string></dict>
+<dict>
+<key>identifier</key><string>5df37d4a-6b88-4ae0-873d-b457539442d7</string><key>stan_name</key><string>浙江省审计厅</string><key>multi_info</key><string> </string><key>x</key><string>78489.6484</string><key>y</key><string>82629.9687</string></dict>
+<dict>
+<key>identifier</key><string>69abdf66-2c56-4536-adfa-d05eaceca1ea</string><key>stan_name</key><string>浙江省社会保险管理局</string><key>multi_info</key><string> </string><key>x</key><string>79017.6585</string><key>y</key><string>82652.0679</string></dict>
+<dict>
+<key>identifier</key><string>e0424d12-a5b4-41db-9c97-b8946e77e5ea</string><key>stan_name</key><string>浙江省卫生监督局</string><key>multi_info</key><string> </string><key>x</key><string>80778.5830</string><key>y</key><string>79660.7050</string></dict>
+<dict>
+<key>identifier</key><string>48627509-82bf-4d41-b3f4-ffe089793f1a</string><key>stan_name</key><string>浙江省卫生监督所</string><key>multi_info</key><string> </string><key>x</key><string>80772.4297</string><key>y</key><string>79677.7734</string></dict>
+<dict>
+<key>identifier</key><string>a4410e62-80bc-49db-9a69-6c2a879dabc8</string><key>stan_name</key><string>浙江省监察厅</string><key>multi_info</key><string> </string><key>x</key><string>78535.7238</string><key>y</key><string>82680.7059</string></dict>
+<dict>
+<key>identifier</key><string>f2d526c6-1609-4b96-8eaf-260ae9bced2d</string><key>stan_name</key><string>浙江省审计厅举报中心</string><key>multi_info</key><string> </string><key>x</key><string>78489.6484</string><key>y</key><string>82629.9687</string></dict>
+<dict>
+<key>identifier</key><string>1134e5ca-2f87-43e0-8ff3-1f5acd878898</string><key>stan_name</key><string>浙江省机关效能监察投诉中心</string><key>multi_info</key><string> </string><key>x</key><string>78532.9989</string><key>y</key><string>82687.1866</string></dict>
+<dict>
+<key>identifier</key><string>dcf07e45-037e-477a-ba0e-fce7ed108cb2</string><key>stan_name</key><string>浙江省人民政府监察举报中心</string><key>multi_info</key><string> </string><key>x</key><string>78534.3870</string><key>y</key><string>82687.2944</string></dict>
+<dict>
+<key>identifier</key><string>cf55ec61-1167-43ec-a00a-61e6baaf56df</string><key>stan_name</key><string>浙江省人民政府纠正行业不正之风办公室</string><key>multi_info</key><string> </string><key>x</key><string>78532.8799</string><key>y</key><string>82688.3837</string></dict>
+<dict>
+<key>identifier</key><string>f0e34ef1-e352-4b9b-89d6-9c7a14d39358</string><key>stan_name</key><string>浙江省国家税务局</string><key>multi_info</key><string> </string><key>x</key><string>79544.3594</string><key>y</key><string>83356.2266</string></dict>
+<dict>
+<key>identifier</key><string>3ddb8329-f8bd-4188-84c5-4a1ccd770867</string><key>stan_name</key><string>浙江省工商局</string><key>multi_info</key><string> </string><key>x</key><string>79715.6875</string><key>y</key><string>82171.4844</string></dict>
+<dict>
+<key>identifier</key><string>a3642fe2-409a-4343-98c2-8ff914c68c1f</string><key>stan_name</key><string>中国人民政治协商会议浙江省委员会</string><key>multi_info</key><string> </string><key>x</key><string>78805.4499</string><key>y</key><string>82233.2453</string></dict>
+<dict>
+<key>identifier</key><string>14a9b9d1-67dc-44e0-b234-a27bc435885e</string><key>stan_name</key><string>浙江省直物业管理中心</string><key>multi_info</key><string> </string><key>x</key><string>78397.71</string><key>y</key><string>82248.4186</string></dict>
+<dict>
+<key>identifier</key><string>4d713280-aaf4-4f92-a0db-370bf37cfddc</string><key>stan_name</key><string>浙江省直单位住房制度改革办公室</string><key>multi_info</key><string> </string><key>x</key><string>78396.4921</string><key>y</key><string>82248.5026</string></dict>
+<dict>
+<key>identifier</key><string>5b223464-b33a-4558-9f4b-d8ab2a16fcf4</string><key>stan_name</key><string>浙江省直单位住房基金管理中心</string><key>multi_info</key><string> </string><key>x</key><string>78396.2485</string><key>y</key><string>82248.6075</string></dict>
+<dict>
+<key>identifier</key><string>e801f34a-1b29-4bac-8b6f-2847a1f97e3f</string><key>stan_name</key><string>浙江省城乡建设材料设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78660.5750</string><key>y</key><string>82253.3709</string></dict>
+<dict>
+<key>identifier</key><string>60bb059b-b223-4595-8d85-c651a95e728c</string><key>stan_name</key><string>浙江省地表水水质自动监测站杭州三义站</string><key>multi_info</key><string> </string><key>x</key><string>86514.2577</string><key>y</key><string>94633.9004</string></dict>
+<dict>
+<key>identifier</key><string>b5d1c2c7-b038-40d3-9913-877ce30f26cb</string><key>stan_name</key><string>浙江检验检疫技术中心</string><key>multi_info</key><string> </string><key>x</key><string>80733.5447</string><key>y</key><string>89784.0243</string></dict>
+<dict>
+<key>identifier</key><string>b7d28d6e-6a35-426a-bd87-6a954fbf9393</string><key>stan_name</key><string>浙江省农作物病虫监测网余杭区域站</string><key>multi_info</key><string> </string><key>x</key><string>55293.4380</string><key>y</key><string>87591.48</string></dict>
+<dict>
+<key>identifier</key><string>afbab1b8-a964-4caf-b10e-df5f5332ee8c</string><key>stan_name</key><string>浙江省统一征地事务办公室</string><key>multi_info</key><string> </string><key>x</key><string>78486.6802</string><key>y</key><string>82695.4284</string></dict>
+<dict>
+<key>identifier</key><string>de2239a2-62c7-4837-b1b8-a1eb21d56f62</string><key>stan_name</key><string>浙江省国土资源厅信息中心</string><key>multi_info</key><string> </string><key>x</key><string>78504.5530</string><key>y</key><string>82701.3525</string></dict>
+<dict>
+<key>identifier</key><string>c9bc099f-4f2f-474f-9541-64f90624f7ad</string><key>stan_name</key><string>浙江省地质调查院</string><key>multi_info</key><string> </string><key>x</key><string>78505.4266</string><key>y</key><string>82701.4323</string></dict>
+<dict>
+<key>identifier</key><string>9f519000-6ff2-444d-87ed-3996861fe216</string><key>stan_name</key><string>浙江省国土资源监察总队</string><key>multi_info</key><string> </string><key>x</key><string>78505.4433</string><key>y</key><string>82701.8146</string></dict>
+<dict>
+<key>identifier</key><string>bdfe8d61-ece8-4b5f-a873-0c319653a42d</string><key>stan_name</key><string>浙江省气象局</string><key>multi_info</key><string> </string><key>x</key><string>79564.6563</string><key>y</key><string>79763.7109</string></dict>
+<dict>
+<key>identifier</key><string>f9028a27-cbed-4299-a664-4518187789da</string><key>stan_name</key><string>浙江省通信管理局</string><key>multi_info</key><string> </string><key>x</key><string>80354.9462</string><key>y</key><string>80816.9094</string></dict>
+<dict>
+<key>identifier</key><string>9642d070-d8ba-4b14-a258-46bd1be495d7</string><key>stan_name</key><string>浙江省机械厅</string><key>multi_info</key><string> </string><key>x</key><string>81763.5938</string><key>y</key><string>80865.0781</string></dict>
+<dict>
+<key>identifier</key><string>c4a7379c-1220-4802-8be7-c9ebe72ee572</string><key>stan_name</key><string>浙江省农业厅农场管理局</string><key>multi_info</key><string> </string><key>x</key><string>81057.1202</string><key>y</key><string>81842.7101</string></dict>
+<dict>
+<key>identifier</key><string>26fd2b30-ad92-4638-82d0-00631a82f897</string><key>stan_name</key><string>浙江省种猪质量监测中心</string><key>multi_info</key><string> </string><key>x</key><string>88554.6680</string><key>y</key><string>81842.7610</string></dict>
+<dict>
+<key>identifier</key><string>605b4114-4458-4e4f-bc1f-1ab093336dfc</string><key>stan_name</key><string>浙江省旅游局</string><key>multi_info</key><string> </string><key>x</key><string>78880.1939</string><key>y</key><string>81851.4665</string></dict>
+<dict>
+<key>identifier</key><string>0ad6f60b-693d-4b86-8bfa-30585e4f6911</string><key>stan_name</key><string>浙江省文物局</string><key>multi_info</key><string> </string><key>x</key><string>79400.9453</string><key>y</key><string>81865.3984</string></dict>
+<dict>
+<key>identifier</key><string>33bd0cd9-adce-4dc1-8bda-0511afc8af47</string><key>stan_name</key><string>浙江省地质协会</string><key>multi_info</key><string> </string><key>x</key><string>78504.7883</string><key>y</key><string>82701.3106</string></dict>
+<dict>
+<key>identifier</key><string>ff0b3738-5052-4c89-8ace-4e69963dc9d2</string><key>stan_name</key><string>浙江省道路运输管理局行政服务中心</string><key>multi_info</key><string> </string><key>x</key><string>78897.6810</string><key>y</key><string>84274.8610</string></dict>
+<dict>
+<key>identifier</key><string>3f033fdc-faab-4732-ad11-c59ad6da7e40</string><key>stan_name</key><string>浙江省科技信息研究所</string><key>multi_info</key><string> </string><key>x</key><string>79045.2131</string><key>y</key><string>82734.6405</string></dict>
+<dict>
+<key>identifier</key><string>831f1dc5-9cfe-441a-ae2c-bcf49a60b147</string><key>stan_name</key><string>省劳改局</string><key>multi_info</key><string> </string><key>x</key><string>79450.3828</string><key>y</key><string>79830.1484</string></dict>
+<dict>
+<key>identifier</key><string>20a10474-f741-49ad-beb3-2a1d8689095f</string><key>stan_name</key><string>浙江省交通厅</string><key>multi_info</key><string> </string><key>x</key><string>80971.6953</string><key>y</key><string>79855.4141</string></dict>
+<dict>
+<key>identifier</key><string>d4b708b6-ca3d-44c8-b848-bb59234febf7</string><key>stan_name</key><string>浙江省文化实业发展中心</string><key>multi_info</key><string> </string><key>x</key><string>79386.5859</string><key>y</key><string>82761.9515</string></dict>
+<dict>
+<key>identifier</key><string>160a02fb-18ac-4898-b9cb-9534de37e301</string><key>stan_name</key><string>浙江省地方统计调查局</string><key>multi_info</key><string> </string><key>x</key><string>79767.6085</string><key>y</key><string>82765.9629</string></dict>
+<dict>
+<key>identifier</key><string>bf956517-df40-44a5-be3b-f5c05760ce68</string><key>stan_name</key><string>浙江省财政厅</string><key>multi_info</key><string> </string><key>x</key><string>79002.5764</string><key>y</key><string>82789.1668</string></dict>
+<dict>
+<key>identifier</key><string>aeed63fb-a74a-4238-a499-999f05ea7669</string><key>stan_name</key><string>浙江省会计人员服务中心</string><key>multi_info</key><string> </string><key>x</key><string>79055.8734</string><key>y</key><string>82807.4737</string></dict>
+<dict>
+<key>identifier</key><string>741bb18b-ae27-4cd4-a815-55f6b072953b</string><key>stan_name</key><string>浙江省水文局</string><key>multi_info</key><string> </string><key>x</key><string>80999.3281</string><key>y</key><string>79929.0859</string></dict>
+<dict>
+<key>identifier</key><string>1aaf610a-9dc0-4426-87b3-e57a5c3921ff</string><key>stan_name</key><string>浙江省文联</string><key>multi_info</key><string> </string><key>x</key><string>79470.1797</string><key>y</key><string>81945.5781</string></dict>
+<dict>
+<key>identifier</key><string>3e5d65c6-747b-4563-9ad2-f80371f67696</string><key>stan_name</key><string>浙江省水利厅</string><key>multi_info</key><string> </string><key>x</key><string>81012.6641</string><key>y</key><string>79952.5391</string></dict>
+<dict>
+<key>identifier</key><string>a47b1753-655f-4f03-b2d7-1dda45f8f880</string><key>stan_name</key><string>浙江省钱塘江管理局</string><key>multi_info</key><string> </string><key>x</key><string>83148.8672</string><key>y</key><string>80000.8750</string></dict>
+<dict>
+<key>identifier</key><string>f8fde554-4b9a-4710-b042-2a9e611d20e8</string><key>stan_name</key><string>浙江省质量技术监督局</string><key>multi_info</key><string> </string><key>x</key><string>76532.5547</string><key>y</key><string>83193.7812</string></dict>
+<dict>
+<key>identifier</key><string>b5f7f360-3e75-4a2a-9101-7667302e2f6e</string><key>stan_name</key><string>浙江省健康教育所</string><key>multi_info</key><string> </string><key>x</key><string>82762.3281</string><key>y</key><string>85342.3594</string></dict>
+<dict>
+<key>identifier</key><string>cf1a04bb-ee90-4be3-a620-7e026402c02d</string><key>stan_name</key><string>浙江省海洋与渔业局</string><key>multi_info</key><string> </string><key>x</key><string>78491.0469</string><key>y</key><string>83236.7422</string></dict>
+<dict>
+<key>identifier</key><string>36910c45-76c9-4ede-b55e-263e14de75bb</string><key>stan_name</key><string>浙江省电子产品检验所</string><key>multi_info</key><string> </string><key>x</key><string>78569.5469</string><key>y</key><string>83245.2578</string></dict>
+<dict>
+<key>identifier</key><string>81266e48-279e-4d95-b2fb-fc9ce8a19a4f</string><key>stan_name</key><string>浙江省机关事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>73213.6406</string><key>y</key><string>85430.8438</string></dict>
+<dict>
+<key>identifier</key><string>263558ae-f5b6-4d86-9b61-54b243a3c075</string><key>stan_name</key><string>浙江省测绘与地理信息局</string><key>multi_info</key><string> </string><key>x</key><string>77633.7422</string><key>y</key><string>84557.8828</string></dict>
+<dict>
+<key>identifier</key><string>6747bc4c-b351-431d-bec9-afd2d8c77fed</string><key>stan_name</key><string>浙江省人民检察院反贪污贿赂局</string><key>multi_info</key><string> </string><key>x</key><string>76731.9329</string><key>y</key><string>83644.8434</string></dict>
+<dict>
+<key>identifier</key><string>48b064b7-3b8d-4f1b-8215-694218b59ff1</string><key>stan_name</key><string>浙江省人民检察院反渎职侵权局</string><key>multi_info</key><string> </string><key>x</key><string>76731.1471</string><key>y</key><string>83646.7777</string></dict>
+<dict>
+<key>identifier</key><string>60070cc0-29d4-424c-89bf-53372308f510</string><key>stan_name</key><string>浙江省人民检察院</string><key>multi_info</key><string> </string><key>x</key><string>76724.2320</string><key>y</key><string>83651.4201</string></dict>
+<dict>
+<key>identifier</key><string>bec7faa9-6933-46cb-bf0a-1df51ed8adf8</string><key>stan_name</key><string>浙江省食品安全委员会</string><key>multi_info</key><string> </string><key>x</key><string>77935.9197</string><key>y</key><string>84656.4925</string></dict>
+<dict>
+<key>identifier</key><string>d338f71d-f2b2-4a9b-bafc-520bc22dfcad</string><key>stan_name</key><string>浙江省药品食品监督管理局</string><key>multi_info</key><string> </string><key>x</key><string>77930.9766</string><key>y</key><string>84668.4844</string></dict>
+<dict>
+<key>identifier</key><string>1706ab0f-c74c-43b7-8cb3-dff43237db16</string><key>stan_name</key><string>浙江省音乐家协会钢琴专业委员会</string><key>multi_info</key><string> </string><key>x</key><string>75860.1055</string><key>y</key><string>84764.8670</string></dict>
+<dict>
+<key>identifier</key><string>050fc5c1-6236-4dec-8129-efd80350ff62</string><key>stan_name</key><string>浙江省公安厅监管总队</string><key>multi_info</key><string> </string><key>x</key><string>72498.0689</string><key>y</key><string>84765.3753</string></dict>
+<dict>
+<key>identifier</key><string>2a5f1564-c145-4999-9333-f660adba95f4</string><key>stan_name</key><string>浙江省农产品质量安全检验检测机构</string><key>multi_info</key><string> </string><key>x</key><string>77778.61</string><key>y</key><string>83824.3345</string></dict>
+<dict>
+<key>identifier</key><string>1652b8b0-8311-468e-bf03-b88a9bd27401</string><key>stan_name</key><string>省农业厅</string><key>multi_info</key><string> </string><key>x</key><string>82768.1016</string><key>y</key><string>82282.8203</string></dict>
+</array>
+</plist>

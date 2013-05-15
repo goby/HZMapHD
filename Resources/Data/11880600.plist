@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>0164a209-0454-4cd8-878a-ee9fb2912a8e</string><key>stan_name</key><string>华数数字电视有限公司转塘营业厅</string><key>multi_info</key><string> </string><key>x</key><string>71317.8823</string><key>y</key><string>70757.5263</string></dict>
+<dict>
+<key>identifier</key><string>94165d2b-a300-4d1a-810d-7a5c25e85d03</string><key>stan_name</key><string>华数数字电视有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74839.8995</string><key>y</key><string>83487.0482</string></dict>
+<dict>
+<key>identifier</key><string>8432a170-dd60-4d66-80b7-c51f53a80067</string><key>stan_name</key><string>杭州网通信息港有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74840.7080</string><key>y</key><string>83487.1280</string></dict>
+<dict>
+<key>identifier</key><string>241a8201-c073-4ad6-8e8e-ebe30bc13f13</string><key>stan_name</key><string>华数电视</string><key>multi_info</key><string> </string><key>x</key><string>77831.4609</string><key>y</key><string>82453.1328</string></dict>
+<dict>
+<key>identifier</key><string>262a28c9-da76-4c94-a242-89424dbc2ee1</string><key>stan_name</key><string>杭州网通公司</string><key>multi_info</key><string> </string><key>x</key><string>77865.5312</string><key>y</key><string>82457.3594</string></dict>
+<dict>
+<key>identifier</key><string>6c6c20d4-57af-4a67-8807-fe0ca56d9c54</string><key>stan_name</key><string>中国网通公司</string><key>multi_info</key><string> </string><key>x</key><string>81682.6015</string><key>y</key><string>83571.9531</string></dict>
+<dict>
+<key>identifier</key><string>361ccf71-0ab4-4db5-abeb-6e757ff24b43</string><key>stan_name</key><string>华数数字电视有限公司庆春营业厅</string><key>multi_info</key><string> </string><key>x</key><string>81984.0930</string><key>y</key><string>81678.7220</string></dict>
+</array>
+</plist>

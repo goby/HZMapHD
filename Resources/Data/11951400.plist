@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>f79645da-2fa6-4a53-8ac0-01b01debfbc2</string><key>stan_name</key><string>道顺射箭馆</string><key>multi_info</key><string> </string><key>x</key><string>81716.4083</string><key>y</key><string>81685.8399</string></dict>
+<dict>
+<key>identifier</key><string>e897be3f-922d-4f9e-8319-f3b113cbea26</string><key>stan_name</key><string>杭州御都俱乐部有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70985.4263</string><key>y</key><string>72317.4589</string></dict>
+<dict>
+<key>identifier</key><string>6498cd3c-0fcf-4f48-9bbf-3ad3ca5f4098</string><key>stan_name</key><string>杭州南亚保龄球馆</string><key>multi_info</key><string> </string><key>x</key><string>83300.76</string><key>y</key><string>84542.5390</string></dict>
+<dict>
+<key>identifier</key><string>078a9afb-574a-4ec1-88bb-e910f52f7f82</string><key>stan_name</key><string>新亚保龄球馆</string><key>multi_info</key><string> </string><key>x</key><string>82900.5295</string><key>y</key><string>80020.5166</string></dict>
+<dict>
+<key>identifier</key><string>b360957e-b301-4355-93a1-362f5bd0e1de</string><key>stan_name</key><string>拱宸社区居民健身苑</string><key>multi_info</key><string> </string><key>x</key><string>78479.5699</string><key>y</key><string>88148.1777</string></dict>
+<dict>
+<key>identifier</key><string>72aa0df3-afc8-43b9-a601-65977c63f38d</string><key>stan_name</key><string>小河佳苑社区居民健身点</string><key>multi_info</key><string> </string><key>x</key><string>76456.9704</string><key>y</key><string>87256.0092</string></dict>
+<dict>
+<key>identifier</key><string>e90cf7fe-3ea9-48d0-9a53-f4a341e25f9e</string><key>stan_name</key><string>方家埭社区居民健身点申花路</string><key>multi_info</key><string> </string><key>x</key><string>74383.4628</string><key>y</key><string>87370.6044</string></dict>
+<dict>
+<key>identifier</key><string>97f46a16-4921-4bb0-bcff-422b58977dee</string><key>stan_name</key><string>祥符镇孔家埭村健身点</string><key>multi_info</key><string> </string><key>x</key><string>73614.1413</string><key>y</key><string>89484.1081</string></dict>
+<dict>
+<key>identifier</key><string>1720d664-e280-4053-852a-b2d480eb44f8</string><key>stan_name</key><string>三墩社区健身点</string><key>multi_info</key><string> </string><key>x</key><string>73568.6080</string><key>y</key><string>86463.5739</string></dict>
+<dict>
+<key>identifier</key><string>d1b7b892-f0f0-4146-9102-5609f71515ae</string><key>stan_name</key><string>荡王头社区居民健身点</string><key>multi_info</key><string> </string><key>x</key><string>71299.0703</string><key>y</key><string>87614.9183</string></dict>
+<dict>
+<key>identifier</key><string>e61c3b1e-7f32-49dd-9989-973b42817192</string><key>stan_name</key><string>三墩镇五里塘社区健身点</string><key>multi_info</key><string> </string><key>x</key><string>73198.2086</string><key>y</key><string>88497.8890</string></dict>
+<dict>
+<key>identifier</key><string>5117e47f-e139-4f7d-aaf0-a424cbd85314</string><key>stan_name</key><string>三墩镇厚诚社区健身点</string><key>multi_info</key><string> </string><key>x</key><string>71940.6386</string><key>y</key><string>89144.6527</string></dict>
+<dict>
+<key>identifier</key><string>1b2b5d41-2898-4080-92cb-0dfcaa5a6401</string><key>stan_name</key><string>大关街道南苑社区晨晚健身点</string><key>multi_info</key><string> </string><key>x</key><string>79520.2095</string><key>y</key><string>86419.0699</string></dict>
+<dict>
+<key>identifier</key><string>315b8af1-ebab-4f39-86ab-e0be9339845a</string><key>stan_name</key><string>PEA运动</string><key>multi_info</key><string> </string><key>x</key><string>80432.1051</string><key>y</key><string>87039.8134</string></dict>
+<dict>
+<key>identifier</key><string>eea3d115-17c5-475d-b20f-11a80d4d55da</string><key>stan_name</key><string>博艺健身中心</string><key>multi_info</key><string> </string><key>x</key><string>80661.4137</string><key>y</key><string>87136.6387</string></dict>
+<dict>
+<key>identifier</key><string>0625b7e1-3f5e-44c8-a276-0cbe0a4cc1da</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>91315.4276</string><key>y</key><string>91879.3404</string></dict>
+<dict>
+<key>identifier</key><string>6ec6ac77-b153-4ede-934b-d182ff3736ea</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>91316.8303</string><key>y</key><string>91868.4197</string></dict>
+<dict>
+<key>identifier</key><string>abfbac76-0c23-4b07-bf15-d8363303385f</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>92492.2721</string><key>y</key><string>92008.3048</string></dict>
+<dict>
+<key>identifier</key><string>f51ed435-b3be-4651-b852-5d83a6199597</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>92492.0717</string><key>y</key><string>91987.8661</string></dict>
+<dict>
+<key>identifier</key><string>04528416-3f0f-4b39-abc7-6ac12478da37</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>92498.6842</string><key>y</key><string>91969.0305</string></dict>
+<dict>
+<key>identifier</key><string>495dd96f-108d-4f12-ac04-2a147557a3c3</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>93856.5493</string><key>y</key><string>92632.2164</string></dict>
+<dict>
+<key>identifier</key><string>5404f0fa-ef6c-454c-8e77-8b34381d7fba</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>93857.6514</string><key>y</key><string>92627.5075</string></dict>
+<dict>
+<key>identifier</key><string>2c24d142-58bf-4633-9fb5-bdefd5da1882</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>93861.9595</string><key>y</key><string>92620.3941</string></dict>
+<dict>
+<key>identifier</key><string>e49210f6-db2d-4933-be1f-a20c18bcad84</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>93864.7648</string><key>y</key><string>92615.1842</string></dict>
+<dict>
+<key>identifier</key><string>dc0e1d6f-d026-477a-bc06-e55236096bc4</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>93852.4415</string><key>y</key><string>92607.4696</string></dict>
+<dict>
+<key>identifier</key><string>26278a91-4722-425e-9b16-e1b9819e004a</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>94953.8683</string><key>y</key><string>92458.7960</string></dict>
+<dict>
+<key>identifier</key><string>ea702349-b9a6-4505-a4fe-fdf471dd65ad</string><key>stan_name</key><string>健身</string><key>multi_info</key><string> </string><key>x</key><string>91020.4446</string><key>y</key><string>92619.5528</string></dict>
+<dict>
+<key>identifier</key><string>b2fac8d8-393d-40c1-9b4f-8c2bb522df8a</string><key>stan_name</key><string>古荡街道社区健身中心</string><key>multi_info</key><string> </string><key>x</key><string>75295.3360</string><key>y</key><string>83356.3120</string></dict>
+<dict>
+<key>identifier</key><string>f7f6f49e-61af-4fb6-9947-52a057d7641e</string><key>stan_name</key><string>社区健身绿地</string><key>multi_info</key><string> </string><key>x</key><string>78504.6560</string><key>y</key><string>84486.7340</string></dict>
+<dict>
+<key>identifier</key><string>8077acc1-ad3e-421b-ad34-3548a7fb1e01</string><key>stan_name</key><string>骆家庄青年阳光俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>73032.0930</string><key>y</key><string>84979.8890</string></dict>
+<dict>
+<key>identifier</key><string>93f9aac0-3ecf-4242-a707-bd3906f0e6f0</string><key>stan_name</key><string>西湖国际高尔夫乡村俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>69349.5938</string><key>y</key><string>72419.8438</string></dict>
+<dict>
+<key>identifier</key><string>094520ae-58e3-425c-a71f-9a62118cb29a</string><key>stan_name</key><string>沈村健身场</string><key>multi_info</key><string> </string><key>x</key><string>79131.2760</string><key>y</key><string>52990.8550</string></dict>
+<dict>
+<key>identifier</key><string>26719283-25dc-4ded-87e4-b1a9dc6e76cf</string><key>stan_name</key><string>孝心馆</string><key>multi_info</key><string> </string><key>x</key><string>83358.5429</string><key>y</key><string>64549.4610</string></dict>
+<dict>
+<key>identifier</key><string>d3735e58-4587-43a1-9dbf-586f6a6eeacd</string><key>stan_name</key><string>西湖国际高尔夫乡村俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>70271.6172</string><key>y</key><string>71783.9922</string></dict>
+<dict>
+<key>identifier</key><string>6930b464-0407-4761-8742-c7877da153e7</string><key>stan_name</key><string>拱墅区文化馆（文体健身娱乐中心）</string><key>multi_info</key><string> </string><key>x</key><string>78102.6563</string><key>y</key><string>85592.25</string></dict>
+<dict>
+<key>identifier</key><string>0cf17b6f-096a-4169-9ea8-13123363e05a</string><key>stan_name</key><string>转塘镇贤家庄健身点</string><key>multi_info</key><string> </string><key>x</key><string>73089.2840</string><key>y</key><string>68184.1170</string></dict>
+<dict>
+<key>identifier</key><string>99edf6ae-9ba0-41af-ac23-933884558d07</string><key>stan_name</key><string>翠苑二区健身苑</string><key>multi_info</key><string> </string><key>x</key><string>76313.3125</string><key>y</key><string>85136.3125</string></dict>
+<dict>
+<key>identifier</key><string>c1f3eae5-b5cc-4c52-809c-47f626847995</string><key>stan_name</key><string>华都国际俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>76880.0775</string><key>y</key><string>82275.6521</string></dict>
+<dict>
+<key>identifier</key><string>029a991e-6ce6-47ec-aee4-8950670e0e81</string><key>stan_name</key><string>江干区网球中心</string><key>multi_info</key><string> </string><key>x</key><string>85532.4660</string><key>y</key><string>81438.2470</string></dict>
+<dict>
+<key>identifier</key><string>e83d3ea8-4c9e-406a-908c-960abe33b4eb</string><key>stan_name</key><string>网球场</string><key>multi_info</key><string> </string><key>x</key><string>76616.7656</string><key>y</key><string>82601.0859</string></dict>
+<dict>
+<key>identifier</key><string>0d93b2a4-07d0-4831-8822-154327f10236</string><key>stan_name</key><string>网球中心</string><key>multi_info</key><string> </string><key>x</key><string>76764.9453</string><key>y</key><string>82603.7969</string></dict>
+<dict>
+<key>identifier</key><string>5ca80c14-7384-4396-93d8-2fd92c4538fe</string><key>stan_name</key><string>奥胜高尔夫球场</string><key>multi_info</key><string> </string><key>x</key><string>76811.0703</string><key>y</key><string>82750.3125</string></dict>
+<dict>
+<key>identifier</key><string>1eba42cb-8c32-463e-a64c-3dc956df65f4</string><key>stan_name</key><string>香溢健身中心</string><key>multi_info</key><string> </string><key>x</key><string>80985.6172</string><key>y</key><string>80880.5547</string></dict>
+<dict>
+<key>identifier</key><string>07be32ac-e528-4d9d-ab1c-fb0304e1e9fd</string><key>stan_name</key><string>杭州市水上运动中心</string><key>multi_info</key><string> </string><key>x</key><string>73236.2621</string><key>y</key><string>81958.0163</string></dict>
+<dict>
+<key>identifier</key><string>aba0226d-8ac5-492f-b944-db7b22e6fc01</string><key>stan_name</key><string>包玉刚游泳场</string><key>multi_info</key><string> </string><key>x</key><string>77127.0674</string><key>y</key><string>82825.7105</string></dict>
+<dict>
+<key>identifier</key><string>48d23ac5-828c-401c-8070-4ed98b499497</string><key>stan_name</key><string>定安游泳池</string><key>multi_info</key><string> </string><key>x</key><string>82030.4687</string><key>y</key><string>81027.3672</string></dict>
+<dict>
+<key>identifier</key><string>5a45644d-6855-453e-817f-fbe3262260f2</string><key>stan_name</key><string>杭州瑞城格林兰登体育休闲中心</string><key>multi_info</key><string> </string><key>x</key><string>61131.5190</string><key>y</key><string>81252.1860</string></dict>
+<dict>
+<key>identifier</key><string>dee30607-abc4-4c3a-8821-d3330b75c894</string><key>stan_name</key><string>二监游泳池</string><key>multi_info</key><string> </string><key>x</key><string>91657.7520</string><key>y</key><string>98359.33</string></dict>
+<dict>
+<key>identifier</key><string>83b7dab4-d379-4e44-ba78-c1b2874716fb</string><key>stan_name</key><string>游泳池</string><key>multi_info</key><string> </string><key>x</key><string>81226.6328</string><key>y</key><string>92142.7969</string></dict>
+<dict>
+<key>identifier</key><string>69199aa6-c0cc-47ae-84d6-37f705e8ffd7</string><key>stan_name</key><string>余杭区游泳馆</string><key>multi_info</key><string> </string><key>x</key><string>94043.3326</string><key>y</key><string>98793.1493</string></dict>
+<dict>
+<key>identifier</key><string>fe4f4f5e-1c71-47bd-b85d-effd254d6f5b</string><key>stan_name</key><string>杭钢健身中心</string><key>multi_info</key><string> </string><key>x</key><string>81550.7615</string><key>y</key><string>91946.3161</string></dict>
+<dict>
+<key>identifier</key><string>aa015b08-2ea3-466c-9d63-e57a5f5f6661</string><key>stan_name</key><string>杭州市健身中心</string><key>multi_info</key><string> </string><key>x</key><string>79182.8984</string><key>y</key><string>87076.2266</string></dict>
+<dict>
+<key>identifier</key><string>30a6b2fa-f150-4d32-a699-5169673ed56a</string><key>stan_name</key><string>杭州松下健身中心</string><key>multi_info</key><string> </string><key>x</key><string>97563.0310</string><key>y</key><string>87273.1197</string></dict>
+<dict>
+<key>identifier</key><string>6d31db54-ac38-42b8-a982-55bd4ae2ea2d</string><key>stan_name</key><string>李家桥社区健身苑</string><key>multi_info</key><string> </string><key>x</key><string>76376.50</string><key>y</key><string>87343.7188</string></dict>
+<dict>
+<key>identifier</key><string>4a5d260d-10b5-431c-9f45-720932cc930a</string><key>stan_name</key><string>江平区健身晨晚练点</string><key>multi_info</key><string> </string><key>x</key><string>88467.8660</string><key>y</key><string>86650.80</string></dict>
+<dict>
+<key>identifier</key><string>b878dfc0-0c4f-48ce-9e78-84be21689c1c</string><key>stan_name</key><string>友谊村白庙后顾家桥河东健身点</string><key>multi_info</key><string> </string><key>x</key><string>68273.2293</string><key>y</key><string>81967.6473</string></dict>
+<dict>
+<key>identifier</key><string>5827f525-aaa9-47ed-8f7c-a5e002b427dc</string><key>stan_name</key><string>顾家桥村顾家桥河西北健身点</string><key>multi_info</key><string> </string><key>x</key><string>67920.5581</string><key>y</key><string>81938.5698</string></dict>
+<dict>
+<key>identifier</key><string>d8f1ac25-67f9-4c2c-a857-47f80468d7e3</string><key>stan_name</key><string>顾家桥村斗门畈健身点</string><key>multi_info</key><string> </string><key>x</key><string>68037.2324</string><key>y</key><string>81493.8719</string></dict>
+<dict>
+<key>identifier</key><string>b54f7408-b27b-4c46-93aa-64c72b258240</string><key>stan_name</key><string>香溢大酒店游泳池</string><key>multi_info</key><string> </string><key>x</key><string>81083.5127</string><key>y</key><string>80861.5282</string></dict>
+<dict>
+<key>identifier</key><string>ec4393de-420d-4461-a9aa-625f104057e2</string><key>stan_name</key><string>未来世界游泳池</string><key>multi_info</key><string> </string><key>x</key><string>71356.0618</string><key>y</key><string>72050.7636</string></dict>
+<dict>
+<key>identifier</key><string>115fcffc-2a56-427a-a18c-3260e4a3210d</string><key>stan_name</key><string>黄龙饭店游泳池</string><key>multi_info</key><string> </string><key>x</key><string>77876.3840</string><key>y</key><string>82570.9010</string></dict>
+<dict>
+<key>identifier</key><string>3969c45d-f9cd-4e58-a4d5-bccfbd333d4a</string><key>stan_name</key><string>三原色跆拳道馆</string><key>multi_info</key><string> </string><key>x</key><string>80526.8516</string><key>y</key><string>80342.7188</string></dict>
+<dict>
+<key>identifier</key><string>5555e468-a846-4e21-887c-b56f339a6efe</string><key>stan_name</key><string>安理申俱乐部</string><key>multi_info</key><string> </string><key>x</key><string>80325.9868</string><key>y</key><string>82561.7832</string></dict>
+</array>
+</plist>

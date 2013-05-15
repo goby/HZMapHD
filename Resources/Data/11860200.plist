@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>46121533-d5e0-4b17-9673-cbb9a5fd7d65</string><key>stan_name</key><string>袁浦营业所</string><key>multi_info</key><string> </string><key>x</key><string>76626.0832</string><key>y</key><string>66449.8180</string></dict>
+<dict>
+<key>identifier</key><string>05f884d7-8657-4665-b989-1d0a0d3d7a68</string><key>stan_name</key><string>滨江局营业厅</string><key>multi_info</key><string> </string><key>x</key><string>80058.3281</string><key>y</key><string>73329.4531</string></dict>
+<dict>
+<key>identifier</key><string>77a51e17-61ba-455e-bbf5-d2841a425f6d</string><key>stan_name</key><string>绍兴路供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>81052.8516</string><key>y</key><string>84999.0703</string></dict>
+<dict>
+<key>identifier</key><string>2c15839b-ba35-48bc-9a39-e364386536a9</string><key>stan_name</key><string>湖墅南路供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>79128.6353</string><key>y</key><string>83417.8248</string></dict>
+<dict>
+<key>identifier</key><string>f18135f8-db4e-426c-b640-eda2c491b5a1</string><key>stan_name</key><string>供电局客户服务中心</string><key>multi_info</key><string> </string><key>x</key><string>81206.5312</string><key>y</key><string>79784.50</string></dict>
+<dict>
+<key>identifier</key><string>ad9eaf73-1a9e-4ceb-82e8-032282d58360</string><key>stan_name</key><string>祥符供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>74062.2320</string><key>y</key><string>89202.5036</string></dict>
+<dict>
+<key>identifier</key><string>1f90a434-db2a-4c86-bcbd-39642f5b8e99</string><key>stan_name</key><string>下沙供电营业所</string><key>multi_info</key><string> </string><key>x</key><string>94963.3093</string><key>y</key><string>87291.6126</string></dict>
+<dict>
+<key>identifier</key><string>3f271b8c-ed50-4517-ae62-8bad862fcc2e</string><key>stan_name</key><string>上塘供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>79536.1070</string><key>y</key><string>88739.8620</string></dict>
+<dict>
+<key>identifier</key><string>1cca337d-287e-46dc-b492-f2a6539bed2f</string><key>stan_name</key><string>西湖供电营业网点</string><key>multi_info</key><string> </string><key>x</key><string>75910.5536</string><key>y</key><string>79407.8050</string></dict>
+<dict>
+<key>identifier</key><string>d5ba4d42-76a9-4ad7-a776-5f8bcc1f3f81</string><key>stan_name</key><string>四季青供电营业网点</string><key>multi_info</key><string> </string><key>x</key><string>83822.0792</string><key>y</key><string>81934.5161</string></dict>
+<dict>
+<key>identifier</key><string>fe394b25-310b-4935-97ef-70fc3f5ec255</string><key>stan_name</key><string>丁桥供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>85427.9963</string><key>y</key><string>91728.6118</string></dict>
+<dict>
+<key>identifier</key><string>0b271ff7-16b6-4993-8af8-11ae3dfaef5e</string><key>stan_name</key><string>笕桥供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>84856.1598</string><key>y</key><string>87330.6748</string></dict>
+<dict>
+<key>identifier</key><string>1d40e827-84fc-46f0-b6d0-14e6747f597e</string><key>stan_name</key><string>彭埠供电营业所</string><key>multi_info</key><string> </string><key>x</key><string>86783.1334</string><key>y</key><string>84848.2226</string></dict>
+<dict>
+<key>identifier</key><string>29b08966-cf70-4561-8494-2c69fb48563b</string><key>stan_name</key><string>九堡供电营业所</string><key>multi_info</key><string> </string><key>x</key><string>90214.5050</string><key>y</key><string>88102.0072</string></dict>
+<dict>
+<key>identifier</key><string>ba981738-57cc-442d-aaeb-857b0f9a2046</string><key>stan_name</key><string>蒋村营业所</string><key>multi_info</key><string> </string><key>x</key><string>70760.9213</string><key>y</key><string>84356.0359</string></dict>
+<dict>
+<key>identifier</key><string>a9ec32b7-1e3b-41ec-bec5-4f29bae2d444</string><key>stan_name</key><string>周浦营业所</string><key>multi_info</key><string> </string><key>x</key><string>71076.3475</string><key>y</key><string>63002.1647</string></dict>
+<dict>
+<key>identifier</key><string>884aa30d-2662-4790-8e30-cbcaa50297bc</string><key>stan_name</key><string>西兴供电营业所</string><key>multi_info</key><string> </string><key>x</key><string>85965.3625</string><key>y</key><string>73863.1648</string></dict>
+<dict>
+<key>identifier</key><string>4d99f43b-cf52-40ca-9d38-2c7c142217b5</string><key>stan_name</key><string>康桥供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>78352.6706</string><key>y</key><string>93451.2465</string></dict>
+<dict>
+<key>identifier</key><string>f416a0d2-7074-4c2e-b542-5eb6a0b5a6fc</string><key>stan_name</key><string>三墩营业所</string><key>multi_info</key><string> </string><key>x</key><string>72297.7439</string><key>y</key><string>88595.8445</string></dict>
+<dict>
+<key>identifier</key><string>f9b2458e-a66d-455f-be8a-865ee495c33e</string><key>stan_name</key><string>局营业厅</string><key>multi_info</key><string> </string><key>x</key><string>71723.1255</string><key>y</key><string>71380.9988</string></dict>
+<dict>
+<key>identifier</key><string>ae49d6fb-6623-43a5-b051-57174066cabe</string><key>stan_name</key><string>半山供电营业所供电营业厅</string><key>multi_info</key><string> </string><key>x</key><string>81474.5284</string><key>y</key><string>91443.7296</string></dict>
+<dict>
+<key>identifier</key><string>3e8b7e68-cb09-4909-92ba-afa58d904fae</string><key>stan_name</key><string>留下营业所</string><key>multi_info</key><string> </string><key>x</key><string>69623.0056</string><key>y</key><string>80395.8826</string></dict>
+<dict>
+<key>identifier</key><string>eaf2d7fc-c65b-4cf8-9ff1-e11c0e14ff8c</string><key>stan_name</key><string>长河供电营业所</string><key>multi_info</key><string> </string><key>x</key><string>82933.8319</string><key>y</key><string>71891.9287</string></dict>
+</array>
+</plist>

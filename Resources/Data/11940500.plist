@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>5f6e0153-5961-4e21-9946-7325c5e82d89</string><key>stan_name</key><string>萧山收费站</string><key>multi_info</key><string> </string><key>x</key><string>79178.0131</string><key>y</key><string>44754.5751</string></dict>
+<dict>
+<key>identifier</key><string>2f003cb1-85b3-4e35-a390-e1d41cb2462f</string><key>stan_name</key><string>杭州杭千高速公路收费站</string><key>multi_info</key><string> </string><key>x</key><string>74880.8014</string><key>y</key><string>68631.5270</string></dict>
+<dict>
+<key>identifier</key><string>bcc21c00-7e05-461f-9115-1d8eefe940ed</string><key>stan_name</key><string>绕城收费站</string><key>multi_info</key><string> </string><key>x</key><string>69972.1953</string><key>y</key><string>86616.1719</string></dict>
+<dict>
+<key>identifier</key><string>91e0a70e-5bbe-4da3-947b-4d5ebb316e1b</string><key>stan_name</key><string>杭州绕城高速公路收费站</string><key>multi_info</key><string> </string><key>x</key><string>68582.8788</string><key>y</key><string>83871.2901</string></dict>
+<dict>
+<key>identifier</key><string>362753b6-95fd-4170-8f72-69cf8a62845d</string><key>stan_name</key><string>沪杭甬高速公路杭州收费站</string><key>multi_info</key><string> </string><key>x</key><string>86020.8931</string><key>y</key><string>84520.4344</string></dict>
+<dict>
+<key>identifier</key><string>535c4aa9-dc5f-41a1-87e6-08626a3f9178</string><key>stan_name</key><string>杭甬高速入口处</string><key>multi_info</key><string> </string><key>x</key><string>92068.3170</string><key>y</key><string>80437.5221</string></dict>
+<dict>
+<key>identifier</key><string>84f1b8d2-c39e-4fe8-b0fd-0a97164b2b09</string><key>stan_name</key><string>杭徽高速公路老余杭收费站</string><key>multi_info</key><string> </string><key>x</key><string>60365.75</string><key>y</key><string>80610.9990</string></dict>
+<dict>
+<key>identifier</key><string>0f455e81-0ac5-48a1-a228-079a8cf11da4</string><key>stan_name</key><string>104国道余杭区收费所</string><key>multi_info</key><string> </string><key>x</key><string>70339.66</string><key>y</key><string>96532.5490</string></dict>
+<dict>
+<key>identifier</key><string>a68dba40-3eb9-425b-bc09-e81b11c10771</string><key>stan_name</key><string>杭宁高速余杭收费站</string><key>multi_info</key><string> </string><key>x</key><string>74005.8641</string><key>y</key><string>102031.0910</string></dict>
+<dict>
+<key>identifier</key><string>d2d3e725-dd67-4bf9-bacd-23d08b40dd52</string><key>stan_name</key><string>杭宁高速公路南庄兜收费所</string><key>multi_info</key><string> </string><key>x</key><string>75507.4110</string><key>y</key><string>94875.0821</string></dict>
+<dict>
+<key>identifier</key><string>8898b8cb-735c-4e9c-9a3c-c53a9f5d85a4</string><key>stan_name</key><string>余杭区09省道收费所</string><key>multi_info</key><string> </string><key>x</key><string>79628.6840</string><key>y</key><string>104776.2720</string></dict>
+<dict>
+<key>identifier</key><string>45e620f9-a284-4ae1-998a-da139b58117a</string><key>stan_name</key><string>勾庄收费站</string><key>multi_info</key><string> </string><key>x</key><string>70699.6970</string><key>y</key><string>93237.1450</string></dict>
+<dict>
+<key>identifier</key><string>ea9e382b-c051-46cf-9ea9-32c6ee24b27e</string><key>stan_name</key><string>104国道杭州余杭区收费所</string><key>multi_info</key><string> </string><key>x</key><string>71017.9580</string><key>y</key><string>93271.3980</string></dict>
+<dict>
+<key>identifier</key><string>41f87688-0459-4d17-9b77-63b2a475485b</string><key>stan_name</key><string>杭州绕城高速公路下沙收费所</string><key>multi_info</key><string> </string><key>x</key><string>100333.7519</string><key>y</key><string>88840.7871</string></dict>
+<dict>
+<key>identifier</key><string>48c7ac01-3d40-4b66-a387-6ec3386a39ba</string><key>stan_name</key><string>萧山机场公路收费站</string><key>multi_info</key><string> </string><key>x</key><string>101692.9830</string><key>y</key><string>77009.4669</string></dict>
+</array>
+</plist>

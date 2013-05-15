@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>791b71fa-42ec-4c2f-9688-83ddb5a41022</string><key>stan_name</key><string>上城区科学技术局</string><key>multi_info</key><string> </string><key>x</key><string>80419.5924</string><key>y</key><string>79947.2104</string></dict>
+<dict>
+<key>identifier</key><string>4a8c83c8-d4af-479d-b9d6-48e1d5441ced</string><key>stan_name</key><string>上城区监察局</string><key>multi_info</key><string> </string><key>x</key><string>80442.5401</string><key>y</key><string>79887.9805</string></dict>
+<dict>
+<key>identifier</key><string>e7a9c8d7-d1bb-4a71-b49e-3dbae2a9b8c9</string><key>stan_name</key><string>上城区司法局</string><key>multi_info</key><string> </string><key>x</key><string>80415.5610</string><key>y</key><string>79935.8916</string></dict>
+<dict>
+<key>identifier</key><string>693c8cd1-2e0e-44a5-8c0f-7b5241dcb366</string><key>stan_name</key><string>上城区人事局(上城区机构编制委员会办公室）</string><key>multi_info</key><string> </string><key>x</key><string>80422.0732</string><key>y</key><string>79953.5675</string></dict>
+<dict>
+<key>identifier</key><string>c1887739-d4d0-472e-9b8a-fe62c0599cae</string><key>stan_name</key><string>上城区招商局</string><key>multi_info</key><string> </string><key>x</key><string>80414.9408</string><key>y</key><string>79932.6355</string></dict>
+<dict>
+<key>identifier</key><string>adc49458-2ac1-44a0-ad06-4b66aad4633c</string><key>stan_name</key><string>上城区审计局</string><key>multi_info</key><string> </string><key>x</key><string>80415.0959</string><key>y</key><string>79929.9996</string></dict>
+<dict>
+<key>identifier</key><string>4e21bffe-9785-4e1b-b090-c606e80be1aa</string><key>stan_name</key><string>上城区安全生产监督管理局</string><key>multi_info</key><string> </string><key>x</key><string>80430.2910</string><key>y</key><string>79893.5624</string></dict>
+<dict>
+<key>identifier</key><string>81c2071a-5ddb-44dd-8b8b-3d432209d4f5</string><key>stan_name</key><string>上城区档案局（馆）</string><key>multi_info</key><string> </string><key>x</key><string>80480.6829</string><key>y</key><string>79894.3377</string></dict>
+<dict>
+<key>identifier</key><string>b09b778b-3eb1-4569-a565-5301db434232</string><key>stan_name</key><string>上城区劳动和社会保障局</string><key>multi_info</key><string> </string><key>x</key><string>80373.5372</string><key>y</key><string>79901.3718</string></dict>
+<dict>
+<key>identifier</key><string>a1a9ae98-13e0-41cd-a11b-308e8099ca17</string><key>stan_name</key><string>上城区商贸旅游局</string><key>multi_info</key><string> </string><key>x</key><string>81559.1094</string><key>y</key><string>80764.2181</string></dict>
+<dict>
+<key>identifier</key><string>b1cc141d-36f5-4576-9a7e-bd73d4f21abb</string><key>stan_name</key><string>上城区城市管理行政执法局</string><key>multi_info</key><string> </string><key>x</key><string>80849.3196</string><key>y</key><string>76827.2517</string></dict>
+<dict>
+<key>identifier</key><string>a4db2bd9-4b0a-4242-a4f8-4f277d4e41e5</string><key>stan_name</key><string>上城区人民政府城市管理办公室</string><key>multi_info</key><string> </string><key>x</key><string>80988.6863</string><key>y</key><string>81093.8366</string></dict>
+<dict>
+<key>identifier</key><string>75d09b6c-d550-4515-99ae-9312235b39a8</string><key>stan_name</key><string>上城区统计局</string><key>multi_info</key><string> </string><key>x</key><string>80372.8524</string><key>y</key><string>79904.4322</string></dict>
+<dict>
+<key>identifier</key><string>f9bf884b-335d-4bc6-8ce5-b2e43b50856b</string><key>stan_name</key><string>国土资源局上城分局</string><key>multi_info</key><string> </string><key>x</key><string>80373.3057</string><key>y</key><string>79896.4981</string></dict>
+<dict>
+<key>identifier</key><string>f99ca6ec-1e4f-467d-b835-9b5e01540ecb</string><key>stan_name</key><string>上城区发展和改革局</string><key>multi_info</key><string> </string><key>x</key><string>80374.4392</string><key>y</key><string>79899.2183</string></dict>
+<dict>
+<key>identifier</key><string>642481cc-fa28-4eab-a015-4d0684d0274e</string><key>stan_name</key><string>上城区建设局（房管局、人防办）</string><key>multi_info</key><string> </string><key>x</key><string>81359.4325</string><key>y</key><string>79928.2631</string></dict>
+<dict>
+<key>identifier</key><string>99434199-da3c-4289-9098-75a95c30bb8d</string><key>stan_name</key><string>江干区政府办公室</string><key>multi_info</key><string> </string><key>x</key><string>83832.3266</string><key>y</key><string>81510.6555</string></dict>
+<dict>
+<key>identifier</key><string>bed2f9b6-bea9-4499-81eb-0903f5733a79</string><key>stan_name</key><string>江干区统计局</string><key>multi_info</key><string> </string><key>x</key><string>83835.7536</string><key>y</key><string>81507.1540</string></dict>
+<dict>
+<key>identifier</key><string>0d07055d-99c5-4802-90a8-2cadf7fa26e2</string><key>stan_name</key><string>江干区科技局</string><key>multi_info</key><string> </string><key>x</key><string>83830.3897</string><key>y</key><string>81456.7180</string></dict>
+<dict>
+<key>identifier</key><string>4708ae99-13f5-42c5-9019-15ea32b4180a</string><key>stan_name</key><string>江干区民政局</string><key>multi_info</key><string> </string><key>x</key><string>83834.4126</string><key>y</key><string>81503.6525</string></dict>
+<dict>
+<key>identifier</key><string>96b551d5-1ee7-4a63-903c-e072198eaeb6</string><key>stan_name</key><string>江干区人事局</string><key>multi_info</key><string> </string><key>x</key><string>83833.5186</string><key>y</key><string>81508.7930</string></dict>
+<dict>
+<key>identifier</key><string>2645c08c-c8d3-4f26-acd1-6caf6b91172f</string><key>stan_name</key><string>江干区建设局</string><key>multi_info</key><string> </string><key>x</key><string>83834.8596</string><key>y</key><string>81500.9705</string></dict>
+<dict>
+<key>identifier</key><string>9985cbdc-d518-4a58-a3e9-30d5db562393</string><key>stan_name</key><string>江干区商贸旅游局</string><key>multi_info</key><string> </string><key>x</key><string>83870.1722</string><key>y</key><string>81512.3689</string></dict>
+<dict>
+<key>identifier</key><string>21400d7f-47fe-45ac-8c5e-f7716439b4c5</string><key>stan_name</key><string>江干区文化广电新闻出版局、体育局</string><key>multi_info</key><string> </string><key>x</key><string>83864.1378</string><key>y</key><string>81457.1650</string></dict>
+<dict>
+<key>identifier</key><string>a0cb9e0a-cf01-43b7-8c6a-60c2cba20a82</string><key>stan_name</key><string>江干区人口计生局</string><key>multi_info</key><string> </string><key>x</key><string>83863.2438</string><key>y</key><string>81460.2940</string></dict>
+<dict>
+<key>identifier</key><string>fa0fab81-5e9a-4a4a-852e-22c139fc0756</string><key>stan_name</key><string>江干区城管执法局</string><key>multi_info</key><string> </string><key>x</key><string>83830.3897</string><key>y</key><string>81464.0934</string></dict>
+<dict>
+<key>identifier</key><string>8bff947d-8453-4a9e-a036-13e6f167b3e4</string><key>stan_name</key><string>江干区信访局</string><key>multi_info</key><string> </string><key>x</key><string>83830.8366</string><key>y</key><string>81475.0448</string></dict>
+<dict>
+<key>identifier</key><string>a8093662-9812-44c5-9e6d-97ad6aa45a91</string><key>stan_name</key><string>江干区发展改革和经济局</string><key>multi_info</key><string> </string><key>x</key><string>83830.1661</string><key>y</key><string>81482.1968</string></dict>
+<dict>
+<key>identifier</key><string>23cc6291-b6ea-41ee-be48-2258f598bfef</string><key>stan_name</key><string>江干区教育局</string><key>multi_info</key><string> </string><key>x</key><string>83830.3897</string><key>y</key><string>81489.1252</string></dict>
+<dict>
+<key>identifier</key><string>1233f46e-19e6-4bb7-9861-acfa0bdbaa69</string><key>stan_name</key><string>江干区司法局</string><key>multi_info</key><string> </string><key>x</key><string>83831.0601</string><key>y</key><string>81495.6066</string></dict>
+<dict>
+<key>identifier</key><string>249b6962-90d2-467b-84cb-8402249ad7d4</string><key>stan_name</key><string>江干区农业局</string><key>multi_info</key><string> </string><key>x</key><string>83881.7941</string><key>y</key><string>81475.4918</string></dict>
+<dict>
+<key>identifier</key><string>676143f0-f2e9-4108-9cdb-97a5fd19ecb6</string><key>stan_name</key><string>江干区招商局</string><key>multi_info</key><string> </string><key>x</key><string>83870.3957</string><key>y</key><string>81507.4520</string></dict>
+<dict>
+<key>identifier</key><string>7ba9efbb-1aac-4e00-bd40-3ed7faaacca1</string><key>stan_name</key><string>江干区卫生局</string><key>multi_info</key><string> </string><key>x</key><string>83871.2897</string><key>y</key><string>81502.5350</string></dict>
+<dict>
+<key>identifier</key><string>bf8cd5fb-f732-46bd-b980-3a49bb144540</string><key>stan_name</key><string>江干区审计局</string><key>multi_info</key><string> </string><key>x</key><string>83872.1837</string><key>y</key><string>81498.0651</string></dict>
+<dict>
+<key>identifier</key><string>b576c1a8-32c1-4c0f-924e-70f83dc07662</string><key>stan_name</key><string>江干区安全生产监督管理局</string><key>multi_info</key><string> </string><key>x</key><string>83869.2782</string><key>y</key><string>81466.9989</string></dict>
+<dict>
+<key>identifier</key><string>a7fc77a2-dfb6-4ec9-a0fa-b46d9d577244</string><key>stan_name</key><string>江干国土分局</string><key>multi_info</key><string> </string><key>x</key><string>83874.4187</string><key>y</key><string>81492.4776</string></dict>
+<dict>
+<key>identifier</key><string>7b2493a5-bcbd-4e8f-9cf8-5d206312a6cc</string><key>stan_name</key><string>江干区公安分局</string><key>multi_info</key><string> </string><key>x</key><string>84695.5784</string><key>y</key><string>82632.8555</string></dict>
+<dict>
+<key>identifier</key><string>886523b0-9ca4-4d28-b188-740760826926</string><key>stan_name</key><string>江干区财政局</string><key>multi_info</key><string> </string><key>x</key><string>83530.7550</string><key>y</key><string>81911.0936</string></dict>
+<dict>
+<key>identifier</key><string>ef287181-6751-4625-8305-3bd207a1d8b6</string><key>stan_name</key><string>江干区劳动和社会保障局</string><key>multi_info</key><string> </string><key>x</key><string>83754.6467</string><key>y</key><string>82491.1065</string></dict>
+<dict>
+<key>identifier</key><string>110ca4eb-78e8-4fe1-8113-2749e27bcc97</string><key>stan_name</key><string>江干区城管办</string><key>multi_info</key><string> </string><key>x</key><string>83830.9731</string><key>y</key><string>84845.9670</string></dict>
+<dict>
+<key>identifier</key><string>af2433e1-251e-48d8-b1ca-748ed148f5cc</string><key>stan_name</key><string>江干科技经济园管委会</string><key>multi_info</key><string> </string><key>x</key><string>89077.4215</string><key>y</key><string>87525.2299</string></dict>
+<dict>
+<key>identifier</key><string>e6546fdf-9614-4e76-b992-815f596a4ec8</string><key>stan_name</key><string>江干区农居建管中心</string><key>multi_info</key><string> </string><key>x</key><string>84295.7948</string><key>y</key><string>83407.4725</string></dict>
+<dict>
+<key>identifier</key><string>f7f49a16-342f-4a7e-b3cc-085d4f46d860</string><key>stan_name</key><string>江干区凯旋地区旧城改造指挥部</string><key>multi_info</key><string> </string><key>x</key><string>82434.2372</string><key>y</key><string>81843.5694</string></dict>
+<dict>
+<key>identifier</key><string>08587b30-0621-4c45-929a-254ecbbfabfa</string><key>stan_name</key><string>江干区四季青服装特色街区管理委员会办公室</string><key>multi_info</key><string> </string><key>x</key><string>83234.4939</string><key>y</key><string>80909.8141</string></dict>
+<dict>
+<key>identifier</key><string>a501cdf1-4552-4041-9794-4b86486138ca</string><key>stan_name</key><string>江干区城建开发办</string><key>multi_info</key><string> </string><key>x</key><string>83756.7920</string><key>y</key><string>82488.6690</string></dict>
+<dict>
+<key>identifier</key><string>45e0d4d0-1df0-4265-9a91-e9325cf2753b</string><key>stan_name</key><string>江干国税局</string><key>multi_info</key><string> </string><key>x</key><string>83524.4334</string><key>y</key><string>81913.3729</string></dict>
+<dict>
+<key>identifier</key><string>39f778c9-4666-49cc-a218-00a675f8a704</string><key>stan_name</key><string>江干环保分局</string><key>multi_info</key><string> </string><key>x</key><string>83371.9728</string><key>y</key><string>81982.6599</string></dict>
+<dict>
+<key>identifier</key><string>28ef212f-5c28-4cb9-9c89-56013e0f1a73</string><key>stan_name</key><string>江干质监分局</string><key>multi_info</key><string> </string><key>x</key><string>83412.5101</string><key>y</key><string>83256.1923</string></dict>
+<dict>
+<key>identifier</key><string>75bf6776-c78c-43f2-a92f-233ace95729b</string><key>stan_name</key><string>江干地税分局</string><key>multi_info</key><string> </string><key>x</key><string>83531.8090</string><key>y</key><string>81920.5683</string></dict>
+<dict>
+<key>identifier</key><string>bfeba78e-e429-4e19-a504-826c17398883</string><key>stan_name</key><string>江干工商分局</string><key>multi_info</key><string> </string><key>x</key><string>82670.7438</string><key>y</key><string>81831.3940</string></dict>
+<dict>
+<key>identifier</key><string>3f042e2c-0e87-40e7-8073-c981f5f02168</string><key>stan_name</key><string>江干食品药品监管分局</string><key>multi_info</key><string> </string><key>x</key><string>83381.5019</string><key>y</key><string>81538.2223</string></dict>
+<dict>
+<key>identifier</key><string>0060ae9b-da34-4c5e-b6c0-4c5918c30b7b</string><key>stan_name</key><string>西湖区政府</string><key>multi_info</key><string> </string><key>x</key><string>76651.1223</string><key>y</key><string>81741.0406</string></dict>
+<dict>
+<key>identifier</key><string>938044e1-e031-4e6d-8329-97dfb5eea97d</string><key>stan_name</key><string>西湖区监察局</string><key>multi_info</key><string> </string><key>x</key><string>76659.2942</string><key>y</key><string>81735.4954</string></dict>
+<dict>
+<key>identifier</key><string>fc5402b1-23e6-4b56-9462-247d80676fd7</string><key>stan_name</key><string>西湖区外经贸局（外事办）</string><key>multi_info</key><string> </string><key>x</key><string>76595.6267</string><key>y</key><string>81791.0072</string></dict>
+<dict>
+<key>identifier</key><string>a56c6550-22f8-4db0-ba08-6387251f7d56</string><key>stan_name</key><string>西湖区人口和计划生育局</string><key>multi_info</key><string> </string><key>x</key><string>76676.1764</string><key>y</key><string>81216.2230</string></dict>
+<dict>
+<key>identifier</key><string>5e3ac6f8-7bcb-42af-9b59-004bd989f1b9</string><key>stan_name</key><string>西湖区文化广电新闻出版局（体育局）</string><key>multi_info</key><string> </string><key>x</key><string>76655.2769</string><key>y</key><string>81166.9041</string></dict>
+<dict>
+<key>identifier</key><string>742e863d-5cd4-47e6-85af-d3bc26957a60</string><key>stan_name</key><string>西湖区三墩镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>72318.0940</string><key>y</key><string>88652.8520</string></dict>
+<dict>
+<key>identifier</key><string>3ac5fb56-73d4-4f31-9007-0406132ebc0f</string><key>stan_name</key><string>拱墅区民政局(老龄委)</string><key>multi_info</key><string> </string><key>x</key><string>78198.0220</string><key>y</key><string>85226.4690</string></dict>
+<dict>
+<key>identifier</key><string>f86a3c35-626e-4bd9-ae9c-1620a6b37878</string><key>stan_name</key><string>上城区人民政府办公室</string><key>multi_info</key><string> </string><key>x</key><string>80418.2665</string><key>y</key><string>79898.9094</string></dict>
+<dict>
+<key>identifier</key><string>d3a5934d-7b2f-4a70-805d-18748e75ef24</string><key>stan_name</key><string>上城区教育局</string><key>multi_info</key><string> </string><key>x</key><string>80880.7832</string><key>y</key><string>79952.3096</string></dict>
+<dict>
+<key>identifier</key><string>209cb089-edb7-4e62-9e5a-8c309461f3d5</string><key>stan_name</key><string>上城区民族宗教事务管理局</string><key>multi_info</key><string> </string><key>x</key><string>80447.3936</string><key>y</key><string>79892.1206</string></dict>
+<dict>
+<key>identifier</key><string>72f49427-d39f-415d-a1c1-ff155d860ba5</string><key>stan_name</key><string>上城区民政局</string><key>multi_info</key><string> </string><key>x</key><string>80414.6307</string><key>y</key><string>79942.0937</string></dict>
+<dict>
+<key>identifier</key><string>412b2abe-ebcb-4180-8460-625f652eaa22</string><key>stan_name</key><string>上城区财政局</string><key>multi_info</key><string> </string><key>x</key><string>80423.3136</string><key>y</key><string>79949.3811</string></dict>
+<dict>
+<key>identifier</key><string>ce993aad-ca3a-4289-9fd7-e45b520e7f09</string><key>stan_name</key><string>上城区人口和计划生育局</string><key>multi_info</key><string> </string><key>x</key><string>80414.6307</string><key>y</key><string>79938.8376</string></dict>
+<dict>
+<key>identifier</key><string>9bf9d9c2-7c7c-4a03-9264-b2bab5a3170e</string><key>stan_name</key><string>上城区文化广电新闻出版局（体育局）</string><key>multi_info</key><string> </string><key>x</key><string>80447.3467</string><key>y</key><string>79897.5937</string></dict>
+<dict>
+<key>identifier</key><string>db42d158-eda9-4195-bd26-75b4ac635d76</string><key>stan_name</key><string>拱墅区卫生局</string><key>multi_info</key><string> </string><key>x</key><string>77707.4423</string><key>y</key><string>88351.9184</string></dict>
+<dict>
+<key>identifier</key><string>264bdf3d-1fa5-4c76-accf-e397fab06832</string><key>stan_name</key><string>拱墅区人民政府办公室</string><key>multi_info</key><string> </string><key>x</key><string>77707.2653</string><key>y</key><string>88354.7503</string></dict>
+<dict>
+<key>identifier</key><string>881816aa-a3de-490e-8fcb-574a4405db3e</string><key>stan_name</key><string>拱墅区人民法院</string><key>multi_info</key><string> </string><key>x</key><string>77724.1389</string><key>y</key><string>88437.8793</string></dict>
+<dict>
+<key>identifier</key><string>778dfb5d-5ce9-450b-b4e0-f6d8a677a85b</string><key>stan_name</key><string>拱墅区人民检察院</string><key>multi_info</key><string> </string><key>x</key><string>77713.0472</string><key>y</key><string>88473.5144</string></dict>
+<dict>
+<key>identifier</key><string>a5f7e9c4-54ec-4abe-b410-33a5f506936a</string><key>stan_name</key><string>拱墅区财政局</string><key>multi_info</key><string> </string><key>x</key><string>78372.0886</string><key>y</key><string>85833.4026</string></dict>
+<dict>
+<key>identifier</key><string>82586e57-2c70-47d8-858c-314767d2fd41</string><key>stan_name</key><string>拱墅区城管办</string><key>multi_info</key><string> </string><key>x</key><string>76747.4328</string><key>y</key><string>86138.5538</string></dict>
+<dict>
+<key>identifier</key><string>765e33d8-b9fa-4ccf-a7ca-a01975c675c2</string><key>stan_name</key><string>拱墅区城管执法局</string><key>multi_info</key><string> </string><key>x</key><string>76153.7758</string><key>y</key><string>86609.1555</string></dict>
+<dict>
+<key>identifier</key><string>ee8e1111-b6df-4000-994b-d594f238d6db</string><key>stan_name</key><string>拱墅区劳动保障局</string><key>multi_info</key><string> </string><key>x</key><string>80475.8937</string><key>y</key><string>89302.3448</string></dict>
+<dict>
+<key>identifier</key><string>983809c9-96c9-4252-ad8f-0169b4b75f06</string><key>stan_name</key><string>拱宸桥指挥部</string><key>multi_info</key><string> </string><key>x</key><string>77739.9812</string><key>y</key><string>89038.7844</string></dict>
+<dict>
+<key>identifier</key><string>d9502f5a-5b92-4596-802b-5272f57f6c41</string><key>stan_name</key><string>拱墅区城建发展中心</string><key>multi_info</key><string> </string><key>x</key><string>77989.4308</string><key>y</key><string>85785.1672</string></dict>
+<dict>
+<key>identifier</key><string>e23861f3-3f6c-4f3c-8276-205457675de3</string><key>stan_name</key><string>拱墅区城中村指挥部</string><key>multi_info</key><string> </string><key>x</key><string>76157.6004</string><key>y</key><string>86598.8125</string></dict>
+<dict>
+<key>identifier</key><string>5dc9a19b-5624-42db-a085-c390132e6226</string><key>stan_name</key><string>湖墅路指挥部</string><key>multi_info</key><string> </string><key>x</key><string>78786.4476</string><key>y</key><string>84221.1601</string></dict>
+<dict>
+<key>identifier</key><string>54a4283b-b901-4f6d-9864-769223ad9849</string><key>stan_name</key><string>杭州市国土资源局拱墅分局</string><key>multi_info</key><string> </string><key>x</key><string>77740.9478</string><key>y</key><string>88356.3176</string></dict>
+<dict>
+<key>identifier</key><string>5ac8070c-35b9-4d81-bc5b-435e17269f43</string><key>stan_name</key><string>拱墅区环保分局</string><key>multi_info</key><string> </string><key>x</key><string>79394.5501</string><key>y</key><string>85714.6755</string></dict>
+<dict>
+<key>identifier</key><string>1a5de417-b584-4eee-aa84-bcf76145d2ca</string><key>stan_name</key><string>拱墅区质监分局</string><key>multi_info</key><string> </string><key>x</key><string>78612.1039</string><key>y</key><string>84961.9491</string></dict>
+<dict>
+<key>identifier</key><string>f2e7ff08-da3b-4d15-8f02-0418d5bccf40</string><key>stan_name</key><string>拱墅区药监分局</string><key>multi_info</key><string> </string><key>x</key><string>77568.1272</string><key>y</key><string>87700.9240</string></dict>
+<dict>
+<key>identifier</key><string>ae490a1d-4122-406a-81bd-b04760b1359a</string><key>stan_name</key><string>西湖区安全生产监督管理局</string><key>multi_info</key><string> </string><key>x</key><string>74149.7030</string><key>y</key><string>84542.9083</string></dict>
+<dict>
+<key>identifier</key><string>9fa5a7ce-044a-4e08-b4f6-e77f722e3dd0</string><key>stan_name</key><string>西湖区审计局</string><key>multi_info</key><string> </string><key>x</key><string>74152.1376</string><key>y</key><string>84566.7674</string></dict>
+<dict>
+<key>identifier</key><string>270bdbb4-524c-46bd-a0c4-d64a3e3e1ff0</string><key>stan_name</key><string>西湖区劳动和社会保障局</string><key>multi_info</key><string> </string><key>x</key><string>74152.1376</string><key>y</key><string>84553.2960</string></dict>
+<dict>
+<key>identifier</key><string>dbed77c1-9451-4776-a081-ed04b26dff36</string><key>stan_name</key><string>西湖区统计局</string><key>multi_info</key><string> </string><key>x</key><string>75563.1629</string><key>y</key><string>83191.6822</string></dict>
+<dict>
+<key>identifier</key><string>40af0f45-faee-4975-b6b4-20df90c58ca2</string><key>stan_name</key><string>杭州市质量技术监督局西湖分局</string><key>multi_info</key><string> </string><key>x</key><string>73115.6272</string><key>y</key><string>84003.4650</string></dict>
+<dict>
+<key>identifier</key><string>1b96eb66-afb3-4691-ae85-c809bcb29667</string><key>stan_name</key><string>西湖区商贸旅游局</string><key>multi_info</key><string> </string><key>x</key><string>75726.0133</string><key>y</key><string>83227.7497</string></dict>
+<dict>
+<key>identifier</key><string>fe6081cf-393b-49de-904b-615a0c50355a</string><key>stan_name</key><string>西湖区民政局</string><key>multi_info</key><string> </string><key>x</key><string>78759.8186</string><key>y</key><string>82874.9060</string></dict>
+<dict>
+<key>identifier</key><string>9a44f17b-efaa-44c2-8496-8b8e472b877a</string><key>stan_name</key><string>西湖区人事局</string><key>multi_info</key><string> </string><key>x</key><string>76633.5815</string><key>y</key><string>81750.0780</string></dict>
+<dict>
+<key>identifier</key><string>e310e9c9-f00e-4368-920b-6eb57b18dfe6</string><key>stan_name</key><string>西湖区科技局</string><key>multi_info</key><string> </string><key>x</key><string>75815.5969</string><key>y</key><string>84069.5048</string></dict>
+<dict>
+<key>identifier</key><string>a11f79b8-39b1-418e-9474-07a6b0f431b9</string><key>stan_name</key><string>西湖区卫生局</string><key>multi_info</key><string> </string><key>x</key><string>76463.4797</string><key>y</key><string>81749.8065</string></dict>
+<dict>
+<key>identifier</key><string>a5e2e571-00fe-4476-b6dd-01db3089c627</string><key>stan_name</key><string>拱墅区总工会</string><key>multi_info</key><string> </string><key>x</key><string>77704.6104</string><key>y</key><string>88365.9010</string></dict>
+<dict>
+<key>identifier</key><string>526e1955-0880-42fd-a967-c18d72ef8938</string><key>stan_name</key><string>拱墅区纪委(区监察局)</string><key>multi_info</key><string> </string><key>x</key><string>77705.6724</string><key>y</key><string>88361.4761</string></dict>
+<dict>
+<key>identifier</key><string>b5d8caf9-96c9-469e-a22d-10d526a45b0e</string><key>stan_name</key><string>拱墅区教育局</string><key>multi_info</key><string> </string><key>x</key><string>77704.6104</string><key>y</key><string>88369.2639</string></dict>
+<dict>
+<key>identifier</key><string>e81669f5-2c30-45f9-969a-e0c5c5bd1662</string><key>stan_name</key><string>拱墅区人民政府</string><key>multi_info</key><string> </string><key>x</key><string>77726.2039</string><key>y</key><string>88357.7592</string></dict>
+<dict>
+<key>identifier</key><string>c54ab510-14d0-432a-ac35-b85a03c8c5ad</string><key>stan_name</key><string>拱墅区统计局</string><key>multi_info</key><string> </string><key>x</key><string>77704.2564</string><key>y</key><string>88371.5649</string></dict>
+<dict>
+<key>identifier</key><string>2c3769c1-721a-4fe8-a262-7572127bc2a9</string><key>stan_name</key><string>拱墅区文广新局</string><key>multi_info</key><string> </string><key>x</key><string>77704.4334</string><key>y</key><string>88375.4588</string></dict>
+<dict>
+<key>identifier</key><string>c80174c9-55a3-4219-b2b5-a10be66594da</string><key>stan_name</key><string>拱墅区司法局</string><key>multi_info</key><string> </string><key>x</key><string>77740.5405</string><key>y</key><string>88365.37</string></dict>
+<dict>
+<key>identifier</key><string>764d3cee-bc3b-4dfd-bd73-bc35ab4187ae</string><key>stan_name</key><string>拱墅区安监局</string><key>multi_info</key><string> </string><key>x</key><string>77740.3635</string><key>y</key><string>88368.91</string></dict>
+<dict>
+<key>identifier</key><string>d95ffb25-d062-4c1f-bbf6-8d2a087f2201</string><key>stan_name</key><string>拱墅区人口计生局</string><key>multi_info</key><string> </string><key>x</key><string>77740.3635</string><key>y</key><string>88372.0959</string></dict>
+<dict>
+<key>identifier</key><string>7bdd9a50-f5da-4cb6-b844-d6f854b4b115</string><key>stan_name</key><string>拱墅区发展改革和经济局</string><key>multi_info</key><string> </string><key>x</key><string>77740.1865</string><key>y</key><string>88374.9278</string></dict>
+<dict>
+<key>identifier</key><string>724f67e7-4c39-4043-9384-f0a9f2931bc3</string><key>stan_name</key><string>拱墅区人事局</string><key>multi_info</key><string> </string><key>x</key><string>77739.8325</string><key>y</key><string>88377.7597</string></dict>
+<dict>
+<key>identifier</key><string>53c89802-6056-4390-a88a-4b5bef52fdd3</string><key>stan_name</key><string>拱墅区农业局</string><key>multi_info</key><string> </string><key>x</key><string>77707.9733</string><key>y</key><string>88342.3606</string></dict>
+<dict>
+<key>identifier</key><string>37ad58a1-1533-4eb2-8bb7-26c49288aa26</string><key>stan_name</key><string>拱墅区科技局</string><key>multi_info</key><string> </string><key>x</key><string>77707.6193</string><key>y</key><string>88345.0155</string></dict>
+<dict>
+<key>identifier</key><string>6816a885-1658-4709-b570-5c0b2ea198f2</string><key>stan_name</key><string>拱墅区外经贸局(招商局)</string><key>multi_info</key><string> </string><key>x</key><string>77707.2653</string><key>y</key><string>88348.3784</string></dict>
+<dict>
+<key>identifier</key><string>3785f99d-1b4d-4813-a1a7-237d21d9d727</string><key>stan_name</key><string>西湖区双浦镇人民政府</string><key>multi_info</key><string> </string><key>x</key><string>75890.2934</string><key>y</key><string>65481.4410</string></dict>
+<dict>
+<key>identifier</key><string>5d2277aa-051e-4c24-a12a-3c9381413310</string><key>stan_name</key><string>拱墅区地税分局</string><key>multi_info</key><string> </string><key>x</key><string>78668.2533</string><key>y</key><string>84809.0523</string></dict>
+<dict>
+<key>identifier</key><string>c1a46ca3-6e09-4877-83ec-d6624e8155ff</string><key>stan_name</key><string>拱墅区工商分局</string><key>multi_info</key><string> </string><key>x</key><string>78357.5234</string><key>y</key><string>86762.9844</string></dict>
+<dict>
+<key>identifier</key><string>ad3896f2-f1d1-40d6-ab50-8795c3255120</string><key>stan_name</key><string>拱墅区公安分局</string><key>multi_info</key><string> </string><key>x</key><string>78417.8359</string><key>y</key><string>86778.4063</string></dict>
+<dict>
+<key>identifier</key><string>c7b50bb2-6c93-420e-9d27-cbf24741e6d8</string><key>stan_name</key><string>拱墅区建设局</string><key>multi_info</key><string> </string><key>x</key><string>79851.4769</string><key>y</key><string>86890.8347</string></dict>
+<dict>
+<key>identifier</key><string>78aa9307-1876-46e9-a893-d6058a5fb449</string><key>stan_name</key><string>拱墅区商贸旅游局</string><key>multi_info</key><string> </string><key>x</key><string>77277.3386</string><key>y</key><string>85704.4926</string></dict>
+<dict>
+<key>identifier</key><string>ced0a6f8-809d-4cf8-a2c0-d2cce8afa9d7</string><key>stan_name</key><string>西湖区农业局</string><key>multi_info</key><string> </string><key>x</key><string>75539.6953</string><key>y</key><string>83057.9531</string></dict>
+<dict>
+<key>identifier</key><string>df91e24b-641a-4519-b88b-7d952e344898</string><key>stan_name</key><string>西湖区建设局</string><key>multi_info</key><string> </string><key>x</key><string>78001.6020</string><key>y</key><string>83092.0263</string></dict>
+<dict>
+<key>identifier</key><string>bf2447b4-9baf-494a-aec7-08db86eed9a8</string><key>stan_name</key><string>西湖区人民政府城市管理办公室</string><key>multi_info</key><string> </string><key>x</key><string>75108.9909</string><key>y</key><string>83592.0602</string></dict>
+<dict>
+<key>identifier</key><string>de74f5d0-c73f-41fd-b357-c0ccea08af11</string><key>stan_name</key><string>西湖区财政局</string><key>multi_info</key><string> </string><key>x</key><string>75934.3964</string><key>y</key><string>83613.9669</string></dict>
+<dict>
+<key>identifier</key><string>893082ff-89a5-448d-9751-8785dda7a6d3</string><key>stan_name</key><string>西湖区人防办（民防局）</string><key>multi_info</key><string> </string><key>x</key><string>77163.4783</string><key>y</key><string>83697.4591</string></dict>
+<dict>
+<key>identifier</key><string>4aa8688d-6b9f-470d-8b3c-db6a4076f25a</string><key>stan_name</key><string>杭州市拱墅区国家税务局</string><key>multi_info</key><string> </string><key>x</key><string>78711.6562</string><key>y</key><string>86552.2344</string></dict>
+<dict>
+<key>identifier</key><string>fd39ee63-cd06-4709-882a-aa07bae8d4e2</string><key>stan_name</key><string>西湖区城市管理行政执法局</string><key>multi_info</key><string> </string><key>x</key><string>75110.2088</string><key>y</key><string>83575.8623</string></dict>
+<dict>
+<key>identifier</key><string>d7e6a52c-24ea-4ee9-8ea4-fffec8422a3f</string><key>stan_name</key><string>西湖区教育局</string><key>multi_info</key><string> </string><key>x</key><string>76319.8594</string><key>y</key><string>81698.2188</string></dict>
+<dict>
+<key>identifier</key><string>16a64af5-0059-4b0d-86b0-276493cdeabb</string><key>stan_name</key><string>西湖区信访局</string><key>multi_info</key><string> </string><key>x</key><string>76682.6831</string><key>y</key><string>81730.1560</string></dict>
+<dict>
+<key>identifier</key><string>d93488aa-1d63-4495-b5ca-1c0de94d8d46</string><key>stan_name</key><string>江干规划分局</string><key>multi_info</key><string> </string><key>x</key><string>83992.5156</string><key>y</key><string>82637.9766</string></dict>
+<dict>
+<key>identifier</key><string>81203e5b-7625-4fbe-a448-37e199628929</string><key>stan_name</key><string>公安局西湖区分局</string><key>multi_info</key><string> </string><key>x</key><string>76478.5547</string><key>y</key><string>81782.7109</string></dict>
+<dict>
+<key>identifier</key><string>002f09a4-4a5a-4910-a0cb-f08d021e6b5c</string><key>stan_name</key><string>西湖区司法局</string><key>multi_info</key><string> </string><key>x</key><string>76530.6067</string><key>y</key><string>81808.3035</string></dict>
+<dict>
+<key>identifier</key><string>bd58a6c3-48f8-414e-87ad-5592dc1ecd66</string><key>stan_name</key><string>西湖区发展改革和经济局（区物价所、区乡镇企业局）</string><key>multi_info</key><string> </string><key>x</key><string>76607.1415</string><key>y</key><string>81786.1551</string></dict>
+<dict>
+<key>identifier</key><string>768eff0a-8177-4613-9d96-7fc849f82694</string><key>stan_name</key><string>上城区公安分局</string><key>multi_info</key><string> </string><key>x</key><string>80759.1328</string><key>y</key><string>80005.7344</string></dict>
+<dict>
+<key>identifier</key><string>42cab89f-5459-40d0-aab2-8f70d4a08495</string><key>stan_name</key><string>上城区卫生局</string><key>multi_info</key><string> </string><key>x</key><string>81608.7969</string><key>y</key><string>81216.6484</string></dict>
+<dict>
+<key>identifier</key><string>d9a770d5-9c5a-4383-9d62-55a10d6b3e43</string><key>stan_name</key><string>杭州市国土资源局西湖分局</string><key>multi_info</key><string> </string><key>x</key><string>75683.8929</string><key>y</key><string>83362.7936</string></dict>
+<dict>
+<key>identifier</key><string>07087464-fcf4-43a2-8013-f882cac06fde</string><key>stan_name</key><string>余杭区审计局</string><key>multi_info</key><string> </string><key>x</key><string>92784.3098</string><key>y</key><string>99526.8288</string></dict>
+<dict>
+<key>identifier</key><string>ede3cba6-cb98-4ce6-9f73-991b3195c5cd</string><key>stan_name</key><string>余杭区信访局</string><key>multi_info</key><string> </string><key>x</key><string>92774.3818</string><key>y</key><string>99580.8421</string></dict>
+<dict>
+<key>identifier</key><string>8f0a7301-64f9-40e6-9626-c998872b97ac</string><key>stan_name</key><string>余杭区卫生局</string><key>multi_info</key><string> </string><key>x</key><string>93069.4602</string><key>y</key><string>99639.4486</string></dict>
+<dict>
+<key>identifier</key><string>0d68cf29-ae57-4928-af35-8755bd3320ee</string><key>stan_name</key><string>余杭区人事局</string><key>multi_info</key><string> </string><key>x</key><string>92880.0084</string><key>y</key><string>100050.7016</string></dict>
+<dict>
+<key>identifier</key><string>8942285e-5883-444f-9f86-1b2bb1c274a0</string><key>stan_name</key><string>余杭区民政局</string><key>multi_info</key><string> </string><key>x</key><string>92988.1990</string><key>y</key><string>100193.5575</string></dict>
+<dict>
+<key>identifier</key><string>c74e165b-0fd6-4c04-aff5-ea0542c90f04</string><key>stan_name</key><string>余杭区盐务管理局</string><key>multi_info</key><string> </string><key>x</key><string>92968.2457</string><key>y</key><string>100228.5841</string></dict>
+<dict>
+<key>identifier</key><string>12d1e344-6b92-42cf-9cca-ff3cd799e498</string><key>stan_name</key><string>余杭区交通局</string><key>multi_info</key><string> </string><key>x</key><string>93086.3656</string><key>y</key><string>100318.4267</string></dict>
+<dict>
+<key>identifier</key><string>db888bae-6f2d-43a6-afe1-6cd454f26753</string><key>stan_name</key><string>余杭区林业水利局</string><key>multi_info</key><string> </string><key>x</key><string>92968.3751</string><key>y</key><string>100325.5840</string></dict>
+<dict>
+<key>identifier</key><string>aef0cecd-8dbc-498c-9ed1-479e5afb4cca</string><key>stan_name</key><string>拱墅区信访局</string><key>multi_info</key><string> </string><key>x</key><string>77642.9360</string><key>y</key><string>89024.0861</string></dict>
+<dict>
+<key>identifier</key><string>1568184c-975a-428b-b991-5bf74c86d5ed</string><key>stan_name</key><string>拱墅区规划分局</string><key>multi_info</key><string> </string><key>x</key><string>78196.3995</string><key>y</key><string>88854.2723</string></dict>
+</array>
+</plist>

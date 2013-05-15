@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>3f0b4131-5afa-4fd3-aef1-a20201083fbf</string><key>stan_name</key><string>杭州文化广播电视集团</string><key>multi_info</key><string> </string><key>x</key><string>83371.3260</string><key>y</key><string>78244.1590</string></dict>
+<dict>
+<key>identifier</key><string>4d8ad042-f4d4-4011-b53a-6b9861565782</string><key>stan_name</key><string>杭州市广播发射中心</string><key>multi_info</key><string> </string><key>x</key><string>84175.9453</string><key>y</key><string>76638.0859</string></dict>
+<dict>
+<key>identifier</key><string>a92ee960-0c5b-47e9-9811-9bfd0fb311b0</string><key>stan_name</key><string>浙江广播电视卫星地球站</string><key>multi_info</key><string> </string><key>x</key><string>75568.1250</string><key>y</key><string>78604.5078</string></dict>
+<dict>
+<key>identifier</key><string>2397cf31-3c12-4bbd-a6a6-648cca3e13d1</string><key>stan_name</key><string>浙江广播电视卫星地球站</string><key>multi_info</key><string> </string><key>x</key><string>75059.5625</string><key>y</key><string>78393.0313</string></dict>
+<dict>
+<key>identifier</key><string>cbfde059-a9b0-4de9-b163-1c445b9d78f7</string><key>stan_name</key><string>杭州人民广播电台新闻综合频道</string><key>multi_info</key><string> </string><key>x</key><string>78690.0858</string><key>y</key><string>83859.3980</string></dict>
+<dict>
+<key>identifier</key><string>dc241abf-b75f-429a-86cc-5902fb34fa4d</string><key>stan_name</key><string>杭州人民广播电台西湖之声</string><key>multi_info</key><string> </string><key>x</key><string>78691.1819</string><key>y</key><string>83859.7392</string></dict>
+<dict>
+<key>identifier</key><string>9af82ca6-0107-497d-8f30-2c8cd69612ff</string><key>stan_name</key><string>杭州广播电视集团</string><key>multi_info</key><string> </string><key>x</key><string>78709.0625</string><key>y</key><string>83865.8047</string></dict>
+<dict>
+<key>identifier</key><string>99ac1aa7-060e-408c-a034-018b26caac40</string><key>stan_name</key><string>浙江省电视剧制作中心</string><key>multi_info</key><string> </string><key>x</key><string>76956.2636</string><key>y</key><string>84077.1117</string></dict>
+<dict>
+<key>identifier</key><string>b5f740dc-75ca-472d-9db0-9af3b2125143</string><key>stan_name</key><string>浙江电影制片厂</string><key>multi_info</key><string> </string><key>x</key><string>76957.6371</string><key>y</key><string>84085.9772</string></dict>
+<dict>
+<key>identifier</key><string>51b26bf2-494c-40a1-91c5-a58e8c3039b9</string><key>stan_name</key><string>天元电影电视艺术中心</string><key>multi_info</key><string> </string><key>x</key><string>76961.2266</string><key>y</key><string>84100.25</string></dict>
+<dict>
+<key>identifier</key><string>8839d8a3-fa57-4ba5-8512-3f4e19eb3b51</string><key>stan_name</key><string>浙江省广电科技股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74779.6842</string><key>y</key><string>85127.9186</string></dict>
+<dict>
+<key>identifier</key><string>14679d5a-baa8-4716-874f-b23f082f77e5</string><key>stan_name</key><string>浙江省教育电视台</string><key>multi_info</key><string> </string><key>x</key><string>78586.9082</string><key>y</key><string>83505.8425</string></dict>
+<dict>
+<key>identifier</key><string>b4aba4f6-e70b-4647-a608-6c255b003af9</string><key>stan_name</key><string>浙江省广播电视集团</string><key>multi_info</key><string> </string><key>x</key><string>78766.5469</string><key>y</key><string>83482.4453</string></dict>
+<dict>
+<key>identifier</key><string>8bf0a46d-9c95-4b3f-b7e5-a2642972be81</string><key>stan_name</key><string>浙江电视台公共新农村频道</string><key>multi_info</key><string> </string><key>x</key><string>78480.9295</string><key>y</key><string>83530.8928</string></dict>
+<dict>
+<key>identifier</key><string>1e6d5a91-4733-4e9f-ad2d-8fd61f82020a</string><key>stan_name</key><string>浙江省广播电视广告中心</string><key>multi_info</key><string> </string><key>x</key><string>78839.4288</string><key>y</key><string>83535.7453</string></dict>
+<dict>
+<key>identifier</key><string>ef6640e7-01ae-46ae-8bcc-15167fb938a9</string><key>stan_name</key><string>浙江电视台影视娱乐频道广告部</string><key>multi_info</key><string> </string><key>x</key><string>78878.1575</string><key>y</key><string>83553.2829</string></dict>
+<dict>
+<key>identifier</key><string>83a5f258-797c-4f0a-b6db-be37578f7c19</string><key>stan_name</key><string>浙江省广播电视中心</string><key>multi_info</key><string> </string><key>x</key><string>78627.0375</string><key>y</key><string>83562.9612</string></dict>
+<dict>
+<key>identifier</key><string>8c1aef8b-ce27-47ff-876d-29a4f144badd</string><key>stan_name</key><string>杭州电影有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83291.9990</string><key>y</key><string>80755.5297</string></dict>
+<dict>
+<key>identifier</key><string>77376d25-7b7b-42dc-b930-b07738038481</string><key>stan_name</key><string>浙江省电影总公司</string><key>multi_info</key><string> </string><key>x</key><string>75323.8281</string><key>y</key><string>82956.8594</string></dict>
+<dict>
+<key>identifier</key><string>75612f9f-8e86-4879-a447-5c9d2379ec2a</string><key>stan_name</key><string>广电中心</string><key>multi_info</key><string> </string><key>x</key><string>73878.2178</string><key>y</key><string>82126.8799</string></dict>
+<dict>
+<key>identifier</key><string>add02d2e-25b7-437b-b1ab-13c3c0286d00</string><key>stan_name</key><string>西湖广电中心</string><key>multi_info</key><string> </string><key>x</key><string>73863.2869</string><key>y</key><string>82242.9753</string></dict>
+<dict>
+<key>identifier</key><string>bf379b2b-d020-4a36-8f16-478411739992</string><key>stan_name</key><string>余杭区广播电视台</string><key>multi_info</key><string> </string><key>x</key><string>93865.4087</string><key>y</key><string>98850.3866</string></dict>
+</array>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>c6feb75d-bf46-4865-a6a2-899f7cb75388</string><key>stan_name</key><string>路边饭店</string><key>multi_info</key><string> </string><key>x</key><string>68129.9219</string><key>y</key><string>69334.3281</string></dict>
+<dict>
+<key>identifier</key><string>719868d1-fd52-4807-87b3-2f1e229b5529</string><key>stan_name</key><string>阿娟面馆</string><key>multi_info</key><string> </string><key>x</key><string>80607.5625</string><key>y</key><string>76748.3828</string></dict>
+<dict>
+<key>identifier</key><string>ab56ac6a-e691-4c8b-8f7c-c81cc940b40f</string><key>stan_name</key><string>知味馆</string><key>multi_info</key><string> </string><key>x</key><string>77233.5625</string><key>y</key><string>78635.6875</string></dict>
+<dict>
+<key>identifier</key><string>55fa85ee-4fb0-4311-9f50-ca7c24083fe6</string><key>stan_name</key><string>杭州溪景人家羊锅</string><key>multi_info</key><string> </string><key>x</key><string>63001.4748</string><key>y</key><string>81881.9541</string></dict>
+<dict>
+<key>identifier</key><string>1ed89418-d9c2-4a01-b9e5-7aa11bd00242</string><key>stan_name</key><string>杭州溪景人家羊锅</string><key>multi_info</key><string> </string><key>x</key><string>63001.4748</string><key>y</key><string>81881.9541</string></dict>
+<dict>
+<key>identifier</key><string>185c190a-a65a-4681-9c19-cdc6770dac92</string><key>stan_name</key><string>知味观</string><key>multi_info</key><string> </string><key>x</key><string>80297.4568</string><key>y</key><string>87008.2704</string></dict>
+<dict>
+<key>identifier</key><string>0c00dc24-776d-4d3a-88c7-5c78a3146446</string><key>stan_name</key><string>新丰小吃</string><key>multi_info</key><string> </string><key>x</key><string>79978.0234</string><key>y</key><string>84199.0938</string></dict>
+<dict>
+<key>identifier</key><string>b0c65c8d-68d5-4ea8-992e-f23d5d7f5460</string><key>stan_name</key><string>知味观</string><key>multi_info</key><string> </string><key>x</key><string>76644.8672</string><key>y</key><string>83579.6328</string></dict>
+<dict>
+<key>identifier</key><string>eb9282c4-51f8-435e-b64d-1a4801f56826</string><key>stan_name</key><string>信坊香辣馆</string><key>multi_info</key><string> </string><key>x</key><string>77825.3125</string><key>y</key><string>85486.0547</string></dict>
+<dict>
+<key>identifier</key><string>64199362-6a87-4688-8f3d-367dfda539f9</string><key>stan_name</key><string>花园小吃</string><key>multi_info</key><string> </string><key>x</key><string>79545.8540</string><key>y</key><string>86437.0036</string></dict>
+<dict>
+<key>identifier</key><string>171d4656-a841-4ff8-b748-58cd34e57061</string><key>stan_name</key><string>知味观</string><key>multi_info</key><string> </string><key>x</key><string>76410.5078</string><key>y</key><string>81743.8359</string></dict>
+<dict>
+<key>identifier</key><string>f2ad84da-9d3f-4959-840a-31d60f71b717</string><key>stan_name</key><string>新丰小吃</string><key>multi_info</key><string> </string><key>x</key><string>79903.1016</string><key>y</key><string>80807.5859</string></dict>
+<dict>
+<key>identifier</key><string>0577b1ca-2f1f-4597-8e46-c8ce709b93d1</string><key>stan_name</key><string>新丰小吃</string><key>multi_info</key><string> </string><key>x</key><string>76425.7266</string><key>y</key><string>81797.5781</string></dict>
+<dict>
+<key>identifier</key><string>abab0e57-4617-4606-a316-c318b42b2d65</string><key>stan_name</key><string>片儿川</string><key>multi_info</key><string> </string><key>x</key><string>82440.3203</string><key>y</key><string>81817.5234</string></dict>
+<dict>
+<key>identifier</key><string>08fec24a-516c-4c62-b3b5-ad38c95929e0</string><key>stan_name</key><string>知味观</string><key>multi_info</key><string> </string><key>x</key><string>79830.6172</string><key>y</key><string>81000.7422</string></dict>
+<dict>
+<key>identifier</key><string>efc47c16-09f0-49b2-84d6-33360be5f9a1</string><key>stan_name</key><string>采荷早餐广场</string><key>multi_info</key><string> </string><key>x</key><string>83231.6250</string><key>y</key><string>81283.7969</string></dict>
+<dict>
+<key>identifier</key><string>1bb20b1d-592b-48a0-bd62-2272d193cf23</string><key>stan_name</key><string>阿香老汤面</string><key>multi_info</key><string> </string><key>x</key><string>93545.8918</string><key>y</key><string>99962.8136</string></dict>
+</array>
+</plist>

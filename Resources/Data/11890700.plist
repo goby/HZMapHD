@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>08ec4da7-a319-4b72-b1ef-30c8b6182854</string><key>stan_name</key><string>杭州下沙供销合作社</string><key>multi_info</key><string> </string><key>x</key><string>96010.2840</string><key>y</key><string>88826.8070</string></dict>
+<dict>
+<key>identifier</key><string>ff077f17-d015-4671-a465-b9c77ac05d16</string><key>stan_name</key><string>三墩信用社</string><key>multi_info</key><string> </string><key>x</key><string>73312.8125</string><key>y</key><string>87546.8438</string></dict>
+<dict>
+<key>identifier</key><string>8c71b037-1fcf-497f-8159-a5519189f5de</string><key>stan_name</key><string>杭州市西湖区灵隐街道庆丰股份经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>76960.1680</string><key>y</key><string>83217.9080</string></dict>
+<dict>
+<key>identifier</key><string>e792f9f5-55f0-431e-bb29-2839e0d007e7</string><key>stan_name</key><string>翠苑街道保亭股份经济合作社支部委员会</string><key>multi_info</key><string> </string><key>x</key><string>76911.1090</string><key>y</key><string>85234.1720</string></dict>
+<dict>
+<key>identifier</key><string>5752bd5f-08b0-4400-9233-8a3304784ceb</string><key>stan_name</key><string>杭州市新风村经济联合设</string><key>multi_info</key><string> </string><key>x</key><string>84206.3890</string><key>y</key><string>85098.7730</string></dict>
+<dict>
+<key>identifier</key><string>a1a5de90-acd3-488e-b30d-79625bf4fa44</string><key>stan_name</key><string>灵隐法云弄股份经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>75606.4330</string><key>y</key><string>80094.9840</string></dict>
+<dict>
+<key>identifier</key><string>1a481adf-fa3e-4c2c-83bd-638ceef4c51c</string><key>stan_name</key><string>周浦信用社灵山分社</string><key>multi_info</key><string> </string><key>x</key><string>68139.7734</string><key>y</key><string>66859.4453</string></dict>
+<dict>
+<key>identifier</key><string>72e9fdbf-a9a3-4a5e-bf27-f4e09d62841f</string><key>stan_name</key><string>袁浦农村信用合作社</string><key>multi_info</key><string> </string><key>x</key><string>76226.9245</string><key>y</key><string>65856.1954</string></dict>
+<dict>
+<key>identifier</key><string>954040d9-ae2c-4a26-bbe9-949752c3fc72</string><key>stan_name</key><string>周浦信用社</string><key>multi_info</key><string> </string><key>x</key><string>71238.6953</string><key>y</key><string>66388.8438</string></dict>
+<dict>
+<key>identifier</key><string>8214cbe3-f494-4676-a445-629bbe900060</string><key>stan_name</key><string>农村信用社</string><key>multi_info</key><string> </string><key>x</key><string>86015.7734</string><key>y</key><string>74127.2656</string></dict>
+<dict>
+<key>identifier</key><string>c7e7e900-7edb-41d2-ae5f-e7eace8de1ac</string><key>stan_name</key><string>信用储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>82646.1250</string><key>y</key><string>71898.0234</string></dict>
+<dict>
+<key>identifier</key><string>1b16adc6-9eb1-4e37-9f72-8f2f6691d92b</string><key>stan_name</key><string>西兴信用社叉口储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>85175.9766</string><key>y</key><string>73711.4844</string></dict>
+<dict>
+<key>identifier</key><string>8d0dc4a7-2f61-4cee-814f-aab527f3daa2</string><key>stan_name</key><string>西兴信用社</string><key>multi_info</key><string> </string><key>x</key><string>85875.2109</string><key>y</key><string>73855.4531</string></dict>
+<dict>
+<key>identifier</key><string>5a87b735-46d7-4f8e-85a4-376d0cddb205</string><key>stan_name</key><string>秋南储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>81197.9922</string><key>y</key><string>77606.0938</string></dict>
+<dict>
+<key>identifier</key><string>e9f0e9eb-6059-4262-8f45-e71429406a7d</string><key>stan_name</key><string>市区信用联社</string><key>multi_info</key><string> </string><key>x</key><string>82958.3437</string><key>y</key><string>82176.0234</string></dict>
+<dict>
+<key>identifier</key><string>0c1cddc0-8520-4bce-909d-59cc3edcafb6</string><key>stan_name</key><string>浙江省农村信用社联合社</string><key>multi_info</key><string> </string><key>x</key><string>79374.7329</string><key>y</key><string>83356.9716</string></dict>
+<dict>
+<key>identifier</key><string>781b002b-e8fc-4a53-85c3-b31d52edea22</string><key>stan_name</key><string>农村信用合作社</string><key>multi_info</key><string> </string><key>x</key><string>93490.6253</string><key>y</key><string>100512.8878</string></dict>
+<dict>
+<key>identifier</key><string>8ef1dee5-b2a9-44f3-a4c8-1a0d9f1f8a2e</string><key>stan_name</key><string>长河信用社塘子堰营业所</string><key>multi_info</key><string> </string><key>x</key><string>84288.6797</string><key>y</key><string>70119.4063</string></dict>
+<dict>
+<key>identifier</key><string>731a189d-8b16-43f3-b610-35af6f036606</string><key>stan_name</key><string>丁桥信用社</string><key>multi_info</key><string> </string><key>x</key><string>85677.5938</string><key>y</key><string>91857.4766</string></dict>
+<dict>
+<key>identifier</key><string>99e56888-5fbe-4d3d-a700-431c54c74fed</string><key>stan_name</key><string>宣家埠信用社</string><key>multi_info</key><string> </string><key>x</key><string>88291.7813</string><key>y</key><string>89611.9844</string></dict>
+<dict>
+<key>identifier</key><string>e028c0f7-181f-411a-9723-727e500e2fb0</string><key>stan_name</key><string>余杭农村合作银行良诸支行亲亲家园分理处--营业部</string><key>multi_info</key><string> </string><key>x</key><string>72393.04</string><key>y</key><string>90237.6750</string></dict>
+<dict>
+<key>identifier</key><string>3663ffed-d7ab-4b8d-9207-89f9a41f003c</string><key>stan_name</key><string>信用社</string><key>multi_info</key><string> </string><key>x</key><string>70926.1797</string><key>y</key><string>62977.0703</string></dict>
+<dict>
+<key>identifier</key><string>eb511486-c1cc-4546-9c74-ea97907726c0</string><key>stan_name</key><string>铁岭关信用社</string><key>multi_info</key><string> </string><key>x</key><string>85386.9609</string><key>y</key><string>74246.1172</string></dict>
+<dict>
+<key>identifier</key><string>14f57563-7f40-4c21-a295-5a832b848532</string><key>stan_name</key><string>浦沿信用社新浦路营业所</string><key>multi_info</key><string> </string><key>x</key><string>78804.0391</string><key>y</key><string>70127.1797</string></dict>
+<dict>
+<key>identifier</key><string>c9797d80-e37a-4d41-8184-2a6b95f4b40c</string><key>stan_name</key><string>浦沿信用社</string><key>multi_info</key><string> </string><key>x</key><string>78491.5703</string><key>y</key><string>70542.6953</string></dict>
+<dict>
+<key>identifier</key><string>e7ec4469-d4da-40fc-a30e-3f754ab667cb</string><key>stan_name</key><string>长河信用社</string><key>multi_info</key><string> </string><key>x</key><string>82488.8203</string><key>y</key><string>72719.1406</string></dict>
+<dict>
+<key>identifier</key><string>2425f809-6632-48c7-969e-848d082168cb</string><key>stan_name</key><string>长河信用社长一服务部</string><key>multi_info</key><string> </string><key>x</key><string>81697.7578</string><key>y</key><string>71675.3906</string></dict>
+<dict>
+<key>identifier</key><string>ffacb18c-7f19-4568-9429-22eb039d51be</string><key>stan_name</key><string>留下镇西穆钨村经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>70360.5527</string><key>y</key><string>79474.3715</string></dict>
+<dict>
+<key>identifier</key><string>cc51b9e8-000c-4e6f-b8c4-1d84b5a15ba5</string><key>stan_name</key><string>杭州市江干区闸弄口股份经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>82822.6641</string><key>y</key><string>83986.8672</string></dict>
+<dict>
+<key>identifier</key><string>5cfc05bb-1789-48ca-af63-80bb6b3f6995</string><key>stan_name</key><string>庆隆股份经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>75841.5784</string><key>y</key><string>85849.4077</string></dict>
+<dict>
+<key>identifier</key><string>15fbae0f-3431-4b72-99c7-accd7e5a506d</string><key>stan_name</key><string>蒋村信用社</string><key>multi_info</key><string> </string><key>x</key><string>70806.5625</string><key>y</key><string>84364.0703</string></dict>
+<dict>
+<key>identifier</key><string>508b8998-e021-4557-88c5-e5e5ccbac7a3</string><key>stan_name</key><string>杨公村信用社</string><key>multi_info</key><string> </string><key>x</key><string>89878.0781</string><key>y</key><string>85991.0703</string></dict>
+<dict>
+<key>identifier</key><string>f4ebc5ed-3da8-43c5-a412-ed5b743b2c9c</string><key>stan_name</key><string>杭州阮家桥股份经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>75703.9720</string><key>y</key><string>86572.5236</string></dict>
+<dict>
+<key>identifier</key><string>0d9d476f-7eab-483c-9ed7-6df981ff0706</string><key>stan_name</key><string>信用社</string><key>multi_info</key><string> </string><key>x</key><string>72776.5547</string><key>y</key><string>81559.9844</string></dict>
+<dict>
+<key>identifier</key><string>483ec9a2-1c5c-4f2f-83d9-0d1a72649e04</string><key>stan_name</key><string>玉泉经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>76260.3984</string><key>y</key><string>81700.5391</string></dict>
+<dict>
+<key>identifier</key><string>2950b12e-1a5f-4f6a-abb8-591487f18736</string><key>stan_name</key><string>茶市社区信用社</string><key>multi_info</key><string> </string><key>x</key><string>69754.6094</string><key>y</key><string>79889.3828</string></dict>
+<dict>
+<key>identifier</key><string>64cb8287-372a-42f4-8fc9-62e62a101f77</string><key>stan_name</key><string>杭州市西湖区供销合作社联合社</string><key>multi_info</key><string> </string><key>x</key><string>75341.1195</string><key>y</key><string>83342.0970</string></dict>
+<dict>
+<key>identifier</key><string>c6e5d15e-4a20-4615-b70f-670d3c763cea</string><key>stan_name</key><string>余杭农村信用社</string><key>multi_info</key><string> </string><key>x</key><string>93535.6466</string><key>y</key><string>100528.8278</string></dict>
+<dict>
+<key>identifier</key><string>5cbbbd9a-82e6-4ef6-8f02-a4a79223751e</string><key>stan_name</key><string>亭趾信用社</string><key>multi_info</key><string> </string><key>x</key><string>93659.1617</string><key>y</key><string>104664.6668</string></dict>
+<dict>
+<key>identifier</key><string>7c08a094-7197-4b2b-81a0-87722fb2fdb3</string><key>stan_name</key><string>杭州信用联社</string><key>multi_info</key><string> </string><key>x</key><string>78397.6484</string><key>y</key><string>93391.8203</string></dict>
+<dict>
+<key>identifier</key><string>9ae07805-6ef7-4bee-b47a-50c5e61fc24a</string><key>stan_name</key><string>信用社</string><key>multi_info</key><string> </string><key>x</key><string>89768.0469</string><key>y</key><string>87899.8281</string></dict>
+<dict>
+<key>identifier</key><string>aeb3f624-d944-420b-996f-864522aff1ad</string><key>stan_name</key><string>拱宸经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>78239.9609</string><key>y</key><string>88422.0391</string></dict>
+<dict>
+<key>identifier</key><string>b595f157-c2d9-49fb-aee5-131af111718c</string><key>stan_name</key><string>华丰经济合作社</string><key>multi_info</key><string> </string><key>x</key><string>84297.2734</string><key>y</key><string>90746.8203</string></dict>
+</array>
+</plist>

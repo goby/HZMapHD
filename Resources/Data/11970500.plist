@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>cc0a7cbc-a631-4f0a-8c58-855c50a92d8c</string><key>stan_name</key><string>杭州市景成实验学校</string><key>multi_info</key><string></string><key>x</key><string>82113.9287</string><key>y</key><string>90662.7722</string></dict>
+<dict>
+<key>identifier</key><string>307bcf5e-8318-4306-bfff-66ad2b7f0fe2</string><key>stan_name</key><string>杭州清泰实验学校(小学部)</string><key>multi_info</key><string></string><key>x</key><string>82287.4570</string><key>y</key><string>79994.2164</string></dict>
+<dict>
+<key>identifier</key><string>c99d6ac5-744c-4105-ad73-4243f25f7552</string><key>stan_name</key><string>杭州市江南实验学校小学部</string><key>multi_info</key><string></string><key>x</key><string>84577.5274</string><key>y</key><string>75276.1075</string></dict>
+<dict>
+<key>identifier</key><string>51497418-0f7a-4d15-91a9-e7e3d6d56b60</string><key>stan_name</key><string>杭州市大成实验学校</string><key>multi_info</key><string></string><key>x</key><string>81943.3741</string><key>y</key><string>81878.5443</string></dict>
+<dict>
+<key>identifier</key><string>55173ac7-1dfb-4213-8e25-818d08eef8d6</string><key>stan_name</key><string>杭州市清泰实验学校</string><key>multi_info</key><string></string><key>x</key><string>82163.8050</string><key>y</key><string>79802.7030</string></dict>
+<dict>
+<key>identifier</key><string>c49788c1-e4b6-4ad7-839b-c8b50f3d4c1b</string><key>stan_name</key><string>杭州市大成实验学校江心岛校区</string><key>multi_info</key><string></string><key>x</key><string>82243.3410</string><key>y</key><string>86173.0590</string></dict>
+<dict>
+<key>identifier</key><string>cb0bcb0d-9a2e-4338-9153-20dc811b018a</string><key>stan_name</key><string>杭州仁和外国语学校</string><key>multi_info</key><string></string><key>x</key><string>73506.22</string><key>y</key><string>72685.0880</string></dict>
+<dict>
+<key>identifier</key><string>3692bfff-3d3a-4b7c-89f9-a3b78605e0c1</string><key>stan_name</key><string>杭州市安吉路实验学校武林校区</string><key>multi_info</key><string></string><key>x</key><string>79501.2950</string><key>y</key><string>82334.5730</string></dict>
+<dict>
+<key>identifier</key><string>1c31c13e-f749-46e9-847c-7f4785e1431c</string><key>stan_name</key><string>杭州市大成实验学校岳家湾校区</string><key>multi_info</key><string></string><key>x</key><string>81238.4610</string><key>y</key><string>82462.8590</string></dict>
+<dict>
+<key>identifier</key><string>091f9bd3-8ec9-4035-b413-190a7a5ca1f8</string><key>stan_name</key><string>杭州市胜蓝实验学校东新校区</string><key>multi_info</key><string></string><key>x</key><string>81203.1140</string><key>y</key><string>87556.5130</string></dict>
+<dict>
+<key>identifier</key><string>8575c615-9404-4d72-bada-8c7243171acf</string><key>stan_name</key><string>杭州市胜蓝实验学校</string><key>multi_info</key><string></string><key>x</key><string>81601.7620</string><key>y</key><string>87880.6660</string></dict>
+<dict>
+<key>identifier</key><string>c161e278-ea64-4230-ac39-400722cfbc99</string><key>stan_name</key><string>杭州市胜蓝实验学校阳光校区</string><key>multi_info</key><string></string><key>x</key><string>80940.9420</string><key>y</key><string>87967.2480</string></dict>
+<dict>
+<key>identifier</key><string>1a16ce85-f297-49a9-b610-89dfc396471e</string><key>stan_name</key><string>杭州市景成实验学校北校区</string><key>multi_info</key><string></string><key>x</key><string>82112.3920</string><key>y</key><string>90715.7260</string></dict>
+<dict>
+<key>identifier</key><string>20019211-53f1-4326-9336-ad63c4b08a92</string><key>stan_name</key><string>杭州市安吉路实验学校</string><key>multi_info</key><string></string><key>x</key><string>79309.8520</string><key>y</key><string>82529.07</string></dict>
+<dict>
+<key>identifier</key><string>e9043527-8a12-4cd5-8d6e-2a0015b7fa8c</string><key>stan_name</key><string>杭州市安吉路实验学校戒坛校区</string><key>multi_info</key><string></string><key>x</key><string>79660.50</string><key>y</key><string>82562.3440</string></dict>
+<dict>
+<key>identifier</key><string>25770413-1e30-4f58-aa54-9c07f23177ff</string><key>stan_name</key><string>杭州市保俶塔实验学校</string><key>multi_info</key><string></string><key>x</key><string>78467.93</string><key>y</key><string>82994.0160</string></dict>
+<dict>
+<key>identifier</key><string>cff32a68-6581-4250-9e1d-d46bb5ae992a</string><key>stan_name</key><string>杭州江南实验学校</string><key>multi_info</key><string></string><key>x</key><string>84574.0080</string><key>y</key><string>75306.2420</string></dict>
+</array>
+</plist>

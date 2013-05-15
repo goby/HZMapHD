@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>0dc22c6d-6474-430c-9616-33fa08b8c6ac</string><key>stan_name</key><string>商店</string><key>multi_info</key><string> </string><key>x</key><string>71768.3203</string><key>y</key><string>81125.0781</string></dict>
+<dict>
+<key>identifier</key><string>0f957a35-20c6-4e08-8853-6649b991052b</string><key>stan_name</key><string>江干区芳邻百货商店</string><key>multi_info</key><string> </string><key>x</key><string>82932.6641</string><key>y</key><string>81301.3047</string></dict>
+<dict>
+<key>identifier</key><string>14964a96-49e2-43ab-9d0b-c213ea3fa3e4</string><key>stan_name</key><string>华宇商城</string><key>multi_info</key><string> </string><key>x</key><string>93871.0610</string><key>y</key><string>100839.3808</string></dict>
+<dict>
+<key>identifier</key><string>10744f34-042d-43ef-a3e1-4901557ca10a</string><key>stan_name</key><string>瓶窑供销社</string><key>multi_info</key><string> </string><key>x</key><string>61111.0920</string><key>y</key><string>97271.5589</string></dict>
+<dict>
+<key>identifier</key><string>c74add90-1a15-476a-89af-a080f5fb2ada</string><key>stan_name</key><string>余杭双溪综合市场</string><key>multi_info</key><string> </string><key>x</key><string>47724.2430</string><key>y</key><string>97716.0710</string></dict>
+<dict>
+<key>identifier</key><string>b6b4749e-471d-4bd2-972e-e98571731e02</string><key>stan_name</key><string>黄湖综合市场</string><key>multi_info</key><string> </string><key>x</key><string>45932.5730</string><key>y</key><string>103126.9641</string></dict>
+<dict>
+<key>identifier</key><string>b0150fec-0c0e-4950-b81b-d961547d6a0d</string><key>stan_name</key><string>四汇综合商场</string><key>multi_info</key><string> </string><key>x</key><string>93314.5320</string><key>y</key><string>99693.1219</string></dict>
+<dict>
+<key>identifier</key><string>9b9aade5-ac4f-4a52-b8a0-d31992c4b9ca</string><key>stan_name</key><string>临峰商场</string><key>multi_info</key><string> </string><key>x</key><string>93059.6056</string><key>y</key><string>99748.4619</string></dict>
+<dict>
+<key>identifier</key><string>dd2498d2-ee22-4a3d-a813-dc387c0bdd32</string><key>stan_name</key><string>协力综合商场</string><key>multi_info</key><string> </string><key>x</key><string>93023.6736</string><key>y</key><string>99799.5098</string></dict>
+<dict>
+<key>identifier</key><string>b60130f5-c0ea-4fc1-8788-cb50e7944b7d</string><key>stan_name</key><string>利群购物中心</string><key>multi_info</key><string> </string><key>x</key><string>93313.7680</string><key>y</key><string>99870.1231</string></dict>
+<dict>
+<key>identifier</key><string>3d74deab-e575-4e48-aa18-002ed0227128</string><key>stan_name</key><string>利群购物中心</string><key>multi_info</key><string> </string><key>x</key><string>93289.7734</string><key>y</key><string>99874.1551</string></dict>
+<dict>
+<key>identifier</key><string>22bf2b9c-8f2a-4af8-bfaa-380d7e2fc0d9</string><key>stan_name</key><string>黄家村综合商店</string><key>multi_info</key><string> </string><key>x</key><string>86934.8672</string><key>y</key><string>88305.3984</string></dict>
+<dict>
+<key>identifier</key><string>5007fedf-b780-449c-92b2-eccaa4d6791a</string><key>stan_name</key><string>中联百货大楼</string><key>multi_info</key><string> </string><key>x</key><string>82073.2251</string><key>y</key><string>91830.5362</string></dict>
+<dict>
+<key>identifier</key><string>77e1ca60-0521-4566-bc6c-231254b10236</string><key>stan_name</key><string>汽车北站小商品市场</string><key>multi_info</key><string> </string><key>x</key><string>74885.7266</string><key>y</key><string>87941.7422</string></dict>
+<dict>
+<key>identifier</key><string>a25ac99f-38c7-4c3a-bfdc-fd69f64b86d3</string><key>stan_name</key><string>茶苑春</string><key>multi_info</key><string> </string><key>x</key><string>72431.2266</string><key>y</key><string>75444.2266</string></dict>
+<dict>
+<key>identifier</key><string>2240cc34-28e4-48cc-998f-eec52c2c2c24</string><key>stan_name</key><string>三江商厦</string><key>multi_info</key><string> </string><key>x</key><string>86001.1563</string><key>y</key><string>74074.5391</string></dict>
+<dict>
+<key>identifier</key><string>19f03c97-51d3-4be7-8a5e-64b97150d040</string><key>stan_name</key><string>万象城</string><key>multi_info</key><string> </string><key>x</key><string>84868.5060</string><key>y</key><string>80936.4460</string></dict>
+<dict>
+<key>identifier</key><string>a883b54d-56d6-417f-9a86-503f658f3561</string><key>stan_name</key><string>石桥百货市场</string><key>multi_info</key><string> </string><key>x</key><string>82162.9365</string><key>y</key><string>89584.7260</string></dict>
+<dict>
+<key>identifier</key><string>0185fa11-308c-41d8-8fb9-de840ffd8066</string><key>stan_name</key><string>第五季百货</string><key>multi_info</key><string> </string><key>x</key><string>84203.6240</string><key>y</key><string>81887.0770</string></dict>
+<dict>
+<key>identifier</key><string>12e823f4-6529-4453-a2f0-8728c41c5b99</string><key>stan_name</key><string>杭州之江小商品综合市场</string><key>multi_info</key><string> </string><key>x</key><string>71638.3350</string><key>y</key><string>70903.5813</string></dict>
+<dict>
+<key>identifier</key><string>9a58cdc6-d01d-4ae8-ad09-4cfa0f291b29</string><key>stan_name</key><string>萧山坎山镇综合市场</string><key>multi_info</key><string> </string><key>x</key><string>104037.6450</string><key>y</key><string>73338.5851</string></dict>
+<dict>
+<key>identifier</key><string>8d470e87-8b5f-42de-94ee-f4c9da518b1e</string><key>stan_name</key><string>留西百货商场</string><key>multi_info</key><string> </string><key>x</key><string>67030.2769</string><key>y</key><string>77305.8620</string></dict>
+<dict>
+<key>identifier</key><string>6063b660-f876-4acb-a722-09d6fd4e02e3</string><key>stan_name</key><string>红山综合市场</string><key>multi_info</key><string> </string><key>x</key><string>101205.6951</string><key>y</key><string>78490.0040</string></dict>
+<dict>
+<key>identifier</key><string>b1d1dec8-f8c8-4037-954a-c9180d2ff776</string><key>stan_name</key><string>银鼎商贸城</string><key>multi_info</key><string> </string><key>x</key><string>84481.7650</string><key>y</key><string>92250.9950</string></dict>
+<dict>
+<key>identifier</key><string>ccc25cca-8b43-4c70-b735-642da67e2ab2</string><key>stan_name</key><string>翠苑综合市场</string><key>multi_info</key><string> </string><key>x</key><string>76108.8125</string><key>y</key><string>84831.0391</string></dict>
+<dict>
+<key>identifier</key><string>7a27417a-a8b6-4d66-af9a-16cf43be2327</string><key>stan_name</key><string>小河综合商场</string><key>multi_info</key><string> </string><key>x</key><string>77251.2109</string><key>y</key><string>86252.8750</string></dict>
+<dict>
+<key>identifier</key><string>fa8cb6d6-0d2c-4a0b-a379-a749204102e9</string><key>stan_name</key><string>杭州城西商贸城</string><key>multi_info</key><string> </string><key>x</key><string>76042.9428</string><key>y</key><string>84985.1881</string></dict>
+<dict>
+<key>identifier</key><string>1f1c8ca0-7ef2-4d05-b35f-b593b27b048d</string><key>stan_name</key><string>杭州市拱墅区简单百货商店</string><key>multi_info</key><string> </string><key>x</key><string>78123.7813</string><key>y</key><string>85601.1641</string></dict>
+<dict>
+<key>identifier</key><string>589e61dc-f0dc-4690-b91a-7cdf77b5a7cd</string><key>stan_name</key><string>杭州下沙商贸城</string><key>multi_info</key><string> </string><key>x</key><string>96756.8938</string><key>y</key><string>86955.1605</string></dict>
+<dict>
+<key>identifier</key><string>b1bae671-a7cf-4cd8-aa6b-f262428d7447</string><key>stan_name</key><string>城西广场</string><key>multi_info</key><string> </string><key>x</key><string>73370.8516</string><key>y</key><string>84057.1094</string></dict>
+<dict>
+<key>identifier</key><string>646fae04-2ae2-4b41-8779-182a03366f6d</string><key>stan_name</key><string>城西广场</string><key>multi_info</key><string> </string><key>x</key><string>73287.6875</string><key>y</key><string>84094.6016</string></dict>
+<dict>
+<key>identifier</key><string>315aa2aa-3d0a-403f-ab27-b27a42e6d625</string><key>stan_name</key><string>景福百货大楼</string><key>multi_info</key><string> </string><key>x</key><string>78260.2422</string><key>y</key><string>85657.25</string></dict>
+<dict>
+<key>identifier</key><string>cbb6b393-20eb-4215-9ded-26d9d2430e7f</string><key>stan_name</key><string>金国商场</string><key>multi_info</key><string> </string><key>x</key><string>89236.3516</string><key>y</key><string>85736.4844</string></dict>
+<dict>
+<key>identifier</key><string>11f5d941-fd0f-4c6b-b252-66f765d5003f</string><key>stan_name</key><string>禹航商城</string><key>multi_info</key><string> </string><key>x</key><string>58551.4711</string><key>y</key><string>83264.9010</string></dict>
+<dict>
+<key>identifier</key><string>fc552ac5-0332-4b28-890c-7c47e5dc181c</string><key>stan_name</key><string>天都百汇广场</string><key>multi_info</key><string> </string><key>x</key><string>58365.9149</string><key>y</key><string>83283.2480</string></dict>
+<dict>
+<key>identifier</key><string>b18fd0d3-4094-4e08-9d84-d1d4fb52d128</string><key>stan_name</key><string>华浙广场</string><key>multi_info</key><string> </string><key>x</key><string>79563.1250</string><key>y</key><string>83483.1406</string></dict>
+<dict>
+<key>identifier</key><string>e82d2945-a910-45c4-bf31-f6defab9b415</string><key>stan_name</key><string>时代广场</string><key>multi_info</key><string> </string><key>x</key><string>79611.8906</string><key>y</key><string>81571.7969</string></dict>
+<dict>
+<key>identifier</key><string>3e97eb58-9453-4526-9a34-8c5fbf110de1</string><key>stan_name</key><string>浙江省供销社</string><key>multi_info</key><string> </string><key>x</key><string>79947.4442</string><key>y</key><string>81690.4193</string></dict>
+<dict>
+<key>identifier</key><string>bce96a2c-3b42-4f53-877d-e706df887f5e</string><key>stan_name</key><string>庆春综合商场</string><key>multi_info</key><string> </string><key>x</key><string>81482.8281</string><key>y</key><string>81700.6016</string></dict>
+<dict>
+<key>identifier</key><string>d9e3ff48-b4c9-400f-a5c5-3cbed938b065</string><key>stan_name</key><string>解百集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79955.3438</string><key>y</key><string>80702.5312</string></dict>
+<dict>
+<key>identifier</key><string>dea6273f-829f-4b14-b91a-2eeb2d83f707</string><key>stan_name</key><string>银泰百货</string><key>multi_info</key><string> </string><key>x</key><string>79901.2578</string><key>y</key><string>82723.6953</string></dict>
+<dict>
+<key>identifier</key><string>6532a3b7-b7de-4089-afc5-e28a8b366538</string><key>stan_name</key><string>浙大百货有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76299.1641</string><key>y</key><string>81955.1797</string></dict>
+<dict>
+<key>identifier</key><string>74fa248d-383c-48c9-99fe-66c5dd0d9d23</string><key>stan_name</key><string>杭州居而乐综合商场</string><key>multi_info</key><string> </string><key>x</key><string>76283.8594</string><key>y</key><string>81955.8594</string></dict>
+<dict>
+<key>identifier</key><string>2617cec6-df95-46bc-b92d-ec241368f9c0</string><key>stan_name</key><string>杭州百货大楼</string><key>multi_info</key><string> </string><key>x</key><string>79891.7109</string><key>y</key><string>82853.2422</string></dict>
+<dict>
+<key>identifier</key><string>a0afed82-1221-4d0d-85d3-cf4a06e9eaed</string><key>stan_name</key><string>金港商贸城</string><key>multi_info</key><string> </string><key>x</key><string>58566.8639</string><key>y</key><string>82893.5610</string></dict>
+<dict>
+<key>identifier</key><string>08ad3cb1-4c5a-4fd2-ad90-a5ac36c7f212</string><key>stan_name</key><string>西湖银泰</string><key>multi_info</key><string> </string><key>x</key><string>80036.50</string><key>y</key><string>80029.9531</string></dict>
+<dict>
+<key>identifier</key><string>c356cd6b-0abc-4199-ae52-410326deedc4</string><key>stan_name</key><string>百大集团股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79923.9847</string><key>y</key><string>82917.3991</string></dict>
+</array>
+</plist>

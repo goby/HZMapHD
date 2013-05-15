@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>f3ceac54-170f-4e91-87b4-70dec260ea3d</string><key>stan_name</key><string>杭州市邮政局</string><key>multi_info</key><string> </string><key>x</key><string>81739.2676</string><key>y</key><string>80252.4764</string></dict>
+<dict>
+<key>identifier</key><string>fc082da2-ab60-4204-a70f-8a4aa446c967</string><key>stan_name</key><string>康桥邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>78239.9753</string><key>y</key><string>93385.6752</string></dict>
+<dict>
+<key>identifier</key><string>777b8548-281d-4b94-b299-0c5a6cbc953f</string><key>stan_name</key><string>黄湖邮政储蓄所</string><key>multi_info</key><string> </string><key>x</key><string>45759.7530</string><key>y</key><string>102773.2970</string></dict>
+<dict>
+<key>identifier</key><string>f1766f3f-a6fe-491b-b6f9-b89cd863678d</string><key>stan_name</key><string>余杭区邮电局</string><key>multi_info</key><string> </string><key>x</key><string>92765.9219</string><key>y</key><string>99985.8537</string></dict>
+<dict>
+<key>identifier</key><string>4f7f5b34-387c-4507-8ddc-aafccd66e968</string><key>stan_name</key><string>杭州市邮政局</string><key>multi_info</key><string> </string><key>x</key><string>81933.6464</string><key>y</key><string>91817.5945</string></dict>
+<dict>
+<key>identifier</key><string>39d962e8-2b7d-4647-ba6a-21c0f8311e12</string><key>stan_name</key><string>三塘邮政所</string><key>multi_info</key><string> </string><key>x</key><string>80513.1147</string><key>y</key><string>87127.8619</string></dict>
+<dict>
+<key>identifier</key><string>9becece1-07f1-4eca-a787-deaf9c313371</string><key>stan_name</key><string>和睦桥邮政所</string><key>multi_info</key><string> </string><key>x</key><string>76234.3125</string><key>y</key><string>87152.2969</string></dict>
+<dict>
+<key>identifier</key><string>eee5a1cb-7f59-4c4b-b220-9f27fd1dff2f</string><key>stan_name</key><string>邮政服务中心</string><key>multi_info</key><string> </string><key>x</key><string>76472.3670</string><key>y</key><string>81568.4570</string></dict>
+<dict>
+<key>identifier</key><string>74e906b1-a091-477f-8dd6-2ad520f09606</string><key>stan_name</key><string>人民邮电</string><key>multi_info</key><string> </string><key>x</key><string>93754.5119</string><key>y</key><string>54300.0240</string></dict>
+<dict>
+<key>identifier</key><string>6ad1f44b-1f8e-4182-b318-adf5bee5c594</string><key>stan_name</key><string>萧山区邮政局临浦分区</string><key>multi_info</key><string> </string><key>x</key><string>88069.9506</string><key>y</key><string>57521.1570</string></dict>
+<dict>
+<key>identifier</key><string>590e7b3c-c6d2-479f-b111-f9be9c121418</string><key>stan_name</key><string>许贤邮电所</string><key>multi_info</key><string> </string><key>x</key><string>81961.3109</string><key>y</key><string>59656.3730</string></dict>
+<dict>
+<key>identifier</key><string>a9b7c006-4314-4f7d-a1b0-7e8e13fb463c</string><key>stan_name</key><string>义桥邮电支局</string><key>multi_info</key><string> </string><key>x</key><string>83557.2029</string><key>y</key><string>60418.7360</string></dict>
+<dict>
+<key>identifier</key><string>0a085e6b-568b-4944-85b6-78ae1b74d7c2</string><key>stan_name</key><string>西兴邮局</string><key>multi_info</key><string> </string><key>x</key><string>85960.6484</string><key>y</key><string>74272.8672</string></dict>
+<dict>
+<key>identifier</key><string>032d5f93-1026-4552-af04-efd76c3c5d9d</string><key>stan_name</key><string>转塘邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>71733.5920</string><key>y</key><string>70940.6669</string></dict>
+<dict>
+<key>identifier</key><string>6f70dd44-c0c9-43f1-be75-5894f300b8b2</string><key>stan_name</key><string>浦沿邮电局</string><key>multi_info</key><string> </string><key>x</key><string>78646.6875</string><key>y</key><string>70292.4766</string></dict>
+<dict>
+<key>identifier</key><string>bad36b56-3666-48bd-9d6f-d55850e3d160</string><key>stan_name</key><string>邮政所</string><key>multi_info</key><string> </string><key>x</key><string>82665.0391</string><key>y</key><string>71913.9063</string></dict>
+<dict>
+<key>identifier</key><string>78e1e4c9-cf98-4ada-9f0f-ea7bb23435fd</string><key>stan_name</key><string>中国邮政杭州市朝晖支局</string><key>multi_info</key><string> </string><key>x</key><string>79915.7956</string><key>y</key><string>84765.7398</string></dict>
+<dict>
+<key>identifier</key><string>bcb3b5fb-85e4-4714-b7aa-20f37f125462</string><key>stan_name</key><string>颐景园邮政所</string><key>multi_info</key><string> </string><key>x</key><string>73708.5760</string><key>y</key><string>83929.9170</string></dict>
+<dict>
+<key>identifier</key><string>31630092-421d-46dd-ac99-a354763430e1</string><key>stan_name</key><string>浙江省邮政实业公司</string><key>multi_info</key><string> </string><key>x</key><string>79344.1563</string><key>y</key><string>85586.0547</string></dict>
+<dict>
+<key>identifier</key><string>db8d3598-601e-4d3e-a723-fbe291f57238</string><key>stan_name</key><string>邮政</string><key>multi_info</key><string> </string><key>x</key><string>82501.1094</string><key>y</key><string>85623.0312</string></dict>
+<dict>
+<key>identifier</key><string>33f3416b-3a05-4fb7-861c-fd6eb95db44f</string><key>stan_name</key><string>中国邮政</string><key>multi_info</key><string> </string><key>x</key><string>78998.1048</string><key>y</key><string>84086.3128</string></dict>
+<dict>
+<key>identifier</key><string>1071d23c-be5a-43d2-b19c-c6ee813f71dc</string><key>stan_name</key><string>邮政储蓄</string><key>multi_info</key><string> </string><key>x</key><string>77623.6953</string><key>y</key><string>85818.7969</string></dict>
+<dict>
+<key>identifier</key><string>1d6c26c3-1a55-4359-86cc-5ddacf51f956</string><key>stan_name</key><string>杭州市邮政城西投递处理中心</string><key>multi_info</key><string> </string><key>x</key><string>76139.1201</string><key>y</key><string>83188.5471</string></dict>
+<dict>
+<key>identifier</key><string>f3887f9a-31ab-4bb5-b62c-966c5e24c887</string><key>stan_name</key><string>杭州市经济技术开发区邮政局</string><key>multi_info</key><string> </string><key>x</key><string>98030.8505</string><key>y</key><string>86543.0455</string></dict>
+<dict>
+<key>identifier</key><string>5aa7b8fb-a5c9-467a-9cf3-ff54397bfbf1</string><key>stan_name</key><string>夕照邮政</string><key>multi_info</key><string> </string><key>x</key><string>82835.3437</string><key>y</key><string>80266.75</string></dict>
+<dict>
+<key>identifier</key><string>08f11c15-1dbf-4db6-bfcc-ff69f2c45b08</string><key>stan_name</key><string>杭州市邮政行业管理办公室</string><key>multi_info</key><string> </string><key>x</key><string>81784.6471</string><key>y</key><string>80310.6754</string></dict>
+<dict>
+<key>identifier</key><string>2a5186af-07f2-49b5-9737-ad8f4532977e</string><key>stan_name</key><string>保俶路邮政局</string><key>multi_info</key><string> </string><key>x</key><string>78544.6406</string><key>y</key><string>82327.2812</string></dict>
+<dict>
+<key>identifier</key><string>c9db3a1f-a594-4a62-a781-eb48da43f308</string><key>stan_name</key><string>中国邮政</string><key>multi_info</key><string> </string><key>x</key><string>81686.4297</string><key>y</key><string>82340.9609</string></dict>
+<dict>
+<key>identifier</key><string>e222ebc1-3918-4b52-a06e-e2841bc1fd5b</string><key>stan_name</key><string>凤起路邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>81668.9375</string><key>y</key><string>82344.0234</string></dict>
+<dict>
+<key>identifier</key><string>ab0e6afd-0ea8-468d-9728-b75116f33829</string><key>stan_name</key><string>邮政储蓄</string><key>multi_info</key><string> </string><key>x</key><string>81192.9375</string><key>y</key><string>80400.3672</string></dict>
+<dict>
+<key>identifier</key><string>5ed1255f-3f27-45ad-9c12-9b1e78fbaf19</string><key>stan_name</key><string>邮局</string><key>multi_info</key><string> </string><key>x</key><string>72756.7656</string><key>y</key><string>81551.2578</string></dict>
+<dict>
+<key>identifier</key><string>5f2d068c-a1cc-4679-aaf9-0d3e5ebe92ef</string><key>stan_name</key><string>杭州市邮区中心局</string><key>multi_info</key><string> </string><key>x</key><string>81884.4883</string><key>y</key><string>80572.3488</string></dict>
+<dict>
+<key>identifier</key><string>7ba10a00-d853-471b-ab56-812a9206c3f4</string><key>stan_name</key><string>邮局</string><key>multi_info</key><string> </string><key>x</key><string>80592.9062</string><key>y</key><string>79633.5703</string></dict>
+<dict>
+<key>identifier</key><string>9fba4e5f-2a9f-436e-966a-4abefed59bc8</string><key>stan_name</key><string>邮政集卡公司</string><key>multi_info</key><string> </string><key>x</key><string>78376.3750</string><key>y</key><string>82700.3828</string></dict>
+<dict>
+<key>identifier</key><string>a0ef864f-fc9e-40f7-9a53-0ac0e485791c</string><key>stan_name</key><string>浙江省邮政局杭州支局</string><key>multi_info</key><string> </string><key>x</key><string>78781.0941</string><key>y</key><string>82754.3847</string></dict>
+<dict>
+<key>identifier</key><string>4e5ef68d-c88f-4988-8923-8b246d6dd613</string><key>stan_name</key><string>杭州市邮政局江干区分局</string><key>multi_info</key><string> </string><key>x</key><string>83377.3666</string><key>y</key><string>81948.7043</string></dict>
+<dict>
+<key>identifier</key><string>435ae631-c7d6-48e0-878d-33ea87ee3745</string><key>stan_name</key><string>邮政局留下邮政支局</string><key>multi_info</key><string> </string><key>x</key><string>69572.4844</string><key>y</key><string>79971.3125</string></dict>
+<dict>
+<key>identifier</key><string>17dab371-d3f2-4d65-82cb-a29871c163f6</string><key>stan_name</key><string>浙江省邮政管理局</string><key>multi_info</key><string> </string><key>x</key><string>83438.5984</string><key>y</key><string>80128.5613</string></dict>
+<dict>
+<key>identifier</key><string>2e005a09-2a84-44be-8bbe-0ee605cb8cde</string><key>stan_name</key><string>杭州市邮政局城东支局</string><key>multi_info</key><string> </string><key>x</key><string>83404.0381</string><key>y</key><string>80185.2852</string></dict>
+<dict>
+<key>identifier</key><string>171a464f-9db1-4c2d-8fbf-ecf058c2efdb</string><key>stan_name</key><string>杭州市邮政局浙大邮政所</string><key>multi_info</key><string> </string><key>x</key><string>76329.5078</string><key>y</key><string>82176.6875</string></dict>
+<dict>
+<key>identifier</key><string>0977abf9-6fa4-48d9-91e4-8155de1e79c4</string><key>stan_name</key><string>中国邮政</string><key>multi_info</key><string> </string><key>x</key><string>83408.1797</string><key>y</key><string>80216.7422</string></dict>
+</array>
+</plist>

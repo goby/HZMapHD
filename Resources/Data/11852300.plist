@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>8dde0176-7b70-46ff-be1c-eff5a0e78ab6</string><key>stan_name</key><string>浙江必胜货运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83044.0008</string><key>y</key><string>86915.2832</string></dict>
+<dict>
+<key>identifier</key><string>5df7256a-58d0-4152-8ef4-7a2c253be218</string><key>stan_name</key><string>浙江交通集团</string><key>multi_info</key><string> </string><key>x</key><string>79924.0703</string><key>y</key><string>84066.25</string></dict>
+<dict>
+<key>identifier</key><string>d7eb26a3-7df4-40f3-9285-2d297bdc7b09</string><key>stan_name</key><string>杭州捷奔,飞达汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81746.7830</string><key>y</key><string>88185.22</string></dict>
+<dict>
+<key>identifier</key><string>cb4e9cc8-16d9-4b0c-8ed4-2397b3fdf6ad</string><key>stan_name</key><string>杭州龙润仓储运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94028.1647</string><key>y</key><string>87026.6651</string></dict>
+<dict>
+<key>identifier</key><string>5e8d05a2-0605-4905-9eed-5c990c7443c6</string><key>stan_name</key><string>西湖旅游公司车队</string><key>multi_info</key><string> </string><key>x</key><string>89033.3672</string><key>y</key><string>85085.3359</string></dict>
+<dict>
+<key>identifier</key><string>1ff50e94-87fb-42a4-a0c4-d50e598d25e7</string><key>stan_name</key><string>浙江省外运</string><key>multi_info</key><string> </string><key>x</key><string>78261.2187</string><key>y</key><string>85099.2188</string></dict>
+<dict>
+<key>identifier</key><string>21b98716-a071-4067-b15c-d6a5e40b8a54</string><key>stan_name</key><string>市交公司车队</string><key>multi_info</key><string> </string><key>x</key><string>88910.6094</string><key>y</key><string>85841.5312</string></dict>
+<dict>
+<key>identifier</key><string>25eaa477-ae34-49f3-9610-ee78e7706dfd</string><key>stan_name</key><string>杭州公交公司</string><key>multi_info</key><string> </string><key>x</key><string>86762.2356</string><key>y</key><string>84302.2632</string></dict>
+<dict>
+<key>identifier</key><string>8bfa568f-197f-4404-a21f-0657773ea7f5</string><key>stan_name</key><string>杭州市邮政局火车东站转运站</string><key>multi_info</key><string> </string><key>x</key><string>84361.5938</string><key>y</key><string>85269.5781</string></dict>
+<dict>
+<key>identifier</key><string>c90d53a7-8755-420a-a918-454726283e42</string><key>stan_name</key><string>杭州公共交通下沙有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97211.8145</string><key>y</key><string>85962.6638</string></dict>
+<dict>
+<key>identifier</key><string>635bffca-3905-44ed-af3b-951d8dd29f52</string><key>stan_name</key><string>杭州华夏运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83288.7150</string><key>y</key><string>83285.18</string></dict>
+<dict>
+<key>identifier</key><string>bd810b45-ed16-4d1f-9608-4f88f7edb3f5</string><key>stan_name</key><string>浙江凯喜雅国际仓储运输有限责任公司运输二部</string><key>multi_info</key><string> </string><key>x</key><string>78269.5615</string><key>y</key><string>86412.9724</string></dict>
+<dict>
+<key>identifier</key><string>6975dd57-2bfb-4161-aba8-985d9eb89c64</string><key>stan_name</key><string>杭州市公交总公司</string><key>multi_info</key><string> </string><key>x</key><string>81905.3826</string><key>y</key><string>83614.1961</string></dict>
+<dict>
+<key>identifier</key><string>349dd957-a0c4-42b1-877c-5897ab760e87</string><key>stan_name</key><string>浙江杭宝集团杭州景芳大件汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83065.8227</string><key>y</key><string>86466.8448</string></dict>
+<dict>
+<key>identifier</key><string>1d9e9467-fd91-40ef-922f-3e8493e59f9d</string><key>stan_name</key><string>快达公司</string><key>multi_info</key><string> </string><key>x</key><string>76273.7344</string><key>y</key><string>84644.2422</string></dict>
+<dict>
+<key>identifier</key><string>45726684-474c-489f-9059-5b417e569680</string><key>stan_name</key><string>杭州市公路管理中心</string><key>multi_info</key><string> </string><key>x</key><string>70485.2084</string><key>y</key><string>84668.9297</string></dict>
+<dict>
+<key>identifier</key><string>84a880af-1c41-4dbc-b1d9-09197adf388c</string><key>stan_name</key><string>万家快运</string><key>multi_info</key><string> </string><key>x</key><string>71381.2637</string><key>y</key><string>84684.9141</string></dict>
+<dict>
+<key>identifier</key><string>4ec3f5f6-d14c-4990-930a-4272d2e6baa3</string><key>stan_name</key><string>杭州骄闽货运</string><key>multi_info</key><string> </string><key>x</key><string>85871.4370</string><key>y</key><string>84705.4920</string></dict>
+<dict>
+<key>identifier</key><string>bcdf8c14-7cd5-4a84-959b-c9a18c10d8c0</string><key>stan_name</key><string>艮山门编组站</string><key>multi_info</key><string> </string><key>x</key><string>82011.3359</string><key>y</key><string>86024.8906</string></dict>
+<dict>
+<key>identifier</key><string>f607b04c-0562-4e01-8713-467640b9c6c2</string><key>stan_name</key><string>杭州永驰运输服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70576.4829</string><key>y</key><string>84738.9671</string></dict>
+<dict>
+<key>identifier</key><string>f42bdc6e-2f79-4b73-ae48-81b4e17539d4</string><key>stan_name</key><string>浙江省中汇公司储运分公司</string><key>multi_info</key><string> </string><key>x</key><string>83102.7266</string><key>y</key><string>83828.7891</string></dict>
+<dict>
+<key>identifier</key><string>6aecaf3f-93cf-47de-b11a-ab7e330aad1f</string><key>stan_name</key><string>大力神起重运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91432.6460</string><key>y</key><string>80320.6380</string></dict>
+<dict>
+<key>identifier</key><string>8d41df11-68b9-4675-8315-4974807a9e23</string><key>stan_name</key><string>红旗运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71306.2129</string><key>y</key><string>81391.4334</string></dict>
+<dict>
+<key>identifier</key><string>9cd91ced-ecfa-4723-bab9-b4e4a94a1ec3</string><key>stan_name</key><string>杭州铁达货运代理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81787.4458</string><key>y</key><string>80376.9850</string></dict>
+<dict>
+<key>identifier</key><string>887d04ed-6068-4cf8-ad4f-76d281b501ba</string><key>stan_name</key><string>浙江外事旅游汽车公司</string><key>multi_info</key><string> </string><key>x</key><string>73986.4609</string><key>y</key><string>82382.2109</string></dict>
+<dict>
+<key>identifier</key><string>971e71f8-ac96-4de2-8e9a-16ab5e67711f</string><key>stan_name</key><string>杭州市长运三运运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80814.2653</string><key>y</key><string>80445.4758</string></dict>
+<dict>
+<key>identifier</key><string>95ba1f83-4643-44cc-a882-d32845663bfa</string><key>stan_name</key><string>杭州交通运输装卸队</string><key>multi_info</key><string> </string><key>x</key><string>85897.6875</string><key>y</key><string>82476.4531</string></dict>
+<dict>
+<key>identifier</key><string>afc4f465-95de-4ace-bc19-18564273563e</string><key>stan_name</key><string>杭州风光旅游客运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78541.9074</string><key>y</key><string>83497.3173</string></dict>
+<dict>
+<key>identifier</key><string>875d586c-82a8-46bf-86ea-d7927259d86b</string><key>stan_name</key><string>杭州圣通货物运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76987.2947</string><key>y</key><string>83552.9453</string></dict>
+<dict>
+<key>identifier</key><string>ba364c9a-95c0-4488-9227-b8bcfda580d3</string><key>stan_name</key><string>杭州市公共交通总公司</string><key>multi_info</key><string> </string><key>x</key><string>83527.6960</string><key>y</key><string>83552.0030</string></dict>
+<dict>
+<key>identifier</key><string>e1d21483-61da-4fe0-96cc-8e58b412cf83</string><key>stan_name</key><string>宁波市山联运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81060.8335</string><key>y</key><string>82592.0567</string></dict>
+<dict>
+<key>identifier</key><string>20fdf776-13a8-417e-b9e9-a8cbdaf43131</string><key>stan_name</key><string>利群运输公司</string><key>multi_info</key><string> </string><key>x</key><string>82748.3125</string><key>y</key><string>79859.8594</string></dict>
+<dict>
+<key>identifier</key><string>b41cf78b-d485-415c-9852-73e438c18984</string><key>stan_name</key><string>杭州北山出租汽车有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76331.5487</string><key>y</key><string>82801.1738</string></dict>
+<dict>
+<key>identifier</key><string>90424f33-ba53-4363-a72e-b9fc958ab82a</string><key>stan_name</key><string>国航货运经营部</string><key>multi_info</key><string> </string><key>x</key><string>83050.1406</string><key>y</key><string>79890.0703</string></dict>
+<dict>
+<key>identifier</key><string>0146acb0-e803-4ddd-b168-d620fda366cc</string><key>stan_name</key><string>杭州风华货运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83258.0547</string><key>y</key><string>79958.6328</string></dict>
+<dict>
+<key>identifier</key><string>03736312-f211-4a48-988b-6850d86fd10c</string><key>stan_name</key><string>杭州顺通托运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83474.8710</string><key>y</key><string>81011.2990</string></dict>
+<dict>
+<key>identifier</key><string>3564fd8c-29ef-4b41-b6ea-795ad079d6ca</string><key>stan_name</key><string>浙江省公路运务公司</string><key>multi_info</key><string> </string><key>x</key><string>79326.8030</string><key>y</key><string>82967.85</string></dict>
+<dict>
+<key>identifier</key><string>bf89ef82-a6e8-4f4a-b2f4-026be9a0b24b</string><key>stan_name</key><string>长运公司</string><key>multi_info</key><string> </string><key>x</key><string>80636.4453</string><key>y</key><string>83295.7578</string></dict>
+<dict>
+<key>identifier</key><string>85452161-8345-42b1-8ed0-f21cd6b6bf19</string><key>stan_name</key><string>大力神起重运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91412.3060</string><key>y</key><string>80165.7870</string></dict>
+<dict>
+<key>identifier</key><string>b807c0a0-3ae0-4149-be53-c936b2723f95</string><key>stan_name</key><string>杭州巴士运输联营公司</string><key>multi_info</key><string> </string><key>x</key><string>92989.7311</string><key>y</key><string>100592.5558</string></dict>
+<dict>
+<key>identifier</key><string>6d6ed8f7-d8fc-48e2-be92-9ebff0f63223</string><key>stan_name</key><string>杭州俞钢运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79357.0781</string><key>y</key><string>93506.4219</string></dict>
+<dict>
+<key>identifier</key><string>c69c04f5-caf7-43d8-87cf-0666ef48bdf7</string><key>stan_name</key><string>杭州创胜土石方工程有限公司车队</string><key>multi_info</key><string> </string><key>x</key><string>87376.9178</string><key>y</key><string>93702.3640</string></dict>
+<dict>
+<key>identifier</key><string>28ee7b57-484a-44b2-817f-692921cd113b</string><key>stan_name</key><string>杭州一运集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86092.4726</string><key>y</key><string>93755.1797</string></dict>
+<dict>
+<key>identifier</key><string>11f1e7f4-203d-4b41-a529-9ce324b83276</string><key>stan_name</key><string>杭州长运三运运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80433.0668</string><key>y</key><string>94361.8942</string></dict>
+<dict>
+<key>identifier</key><string>eaa7da67-e159-4931-8889-10afe75db13d</string><key>stan_name</key><string>杭钢集团储运公司</string><key>multi_info</key><string> </string><key>x</key><string>81112.3743</string><key>y</key><string>91996.1869</string></dict>
+<dict>
+<key>identifier</key><string>2ea6e538-691d-463c-b566-de056d95efa9</string><key>stan_name</key><string>杭洲康桥装卸运输公司服务站</string><key>multi_info</key><string> </string><key>x</key><string>79580.4997</string><key>y</key><string>92074.0723</string></dict>
+<dict>
+<key>identifier</key><string>b6418f27-a454-4d06-b847-48ef10e34f66</string><key>stan_name</key><string>良渚公路运输管理站</string><key>multi_info</key><string> </string><key>x</key><string>69471.5060</string><key>y</key><string>94322.4191</string></dict>
+<dict>
+<key>identifier</key><string>a639db5a-bffe-466e-b2e4-618636996f63</string><key>stan_name</key><string>杭钢装卸运输有限公司汽车队</string><key>multi_info</key><string> </string><key>x</key><string>80181.6133</string><key>y</key><string>92085.0047</string></dict>
+<dict>
+<key>identifier</key><string>9a259ab6-9d31-4c73-bcb2-6748689c9e02</string><key>stan_name</key><string>杭钢物流</string><key>multi_info</key><string> </string><key>x</key><string>80072.6483</string><key>y</key><string>91988.8087</string></dict>
+<dict>
+<key>identifier</key><string>0ebf241d-29d4-4b59-a87c-85480e80d2d4</string><key>stan_name</key><string>上海宅急送物流有限公司杭州分公司</string><key>multi_info</key><string> </string><key>x</key><string>85634.9964</string><key>y</key><string>92098.0110</string></dict>
+<dict>
+<key>identifier</key><string>26fcfd59-6687-4a63-a7ac-72e7aa9d98d0</string><key>stan_name</key><string>东瑞物流</string><key>multi_info</key><string> </string><key>x</key><string>100851.8402</string><key>y</key><string>92159.0997</string></dict>
+<dict>
+<key>identifier</key><string>5df46877-31cf-40c5-9e56-ae187e5f9938</string><key>stan_name</key><string>世仓物流设备(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86617.5121</string><key>y</key><string>94511.7295</string></dict>
+<dict>
+<key>identifier</key><string>546ee395-b48c-4cd4-bcd0-35c762735738</string><key>stan_name</key><string>天天快递</string><key>multi_info</key><string> </string><key>x</key><string>100956.2487</string><key>y</key><string>92374.4863</string></dict>
+<dict>
+<key>identifier</key><string>3920ef70-ee83-43ac-ad68-900bbc4888b3</string><key>stan_name</key><string>浙江物产物流投资杭州分公司</string><key>multi_info</key><string> </string><key>x</key><string>76199.5820</string><key>y</key><string>92419.0980</string></dict>
+<dict>
+<key>identifier</key><string>f784227f-1461-4a77-a58d-2490182bbe34</string><key>stan_name</key><string>杭州富恒货物运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79988.8340</string><key>y</key><string>93098.8160</string></dict>
+<dict>
+<key>identifier</key><string>02acfff8-209a-46e3-a460-26b474fb06e0</string><key>stan_name</key><string>杭州富日物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93866.4840</string><key>y</key><string>87632.7745</string></dict>
+<dict>
+<key>identifier</key><string>58623783-ecd1-4991-9f01-74d3d2f68cc5</string><key>stan_name</key><string>近江物流</string><key>multi_info</key><string> </string><key>x</key><string>93793.8771</string><key>y</key><string>87632.8833</string></dict>
+<dict>
+<key>identifier</key><string>95e51e92-e505-4292-8845-665176e63537</string><key>stan_name</key><string>杭州起重振华运输装卸有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75236.2188</string><key>y</key><string>87647.3203</string></dict>
+<dict>
+<key>identifier</key><string>fadf3f06-3dec-4bae-8a3d-296854f281b3</string><key>stan_name</key><string>杭州中顺物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93535.4630</string><key>y</key><string>89752.0555</string></dict>
+<dict>
+<key>identifier</key><string>e05babc1-a128-4a87-9180-08a2b844df4b</string><key>stan_name</key><string>杭州东方海顺物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93237.3968</string><key>y</key><string>89818.7669</string></dict>
+<dict>
+<key>identifier</key><string>808b3bc1-60fc-49db-83c3-493dc8928604</string><key>stan_name</key><string>八方物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93138.9437</string><key>y</key><string>89821.3573</string></dict>
+<dict>
+<key>identifier</key><string>6d63acaf-64a1-42a9-82bd-3dc60954b453</string><key>stan_name</key><string>杭州北所物流中心</string><key>multi_info</key><string> </string><key>x</key><string>87628.8438</string><key>y</key><string>91750.7177</string></dict>
+<dict>
+<key>identifier</key><string>5dd7722a-12f3-480d-a880-96a67d24df93</string><key>stan_name</key><string>浙江江铃物流部</string><key>multi_info</key><string> </string><key>x</key><string>77070.6096</string><key>y</key><string>89997.3288</string></dict>
+<dict>
+<key>identifier</key><string>f589959b-d901-4006-a164-20cbb042f0b7</string><key>stan_name</key><string>长安汽车物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76388.2602</string><key>y</key><string>90075.6975</string></dict>
+<dict>
+<key>identifier</key><string>be6169df-946a-494e-9cef-65336cd41294</string><key>stan_name</key><string>佳吉快运物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93545.5575</string><key>y</key><string>90118.3080</string></dict>
+<dict>
+<key>identifier</key><string>14de3075-2a06-4ac1-99e7-5d876518b3c0</string><key>stan_name</key><string>富日物流吉祥库</string><key>multi_info</key><string> </string><key>x</key><string>93489.5434</string><key>y</key><string>88471.8203</string></dict>
+<dict>
+<key>identifier</key><string>36c0b2fa-53f4-48d8-b7a4-550665672a06</string><key>stan_name</key><string>中青航空货运</string><key>multi_info</key><string> </string><key>x</key><string>74177.6309</string><key>y</key><string>90317.0359</string></dict>
+<dict>
+<key>identifier</key><string>57dcca35-e731-425e-a887-98fe5608bafa</string><key>stan_name</key><string>杭州山河航空货运服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81024.6661</string><key>y</key><string>88557.4378</string></dict>
+<dict>
+<key>identifier</key><string>4d9d42cf-7f86-4a64-a2d6-12648544921a</string><key>stan_name</key><string>浙江省新华书店物流中心</string><key>multi_info</key><string> </string><key>x</key><string>73353.6798</string><key>y</key><string>90506.8174</string></dict>
+<dict>
+<key>identifier</key><string>743aa5f2-9e5d-4fa2-aeac-ac9fdd0c5712</string><key>stan_name</key><string>浙江长远物流股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91456.8593</string><key>y</key><string>90521.3543</string></dict>
+<dict>
+<key>identifier</key><string>d8fd09bd-f132-4188-b355-41b68e81b942</string><key>stan_name</key><string>金莱克有限公司联邦物流</string><key>multi_info</key><string> </string><key>x</key><string>81924.5810</string><key>y</key><string>89171.3758</string></dict>
+<dict>
+<key>identifier</key><string>a5eb7d14-80df-4acb-b319-4417d6150a3b</string><key>stan_name</key><string>杭州万方停车场</string><key>multi_info</key><string> </string><key>x</key><string>85926.0638</string><key>y</key><string>90590.3935</string></dict>
+<dict>
+<key>identifier</key><string>80537cae-a3e0-4503-ad7a-4bd81d3e7622</string><key>stan_name</key><string>杭州杭钢装卸运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79970.3226</string><key>y</key><string>92087.7556</string></dict>
+<dict>
+<key>identifier</key><string>fb0f9a25-329f-4033-8abb-9ec4b2b56889</string><key>stan_name</key><string>杭钢装运公司</string><key>multi_info</key><string> </string><key>x</key><string>79770.2378</string><key>y</key><string>92102.8147</string></dict>
+<dict>
+<key>identifier</key><string>bab51790-3336-45ba-ab02-11e299909cb4</string><key>stan_name</key><string>杭州广联汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92322.6044</string><key>y</key><string>92474.6189</string></dict>
+<dict>
+<key>identifier</key><string>b879ffc6-d2ca-4445-bbf5-297a3efc0ecf</string><key>stan_name</key><string>建安公司汽车队</string><key>multi_info</key><string> </string><key>x</key><string>80868.9231</string><key>y</key><string>92559.9773</string></dict>
+<dict>
+<key>identifier</key><string>24fc3150-8e0e-4660-9256-7548785729c3</string><key>stan_name</key><string>供销储运公司</string><key>multi_info</key><string> </string><key>x</key><string>92783.5791</string><key>y</key><string>99728.8299</string></dict>
+<dict>
+<key>identifier</key><string>7e9e4834-05fb-42f3-be29-10a045fe895f</string><key>stan_name</key><string>杭州炼油厂运输处</string><key>multi_info</key><string> </string><key>x</key><string>77288.8672</string><key>y</key><string>92583.3438</string></dict>
+<dict>
+<key>identifier</key><string>25ab490c-62cf-47f2-8d9e-5c714deea6c6</string><key>stan_name</key><string>杭州余杭塘栖汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83693.7790</string><key>y</key><string>105155.4550</string></dict>
+<dict>
+<key>identifier</key><string>f8a8ea0c-f8e2-4804-9259-17883c1c20e2</string><key>stan_name</key><string>储运公司汽车运输分公司</string><key>multi_info</key><string> </string><key>x</key><string>80954.0840</string><key>y</key><string>92953.9737</string></dict>
+<dict>
+<key>identifier</key><string>8e5d1316-f83c-45ff-ba5d-9378b409d999</string><key>stan_name</key><string>临平航运公司</string><key>multi_info</key><string> </string><key>x</key><string>93180.3962</string><key>y</key><string>100341.3013</string></dict>
+<dict>
+<key>identifier</key><string>d2a3a451-4c1f-4262-bea7-cc3b6fddee78</string><key>stan_name</key><string>杭州市第一汽车运输公司</string><key>multi_info</key><string> </string><key>x</key><string>82623.4314</string><key>y</key><string>91355.3903</string></dict>
+<dict>
+<key>identifier</key><string>a632281a-587d-4f2e-840a-8cbf1e224914</string><key>stan_name</key><string>杭州新风达运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82730.3068</string><key>y</key><string>87610.8225</string></dict>
+<dict>
+<key>identifier</key><string>ebcef573-baa8-4ee5-ba79-04210801a1f7</string><key>stan_name</key><string>杭州恒风交通运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75356.9489</string><key>y</key><string>87693.1789</string></dict>
+<dict>
+<key>identifier</key><string>0c861395-e988-434c-a106-a2abd77411db</string><key>stan_name</key><string>丁桥运输公司</string><key>multi_info</key><string> </string><key>x</key><string>85371.6250</string><key>y</key><string>91706.4375</string></dict>
+<dict>
+<key>identifier</key><string>de7c532c-e549-4f30-ae83-9614e588eae7</string><key>stan_name</key><string>杭州三江起重运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80644.9676</string><key>y</key><string>87760.0159</string></dict>
+<dict>
+<key>identifier</key><string>2b787aa8-f4bd-4f4a-8bca-7cf97a8c311d</string><key>stan_name</key><string>汇德隆家电配送中心</string><key>multi_info</key><string> </string><key>x</key><string>93554.71</string><key>y</key><string>73037.7999</string></dict>
+<dict>
+<key>identifier</key><string>99870352-42f8-4c9c-a1dd-946f9050ae26</string><key>stan_name</key><string>杭州信谊物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91301.6930</string><key>y</key><string>64195.50</string></dict>
+<dict>
+<key>identifier</key><string>52fc8b4f-57b9-43bb-a250-2d5f4baa3b6b</string><key>stan_name</key><string>萧山联托运中心</string><key>multi_info</key><string> </string><key>x</key><string>103351.8590</string><key>y</key><string>70155.4899</string></dict>
+<dict>
+<key>identifier</key><string>f0da4806-3b7f-431d-8edf-637393ac4c63</string><key>stan_name</key><string>杭州惠鑫物资公司</string><key>multi_info</key><string> </string><key>x</key><string>71930.3984</string><key>y</key><string>69566.8828</string></dict>
+<dict>
+<key>identifier</key><string>bf9ef3b4-9f3c-4204-b885-6cb462c0e550</string><key>stan_name</key><string>新华集团一园仓储中心</string><key>multi_info</key><string> </string><key>x</key><string>91837.6390</string><key>y</key><string>75092.0790</string></dict>
+<dict>
+<key>identifier</key><string>16433c2a-2195-4c4b-9565-a8d4ee7228ce</string><key>stan_name</key><string>杭州吉龙物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93837.3070</string><key>y</key><string>76290.5709</string></dict>
+<dict>
+<key>identifier</key><string>d6fed787-5fe9-4eb1-a1e3-058162baea6b</string><key>stan_name</key><string>杭州萧山国际物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91717.0120</string><key>y</key><string>77227.0560</string></dict>
+<dict>
+<key>identifier</key><string>9deec78b-d883-470f-adff-def01cf63260</string><key>stan_name</key><string>浙江省商业集团冷藏物流中心</string><key>multi_info</key><string> </string><key>x</key><string>83290.0550</string><key>y</key><string>90182.6710</string></dict>
+<dict>
+<key>identifier</key><string>2706dcfb-c2f6-4206-bd25-fac5a6a1adeb</string><key>stan_name</key><string>浙江海富达冷藏物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83304.2180</string><key>y</key><string>90226.6030</string></dict>
+<dict>
+<key>identifier</key><string>e2e5ab68-6038-40ae-86a8-9542bae53fe8</string><key>stan_name</key><string>杭州时速物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81166.7110</string><key>y</key><string>90277.2440</string></dict>
+<dict>
+<key>identifier</key><string>fb2e63e8-2a60-479c-8a14-4bf633b954b9</string><key>stan_name</key><string>共速达物流杭凯电气</string><key>multi_info</key><string> </string><key>x</key><string>91469.5980</string><key>y</key><string>79151.5140</string></dict>
+<dict>
+<key>identifier</key><string>6da26da8-a2ab-40ed-888c-4c4058b9117e</string><key>stan_name</key><string>杭州口岸国际物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97656.8278</string><key>y</key><string>84823.6464</string></dict>
+<dict>
+<key>identifier</key><string>48359124-9404-4561-876d-8f9fad113a0d</string><key>stan_name</key><string>浙江东鼎物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94071.7933</string><key>y</key><string>86874.0955</string></dict>
+<dict>
+<key>identifier</key><string>b531492e-2c94-447b-87ce-52bf2ed4aec6</string><key>stan_name</key><string>杭州诚顺公司</string><key>multi_info</key><string> </string><key>x</key><string>74894.4219</string><key>y</key><string>85107.3426</string></dict>
+<dict>
+<key>identifier</key><string>3027b20a-b97c-4cd4-a753-a3b76e856476</string><key>stan_name</key><string>杭州中青货运有限公司(拱墅区)分公司</string><key>multi_info</key><string> </string><key>x</key><string>75677.8948</string><key>y</key><string>85778.9531</string></dict>
+<dict>
+<key>identifier</key><string>4e2176f0-af9b-4788-8fab-34b06ae83e5b</string><key>stan_name</key><string>杭州华商集团物流分公司</string><key>multi_info</key><string> </string><key>x</key><string>81232.6562</string><key>y</key><string>84274.5703</string></dict>
+<dict>
+<key>identifier</key><string>4638d7f5-698a-4fce-8954-1585d92be900</string><key>stan_name</key><string>通成物流</string><key>multi_info</key><string> </string><key>x</key><string>88273.1060</string><key>y</key><string>85920.4970</string></dict>
+<dict>
+<key>identifier</key><string>9357aec1-e264-4d3a-a02f-a3f64a81958e</string><key>stan_name</key><string>铧宇物流</string><key>multi_info</key><string> </string><key>x</key><string>86470.0312</string><key>y</key><string>84386.2109</string></dict>
+<dict>
+<key>identifier</key><string>e50f50ce-001d-4205-a6ea-8ac531b4454b</string><key>stan_name</key><string>华盛物流</string><key>multi_info</key><string> </string><key>x</key><string>94696.6995</string><key>y</key><string>86347.6098</string></dict>
+<dict>
+<key>identifier</key><string>fff2f3a4-75e0-4305-905c-5dddc9385fea</string><key>stan_name</key><string>苏宁电器(浙江)配送中心</string><key>multi_info</key><string> </string><key>x</key><string>98262.2746</string><key>y</key><string>84559.7640</string></dict>
+<dict>
+<key>identifier</key><string>6644f8d4-4fe3-4e0b-91c8-0faea352f911</string><key>stan_name</key><string>佶吉快运</string><key>multi_info</key><string> </string><key>x</key><string>89411.0391</string><key>y</key><string>86006.7344</string></dict>
+<dict>
+<key>identifier</key><string>74b218b0-39d4-473e-b95b-55969e685bea</string><key>stan_name</key><string>杭州恒丰速递服务有限公司（二楼）</string><key>multi_info</key><string> </string><key>x</key><string>84016.0313</string><key>y</key><string>86533.5078</string></dict>
+<dict>
+<key>identifier</key><string>e35c938d-aa2c-4c6f-bb50-56f7e19d7fe6</string><key>stan_name</key><string>嘉里大通物流</string><key>multi_info</key><string> </string><key>x</key><string>72201.7292</string><key>y</key><string>81469.4390</string></dict>
+<dict>
+<key>identifier</key><string>601292e4-9cae-40ce-85b3-e1a49644878f</string><key>stan_name</key><string>浙江传化物流基地</string><key>multi_info</key><string> </string><key>x</key><string>92055.1191</string><key>y</key><string>79664.9359</string></dict>
+<dict>
+<key>identifier</key><string>94e0fac7-f8d9-44a1-bde4-ca7b93ccb5e8</string><key>stan_name</key><string>意法物流</string><key>multi_info</key><string> </string><key>x</key><string>83234.3359</string><key>y</key><string>79667.8672</string></dict>
+<dict>
+<key>identifier</key><string>9cad71ce-07be-40e6-acf2-39a1c36827a0</string><key>stan_name</key><string>托运部</string><key>multi_info</key><string> </string><key>x</key><string>83110.4141</string><key>y</key><string>80809.0078</string></dict>
+<dict>
+<key>identifier</key><string>d2e892c8-c60b-4e53-95b7-6ae14cfd5227</string><key>stan_name</key><string>杭州银河托运服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81090.5346</string><key>y</key><string>82679.4551</string></dict>
+<dict>
+<key>identifier</key><string>8840b8fb-aefc-4c97-b5d7-1f8f6e0b81b5</string><key>stan_name</key><string>物流信息交流中心</string><key>multi_info</key><string> </string><key>x</key><string>91838.3930</string><key>y</key><string>79777.7161</string></dict>
+<dict>
+<key>identifier</key><string>387e5d56-6ed7-45e1-a1f6-f330aa282196</string><key>stan_name</key><string>传化物流基地有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91542.2849</string><key>y</key><string>80184.0290</string></dict>
+<dict>
+<key>identifier</key><string>a4a6dbef-9984-4f33-b1e1-73f2e3856eaf</string><key>stan_name</key><string>杭州浩翔货物中转有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83536.8339</string><key>y</key><string>106537.0590</string></dict>
+<dict>
+<key>identifier</key><string>c74b412d-b3c7-43c9-8018-39caeb8952f2</string><key>stan_name</key><string>瓶窑物流托运站</string><key>multi_info</key><string> </string><key>x</key><string>61919.2479</string><key>y</key><string>96767.2690</string></dict>
+<dict>
+<key>identifier</key><string>6940c774-9ab8-44d8-b2b2-9e23eff9cf14</string><key>stan_name</key><string>杭州兴达物流公司</string><key>multi_info</key><string> </string><key>x</key><string>93518.4667</string><key>y</key><string>101143.8512</string></dict>
+<dict>
+<key>identifier</key><string>05194453-470b-4f86-b3e7-72d1689f2db0</string><key>stan_name</key><string>杭州圣浩物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>62866.9309</string><key>y</key><string>93970.3529</string></dict>
+<dict>
+<key>identifier</key><string>208bfb30-7e63-4800-b526-2fdeea5b9b6a</string><key>stan_name</key><string>余杭港区仁和散货件杂货作业区</string><key>multi_info</key><string> </string><key>x</key><string>77884.2410</string><key>y</key><string>102700.1690</string></dict>
+<dict>
+<key>identifier</key><string>18190435-590b-4160-8d07-938c23c38a54</string><key>stan_name</key><string>浙江长运物流股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91623.1920</string><key>y</key><string>90614.4930</string></dict>
+<dict>
+<key>identifier</key><string>5b93854b-c0ef-4675-a5f0-5d1a7c3622f8</string><key>stan_name</key><string>富日物流如意库</string><key>multi_info</key><string> </string><key>x</key><string>93598.8980</string><key>y</key><string>88207.1094</string></dict>
+<dict>
+<key>identifier</key><string>0e221877-5858-4ea9-b39a-8673bc756c02</string><key>stan_name</key><string>浙江省申通快件服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82025.91</string><key>y</key><string>89197.3856</string></dict>
+<dict>
+<key>identifier</key><string>3e41239d-b457-4322-b6db-8bebc499da32</string><key>stan_name</key><string>杭州长运物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82653.4208</string><key>y</key><string>90719.5514</string></dict>
+<dict>
+<key>identifier</key><string>145a9eeb-c928-4859-8714-82a1031a25a9</string><key>stan_name</key><string>杭州近海货运公司物流基地</string><key>multi_info</key><string> </string><key>x</key><string>84650.2214</string><key>y</key><string>90767.7396</string></dict>
+<dict>
+<key>identifier</key><string>ce5fc551-9432-43f5-ba3f-0bc8405b46f2</string><key>stan_name</key><string>名达物流</string><key>multi_info</key><string> </string><key>x</key><string>74409.9404</string><key>y</key><string>87313.14</string></dict>
+<dict>
+<key>identifier</key><string>5aad3bf1-7b7e-4470-ba0e-a36b8beefc3b</string><key>stan_name</key><string>浙江省八达物流有限公司物流基地</string><key>multi_info</key><string> </string><key>x</key><string>82018.6866</string><key>y</key><string>89342.8443</string></dict>
+<dict>
+<key>identifier</key><string>42ec68ea-a9b7-4c0b-ac17-b1436ed97106</string><key>stan_name</key><string>杭州申通物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81919.2672</string><key>y</key><string>89360.8898</string></dict>
+<dict>
+<key>identifier</key><string>d00cc22b-66be-4a85-920e-e537e58f4df0</string><key>stan_name</key><string>浙江省八达物流有限公司燃气分公司</string><key>multi_info</key><string> </string><key>x</key><string>82017.0146</string><key>y</key><string>89428.8904</string></dict>
+<dict>
+<key>identifier</key><string>7fde8db2-fc2c-4110-b623-c0eff2ec52c3</string><key>stan_name</key><string>欣欣物流</string><key>multi_info</key><string> </string><key>x</key><string>91418.4994</string><key>y</key><string>91008.2796</string></dict>
+<dict>
+<key>identifier</key><string>d57d7fb9-6169-4466-8bb9-d6a91fe63d1f</string><key>stan_name</key><string>盛辉物流</string><key>multi_info</key><string> </string><key>x</key><string>91377.7724</string><key>y</key><string>91024.9612</string></dict>
+<dict>
+<key>identifier</key><string>a11a6fee-78fc-4aeb-8c4b-99ce922faaa0</string><key>stan_name</key><string>新邦物流</string><key>multi_info</key><string> </string><key>x</key><string>91435.3312</string><key>y</key><string>91025.0113</string></dict>
+<dict>
+<key>identifier</key><string>391b1582-8221-4898-b688-a3f81debe77a</string><key>stan_name</key><string>浙江元通物流中心</string><key>multi_info</key><string> </string><key>x</key><string>83053.3224</string><key>y</key><string>88796.2605</string></dict>
+<dict>
+<key>identifier</key><string>091eefaa-408f-4868-8bea-6fa1d91b561f</string><key>stan_name</key><string>华商物流</string><key>multi_info</key><string> </string><key>x</key><string>93179.3424</string><key>y</key><string>88768.5560</string></dict>
+<dict>
+<key>identifier</key><string>4843b8bb-c6d7-43ed-bb44-65eb4122f617</string><key>stan_name</key><string>杭州富日物流有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93365.7044</string><key>y</key><string>89549.7722</string></dict>
+<dict>
+<key>identifier</key><string>23379be4-99ed-4ffd-aed8-ffbd739e9110</string><key>stan_name</key><string>杭州富康实业公司</string><key>multi_info</key><string> </string><key>x</key><string>78148.4922</string><key>y</key><string>91286.9922</string></dict>
+<dict>
+<key>identifier</key><string>97b6a93e-1f08-46b0-8916-910eb70c5cd4</string><key>stan_name</key><string>启成物流</string><key>multi_info</key><string> </string><key>x</key><string>93149.6767</string><key>y</key><string>88903.3998</string></dict>
+<dict>
+<key>identifier</key><string>6443b0de-f1be-4fe8-85f3-880f934c73e9</string><key>stan_name</key><string>旺旺物流中心</string><key>multi_info</key><string> </string><key>x</key><string>93827.6221</string><key>y</key><string>89014.4385</string></dict>
+<dict>
+<key>identifier</key><string>c2289f88-514c-471d-a2ce-c24ce8c4ab5d</string><key>stan_name</key><string>杭州之江运输机械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74501.4765</string><key>y</key><string>66857.8074</string></dict>
+<dict>
+<key>identifier</key><string>9ea4566b-fa10-472e-bcdf-a290774e4d49</string><key>stan_name</key><string>杭州金来运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85301.25</string><key>y</key><string>73766.2422</string></dict>
+<dict>
+<key>identifier</key><string>1e99793d-60f6-4a33-ab6b-47e97ca775f5</string><key>stan_name</key><string>杭州恒通汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71490.2595</string><key>y</key><string>68635.0550</string></dict>
+<dict>
+<key>identifier</key><string>f95569d8-1b55-4955-a641-8ef244eb12c7</string><key>stan_name</key><string>杭州恒建汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71597.7266</string><key>y</key><string>62759.8477</string></dict>
+<dict>
+<key>identifier</key><string>41b7dee0-5ae1-4537-a00f-7ef88b0af897</string><key>stan_name</key><string>杭州鹏程货运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75808.2307</string><key>y</key><string>64827.1855</string></dict>
+<dict>
+<key>identifier</key><string>3444541c-5910-40bd-86f2-715ff39021d0</string><key>stan_name</key><string>萧山金腾运输队</string><key>multi_info</key><string> </string><key>x</key><string>88528.6130</string><key>y</key><string>74355.6490</string></dict>
+<dict>
+<key>identifier</key><string>86c87be4-28fd-424f-8f2f-629da6bb28dc</string><key>stan_name</key><string>江一运输队</string><key>multi_info</key><string> </string><key>x</key><string>84286.9453</string><key>y</key><string>74359.4063</string></dict>
+<dict>
+<key>identifier</key><string>e7b7e0d7-0f45-490c-989c-adf0f95b9009</string><key>stan_name</key><string>杭州恒通运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74794.8996</string><key>y</key><string>67082.2842</string></dict>
+<dict>
+<key>identifier</key><string>bb8590dc-e8f5-4276-8c6a-56b5f9a3b466</string><key>stan_name</key><string>杭州通杭客货运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88977.8320</string><key>y</key><string>86407.8270</string></dict>
+<dict>
+<key>identifier</key><string>03f86b0a-2f26-479f-912e-b85261118cc2</string><key>stan_name</key><string>萧山申通快递</string><key>multi_info</key><string> </string><key>x</key><string>94875.2950</string><key>y</key><string>69708.4039</string></dict>
+<dict>
+<key>identifier</key><string>a7eb08b7-437a-49fa-a4c2-d8b9f9abe0d5</string><key>stan_name</key><string>杭州浦沿运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78909.7656</string><key>y</key><string>70324.0625</string></dict>
+<dict>
+<key>identifier</key><string>eef8106a-cb58-44d0-87ec-92970b0a25cd</string><key>stan_name</key><string>杭州明华集装箱运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93387.6550</string><key>y</key><string>76329.7590</string></dict>
+<dict>
+<key>identifier</key><string>1d27b093-080e-42af-b267-d0893f4b9b3b</string><key>stan_name</key><string>长顺空运</string><key>multi_info</key><string> </string><key>x</key><string>80634.5859</string><key>y</key><string>76776.75</string></dict>
+<dict>
+<key>identifier</key><string>37c816c0-e9c4-48bc-b067-9feefe16d2f3</string><key>stan_name</key><string>钱江航运公司</string><key>multi_info</key><string> </string><key>x</key><string>81040.2266</string><key>y</key><string>76925.9297</string></dict>
+<dict>
+<key>identifier</key><string>da9f10ab-e017-4144-9472-61c5fde7d308</string><key>stan_name</key><string>杭州轮渡公司</string><key>multi_info</key><string> </string><key>x</key><string>84953</string><key>y</key><string>77665.5078</string></dict>
+<dict>
+<key>identifier</key><string>3ff6eb82-776c-4806-8b1b-d76ffce0ee86</string><key>stan_name</key><string>浙江速达运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97779.8554</string><key>y</key><string>78311.6781</string></dict>
+<dict>
+<key>identifier</key><string>48d1256c-6b39-4745-8381-facb3ebddcb1</string><key>stan_name</key><string>杭州公交公司电车公司二场</string><key>multi_info</key><string> </string><key>x</key><string>76380.0078</string><key>y</key><string>86912.3594</string></dict>
+<dict>
+<key>identifier</key><string>594616b5-3acb-430b-8dbb-bc7353ec1af7</string><key>stan_name</key><string>杭州一汽运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77806.2188</string><key>y</key><string>89920.1875</string></dict>
+<dict>
+<key>identifier</key><string>c6dca688-3ffa-473d-b5fd-e8d1bde947ba</string><key>stan_name</key><string>杭州蓝天大件起重运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76404.8538</string><key>y</key><string>89992.7295</string></dict>
+<dict>
+<key>identifier</key><string>5a9eb12b-97f7-4780-a9bb-8e32c1886bee</string><key>stan_name</key><string>杭州长运三运运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78939.4386</string><key>y</key><string>90071.8287</string></dict>
+<dict>
+<key>identifier</key><string>1a9ed81c-9cad-4366-b504-e70dbd9034f6</string><key>stan_name</key><string>杭州裕昌货运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79550.9726</string><key>y</key><string>90097.0818</string></dict>
+<dict>
+<key>identifier</key><string>d5d44cff-72de-454a-8562-a12c09a45c9c</string><key>stan_name</key><string>杭州集通储运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79673.8081</string><key>y</key><string>90209.9194</string></dict>
+<dict>
+<key>identifier</key><string>82c67979-cf8d-49f5-90eb-0cab5755bc12</string><key>stan_name</key><string>浙江冶钢储运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81044.8821</string><key>y</key><string>91987.4837</string></dict>
+<dict>
+<key>identifier</key><string>8c2271fb-90f0-4450-9aa0-23602054f1ac</string><key>stan_name</key><string>浙江速达汽车运输公司</string><key>multi_info</key><string> </string><key>x</key><string>79870.4462</string><key>y</key><string>88513.4578</string></dict>
+<dict>
+<key>identifier</key><string>a0a7ec3f-633c-4c75-9758-1b24a2d68296</string><key>stan_name</key><string>杭州大喜汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80282.8895</string><key>y</key><string>90343.9793</string></dict>
+<dict>
+<key>identifier</key><string>63d963e6-97be-460b-9ced-de8486833210</string><key>stan_name</key><string>鑫安储运有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79835.0664</string><key>y</key><string>90505.4558</string></dict>
+<dict>
+<key>identifier</key><string>4669819e-8e1a-40e1-87b9-8801c11a9aec</string><key>stan_name</key><string>杭州北站综合运输贸易公司</string><key>multi_info</key><string> </string><key>x</key><string>80146.5337</string><key>y</key><string>90676.3422</string></dict>
+<dict>
+<key>identifier</key><string>be111602-bc4f-4249-8a82-532ef5822cab</string><key>stan_name</key><string>杭州新世纪汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79505.5762</string><key>y</key><string>90690.5644</string></dict>
+<dict>
+<key>identifier</key><string>866ded96-87ff-476a-9394-842a22d1a01c</string><key>stan_name</key><string>杭州富豪运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81925.7449</string><key>y</key><string>89263.0649</string></dict>
+<dict>
+<key>identifier</key><string>de67e65f-d3e2-491d-8ea3-f1bde015a3b3</string><key>stan_name</key><string>杭州长青汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84805.1711</string><key>y</key><string>90847.4371</string></dict>
+<dict>
+<key>identifier</key><string>eb60f252-38df-420f-9378-216e151694d7</string><key>stan_name</key><string>杭州捷奔汽车运输有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81762.2599</string><key>y</key><string>87420.7184</string></dict>
+<dict>
+<key>identifier</key><string>e36e6e8d-2476-462c-9c47-fec49a9b397d</string><key>stan_name</key><string>山东临沂鸿发货物有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84743.0043</string><key>y</key><string>90989.8456</string></dict>
+<dict>
+<key>identifier</key><string>6e6044bd-fbbf-4642-ae8c-4f5f3e7dd588</string><key>stan_name</key><string>杭州公交集团电车公司</string><key>multi_info</key><string> </string><key>x</key><string>78183.3649</string><key>y</key><string>91085.0944</string></dict>
+</array>
+</plist>

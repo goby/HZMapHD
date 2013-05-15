@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>5ea07f35-bdca-410f-8ad5-5184450d68fe</string><key>stan_name</key><string>三维通信</string><key>multi_info</key><string> </string><key>x</key><string>79966.5313</string><key>y</key><string>73772.5234</string></dict>
+<dict>
+<key>identifier</key><string>8a02b150-57c8-4bf6-8482-2a6407579092</string><key>stan_name</key><string>浙江飞虎通信器材有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79901.9375</string><key>y</key><string>71322.0859</string></dict>
+<dict>
+<key>identifier</key><string>4b17ab3f-e4ba-49a6-a40c-a36b03c6b5f3</string><key>stan_name</key><string>杭州荆岭通信设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68096.5975</string><key>y</key><string>80263.9845</string></dict>
+<dict>
+<key>identifier</key><string>fe048c07-aad3-4fef-be2f-9b53a8390131</string><key>stan_name</key><string>杭州斯加耐特通信有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76956.5313</string><key>y</key><string>85676.6641</string></dict>
+<dict>
+<key>identifier</key><string>a5fcab12-713a-46e1-8584-a27f2ebc79d2</string><key>stan_name</key><string>东方通信股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76368.7545</string><key>y</key><string>83700.7463</string></dict>
+<dict>
+<key>identifier</key><string>5bd7f6d7-3a07-415a-b574-4d289dc42efd</string><key>stan_name</key><string>浙江省数据通信局</string><key>multi_info</key><string> </string><key>x</key><string>79921.2825</string><key>y</key><string>82011.7275</string></dict>
+<dict>
+<key>identifier</key><string>6ac2adca-fbee-4c87-aabf-9615c83f04b1</string><key>stan_name</key><string>通讯塔</string><key>multi_info</key><string> </string><key>x</key><string>94112.2730</string><key>y</key><string>102498.0606</string></dict>
+<dict>
+<key>identifier</key><string>ca8b7a2d-e0b0-45a6-9d48-af08f74be904</string><key>stan_name</key><string>中国铁通古墩路营业厅</string><key>multi_info</key><string> </string><key>x</key><string>73792.0930</string><key>y</key><string>83510.3820</string></dict>
+</array>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>eed764c6-fed6-4d66-95a2-4078a54a4f7f</string><key>stan_name</key><string>杭州白马湖休闲观光有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84043.2734</string><key>y</key><string>70655.2734</string></dict>
+<dict>
+<key>identifier</key><string>cee93693-3dc7-4360-857c-020cec5d7b63</string><key>stan_name</key><string>杭州绿野旅游开发公司</string><key>multi_info</key><string> </string><key>x</key><string>70997.3516</string><key>y</key><string>74584.4375</string></dict>
+<dict>
+<key>identifier</key><string>88683f5c-a323-4eea-8bf9-31acd3466fd8</string><key>stan_name</key><string>梅坞旅游公司</string><key>multi_info</key><string> </string><key>x</key><string>72412.3203</string><key>y</key><string>75240.1719</string></dict>
+<dict>
+<key>identifier</key><string>35fa7109-483a-4036-8a81-bad1147ef89a</string><key>stan_name</key><string>传化大地旅行社</string><key>multi_info</key><string> </string><key>x</key><string>97536.6094</string><key>y</key><string>78389.2780</string></dict>
+<dict>
+<key>identifier</key><string>de265126-355a-42d4-84ec-77cd85b6fdf2</string><key>stan_name</key><string>雷峰塔文化旅游发展有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78444.4688</string><key>y</key><string>78537.9375</string></dict>
+<dict>
+<key>identifier</key><string>d2def0e1-9619-4e21-94b0-54c4825236d4</string><key>stan_name</key><string>东方客运旅游分公司</string><key>multi_info</key><string> </string><key>x</key><string>82989.6094</string><key>y</key><string>85231.7656</string></dict>
+<dict>
+<key>identifier</key><string>be9357e3-987c-4c50-99e8-24370691f70c</string><key>stan_name</key><string>浙江天堂旅行社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80500.2112</string><key>y</key><string>83137.1282</string></dict>
+<dict>
+<key>identifier</key><string>eb4de5ec-afb0-42d3-adca-3e5f4042c415</string><key>stan_name</key><string>杭州西子旅游社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75814.0086</string><key>y</key><string>83587.2343</string></dict>
+<dict>
+<key>identifier</key><string>9da8d9cd-65b2-4c16-8e6b-eee8b945f212</string><key>stan_name</key><string>浙江省海外旅游公司</string><key>multi_info</key><string> </string><key>x</key><string>80151.2813</string><key>y</key><string>82397.3672</string></dict>
+<dict>
+<key>identifier</key><string>89823577-d5f3-49b3-a605-f2e5afc06c58</string><key>stan_name</key><string>杭州招商国际旅游公司</string><key>multi_info</key><string> </string><key>x</key><string>79895.5313</string><key>y</key><string>82468.3125</string></dict>
+<dict>
+<key>identifier</key><string>17d0411a-3567-4bb5-8583-54522d2b73d0</string><key>stan_name</key><string>浙江省旅行社协会</string><key>multi_info</key><string> </string><key>x</key><string>79624.5832</string><key>y</key><string>80503.7895</string></dict>
+<dict>
+<key>identifier</key><string>b85ddbe5-1db1-40dd-8b8c-361f84371f52</string><key>stan_name</key><string>浙旅集团管理服务中心</string><key>multi_info</key><string> </string><key>x</key><string>79600.0078</string><key>y</key><string>80518.6641</string></dict>
+<dict>
+<key>identifier</key><string>d3eed489-1408-4bc3-92ef-3cf18124fb2f</string><key>stan_name</key><string>杭州立鑫假日旅行社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75897.3727</string><key>y</key><string>83562.4594</string></dict>
+<dict>
+<key>identifier</key><string>018b232b-1ac9-4187-8053-b6bea34af43c</string><key>stan_name</key><string>杭州新世纪旅行社</string><key>multi_info</key><string> </string><key>x</key><string>75900.5099</string><key>y</key><string>83563.5465</string></dict>
+<dict>
+<key>identifier</key><string>ccabf265-e4ed-4ac4-84aa-5d10d945a2c1</string><key>stan_name</key><string>杭州西湖旅游巴士旅行社</string><key>multi_info</key><string> </string><key>x</key><string>81813.3258</string><key>y</key><string>80717.9240</string></dict>
+<dict>
+<key>identifier</key><string>497c7578-16ee-4128-9392-bca4787bfc45</string><key>stan_name</key><string>杭州都市假日旅行社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81704.9328</string><key>y</key><string>80741.8514</string></dict>
+<dict>
+<key>identifier</key><string>4f44f553-ce1a-42fd-99be-1dc4a53a3bb4</string><key>stan_name</key><string>杭州市工美旅游有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83357.2578</string><key>y</key><string>80796.2969</string></dict>
+<dict>
+<key>identifier</key><string>c85fb9e0-a918-4af0-ab89-0048289f9cc8</string><key>stan_name</key><string>清聊斋旅行社</string><key>multi_info</key><string> </string><key>x</key><string>79453.8203</string><key>y</key><string>79754.4063</string></dict>
+<dict>
+<key>identifier</key><string>a5f01494-9920-43b8-b609-98cade11e0c2</string><key>stan_name</key><string>浙江外事旅游业务调度中心</string><key>multi_info</key><string> </string><key>x</key><string>76866.3866</string><key>y</key><string>82934.9702</string></dict>
+<dict>
+<key>identifier</key><string>c614e0ad-32fa-4b37-8ae2-2a5904bbf6b2</string><key>stan_name</key><string>杭州环湖观光游览有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74658.6160</string><key>y</key><string>80036.9581</string></dict>
+<dict>
+<key>identifier</key><string>21a4e3a6-dba5-4c10-aefe-4b5fd3631648</string><key>stan_name</key><string>杭州海川旅行社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80154.3474</string><key>y</key><string>80119.4559</string></dict>
+<dict>
+<key>identifier</key><string>e35456d2-ab5f-42a6-8f78-112616915731</string><key>stan_name</key><string>浙江省中国旅行社</string><key>multi_info</key><string> </string><key>x</key><string>80496.2614</string><key>y</key><string>81230.0335</string></dict>
+<dict>
+<key>identifier</key><string>62bf5f03-5d37-436f-acf4-d9499364d341</string><key>stan_name</key><string>浙江省中旅集团公司</string><key>multi_info</key><string> </string><key>x</key><string>80497.4793</string><key>y</key><string>81242.1515</string></dict>
+<dict>
+<key>identifier</key><string>108371cb-3442-4216-b172-c34058752ddf</string><key>stan_name</key><string>杭州山沟沟旅游接待中心</string><key>multi_info</key><string> </string><key>x</key><string>37078.0261</string><key>y</key><string>100883.0020</string></dict>
+<dict>
+<key>identifier</key><string>cd5f33e6-6671-405a-a701-ab963ee36956</string><key>stan_name</key><string>假日旅游</string><key>multi_info</key><string> </string><key>x</key><string>93033.0029</string><key>y</key><string>99296.4970</string></dict>
+<dict>
+<key>identifier</key><string>630df569-4a86-4122-8939-96e82749a159</string><key>stan_name</key><string>杭州江南旅行社有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92509.9474</string><key>y</key><string>100005.1951</string></dict>
+</array>
+</plist>

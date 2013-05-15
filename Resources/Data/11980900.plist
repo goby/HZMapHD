@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>243b3300-907d-47e4-917e-42cf4f593b08</string><key>stan_name</key><string>西湖区公安分局玉泉派出所求室是社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76539.92</string><key>y</key><string>82169.4190</string></dict>
+<dict>
+<key>identifier</key><string>0690cffc-b2e7-4bd5-ab0b-a9044d46b173</string><key>stan_name</key><string>米市巷派出所大塘巷社区治安值班室</string><key>multi_info</key><string> </string><key>x</key><string>79258.0610</string><key>y</key><string>83987.0560</string></dict>
+<dict>
+<key>identifier</key><string>a1478172-12d3-4a43-b7a1-d365c4bbb617</string><key>stan_name</key><string>拱墅区公安分局米市巷派出所半道红社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79012.4890</string><key>y</key><string>83795.5040</string></dict>
+<dict>
+<key>identifier</key><string>6f72fb72-00f0-4625-a1a3-20a689b0aa66</string><key>stan_name</key><string>西湖区公安分局北山派出所友谊社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78124.2040</string><key>y</key><string>82709.7270</string></dict>
+<dict>
+<key>identifier</key><string>fe30d144-be42-4e7e-a762-5579eea5d5f5</string><key>stan_name</key><string>西湖区公安分局北山派出所上保社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78418.4790</string><key>y</key><string>82658.9530</string></dict>
+<dict>
+<key>identifier</key><string>09e3b6c4-172e-4c1c-a775-210a8aac1b83</string><key>stan_name</key><string>西湖区公安分局北山派出所松木场社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78325.98</string><key>y</key><string>82721.8940</string></dict>
+<dict>
+<key>identifier</key><string>9ee7a155-8282-4c98-b8b0-5e58df510bff</string><key>stan_name</key><string>文晖派出所打铁关社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81048.3650</string><key>y</key><string>83965.9250</string></dict>
+<dict>
+<key>identifier</key><string>fc602ffb-43b6-4077-8aa0-cfcc4a3e2f77</string><key>stan_name</key><string>下城区公安分局文晖派出所流水西苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81342.5530</string><key>y</key><string>83872.1970</string></dict>
+<dict>
+<key>identifier</key><string>4f29c3ec-e95c-4086-a8b6-8a10fe1dda8b</string><key>stan_name</key><string>下城区公安分局潮鸣派出所艮山门社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81535.1760</string><key>y</key><string>83260.5380</string></dict>
+<dict>
+<key>identifier</key><string>098f1db2-a6d3-4769-9b3f-130077396960</string><key>stan_name</key><string>下城区公安分局朝晖派出所大家苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80210.50</string><key>y</key><string>83696.5020</string></dict>
+<dict>
+<key>identifier</key><string>5eab1a14-6c5a-4dea-9baf-84c74e0e398d</string><key>stan_name</key><string>下城区公安分局朝晖派出所施家花园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80574.7680</string><key>y</key><string>83692.59</string></dict>
+<dict>
+<key>identifier</key><string>b76a824d-e12d-4d37-9aae-4bd62374aff1</string><key>stan_name</key><string>西湖区公安分局北山派出所宝石社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78250.8030</string><key>y</key><string>82326.9920</string></dict>
+<dict>
+<key>identifier</key><string>ea837255-2892-47fe-ae21-97f072c007c9</string><key>stan_name</key><string>西湖区公安分局北山派出所旅馆业治安小分队</string><key>multi_info</key><string> </string><key>x</key><string>78345.5540</string><key>y</key><string>82089.5960</string></dict>
+<dict>
+<key>identifier</key><string>d7990c62-a617-4757-99e8-bb618e17db8c</string><key>stan_name</key><string>下城区公安分局天水派出所灯芯巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79744.2630</string><key>y</key><string>82353.1760</string></dict>
+<dict>
+<key>identifier</key><string>c929c63e-b4e1-427f-a6bb-69fc13b46337</string><key>stan_name</key><string>下城区公安分局武林派出所长寿社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79678.4750</string><key>y</key><string>82151.1750</string></dict>
+<dict>
+<key>identifier</key><string>1502c195-5551-448b-b69e-afdcf88e3cd8</string><key>stan_name</key><string>长庆街派出所华坊社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81176.3960</string><key>y</key><string>82661.3390</string></dict>
+<dict>
+<key>identifier</key><string>0cff99a6-ccfd-467f-96c2-64bc9f5ff553</string><key>stan_name</key><string>下城区公安分局潮鸣派出所所巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81701.2960</string><key>y</key><string>82784.8780</string></dict>
+<dict>
+<key>identifier</key><string>005c9285-fd94-413c-9871-dfa1bd777d95</string><key>stan_name</key><string>下城区公安分局潮鸣派出所艮园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81892.3820</string><key>y</key><string>82745.6470</string></dict>
+<dict>
+<key>identifier</key><string>fa1df1ad-3bc8-4a0c-bd79-16d339b3493f</string><key>stan_name</key><string>下城区公安分局潮鸣派出所东园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81879.4910</string><key>y</key><string>82441.2260</string></dict>
+<dict>
+<key>identifier</key><string>6bec0bd7-e938-4d23-9680-508bf879f547</string><key>stan_name</key><string>下城区公安分局天水派出所环北新村社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79527.1680</string><key>y</key><string>83158.6160</string></dict>
+<dict>
+<key>identifier</key><string>86757f45-0d76-4932-a261-f643b4aaff65</string><key>stan_name</key><string>下城区公安分局武林派出所环西社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79219.7970</string><key>y</key><string>82656.0720</string></dict>
+<dict>
+<key>identifier</key><string>7021d9b1-e2cd-456d-8b95-75b17eb5b778</string><key>stan_name</key><string>下城区公安分局武林派出所安吉社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79270.5440</string><key>y</key><string>82423.7760</string></dict>
+<dict>
+<key>identifier</key><string>e1a9e111-4e20-411a-a6bc-9ad00ecb7601</string><key>stan_name</key><string>下城区公安分局天水派出所戒坛寺巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79722.0290</string><key>y</key><string>82633.7920</string></dict>
+<dict>
+<key>identifier</key><string>634c4b4f-d854-479d-847d-185f7c3839d8</string><key>stan_name</key><string>社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>83429.7030</string><key>y</key><string>84605.7660</string></dict>
+<dict>
+<key>identifier</key><string>25afa55b-846b-4912-aba7-e60650410b1c</string><key>stan_name</key><string>新凯苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>82362.5940</string><key>y</key><string>81058.6880</string></dict>
+<dict>
+<key>identifier</key><string>e9a3b7b0-4295-4ae3-8300-822957244af7</string><key>stan_name</key><string>翠玉社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79880.5550</string><key>y</key><string>85810.3050</string></dict>
+<dict>
+<key>identifier</key><string>879de25d-cd40-42d6-844b-5c32d8bf761d</string><key>stan_name</key><string>警务室</string><key>multi_info</key><string> </string><key>x</key><string>95672.1340</string><key>y</key><string>88843.32</string></dict>
+<dict>
+<key>identifier</key><string>cc0f818f-5616-4dd8-91d4-537f81fb2278</string><key>stan_name</key><string>栖霞岭社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76751.4840</string><key>y</key><string>81004.23</string></dict>
+<dict>
+<key>identifier</key><string>bda273f4-e51f-4968-a715-a0d723b78253</string><key>stan_name</key><string>留下派出所东岳社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>72282.50</string><key>y</key><string>81381.7720</string></dict>
+<dict>
+<key>identifier</key><string>7dd9b7d9-5a77-4054-aab5-3607dcd330bf</string><key>stan_name</key><string>东岳社区治安巡防中队执勤点</string><key>multi_info</key><string> </string><key>x</key><string>72817.4360</string><key>y</key><string>81263.5680</string></dict>
+<dict>
+<key>identifier</key><string>01c3b62a-333f-4943-9125-6c4bd06040d6</string><key>stan_name</key><string>小河山社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>67278.1230</string><key>y</key><string>77117.2530</string></dict>
+<dict>
+<key>identifier</key><string>7255792e-d942-4381-9719-484b580afea7</string><key>stan_name</key><string>留下巡防大队高教园中队</string><key>multi_info</key><string> </string><key>x</key><string>67443.45</string><key>y</key><string>77565.83</string></dict>
+<dict>
+<key>identifier</key><string>1f9327b9-daea-44bc-bb8c-5b5b518bc884</string><key>stan_name</key><string>蒋村派出所西溪花苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>70059.1460</string><key>y</key><string>84552.9480</string></dict>
+<dict>
+<key>identifier</key><string>c83b5495-b705-4798-bfb4-7dc86450c208</string><key>stan_name</key><string>西湖区公安分局北山派出所黄龙社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77580.5530</string><key>y</key><string>82860.3680</string></dict>
+<dict>
+<key>identifier</key><string>a0743d72-5f88-4d04-81b1-2b9c7b93acb9</string><key>stan_name</key><string>西湖区公安分局北山派出所沿山河社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78007.9950</string><key>y</key><string>82974.7260</string></dict>
+<dict>
+<key>identifier</key><string>61c08d48-3be8-4b2b-bf88-2fcfb0bed350</string><key>stan_name</key><string>西湖区公安分局翠苑派出所九莲社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76713.8980</string><key>y</key><string>83806.22</string></dict>
+<dict>
+<key>identifier</key><string>3d707559-e3c9-4906-ad0f-84f7c746c3c6</string><key>stan_name</key><string>下城区公安分局天水派出所保安值勤点</string><key>multi_info</key><string> </string><key>x</key><string>80150.2980</string><key>y</key><string>82594.6070</string></dict>
+<dict>
+<key>identifier</key><string>ac0e1c8c-f89a-4c9c-80e9-67ceb88844bd</string><key>stan_name</key><string>下城区公安分局天水派出所仓桥社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80371.8690</string><key>y</key><string>82728.4980</string></dict>
+<dict>
+<key>identifier</key><string>dc15d24a-7be9-4e56-a785-f6382b6d500e</string><key>stan_name</key><string>杭州市公安局下城区公安分局天水派出所保安值班室</string><key>multi_info</key><string> </string><key>x</key><string>80543.0430</string><key>y</key><string>82555.2230</string></dict>
+<dict>
+<key>identifier</key><string>72c58d6e-fa17-4a1a-ae25-9e9c8e8f6433</string><key>stan_name</key><string>下城区公安分局长庆派出所十五家园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80885.6330</string><key>y</key><string>82573.05</string></dict>
+<dict>
+<key>identifier</key><string>de03be6a-cf93-4db4-8a6b-9a1c8b8f50be</string><key>stan_name</key><string>上城区公安分局小营派出所金钱巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81078.5650</string><key>y</key><string>80568.4320</string></dict>
+<dict>
+<key>identifier</key><string>6e9c59b4-9114-4a56-8181-d3680fbede7a</string><key>stan_name</key><string>上城区公安分局小营派出所长明寺巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81758.81</string><key>y</key><string>80608.1010</string></dict>
+<dict>
+<key>identifier</key><string>791822d2-bdee-44e1-82cc-ce5230f0ff29</string><key>stan_name</key><string>上城区公安分局清波派出所安定路社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80431.8270</string><key>y</key><string>80049.5490</string></dict>
+<dict>
+<key>identifier</key><string>b5a3e4a3-5a62-4a8c-bf03-7b397cb978c0</string><key>stan_name</key><string>杭州市公安局清波派出所柳翠派出所柳翠井巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80610.5590</string><key>y</key><string>80068.9980</string></dict>
+<dict>
+<key>identifier</key><string>64378b5c-78b7-46a0-b825-7554d8fa6c29</string><key>stan_name</key><string>上城区公安分局小营派出所茅廊巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80770.5430</string><key>y</key><string>80709.3150</string></dict>
+<dict>
+<key>identifier</key><string>0711f956-ac52-479b-aa7b-93d8f75a065f</string><key>stan_name</key><string>下城区公安分局天水派出所皇亲苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80149.56</string><key>y</key><string>82384.6510</string></dict>
+<dict>
+<key>identifier</key><string>8fff9e9b-9b11-4e0d-b37f-03999928d393</string><key>stan_name</key><string>萧山交通巡逻警察大队瓜沥警务室</string><key>multi_info</key><string> </string><key>x</key><string>107571.2037</string><key>y</key><string>73643.7980</string></dict>
+<dict>
+<key>identifier</key><string>30a00402-db6d-4894-bd40-36def27c4342</string><key>stan_name</key><string>朱村桥警务站</string><key>multi_info</key><string> </string><key>x</key><string>81762.9027</string><key>y</key><string>59428.3070</string></dict>
+<dict>
+<key>identifier</key><string>63d77c8a-db9f-4361-b1b1-ffe08a439d31</string><key>stan_name</key><string>东庄周警务室</string><key>multi_info</key><string> </string><key>x</key><string>89502.6960</string><key>y</key><string>64738.4630</string></dict>
+<dict>
+<key>identifier</key><string>669e29b6-f5cc-40d7-b466-450a21764de5</string><key>stan_name</key><string>东片警务室</string><key>multi_info</key><string> </string><key>x</key><string>78652.4079</string><key>y</key><string>66551.7605</string></dict>
+<dict>
+<key>identifier</key><string>12aace14-a24d-40b6-81ff-ad3c87153ced</string><key>stan_name</key><string>杭州市公安局西湖区分局袁浦派出所民警值勤室</string><key>multi_info</key><string> </string><key>x</key><string>79094.3217</string><key>y</key><string>66583.7188</string></dict>
+<dict>
+<key>identifier</key><string>abb08a19-75aa-4180-b594-2496da8c7230</string><key>stan_name</key><string>桥南警务站</string><key>multi_info</key><string> </string><key>x</key><string>98193.4010</string><key>y</key><string>78467.2950</string></dict>
+<dict>
+<key>identifier</key><string>ef75a491-ea78-4cc9-a5e8-b549df6da977</string><key>stan_name</key><string>屏峰社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>68623.1434</string><key>y</key><string>78139.88</string></dict>
+<dict>
+<key>identifier</key><string>c3ea2322-881a-471c-a2c2-7933a1532019</string><key>stan_name</key><string>横街社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>68972.6245</string><key>y</key><string>78641.1113</string></dict>
+<dict>
+<key>identifier</key><string>8e26bfb1-f7f2-40f7-bd2b-8291044a2e8c</string><key>stan_name</key><string>西湖区公安分局留下警务室</string><key>multi_info</key><string> </string><key>x</key><string>69501.6149</string><key>y</key><string>79371.6994</string></dict>
+<dict>
+<key>identifier</key><string>99b9eaac-f32b-47c4-a2f2-b36320675390</string><key>stan_name</key><string>景园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>96557.9638</string><key>y</key><string>86628.6553</string></dict>
+<dict>
+<key>identifier</key><string>c5b2a4bf-9190-4772-b32b-9f399fd92219</string><key>stan_name</key><string>九堡镇社区治安巡逻防控大队八堡社区中队</string><key>multi_info</key><string> </string><key>x</key><string>92301.8021</string><key>y</key><string>86634.9514</string></dict>
+<dict>
+<key>identifier</key><string>8ba99e0d-4cc8-442b-aaac-7fa1aad003e2</string><key>stan_name</key><string>下沙保安大队</string><key>multi_info</key><string> </string><key>x</key><string>96366.9578</string><key>y</key><string>86802.1404</string></dict>
+<dict>
+<key>identifier</key><string>9be73d63-5524-4b46-85b3-5f820c6f6adb</string><key>stan_name</key><string>下沙派出所下沙警务室</string><key>multi_info</key><string> </string><key>x</key><string>96366.2039</string><key>y</key><string>86810.4967</string></dict>
+<dict>
+<key>identifier</key><string>1969c3d3-04f4-4f66-a3bc-3c38e8f71293</string><key>stan_name</key><string>新湾派出所</string><key>multi_info</key><string> </string><key>x</key><string>116815.7320</string><key>y</key><string>84057.7090</string></dict>
+<dict>
+<key>identifier</key><string>dead5c3e-efc2-40df-ab01-060a3e177d58</string><key>stan_name</key><string>杭州市西湖区保安服务公司蒋村商住区保安直属大队第二中队富丽苑分队</string><key>multi_info</key><string> </string><key>x</key><string>74914.9822</string><key>y</key><string>83647.9526</string></dict>
+<dict>
+<key>identifier</key><string>3c699567-34af-4eb9-85cf-99c41c293f4f</string><key>stan_name</key><string>下沙巡防大队头格中队</string><key>multi_info</key><string> </string><key>x</key><string>93424.8975</string><key>y</key><string>86559.0470</string></dict>
+<dict>
+<key>identifier</key><string>6d6d978d-cfed-4ffd-a456-228d14bdb303</string><key>stan_name</key><string>杭州市西湖区保安服务公司蒋村商住区保安直属大队第一中队丹桂一分队</string><key>multi_info</key><string> </string><key>x</key><string>74539.5389</string><key>y</key><string>83579.2115</string></dict>
+<dict>
+<key>identifier</key><string>f6d0eb7d-6048-4d93-8b0a-fdeaac69d16f</string><key>stan_name</key><string>协警室</string><key>multi_info</key><string> </string><key>x</key><string>82134.8125</string><key>y</key><string>81685.2656</string></dict>
+<dict>
+<key>identifier</key><string>448d66df-2565-4c95-b912-0259ead4f4fc</string><key>stan_name</key><string>知足社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81707.7188</string><key>y</key><string>82126.6406</string></dict>
+<dict>
+<key>identifier</key><string>edcb79da-63e4-46d7-8005-eabcf6156d6c</string><key>stan_name</key><string>鸬鸟警务室</string><key>multi_info</key><string> </string><key>x</key><string>40816.6770</string><key>y</key><string>103238.0680</string></dict>
+<dict>
+<key>identifier</key><string>8f93f275-d007-4b8d-9f88-41812949b5f9</string><key>stan_name</key><string>警务室</string><key>multi_info</key><string> </string><key>x</key><string>82528.5234</string><key>y</key><string>95158</string></dict>
+<dict>
+<key>identifier</key><string>5f49f444-8820-4d5c-8318-d1c4e6fe06c1</string><key>stan_name</key><string>新元社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>95187.7721</string><key>y</key><string>87768.3918</string></dict>
+<dict>
+<key>identifier</key><string>3d5e95b4-94c3-4c17-9ca5-6df0ea5580ea</string><key>stan_name</key><string>杨家社区平安巡防中队</string><key>multi_info</key><string> </string><key>x</key><string>82244.8373</string><key>y</key><string>88304.0320</string></dict>
+<dict>
+<key>identifier</key><string>45531737-1059-4aeb-b1f1-49e6f847523a</string><key>stan_name</key><string>萧山区公安分局河庄派出所江东警务室</string><key>multi_info</key><string> </string><key>x</key><string>111529.6460</string><key>y</key><string>88525.0041</string></dict>
+<dict>
+<key>identifier</key><string>07d1d010-1942-4e98-ba3d-05417aaec810</string><key>stan_name</key><string>下城区公安分局武林派出所中北社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80366.8530</string><key>y</key><string>82016.1120</string></dict>
+<dict>
+<key>identifier</key><string>afb82fe9-189b-41bc-903e-b93747f3f118</string><key>stan_name</key><string>下城区公安分局长庆派出所吴牙社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80790.0680</string><key>y</key><string>81780.3980</string></dict>
+<dict>
+<key>identifier</key><string>5ebce229-a7f3-4d76-9ac4-7c9700019ace</string><key>stan_name</key><string>长庆派出所柳营社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80834.3070</string><key>y</key><string>81978.7910</string></dict>
+<dict>
+<key>identifier</key><string>b2a44fe4-c25b-4f7e-be51-0d77b23aa199</string><key>stan_name</key><string>下城区公安分局武林派出所徐宝庆警务室</string><key>multi_info</key><string> </string><key>x</key><string>80263.5610</string><key>y</key><string>81750.9290</string></dict>
+<dict>
+<key>identifier</key><string>178a3790-dc6d-4868-9109-c1fdc51dd21a</string><key>stan_name</key><string>上城区公安分局小营派出所紫金社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80944.1810</string><key>y</key><string>81504.9460</string></dict>
+<dict>
+<key>identifier</key><string>5fff483c-ab54-4ce1-873f-7014e6fbc848</string><key>stan_name</key><string>上城区公安分局湖滨派出所东坡路社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80024.5620</string><key>y</key><string>81537.3590</string></dict>
+<dict>
+<key>identifier</key><string>fff304fa-ebd6-4a54-9825-2e3e181353b0</string><key>stan_name</key><string>上城区公安分局湖滨派出所吴山社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80489.5830</string><key>y</key><string>80846.5950</string></dict>
+<dict>
+<key>identifier</key><string>b9d8594a-d2bb-474b-9c99-b0e3df8b5500</string><key>stan_name</key><string>杭州市西湖区古荡街道嘉绿苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>75044.1530</string><key>y</key><string>84146.33</string></dict>
+<dict>
+<key>identifier</key><string>d68930ec-a1a3-4b3b-9da4-6c0b3bf72042</string><key>stan_name</key><string>西湖区公安分局古荡派出所古墩社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>74133.8310</string><key>y</key><string>83252.1640</string></dict>
+<dict>
+<key>identifier</key><string>48f9efd6-7aa5-4e92-a64c-e539cc9c527a</string><key>stan_name</key><string>西湖区公安分局文新派出所沁雅社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>74331.0370</string><key>y</key><string>83442.8090</string></dict>
+<dict>
+<key>identifier</key><string>973c8c7f-1778-4678-8f81-2208c9206bfa</string><key>stan_name</key><string>西湖区公安局分局古荡派出所莲花社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>74758.3410</string><key>y</key><string>83324.9550</string></dict>
+<dict>
+<key>identifier</key><string>9e995ed8-1238-4935-9a7a-e888aef3cf1e</string><key>stan_name</key><string>西湖区公安分局古荡派出所古北社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>75163.3070</string><key>y</key><string>83401.9980</string></dict>
+<dict>
+<key>identifier</key><string>b0863270-d915-4dbb-99b9-57ab8116cde3</string><key>stan_name</key><string>西湖区公安分局翠苑派出所易贤华警务室</string><key>multi_info</key><string> </string><key>x</key><string>75787.5960</string><key>y</key><string>85030.3810</string></dict>
+<dict>
+<key>identifier</key><string>16a0d57b-2f7b-4da2-9577-1dcf320d861f</string><key>stan_name</key><string>新塘社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>84250.9150</string><key>y</key><string>83457.0330</string></dict>
+<dict>
+<key>identifier</key><string>8f7cbe26-3c7b-44dd-b9dc-4c45cdd34fb5</string><key>stan_name</key><string>三塘北苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80091.3830</string><key>y</key><string>87234.7720</string></dict>
+<dict>
+<key>identifier</key><string>4fc5268b-8796-474a-9172-f6bf86ef2349</string><key>stan_name</key><string>拱墅区公安局祥符派出所庆隆警务室</string><key>multi_info</key><string> </string><key>x</key><string>75687.6940</string><key>y</key><string>85836.8950</string></dict>
+<dict>
+<key>identifier</key><string>e96fab1a-abb5-4426-8af9-2061564c20be</string><key>stan_name</key><string>古荡派出所民警共建夜巡岗</string><key>multi_info</key><string> </string><key>x</key><string>75381.0990</string><key>y</key><string>84552.8120</string></dict>
+<dict>
+<key>identifier</key><string>f9c3eaa3-c394-4241-8057-547deb02940a</string><key>stan_name</key><string>杭州市公安分局湖滨派出所东平巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80443.9680</string><key>y</key><string>80572.4550</string></dict>
+<dict>
+<key>identifier</key><string>91bfdc4d-bd03-4342-8607-a71431b15b4e</string><key>stan_name</key><string>上城区公安分局湖滨派出所青年路社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80230.8230</string><key>y</key><string>80583.4920</string></dict>
+<dict>
+<key>identifier</key><string>39604481-644d-43ac-ba12-478da26d49f4</string><key>stan_name</key><string>杭州市公安局西湖分局文新派出所府新社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>73665.42</string><key>y</key><string>84064.9650</string></dict>
+<dict>
+<key>identifier</key><string>c9909858-c7c2-4fdf-982d-14f9359b45fd</string><key>stan_name</key><string>玉桥社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80600.0660</string><key>y</key><string>84468.2950</string></dict>
+<dict>
+<key>identifier</key><string>099b4578-e03e-45a3-b6ed-8f091599626c</string><key>stan_name</key><string>现代城社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80729.3310</string><key>y</key><string>85244.4440</string></dict>
+<dict>
+<key>identifier</key><string>f60fe0db-ba71-450a-846b-09ceb6663f6f</string><key>stan_name</key><string>和平社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>80788.7440</string><key>y</key><string>84937.9140</string></dict>
+<dict>
+<key>identifier</key><string>a32b8453-935f-409e-b46a-ab500ca40b2d</string><key>stan_name</key><string>富春园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81016.3370</string><key>y</key><string>86105.6720</string></dict>
+<dict>
+<key>identifier</key><string>85f611c0-048e-444a-87e8-f43da525c82f</string><key>stan_name</key><string>应家桥社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79588.1540</string><key>y</key><string>85221.8410</string></dict>
+<dict>
+<key>identifier</key><string>443cf839-4bf5-42fe-937b-088c70af4db4</string><key>stan_name</key><string>稻香园社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>79045.2030</string><key>y</key><string>84604.3760</string></dict>
+<dict>
+<key>identifier</key><string>ce7e290e-f07c-490f-86f3-bb81ca176236</string><key>stan_name</key><string>八丈井社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78922.5060</string><key>y</key><string>86175.9470</string></dict>
+<dict>
+<key>identifier</key><string>0ee17a3c-653f-4ab4-bb9d-b27fc1a40b46</string><key>stan_name</key><string>米市巷社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78423.9140</string><key>y</key><string>84929.2950</string></dict>
+<dict>
+<key>identifier</key><string>82e3a5d5-fb86-462e-a93d-1c2acc168b03</string><key>stan_name</key><string>下马塍社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>78379.5390</string><key>y</key><string>84203.2270</string></dict>
+<dict>
+<key>identifier</key><string>1a711c23-c505-4cb5-8467-7dd7ed5c21e5</string><key>stan_name</key><string>董家新村社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77478.1040</string><key>y</key><string>86018.2640</string></dict>
+<dict>
+<key>identifier</key><string>9f875531-a6d6-4cc6-b589-7cc2a2ae6737</string><key>stan_name</key><string>娑婆新村社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77762.9950</string><key>y</key><string>86340.3960</string></dict>
+<dict>
+<key>identifier</key><string>4b282ebd-8e9a-476b-8125-1ac39f77687a</string><key>stan_name</key><string>塘河新村社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77417.0840</string><key>y</key><string>85795.9620</string></dict>
+<dict>
+<key>identifier</key><string>503077bf-c3be-4de6-b76d-a42c883d6c41</string><key>stan_name</key><string>余杭塘路社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77309.23</string><key>y</key><string>85616.6230</string></dict>
+<dict>
+<key>identifier</key><string>b7be883a-fe0b-4237-ab0a-57dc5588aeff</string><key>stan_name</key><string>白荡海社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77865.37</string><key>y</key><string>85084.8630</string></dict>
+<dict>
+<key>identifier</key><string>3f412612-c272-4f0d-aefa-71e41c75c729</string><key>stan_name</key><string>保亭社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77067.9570</string><key>y</key><string>85414.6980</string></dict>
+<dict>
+<key>identifier</key><string>d797b5b9-f880-423a-9e81-7437c25a2791</string><key>stan_name</key><string>文教社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>77265.0660</string><key>y</key><string>84258.73</string></dict>
+<dict>
+<key>identifier</key><string>891ab04e-8af5-4154-9228-72db1e9c805d</string><key>stan_name</key><string>翠苑街道翠苑二区社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76459.2790</string><key>y</key><string>85065.8210</string></dict>
+<dict>
+<key>identifier</key><string>3c010148-f56e-44e8-a63d-5d947d112841</string><key>stan_name</key><string>翠苑一区社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76396.7990</string><key>y</key><string>84816.6030</string></dict>
+<dict>
+<key>identifier</key><string>33e826c9-05d8-439b-818e-81e206a31248</string><key>stan_name</key><string>大学路社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>81752.3410</string><key>y</key><string>80900.8110</string></dict>
+<dict>
+<key>identifier</key><string>fad98fe2-423b-4cb0-b114-c124314852e0</string><key>stan_name</key><string>杭州市公安局西湖分局蒋村派出所府苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>73272.2370</string><key>y</key><string>82603.6610</string></dict>
+<dict>
+<key>identifier</key><string>2ac9947f-3ee3-433e-964a-dbbb31977522</string><key>stan_name</key><string>西湖区公安分局古荡派出所益乐社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>74578.8210</string><key>y</key><string>84853.2150</string></dict>
+<dict>
+<key>identifier</key><string>91b15c6c-a461-4166-be50-01ea8a1cae74</string><key>stan_name</key><string>江干区公安分局采荷派出所绿茗社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>82789.0140</string><key>y</key><string>80545.5290</string></dict>
+<dict>
+<key>identifier</key><string>4d87ea45-2def-47e1-afc0-93de1e3bf25c</string><key>stan_name</key><string>杭州市江干区公安分局闸弄口派出所董家社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>82014.9650</string><key>y</key><string>85137.6260</string></dict>
+<dict>
+<key>identifier</key><string>30506abf-82bd-418a-ab89-4a86b8370e9e</string><key>stan_name</key><string>江干区公安分局四季青派出所三堡社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>85099.9070</string><key>y</key><string>82467.05</string></dict>
+<dict>
+<key>identifier</key><string>d33908f0-d5d2-4dd7-b0ca-a1d5680f4a96</string><key>stan_name</key><string>定海社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>84766.2530</string><key>y</key><string>81478.4820</string></dict>
+<dict>
+<key>identifier</key><string>620f1c2c-cd16-4279-9dd6-8c1c779891cc</string><key>stan_name</key><string>五福社区治安巡防管理中队</string><key>multi_info</key><string> </string><key>x</key><string>84817.1240</string><key>y</key><string>82075.9710</string></dict>
+<dict>
+<key>identifier</key><string>090abacd-f500-49ef-b5a5-06a495713776</string><key>stan_name</key><string>进化派出所进化片警务室</string><key>multi_info</key><string> </string><key>x</key><string>95755.3180</string><key>y</key><string>54081.7019</string></dict>
+<dict>
+<key>identifier</key><string>3687b322-6282-4167-8f0b-ee000f63655d</string><key>stan_name</key><string>下沙社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>96239.8380</string><key>y</key><string>87155.6979</string></dict>
+<dict>
+<key>identifier</key><string>a45a7ac8-6d58-4b3c-87b1-55f5ae255064</string><key>stan_name</key><string>月雅苑社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>97850.0492</string><key>y</key><string>87177.7322</string></dict>
+<dict>
+<key>identifier</key><string>750304fc-3581-4ab2-9819-661d9d2bd1e0</string><key>stan_name</key><string>杭州市下沙镇松合村夜巡队</string><key>multi_info</key><string> </string><key>x</key><string>94985.4422</string><key>y</key><string>88796.4152</string></dict>
+<dict>
+<key>identifier</key><string>53b55ec2-9caf-4f5a-bf38-3e3aa8c8f7a3</string><key>stan_name</key><string>西湖区公安分局翠苑派出所黄姑山社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>76384.0530</string><key>y</key><string>83357.8180</string></dict>
+<dict>
+<key>identifier</key><string>c1060ad0-51d1-4bca-8af9-fc03233e62a8</string><key>stan_name</key><string>西湖区公安分局翠苑派出所电子信息街警务室</string><key>multi_info</key><string> </string><key>x</key><string>76948.6460</string><key>y</key><string>83514.2810</string></dict>
+<dict>
+<key>identifier</key><string>f165bc80-5d21-4427-9b5e-6a1f172a8d5a</string><key>stan_name</key><string>西湖区翠苑街道黄姑山社区平安巡防中队</string><key>multi_info</key><string> </string><key>x</key><string>76897.3570</string><key>y</key><string>83455.9810</string></dict>
+<dict>
+<key>identifier</key><string>b7e08c4c-390f-4a01-900d-6b1f98c18e46</string><key>stan_name</key><string>水湘社区警务室</string><key>multi_info</key><string> </string><key>x</key><string>84849.6967</string><key>y</key><string>82908.2347</string></dict>
+</array>
+</plist>

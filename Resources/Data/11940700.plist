@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>5b819538-0db9-4fa1-9f4c-11892f4efbcc</string><key>stan_name</key><string>杭州之江轮渡有限公司售票处</string><key>multi_info</key><string> </string><key>x</key><string>79089.3717</string><key>y</key><string>66576.2388</string></dict>
+<dict>
+<key>identifier</key><string>e46a38f8-9c5b-4e14-8267-aa0121913608</string><key>stan_name</key><string>中国东方航空杭州营业部</string><key>multi_info</key><string> </string><key>x</key><string>79354.1141</string><key>y</key><string>81934.2625</string></dict>
+<dict>
+<key>identifier</key><string>28b5a925-8cfd-4acb-a233-42a3b4b1e260</string><key>stan_name</key><string>铁路售票处</string><key>multi_info</key><string> </string><key>x</key><string>80964.5781</string><key>y</key><string>82883.4453</string></dict>
+<dict>
+<key>identifier</key><string>ac2af3e9-0f08-45db-b0c4-dd1cd4f28c37</string><key>stan_name</key><string>航空售票处</string><key>multi_info</key><string> </string><key>x</key><string>81016.7813</string><key>y</key><string>82884.3281</string></dict>
+<dict>
+<key>identifier</key><string>7a809954-9911-4450-88e6-57d3dcc311ef</string><key>stan_name</key><string>上海航空公司杭州营业部</string><key>multi_info</key><string> </string><key>x</key><string>78764.2321</string><key>y</key><string>82106.7681</string></dict>
+</array>
+</plist>

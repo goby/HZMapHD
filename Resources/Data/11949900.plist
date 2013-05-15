@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>48bf08f1-3ad9-4bcf-a7fd-53b40a596070</string><key>stan_name</key><string>杭州列检所</string><key>multi_info</key><string> </string><key>x</key><string>84737.17</string><key>y</key><string>84849.4780</string></dict>
+<dict>
+<key>identifier</key><string>ca50c6a9-f41c-400f-a9bc-c9672be96b57</string><key>stan_name</key><string>杭州市公路工程检测实验室</string><key>multi_info</key><string> </string><key>x</key><string>80974.5693</string><key>y</key><string>83941.8753</string></dict>
+<dict>
+<key>identifier</key><string>7d6079bb-5ff1-4862-84b1-659c58daaeef</string><key>stan_name</key><string>高速公路交警支队宿舍</string><key>multi_info</key><string> </string><key>x</key><string>83128.3594</string><key>y</key><string>84906.5234</string></dict>
+<dict>
+<key>identifier</key><string>1172117f-01f1-40bd-b850-90a47733853b</string><key>stan_name</key><string>杭州铁路工务段白田畈工区</string><key>multi_info</key><string> </string><key>x</key><string>82253.2634</string><key>y</key><string>86836.4522</string></dict>
+<dict>
+<key>identifier</key><string>a089f691-8275-4f76-97a5-eb43e0e25158</string><key>stan_name</key><string>浙江石油服务事业部</string><key>multi_info</key><string> </string><key>x</key><string>64647.1204</string><key>y</key><string>78610.0309</string></dict>
+<dict>
+<key>identifier</key><string>c4bec4ae-1673-4402-87a6-305dc6dd86ee</string><key>stan_name</key><string>杭州内河航运公司</string><key>multi_info</key><string> </string><key>x</key><string>77314.4922</string><key>y</key><string>87022.2266</string></dict>
+<dict>
+<key>identifier</key><string>e9d75c16-11cd-45d7-8649-9380dc1b1c0a</string><key>stan_name</key><string>华浙汽车广场</string><key>multi_info</key><string> </string><key>x</key><string>88429.2920</string><key>y</key><string>85757.1530</string></dict>
+<dict>
+<key>identifier</key><string>9c25952d-c88a-4039-831b-9ac13d2f0c58</string><key>stan_name</key><string>艮山门站货场</string><key>multi_info</key><string> </string><key>x</key><string>81726.9141</string><key>y</key><string>84259.8594</string></dict>
+<dict>
+<key>identifier</key><string>2175cf2a-230f-4f7a-b520-67e59eb674b8</string><key>stan_name</key><string>杭州萧山公路段义蓬公路站</string><key>multi_info</key><string> </string><key>x</key><string>112583.4693</string><key>y</key><string>85341.8340</string></dict>
+<dict>
+<key>identifier</key><string>d1f5dbf3-ade5-4742-93e1-54fdfa474e5a</string><key>stan_name</key><string>港航公司</string><key>multi_info</key><string> </string><key>x</key><string>78633.1016</string><key>y</key><string>85367.8047</string></dict>
+<dict>
+<key>identifier</key><string>2001f093-ca9d-4a48-83f3-c92878cf6d68</string><key>stan_name</key><string>泸杭局高速公路杭州管理站</string><key>multi_info</key><string> </string><key>x</key><string>85949.9580</string><key>y</key><string>84540.8850</string></dict>
+<dict>
+<key>identifier</key><string>385434d6-c97c-4556-9cdc-bc2df13da486</string><key>stan_name</key><string>铁路货运中心营业大厅</string><key>multi_info</key><string> </string><key>x</key><string>81450.6953</string><key>y</key><string>84661.7591</string></dict>
+<dict>
+<key>identifier</key><string>25f83efa-0ff3-4000-9c39-3e6e301a8b83</string><key>stan_name</key><string>杨元村2050自行车出租点</string><key>multi_info</key><string> </string><key>x</key><string>80170.1176</string><key>y</key><string>86558.3027</string></dict>
+<dict>
+<key>identifier</key><string>40ed9663-e099-4c1d-b1d7-f9fd1322b7f4</string><key>stan_name</key><string>杭州市高速公路急救中心</string><key>multi_info</key><string> </string><key>x</key><string>82910.5859</string><key>y</key><string>84733.7891</string></dict>
+<dict>
+<key>identifier</key><string>1c918838-9103-4de6-93e1-422c7f7a5502</string><key>stan_name</key><string>环北市场停车场</string><key>multi_info</key><string> </string><key>x</key><string>80876.1016</string><key>y</key><string>82283.6484</string></dict>
+<dict>
+<key>identifier</key><string>86be8eb4-6e35-4e3c-917b-523db0158085</string><key>stan_name</key><string>上海铁路局杭州电务段</string><key>multi_info</key><string> </string><key>x</key><string>81511.8463</string><key>y</key><string>80267.9083</string></dict>
+<dict>
+<key>identifier</key><string>1d241c3e-74a3-47e7-9aef-fb508c7018a3</string><key>stan_name</key><string>浙江省省级机关管理局车辆管理处</string><key>multi_info</key><string> </string><key>x</key><string>78300.8121</string><key>y</key><string>82423.5397</string></dict>
+<dict>
+<key>identifier</key><string>a1acff16-3946-439c-b194-38d3fbe8cd9d</string><key>stan_name</key><string>之江东路出租车服务区</string><key>multi_info</key><string> </string><key>x</key><string>85825.4250</string><key>y</key><string>81663.9590</string></dict>
+<dict>
+<key>identifier</key><string>9ba9659d-78b1-4d55-a8c3-c887624de09c</string><key>stan_name</key><string>上海铁路局杭州老干部部</string><key>multi_info</key><string> </string><key>x</key><string>81411.0120</string><key>y</key><string>79642.1290</string></dict>
+<dict>
+<key>identifier</key><string>191bb6e4-c227-4433-875e-1c5216fc92e6</string><key>stan_name</key><string>杭州交通事故快速处理保险理赔茂昌服务中心</string><key>multi_info</key><string> </string><key>x</key><string>73553.2329</string><key>y</key><string>81782.2324</string></dict>
+<dict>
+<key>identifier</key><string>643a4f02-c596-45b6-8ab1-5a0656721f21</string><key>stan_name</key><string>杭州华龙公路养护工程处</string><key>multi_info</key><string> </string><key>x</key><string>68796.1646</string><key>y</key><string>79714.0526</string></dict>
+<dict>
+<key>identifier</key><string>453735e3-2e71-41b8-a284-9711965bdeeb</string><key>stan_name</key><string>杭州山水交通工程公司</string><key>multi_info</key><string> </string><key>x</key><string>83726.2109</string><key>y</key><string>80938.7109</string></dict>
+<dict>
+<key>identifier</key><string>d8451814-bf10-492b-9930-4cd8c8c30a5c</string><key>stan_name</key><string>杭州市非机动车辆管理所</string><key>multi_info</key><string> </string><key>x</key><string>81546.6719</string><key>y</key><string>80970.2969</string></dict>
+<dict>
+<key>identifier</key><string>92ed09ea-b9e4-4e9c-931a-09646ad1d9e1</string><key>stan_name</key><string>铁路公安处</string><key>multi_info</key><string> </string><key>x</key><string>82130.4141</string><key>y</key><string>80235.5781</string></dict>
+<dict>
+<key>identifier</key><string>31646aa3-e4c3-4dc0-ae70-7de64b14379a</string><key>stan_name</key><string>公交物业部</string><key>multi_info</key><string> </string><key>x</key><string>79975.9844</string><key>y</key><string>81322.7734</string></dict>
+<dict>
+<key>identifier</key><string>8fff720e-2226-46eb-8d68-632a2daf49b0</string><key>stan_name</key><string>余杭区收费所黄湖检补票点</string><key>multi_info</key><string> </string><key>x</key><string>46663.0850</string><key>y</key><string>100655.1130</string></dict>
+<dict>
+<key>identifier</key><string>2dbb645c-ddfd-4d2c-9233-7a3b96fef80c</string><key>stan_name</key><string>良渚补票点</string><key>multi_info</key><string> </string><key>x</key><string>70427.4350</string><key>y</key><string>96564.3279</string></dict>
+<dict>
+<key>identifier</key><string>6ffb852a-7425-45a1-a283-4a4e5d8024a6</string><key>stan_name</key><string>余杭公路段</string><key>multi_info</key><string> </string><key>x</key><string>61126.5281</string><key>y</key><string>97064.3950</string></dict>
+<dict>
+<key>identifier</key><string>6237e0f7-15f6-4cb3-85f5-b87017423cac</string><key>stan_name</key><string>铁道施工区</string><key>multi_info</key><string> </string><key>x</key><string>90085.1679</string><key>y</key><string>97172.4259</string></dict>
+<dict>
+<key>identifier</key><string>d1a863a0-bca2-4735-9aaf-5cb3c0b38658</string><key>stan_name</key><string>杭州铁路</string><key>multi_info</key><string> </string><key>x</key><string>82769.5547</string><key>y</key><string>94335.9844</string></dict>
+<dict>
+<key>identifier</key><string>00682799-db07-4b60-ae1d-2218f6ce5642</string><key>stan_name</key><string>余杭车辆检测站</string><key>multi_info</key><string> </string><key>x</key><string>90520.7290</string><key>y</key><string>98342.8461</string></dict>
+<dict>
+<key>identifier</key><string>dc1cd46a-519d-445a-8057-460658635fb6</string><key>stan_name</key><string>余杭区公路段黄湖公路管理站</string><key>multi_info</key><string> </string><key>x</key><string>46289.3130</string><key>y</key><string>102851.6797</string></dict>
+<dict>
+<key>identifier</key><string>b646d069-3558-49fe-9f27-cea9cbb3b447</string><key>stan_name</key><string>余杭市县乡公路段</string><key>multi_info</key><string> </string><key>x</key><string>73201.2790</string><key>y</key><string>98906.7409</string></dict>
+<dict>
+<key>identifier</key><string>1410a8ee-5376-4825-9308-e8909596c28b</string><key>stan_name</key><string>余杭区公路段沥青砼拌和中心</string><key>multi_info</key><string> </string><key>x</key><string>76580.06</string><key>y</key><string>103717.6410</string></dict>
+<dict>
+<key>identifier</key><string>c62e4e6b-6576-463c-9d11-c3a385ca7d26</string><key>stan_name</key><string>余杭瓶窑道路施救服务中心</string><key>multi_info</key><string> </string><key>x</key><string>51335.1790</string><key>y</key><string>95189</string></dict>
+<dict>
+<key>identifier</key><string>e04d74dd-d752-4396-b52b-71069bb5a9bb</string><key>stan_name</key><string>摩托车检测站</string><key>multi_info</key><string> </string><key>x</key><string>90492.5158</string><key>y</key><string>99682.8850</string></dict>
+<dict>
+<key>identifier</key><string>b90a9a7d-0074-498e-8c75-4f756fc0ffa6</string><key>stan_name</key><string>余杭区公路段临平公路管理站</string><key>multi_info</key><string> </string><key>x</key><string>84481.6690</string><key>y</key><string>104619.6050</string></dict>
+<dict>
+<key>identifier</key><string>d484b887-c106-4c04-bb3d-4a55cbb8f993</string><key>stan_name</key><string>杭州市火车北段</string><key>multi_info</key><string> </string><key>x</key><string>87865.7966</string><key>y</key><string>92644.1216</string></dict>
+<dict>
+<key>identifier</key><string>7f967ccf-2b97-416f-a439-8ff6bb43a566</string><key>stan_name</key><string>康桥停车厂</string><key>multi_info</key><string> </string><key>x</key><string>78195.0995</string><key>y</key><string>93377.6756</string></dict>
+<dict>
+<key>identifier</key><string>a53dd7f0-d2a0-48d6-a747-4f744e9d5ac1</string><key>stan_name</key><string>中巴站</string><key>multi_info</key><string> </string><key>x</key><string>67116.5688</string><key>y</key><string>91364.4693</string></dict>
+<dict>
+<key>identifier</key><string>9825d308-914e-4eaa-b99d-5ca2ae5b6cd7</string><key>stan_name</key><string>长乐公路管理站</string><key>multi_info</key><string> </string><key>x</key><string>50595.7431</string><key>y</key><string>89894.8620</string></dict>
+<dict>
+<key>identifier</key><string>cb3da0af-3b31-4378-9261-4cdee8496667</string><key>stan_name</key><string>15省道长乐交通量观测站</string><key>multi_info</key><string> </string><key>x</key><string>50611.6560</string><key>y</key><string>90010.1871</string></dict>
+<dict>
+<key>identifier</key><string>a399d4ee-d7ad-45fb-91c5-ddb53cba0608</string><key>stan_name</key><string>大众公交公司</string><key>multi_info</key><string> </string><key>x</key><string>85278.1485</string><key>y</key><string>91780.2578</string></dict>
+<dict>
+<key>identifier</key><string>49e90d65-658e-4210-a183-ffcd7a629d1a</string><key>stan_name</key><string>上海铁路局杭州工务段杭州桥梁工区</string><key>multi_info</key><string> </string><key>x</key><string>84984.4624</string><key>y</key><string>89356.4679</string></dict>
+<dict>
+<key>identifier</key><string>189e4e4e-42c5-40bc-819b-170b00e13c22</string><key>stan_name</key><string>市公路管理局检测试验中心</string><key>multi_info</key><string> </string><key>x</key><string>80434.2643</string><key>y</key><string>89396.3808</string></dict>
+<dict>
+<key>identifier</key><string>a1a100c9-c055-4d64-9379-44c39b2f3b58</string><key>stan_name</key><string>杭州谢村港务公司</string><key>multi_info</key><string> </string><key>x</key><string>77378.4121</string><key>y</key><string>91020.5326</string></dict>
+<dict>
+<key>identifier</key><string>2efa3c07-81e3-410c-a063-ac7026d84c00</string><key>stan_name</key><string>海外海国际酒店停车场</string><key>multi_info</key><string> </string><key>x</key><string>75849.8780</string><key>y</key><string>89407.7630</string></dict>
+<dict>
+<key>identifier</key><string>c4968f14-4f36-44a6-834c-25c1bc6656d3</string><key>stan_name</key><string>萧山公交公司楼塔站</string><key>multi_info</key><string> </string><key>x</key><string>77212.8669</string><key>y</key><string>42911.9301</string></dict>
+<dict>
+<key>identifier</key><string>e6919f43-d842-4c74-bc41-486ed086a5ca</string><key>stan_name</key><string>03省道萧山收费站东复线补票点</string><key>multi_info</key><string> </string><key>x</key><string>93390.5689</string><key>y</key><string>45862.7910</string></dict>
+<dict>
+<key>identifier</key><string>cb77f2bc-ec22-4aa0-826b-4e547240f13f</string><key>stan_name</key><string>杭州大岩山景区03省道连线工程项目部</string><key>multi_info</key><string> </string><key>x</key><string>93947.4460</string><key>y</key><string>47672.1630</string></dict>
+<dict>
+<key>identifier</key><string>46f8a301-a11d-4530-b412-d2b6fdf70b3a</string><key>stan_name</key><string>萧山服务区</string><key>multi_info</key><string> </string><key>x</key><string>87784.0330</string><key>y</key><string>50228.8580</string></dict>
+<dict>
+<key>identifier</key><string>84e1418f-6e36-4dfe-8ff7-0effa674feb0</string><key>stan_name</key><string>中国联合工程公司停车场</string><key>multi_info</key><string> </string><key>x</key><string>82957.5080</string><key>y</key><string>89358.7090</string></dict>
+<dict>
+<key>identifier</key><string>62718d03-6644-41d8-b951-2a1e377e3e33</string><key>stan_name</key><string>锦运告诉公路急救服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95386.7480</string><key>y</key><string>72279.7470</string></dict>
+<dict>
+<key>identifier</key><string>751312d2-739f-4edb-b374-56f3b22af6f0</string><key>stan_name</key><string>临浦收费站</string><key>multi_info</key><string> </string><key>x</key><string>89807.5843</string><key>y</key><string>59091.2399</string></dict>
+<dict>
+<key>identifier</key><string>1abe7861-b295-49cf-9104-c74cfc7117c4</string><key>stan_name</key><string>杭州机务段</string><key>multi_info</key><string> </string><key>x</key><string>78062.8594</string><key>y</key><string>75361.5156</string></dict>
+<dict>
+<key>identifier</key><string>64cbffc5-befc-4bc3-8cc1-2b3a36e4bd21</string><key>stan_name</key><string>萧绍公路衙前收费站</string><key>multi_info</key><string> </string><key>x</key><string>103572.9030</string><key>y</key><string>68473.5940</string></dict>
+<dict>
+<key>identifier</key><string>ee0aeb63-0c03-453e-be13-ff4b256f3ea9</string><key>stan_name</key><string>杭新景高速公路管理中心</string><key>multi_info</key><string> </string><key>x</key><string>74770.3587</string><key>y</key><string>68622.0249</string></dict>
+<dict>
+<key>identifier</key><string>d3035082-7d9d-4d5d-8da5-2b10aaacf32a</string><key>stan_name</key><string>新坝船闸</string><key>multi_info</key><string> </string><key>x</key><string>84784.0530</string><key>y</key><string>59979.8520</string></dict>
+<dict>
+<key>identifier</key><string>c38261c7-4a24-4eb9-9276-3b689bfca368</string><key>stan_name</key><string>收费站</string><key>multi_info</key><string> </string><key>x</key><string>68503.9063</string><key>y</key><string>62942.3633</string></dict>
+<dict>
+<key>identifier</key><string>3985f9d9-cf8c-4b99-aa3a-672a84cee9e1</string><key>stan_name</key><string>白鹿塘站</string><key>multi_info</key><string> </string><key>x</key><string>89331.86</string><key>y</key><string>63349.7010</string></dict>
+<dict>
+<key>identifier</key><string>291bf78e-76a0-4a07-922d-2f188d16c7c1</string><key>stan_name</key><string>交通油站</string><key>multi_info</key><string> </string><key>x</key><string>107568.4607</string><key>y</key><string>74160.7780</string></dict>
+<dict>
+<key>identifier</key><string>72111246-d298-4971-b234-a2ac91cedc3c</string><key>stan_name</key><string>杭州绕城高速公路袁浦超限运输检测站</string><key>multi_info</key><string> </string><key>x</key><string>75515.3655</string><key>y</key><string>67341.5946</string></dict>
+<dict>
+<key>identifier</key><string>874f8ffc-a10a-4e47-8bbb-13ad888ff1b2</string><key>stan_name</key><string>杭州绕城高速公路袁浦超限运输检测站</string><key>multi_info</key><string> </string><key>x</key><string>75552.1490</string><key>y</key><string>67454.0169</string></dict>
+<dict>
+<key>identifier</key><string>66be2830-b7fb-417e-9f6c-d2cb2aaf7415</string><key>stan_name</key><string>杭州绕城高速公路服务区</string><key>multi_info</key><string> </string><key>x</key><string>76581.0683</string><key>y</key><string>66987.7348</string></dict>
+<dict>
+<key>identifier</key><string>cab159a2-6a41-4c39-89aa-259f51ef3992</string><key>stan_name</key><string>杭州绕城高速公路服务区</string><key>multi_info</key><string> </string><key>x</key><string>76621.2559</string><key>y</key><string>67109.0901</string></dict>
+<dict>
+<key>identifier</key><string>bd864f40-6435-4fb5-817a-feddb323a3b7</string><key>stan_name</key><string>市郊公路管理段凌家桥管理站</string><key>multi_info</key><string> </string><key>x</key><string>71728.0880</string><key>y</key><string>68762.9838</string></dict>
+<dict>
+<key>identifier</key><string>13c2fde5-c181-4c68-b075-40c41259c9eb</string><key>stan_name</key><string>杭州转塘稽查站</string><key>multi_info</key><string> </string><key>x</key><string>72290.6199</string><key>y</key><string>69079.2586</string></dict>
+<dict>
+<key>identifier</key><string>82da1330-b1d5-4726-a602-09c140f48f44</string><key>stan_name</key><string>杭州绕城高速公路管理中心</string><key>multi_info</key><string> </string><key>x</key><string>72398.1682</string><key>y</key><string>69325.3029</string></dict>
+<dict>
+<key>identifier</key><string>e8fac2f2-d9b1-40b6-b022-f5bfdfe65df7</string><key>stan_name</key><string>杭州市汽车综合性能检测站</string><key>multi_info</key><string> </string><key>x</key><string>87754.31</string><key>y</key><string>85292.1260</string></dict>
+<dict>
+<key>identifier</key><string>67b72339-3125-4e31-9c68-fa9ee915b1c5</string><key>stan_name</key><string>杭州铁路大修队</string><key>multi_info</key><string> </string><key>x</key><string>79127.0156</string><key>y</key><string>72621.4219</string></dict>
+<dict>
+<key>identifier</key><string>5167b32f-240f-4f95-b55d-516792915f0c</string><key>stan_name</key><string>瓜沥收费站</string><key>multi_info</key><string> </string><key>x</key><string>107665.6339</string><key>y</key><string>74991.8921</string></dict>
+<dict>
+<key>identifier</key><string>0939ff87-c4f0-42ea-86fa-0a6356acbcbb</string><key>stan_name</key><string>铁路南星桥货场</string><key>multi_info</key><string> </string><key>x</key><string>77756.7812</string><key>y</key><string>75115.8203</string></dict>
+<dict>
+<key>identifier</key><string>e2e03f80-bbf4-45cc-aacb-e910ca590f51</string><key>stan_name</key><string>建盈收费站</string><key>multi_info</key><string> </string><key>x</key><string>100734.4391</string><key>y</key><string>76596.3089</string></dict>
+<dict>
+<key>identifier</key><string>0f751877-8d48-43c9-88a9-91cd7fde419a</string><key>stan_name</key><string>上铁四公司机修厂</string><key>multi_info</key><string> </string><key>x</key><string>80656.9453</string><key>y</key><string>77041.0859</string></dict>
+<dict>
+<key>identifier</key><string>036beae9-4778-4a53-8ab4-184343a63e33</string><key>stan_name</key><string>杭州机务段</string><key>multi_info</key><string> </string><key>x</key><string>81275.6016</string><key>y</key><string>78606.2031</string></dict>
+<dict>
+<key>identifier</key><string>816f3e91-689c-4eba-a87a-0097d0b7ec08</string><key>stan_name</key><string>铁路食堂</string><key>multi_info</key><string> </string><key>x</key><string>81150.3594</string><key>y</key><string>78625.8750</string></dict>
+<dict>
+<key>identifier</key><string>6a386c05-dcb7-4549-a8ca-d70a21b801a6</string><key>stan_name</key><string>益农特种水产育苗场</string><key>multi_info</key><string> </string><key>x</key><string>120512.0580</string><key>y</key><string>78748.4780</string></dict>
+<dict>
+<key>identifier</key><string>ddbcd859-30ff-421e-ae9a-3c9307fd1196</string><key>stan_name</key><string>九龙百塔</string><key>multi_info</key><string> </string><key>x</key><string>73074.9844</string><key>y</key><string>78773.5234</string></dict>
+<dict>
+<key>identifier</key><string>7d319a52-2408-4e9c-8ce3-0899a31ed96d</string><key>stan_name</key><string>杭州铁路分局生活管理段望江门乘务员公寓</string><key>multi_info</key><string> </string><key>x</key><string>81095.9687</string><key>y</key><string>78798.4844</string></dict>
+</array>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>f29f7fe7-e813-4a12-8967-60a903ab3127</string><key>stan_name</key><string>楼英纪念堂</string><key>multi_info</key><string> </string><key>x</key><string>76747.0809</string><key>y</key><string>42666.0840</string></dict>
+<dict>
+<key>identifier</key><string>0c08bfe9-ed2c-4d89-94e5-9c2e35e186e6</string><key>stan_name</key><string>葛云飞纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>94099.9309</string><key>y</key><string>54429.5370</string></dict>
+<dict>
+<key>identifier</key><string>2492aef0-e0bc-44ff-9787-533a6016120b</string><key>stan_name</key><string>萧山青年运动纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>91397.5610</string><key>y</key><string>65868.0260</string></dict>
+<dict>
+<key>identifier</key><string>d81bc582-6fe0-4f9f-96ac-f862edc5a06f</string><key>stan_name</key><string>杭州烈士纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>76980.7031</string><key>y</key><string>74910.1250</string></dict>
+<dict>
+<key>identifier</key><string>7ca4ad09-ea9a-4a4f-a535-3c02c8289024</string><key>stan_name</key><string>钱塘江大桥纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>77062.6797</string><key>y</key><string>75063.1953</string></dict>
+<dict>
+<key>identifier</key><string>55931c34-23de-4aef-9845-3ba32b1e233d</string><key>stan_name</key><string>杭州名人纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>78023.9375</string><key>y</key><string>78240.3203</string></dict>
+<dict>
+<key>identifier</key><string>ae4aa758-690a-4a28-a0cc-bcc07d4a7f62</string><key>stan_name</key><string>浙江革命烈士纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>79489.9420</string><key>y</key><string>78597.1650</string></dict>
+<dict>
+<key>identifier</key><string>d47569d2-5aa7-4649-b18e-ddabcf7079ce</string><key>stan_name</key><string>杭州苏东坡纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>77964.8438</string><key>y</key><string>78401.3359</string></dict>
+<dict>
+<key>identifier</key><string>d0a4b717-e9ef-4c91-90b1-97c63b195984</string><key>stan_name</key><string>浙江辛亥革命纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>75128.3984</string><key>y</key><string>78175.7188</string></dict>
+<dict>
+<key>identifier</key><string>409fdc11-ff72-4970-a471-93dcf287c81d</string><key>stan_name</key><string>大韩民国临时政府杭州旧址纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>79645.4435</string><key>y</key><string>81470.8546</string></dict>
+<dict>
+<key>identifier</key><string>89aaab47-3d18-41ed-8c66-4c34961909cb</string><key>stan_name</key><string>潘天寿纪念馆</string><key>multi_info</key><string> </string><key>x</key><string>79464.6953</string><key>y</key><string>79873.3438</string></dict>
+</array>
+</plist>

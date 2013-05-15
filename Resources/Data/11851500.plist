@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>098685c0-b7fd-4de6-875d-04aed56a2f59</string><key>stan_name</key><string>萧山人民印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>91034.5909</string><key>y</key><string>67792.3110</string></dict>
+<dict>
+<key>identifier</key><string>bd66c3a8-208b-45f4-a52b-f33d2b96b960</string><key>stan_name</key><string>垣翔包装</string><key>multi_info</key><string> </string><key>x</key><string>77077.5879</string><key>y</key><string>67912.7820</string></dict>
+<dict>
+<key>identifier</key><string>270c9b9a-9287-4aae-880d-c3e38fa5bc54</string><key>stan_name</key><string>杭州萧山钱江工业包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80556.3390</string><key>y</key><string>67103.0041</string></dict>
+<dict>
+<key>identifier</key><string>77f75e67-4019-448a-9f6f-665a33ac7561</string><key>stan_name</key><string>杭州华伊包装袋厂</string><key>multi_info</key><string> </string><key>x</key><string>83097.1953</string><key>y</key><string>68738.7656</string></dict>
+<dict>
+<key>identifier</key><string>0ba9fca3-554c-4f36-a732-f093a3499160</string><key>stan_name</key><string>杭州东兴包装厂</string><key>multi_info</key><string> </string><key>x</key><string>95061.5530</string><key>y</key><string>68906.8260</string></dict>
+<dict>
+<key>identifier</key><string>9459cc9e-befc-44cc-87a1-ffe3ea0209d9</string><key>stan_name</key><string>杭州昌盛包装羽绒有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94204.3040</string><key>y</key><string>68991.8170</string></dict>
+<dict>
+<key>identifier</key><string>fff1ab16-41b1-4c88-b37e-0146579c7b52</string><key>stan_name</key><string>杭州金龙塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95269.7850</string><key>y</key><string>69040.8030</string></dict>
+<dict>
+<key>identifier</key><string>647273cd-aab1-4df3-aaf5-584869a96156</string><key>stan_name</key><string>杭州金弘包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>95013.2670</string><key>y</key><string>69225.6649</string></dict>
+<dict>
+<key>identifier</key><string>69d526a2-e9d8-4497-8297-5e333d210b35</string><key>stan_name</key><string>杭州谊诚包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94283.4860</string><key>y</key><string>69267.1620</string></dict>
+<dict>
+<key>identifier</key><string>a98be83f-8741-45c7-83eb-0e411e8824e5</string><key>stan_name</key><string>杭州兴业印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88108.9390</string><key>y</key><string>85466.55</string></dict>
+<dict>
+<key>identifier</key><string>86f8b14b-a5d1-47f8-90a3-6aca0ebe3ef5</string><key>stan_name</key><string>东风塑料包装厂</string><key>multi_info</key><string> </string><key>x</key><string>97021.6450</string><key>y</key><string>69525.1970</string></dict>
+<dict>
+<key>identifier</key><string>fd78c29e-b488-4cab-bcd5-57761dae7662</string><key>stan_name</key><string>丹华印业</string><key>multi_info</key><string> </string><key>x</key><string>84834.8670</string><key>y</key><string>83890.0930</string></dict>
+<dict>
+<key>identifier</key><string>fb245e37-0f90-43fe-86e8-6e09f7e10e0b</string><key>stan_name</key><string>杭州日报报业集团印务中心</string><key>multi_info</key><string> </string><key>x</key><string>90470.4590</string><key>y</key><string>86445.7020</string></dict>
+<dict>
+<key>identifier</key><string>ae992edd-4e18-4c15-abdc-1adfaca83930</string><key>stan_name</key><string>浦沿包装品厂</string><key>multi_info</key><string> </string><key>x</key><string>79191.1719</string><key>y</key><string>70038.8047</string></dict>
+<dict>
+<key>identifier</key><string>e92cc44a-67bc-4474-9a69-e4232ed211dc</string><key>stan_name</key><string>杭州吉利包装品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80303.6328</string><key>y</key><string>70727.0391</string></dict>
+<dict>
+<key>identifier</key><string>e679b8ca-8400-487e-894b-ef658a546b51</string><key>stan_name</key><string>杭州长河纸塑包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84845.2344</string><key>y</key><string>70530.2422</string></dict>
+<dict>
+<key>identifier</key><string>ed1e2385-c1d8-485c-b266-53e755699175</string><key>stan_name</key><string>杭州利土包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79022.8125</string><key>y</key><string>70573.3203</string></dict>
+<dict>
+<key>identifier</key><string>789f5e09-8816-47d5-b864-b6f485979aa3</string><key>stan_name</key><string>杭州集成包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120552.6781</string><key>y</key><string>72647.1090</string></dict>
+<dict>
+<key>identifier</key><string>0a5939df-25fe-4f44-afcf-5a22918a353f</string><key>stan_name</key><string>杭州吉祥包装箱厂</string><key>multi_info</key><string> </string><key>x</key><string>78678.6406</string><key>y</key><string>71483.3672</string></dict>
+<dict>
+<key>identifier</key><string>e31f6661-915c-4d8e-9356-4e393027561d</string><key>stan_name</key><string>杭州江南包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>78945.3906</string><key>y</key><string>71483.9922</string></dict>
+<dict>
+<key>identifier</key><string>ddc3b445-4c06-43f7-bf54-1da3d0d7660d</string><key>stan_name</key><string>萧山天时利印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>94049.1420</string><key>y</key><string>71395.1040</string></dict>
+<dict>
+<key>identifier</key><string>1ba5be58-6aa0-4f88-bce6-c66525c0a193</string><key>stan_name</key><string>西子印务</string><key>multi_info</key><string> </string><key>x</key><string>73528.5234</string><key>y</key><string>72812.3359</string></dict>
+<dict>
+<key>identifier</key><string>37d07125-77f2-4b80-b950-d3b9b981cfde</string><key>stan_name</key><string>杭州萧山益农印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>121945.0140</string><key>y</key><string>72926.9729</string></dict>
+<dict>
+<key>identifier</key><string>4241f7eb-d59c-4983-a5db-6e55d131ab56</string><key>stan_name</key><string>杭州洪晨包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120582.0010</string><key>y</key><string>74573.4090</string></dict>
+<dict>
+<key>identifier</key><string>ec111d14-cf77-4244-96b5-52b4cec45f99</string><key>stan_name</key><string>杭州庆荣包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>122168.1519</string><key>y</key><string>74798.5361</string></dict>
+<dict>
+<key>identifier</key><string>caef5373-6643-425c-86be-7239958ada9a</string><key>stan_name</key><string>新时代彩印实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90669.8791</string><key>y</key><string>74990.6280</string></dict>
+<dict>
+<key>identifier</key><string>26cf3e56-26db-4d74-9224-878f473b48d1</string><key>stan_name</key><string>杭州萧山利和包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>97365.62</string><key>y</key><string>75025.0630</string></dict>
+<dict>
+<key>identifier</key><string>6a185ba5-015f-45d1-82dd-3d6c23214891</string><key>stan_name</key><string>杭州宁围彩印包装厂</string><key>multi_info</key><string> </string><key>x</key><string>90901.1251</string><key>y</key><string>76523.9909</string></dict>
+<dict>
+<key>identifier</key><string>18a644fb-45ec-4a81-99b5-319d194c3e60</string><key>stan_name</key><string>大村总业特耐王包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90153.0540</string><key>y</key><string>76234.13</string></dict>
+<dict>
+<key>identifier</key><string>8a0211f3-e5c2-41d7-b3cd-689bb3ccfe26</string><key>stan_name</key><string>浙江成印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91884.5331</string><key>y</key><string>75955.2621</string></dict>
+<dict>
+<key>identifier</key><string>9d0ba897-7a51-4b50-90be-6083e20e29f5</string><key>stan_name</key><string>江洋包装纸盒有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69932.9688</string><key>y</key><string>77649.3359</string></dict>
+<dict>
+<key>identifier</key><string>64837150-d714-46da-a81c-580ae12debf1</string><key>stan_name</key><string>杭州肃山长山纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>93812.82</string><key>y</key><string>77093.6960</string></dict>
+<dict>
+<key>identifier</key><string>52580b9c-b0b2-484f-9287-9573aacb1d53</string><key>stan_name</key><string>杭州广育爱多印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>96604.7170</string><key>y</key><string>77478.2310</string></dict>
+<dict>
+<key>identifier</key><string>43d2e2e3-9e63-47ae-b3fe-9b45028ac68b</string><key>stan_name</key><string>杭州下城教育印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80065.0763</string><key>y</key><string>86713.6993</string></dict>
+<dict>
+<key>identifier</key><string>40d957a9-ee8f-4806-8085-a061425a813a</string><key>stan_name</key><string>杭州天成包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>84077.7656</string><key>y</key><string>86722.1016</string></dict>
+<dict>
+<key>identifier</key><string>5334ebe6-3dca-43c4-b884-083098174143</string><key>stan_name</key><string>瑛源彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>109089.0190</string><key>y</key><string>83889.7470</string></dict>
+<dict>
+<key>identifier</key><string>ae54942d-cb14-435a-b3bb-3c6ce14a531e</string><key>stan_name</key><string>新科五金包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69843.8594</string><key>y</key><string>77679.7187</string></dict>
+<dict>
+<key>identifier</key><string>04236e25-2b6d-4bfa-922a-4bbeb32283de</string><key>stan_name</key><string>杭州萧山东方包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>118636.2830</string><key>y</key><string>77702.7370</string></dict>
+<dict>
+<key>identifier</key><string>560a32c4-cbf6-43fe-80b1-7f44dfec680c</string><key>stan_name</key><string>杭州望江纸塑彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81539.3240</string><key>y</key><string>78278.3620</string></dict>
+<dict>
+<key>identifier</key><string>dd5d690c-9648-493d-ac57-3bf693a30511</string><key>stan_name</key><string>浙江圣地票证印制中心</string><key>multi_info</key><string> </string><key>x</key><string>61487.2360</string><key>y</key><string>78327.5690</string></dict>
+<dict>
+<key>identifier</key><string>9cb1c4fa-a3c8-4e75-a0bd-66df294f7923</string><key>stan_name</key><string>杭州三印染整有限公司</string><key>multi_info</key><string> </string><key>x</key><string>116937.07</string><key>y</key><string>78394.8241</string></dict>
+<dict>
+<key>identifier</key><string>0a510e70-9faf-4bb1-ac92-6cdc9ead418e</string><key>stan_name</key><string>杭州伟乐包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98223.5370</string><key>y</key><string>77887.7290</string></dict>
+<dict>
+<key>identifier</key><string>85a9bb62-a694-4d13-b99c-809731099ae5</string><key>stan_name</key><string>杭州余杭乔司新亚印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>91370.7930</string><key>y</key><string>88660.5660</string></dict>
+<dict>
+<key>identifier</key><string>2c6ecd9e-7b84-4363-9fcc-d65e60a87ade</string><key>stan_name</key><string>杭州余杭展宏包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61869.0209</string><key>y</key><string>78071.5470</string></dict>
+<dict>
+<key>identifier</key><string>1f73803f-5ca4-4cdb-a4cb-917cb06f04d9</string><key>stan_name</key><string>同彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83245.4297</string><key>y</key><string>79527.6641</string></dict>
+<dict>
+<key>identifier</key><string>dfde5e00-8676-4ee6-8ff2-1c002d488e93</string><key>stan_name</key><string>杭州骏龙包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61799.2890</string><key>y</key><string>78676.3441</string></dict>
+<dict>
+<key>identifier</key><string>3042b1fa-7971-4505-9d86-f70b158a8731</string><key>stan_name</key><string>宏翔包装厂</string><key>multi_info</key><string> </string><key>x</key><string>108895.8594</string><key>y</key><string>78814.25</string></dict>
+<dict>
+<key>identifier</key><string>57a28756-e206-4c28-8746-614a3b5da535</string><key>stan_name</key><string>杭州新旺包装印雾有限公司</string><key>multi_info</key><string> </string><key>x</key><string>54542.3450</string><key>y</key><string>86125.4950</string></dict>
+<dict>
+<key>identifier</key><string>a482748f-a895-4b4e-a042-61cb372f68c7</string><key>stan_name</key><string>杭州永腾包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82424.96</string><key>y</key><string>48603.9590</string></dict>
+<dict>
+<key>identifier</key><string>a2458e36-6553-4fbc-98ea-0ea33c68b39a</string><key>stan_name</key><string>杭州瑞兴箱包辅料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89379.9380</string><key>y</key><string>49022.8971</string></dict>
+<dict>
+<key>identifier</key><string>b441d630-39a6-4dd0-8116-70df918bcc54</string><key>stan_name</key><string>杭州中意彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89528.0620</string><key>y</key><string>49206.3079</string></dict>
+<dict>
+<key>identifier</key><string>78b5dcc9-13d5-4401-8b2a-44d7683c307c</string><key>stan_name</key><string>杭州亿利达彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87190.0840</string><key>y</key><string>49484.8460</string></dict>
+<dict>
+<key>identifier</key><string>045db2a8-1660-4853-8cf4-8728bd502a8c</string><key>stan_name</key><string>龙达包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>83287.0760</string><key>y</key><string>49684.6469</string></dict>
+<dict>
+<key>identifier</key><string>f382d685-a6d6-4b46-b20c-8dba602fb603</string><key>stan_name</key><string>杭州嵩阳印刷实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83194.1601</string><key>y</key><string>50016.5750</string></dict>
+<dict>
+<key>identifier</key><string>d89a04c2-5d0b-4473-93cb-78c445d3342a</string><key>stan_name</key><string>杭州萧山金源包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84807.4190</string><key>y</key><string>50790.7880</string></dict>
+<dict>
+<key>identifier</key><string>82df633c-4d96-4da4-b12b-7ad38501addf</string><key>stan_name</key><string>杭州萧山金发包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82639.6459</string><key>y</key><string>50612.24</string></dict>
+<dict>
+<key>identifier</key><string>89a38cfc-95bc-4676-93b0-ee4a684dfed2</string><key>stan_name</key><string>浙江大胜达包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82722.1791</string><key>y</key><string>51708.8520</string></dict>
+<dict>
+<key>identifier</key><string>88ec5060-3fac-41d9-b3b5-1c0f76e47d8b</string><key>stan_name</key><string>杭州华荣纸制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>120258.5890</string><key>y</key><string>72181.2630</string></dict>
+<dict>
+<key>identifier</key><string>6a624684-2639-4ee3-9ea1-eae0da355ace</string><key>stan_name</key><string>杭州永明塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100166.9053</string><key>y</key><string>72310.7880</string></dict>
+<dict>
+<key>identifier</key><string>d91a90c0-0f23-4fbf-b0f6-78d51a6974f7</string><key>stan_name</key><string>杭州昌隆彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>118174.2251</string><key>y</key><string>73071.0681</string></dict>
+<dict>
+<key>identifier</key><string>4e94ac3d-e551-42dc-be52-c5e190748726</string><key>stan_name</key><string>浙江爱迪尔包装集团公司</string><key>multi_info</key><string> </string><key>x</key><string>113712.4891</string><key>y</key><string>73135.1070</string></dict>
+<dict>
+<key>identifier</key><string>f547ce54-d325-43f6-964e-49f094d1a10d</string><key>stan_name</key><string>杭州爱迪尔包装股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>114176.6210</string><key>y</key><string>73176.4840</string></dict>
+<dict>
+<key>identifier</key><string>c36c7fea-0ebc-4185-b048-e1f4c078aa2f</string><key>stan_name</key><string>杭州致远工具包装厂</string><key>multi_info</key><string> </string><key>x</key><string>78461.5910</string><key>y</key><string>53186.0811</string></dict>
+<dict>
+<key>identifier</key><string>b2b47e8f-b321-429c-bbda-db6b630fb2dd</string><key>stan_name</key><string>杭州虹路包装彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79326.4720</string><key>y</key><string>53364.5371</string></dict>
+<dict>
+<key>identifier</key><string>a3db8fd1-4ca7-41a7-b4c2-93839d984975</string><key>stan_name</key><string>杭州乘虹包装厂</string><key>multi_info</key><string> </string><key>x</key><string>73127.0859</string><key>y</key><string>68226.1250</string></dict>
+<dict>
+<key>identifier</key><string>6df0cff9-f2fd-4fc8-a92a-57448b575eae</string><key>stan_name</key><string>萧山永潮纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>88921.3191</string><key>y</key><string>57668.7351</string></dict>
+<dict>
+<key>identifier</key><string>bfaecc49-0a07-42be-9193-c7934db19740</string><key>stan_name</key><string>杭州萧山桂华包装厂</string><key>multi_info</key><string> </string><key>x</key><string>81597.6021</string><key>y</key><string>66059.5011</string></dict>
+<dict>
+<key>identifier</key><string>f9e9a3bc-fbb5-4bb5-9d47-23609e896902</string><key>stan_name</key><string>杭州西兴软包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>84799.6719</string><key>y</key><string>73040.5781</string></dict>
+<dict>
+<key>identifier</key><string>6fe26434-5599-446a-aaa5-fd8069313633</string><key>stan_name</key><string>杭州萧山华丰彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>82424.8039</string><key>y</key><string>68386.6420</string></dict>
+<dict>
+<key>identifier</key><string>b146d07e-3dd9-420c-b788-d1c91af73bf6</string><key>stan_name</key><string>红杏彩印包装厂</string><key>multi_info</key><string> </string><key>x</key><string>82809.9960</string><key>y</key><string>68425.9599</string></dict>
+<dict>
+<key>identifier</key><string>cb23e0af-97e7-4890-b427-26863aaf48c5</string><key>stan_name</key><string>杭州钱江彩色印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83102.6797</string><key>y</key><string>71018.1563</string></dict>
+<dict>
+<key>identifier</key><string>dd802976-1acc-4774-b709-d6be63338e44</string><key>stan_name</key><string>杭州浦沿联谊印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>78501.8203</string><key>y</key><string>71077.2656</string></dict>
+<dict>
+<key>identifier</key><string>ff8de44a-4dff-423a-8338-c2fcb93f73e3</string><key>stan_name</key><string>杭州紫江包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98535.0914</string><key>y</key><string>86134.6573</string></dict>
+<dict>
+<key>identifier</key><string>0317346b-e2b8-44e5-ad15-e8b3f81d80ec</string><key>stan_name</key><string>杭州亿达包装彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87413.3440</string><key>y</key><string>86159.5050</string></dict>
+<dict>
+<key>identifier</key><string>a637efdb-b705-41f4-9c43-513133a4a2ad</string><key>stan_name</key><string>六堡村大江彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>87873.0701</string><key>y</key><string>84807.3721</string></dict>
+<dict>
+<key>identifier</key><string>61f8d9dc-fa59-4961-be36-f4897f9bc0a3</string><key>stan_name</key><string>杭州富华包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>73499.4375</string><key>y</key><string>86215.1406</string></dict>
+<dict>
+<key>identifier</key><string>2c73ea46-ca9f-42cc-a79d-63759ef2aa97</string><key>stan_name</key><string>杭州真生企画印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97903.9743</string><key>y</key><string>86280.4002</string></dict>
+<dict>
+<key>identifier</key><string>54bed2ac-d6e6-4a0f-95cc-35f33f46d5d9</string><key>stan_name</key><string>杭州优派克包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97904.0151</string><key>y</key><string>86288.9522</string></dict>
+<dict>
+<key>identifier</key><string>16d9ee94-5498-4523-ab1b-aa20bbdb59ad</string><key>stan_name</key><string>兴隆制塑包装厂</string><key>multi_info</key><string> </string><key>x</key><string>87627.8984</string><key>y</key><string>86813.6250</string></dict>
+<dict>
+<key>identifier</key><string>61b915a5-b9c3-4b82-96f1-3b706c182616</string><key>stan_name</key><string>杭州东霖包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>105811.7882</string><key>y</key><string>83949.8339</string></dict>
+<dict>
+<key>identifier</key><string>4e8f074d-a96f-4da7-9c66-846ba6da8c55</string><key>stan_name</key><string>杭州大丰印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81603.0060</string><key>y</key><string>88133.54</string></dict>
+<dict>
+<key>identifier</key><string>c312b5b6-ae6a-4669-bbbf-b82a07f473a8</string><key>stan_name</key><string>杭州昌益印刷材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78242.7231</string><key>y</key><string>86820.7334</string></dict>
+<dict>
+<key>identifier</key><string>fbbabf5f-6343-420d-89dc-e54d687de5a7</string><key>stan_name</key><string>杭州金业包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87288.4180</string><key>y</key><string>83995.1090</string></dict>
+<dict>
+<key>identifier</key><string>fc605da1-9438-498f-9717-ab7e5a1e8b34</string><key>stan_name</key><string>杭州旭洪包装</string><key>multi_info</key><string> </string><key>x</key><string>67587.6657</string><key>y</key><string>82219.9455</string></dict>
+<dict>
+<key>identifier</key><string>f6f65bfb-04ce-4a26-a46b-bff3f176231b</string><key>stan_name</key><string>杭州丽萍包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68165.4739</string><key>y</key><string>82392.0497</string></dict>
+<dict>
+<key>identifier</key><string>0d732ea5-6060-46d9-aa72-cbd37fea6123</string><key>stan_name</key><string>杭州人民印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>83653.5450</string><key>y</key><string>84055.1430</string></dict>
+<dict>
+<key>identifier</key><string>8a0f1e7b-7ec6-48af-8aaf-06e31f3d0e86</string><key>stan_name</key><string>杭州合力包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82424.3180</string><key>y</key><string>54772.3050</string></dict>
+<dict>
+<key>identifier</key><string>e4cc6325-a028-4f08-b657-466bbf425fb7</string><key>stan_name</key><string>永通纸业</string><key>multi_info</key><string> </string><key>x</key><string>83962.6313</string><key>y</key><string>54859.7460</string></dict>
+<dict>
+<key>identifier</key><string>aeaf4eb5-c2a6-424e-9d92-84438ce5bea4</string><key>stan_name</key><string>杭州萧山戴兴包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82070.7710</string><key>y</key><string>54936.9891</string></dict>
+<dict>
+<key>identifier</key><string>98f5ef48-19f9-4a36-bb34-58b2b6cb0b49</string><key>stan_name</key><string>长山坞造纸厂</string><key>multi_info</key><string> </string><key>x</key><string>74113.1440</string><key>y</key><string>38492.8770</string></dict>
+<dict>
+<key>identifier</key><string>cdc3f29e-f3a2-4d80-a49b-7e2aa3c16b97</string><key>stan_name</key><string>萧山区岩山文化印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>73211.7460</string><key>y</key><string>39160.1250</string></dict>
+<dict>
+<key>identifier</key><string>7cea5660-eab7-416d-9d55-95702677eb74</string><key>stan_name</key><string>杭州华洋包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79822.7680</string><key>y</key><string>45987.7910</string></dict>
+<dict>
+<key>identifier</key><string>c978e93f-b8a0-4283-ba75-58cb07524ec8</string><key>stan_name</key><string>永盛包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80777.0420</string><key>y</key><string>46583.3720</string></dict>
+<dict>
+<key>identifier</key><string>62cb92cf-1d3b-46ad-9d7e-48f8cda69269</string><key>stan_name</key><string>杭州萧山永盛包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81156.8681</string><key>y</key><string>46781.7270</string></dict>
+<dict>
+<key>identifier</key><string>f8844365-9aac-4cb7-a625-d2a9d4e623e0</string><key>stan_name</key><string>浙江最红控股集团</string><key>multi_info</key><string> </string><key>x</key><string>80903.8690</string><key>y</key><string>46842.0010</string></dict>
+<dict>
+<key>identifier</key><string>aea2d292-1391-43dc-a40d-de8041a53bc1</string><key>stan_name</key><string>杭州雄华纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>90069.81</string><key>y</key><string>47168.5490</string></dict>
+<dict>
+<key>identifier</key><string>d8b0600e-a84f-4f83-829e-fedb7140c802</string><key>stan_name</key><string>杭州华申包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76913.3370</string><key>y</key><string>39775.6480</string></dict>
+<dict>
+<key>identifier</key><string>d4cc20c2-f8b0-4d87-927f-e198b5a244dd</string><key>stan_name</key><string>华洋包装</string><key>multi_info</key><string> </string><key>x</key><string>76718.6130</string><key>y</key><string>40010.7019</string></dict>
+<dict>
+<key>identifier</key><string>296bc283-23e9-4bf6-998f-eec5adb3ebe4</string><key>stan_name</key><string>杭州延中包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77755.0920</string><key>y</key><string>40287.9780</string></dict>
+<dict>
+<key>identifier</key><string>59a214d3-81df-455c-8f76-a2c463d6fee6</string><key>stan_name</key><string>杭州萧山琪悦塑料包装厂</string><key>multi_info</key><string> </string><key>x</key><string>74675.8880</string><key>y</key><string>41530.4371</string></dict>
+<dict>
+<key>identifier</key><string>515157d0-3073-461b-8dd6-c03dfcf09fc9</string><key>stan_name</key><string>萧山市华力包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74704.9501</string><key>y</key><string>41919.9690</string></dict>
+<dict>
+<key>identifier</key><string>7c8c2cf1-657d-470b-acf9-94f42d9f9a24</string><key>stan_name</key><string>萧山中南造纸纸箱有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77302.2460</string><key>y</key><string>42727.0950</string></dict>
+<dict>
+<key>identifier</key><string>8b10a7c2-78f6-4ead-81f7-2297971d72b4</string><key>stan_name</key><string>杭州管村包装厂</string><key>multi_info</key><string> </string><key>x</key><string>78605.0809</string><key>y</key><string>43385.8760</string></dict>
+<dict>
+<key>identifier</key><string>20b85959-b746-45ff-a2d3-62497c1d40e2</string><key>stan_name</key><string>杭州萧山上工包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77466.6130</string><key>y</key><string>43453.9680</string></dict>
+<dict>
+<key>identifier</key><string>1154a39b-a527-49b5-8bfd-8ec07ff3c038</string><key>stan_name</key><string>杭州萧山华景包装厂</string><key>multi_info</key><string> </string><key>x</key><string>79434.7930</string><key>y</key><string>43826.5831</string></dict>
+<dict>
+<key>identifier</key><string>cc746125-fb9e-4c36-acbc-d1235709db67</string><key>stan_name</key><string>杭州萧山万隆包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75783.7350</string><key>y</key><string>44262.3389</string></dict>
+<dict>
+<key>identifier</key><string>e35f0db8-f0af-4759-9c9b-22602248c7ec</string><key>stan_name</key><string>杭州华诚包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79041.9611</string><key>y</key><string>44733.5050</string></dict>
+<dict>
+<key>identifier</key><string>bf015caa-fcd6-41b2-816f-703e31573e44</string><key>stan_name</key><string>杭州萧山峰峰包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77707.5810</string><key>y</key><string>44999.2490</string></dict>
+<dict>
+<key>identifier</key><string>ee38ec69-99bb-4f59-8107-2d1749ec5f2d</string><key>stan_name</key><string>杭州萧山联发包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79309.72</string><key>y</key><string>45494.7070</string></dict>
+<dict>
+<key>identifier</key><string>122f9e57-2a0b-46b3-b33e-2bea7aae0132</string><key>stan_name</key><string>萧山市万隆包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75642.0050</string><key>y</key><string>44267.0931</string></dict>
+<dict>
+<key>identifier</key><string>b06837ce-c686-484c-8f20-3b62844e4288</string><key>stan_name</key><string>萧山市城山纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>91766.91</string><key>y</key><string>53891.62</string></dict>
+<dict>
+<key>identifier</key><string>c97d7728-6c7d-4bf2-bc77-f08722b243ff</string><key>stan_name</key><string>杭州萧山奇红纸箱包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79018.4490</string><key>y</key><string>47341.0230</string></dict>
+<dict>
+<key>identifier</key><string>ea8f2dd1-8008-4559-8a0d-96c49195e7be</string><key>stan_name</key><string>钱江印刷制板厂</string><key>multi_info</key><string> </string><key>x</key><string>92220.0770</string><key>y</key><string>47377.2779</string></dict>
+<dict>
+<key>identifier</key><string>28487174-3023-41d1-896d-1bb69c9c6d79</string><key>stan_name</key><string>杭州华浙纸塑包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79002.6420</string><key>y</key><string>47429.2140</string></dict>
+<dict>
+<key>identifier</key><string>7e579a43-8ab6-4e5d-bdd5-3b87b42a6efe</string><key>stan_name</key><string>杭州萧山金成包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>83290.2481</string><key>y</key><string>47578.2789</string></dict>
+<dict>
+<key>identifier</key><string>c2da76e4-f3e9-46a9-acf2-bb322d3cf836</string><key>stan_name</key><string>杭州萧山江南印刷胶辊厂</string><key>multi_info</key><string> </string><key>x</key><string>94261.6260</string><key>y</key><string>47637.41</string></dict>
+<dict>
+<key>identifier</key><string>e2afe4db-4529-46fe-a218-fe3bed820c3e</string><key>stan_name</key><string>萧山成杰包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82581.53</string><key>y</key><string>47900.5670</string></dict>
+<dict>
+<key>identifier</key><string>c274beab-0170-406e-bc6d-42087bacf469</string><key>stan_name</key><string>威虎包装</string><key>multi_info</key><string> </string><key>x</key><string>83111.4650</string><key>y</key><string>47971.4510</string></dict>
+<dict>
+<key>identifier</key><string>2b684d16-ad36-4823-835c-ce83f3f098d9</string><key>stan_name</key><string>杭州沈飞包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80914.9290</string><key>y</key><string>47478.3379</string></dict>
+<dict>
+<key>identifier</key><string>f0596a0a-0ba7-4e7e-867e-122846d3f136</string><key>stan_name</key><string>隆达包装</string><key>multi_info</key><string> </string><key>x</key><string>81188.4469</string><key>y</key><string>48135.0270</string></dict>
+<dict>
+<key>identifier</key><string>f1c98cc0-65ca-4b6c-9a9f-018c885dec1d</string><key>stan_name</key><string>杭州永越包装</string><key>multi_info</key><string> </string><key>x</key><string>79725.2611</string><key>y</key><string>55679.6380</string></dict>
+<dict>
+<key>identifier</key><string>7067995f-e9e2-461b-af73-eec234ff69a5</string><key>stan_name</key><string>华超包装</string><key>multi_info</key><string> </string><key>x</key><string>90760.8770</string><key>y</key><string>55874.8170</string></dict>
+<dict>
+<key>identifier</key><string>88b17c75-21cb-46be-9b25-8fd1d449bd95</string><key>stan_name</key><string>杭州萧山古籍印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79900.39</string><key>y</key><string>59034.0989</string></dict>
+<dict>
+<key>identifier</key><string>d9fa2d4a-6a9d-48bd-9ca5-07503027f7f0</string><key>stan_name</key><string>百利包装厂</string><key>multi_info</key><string> </string><key>x</key><string>87220.3247</string><key>y</key><string>59281.9560</string></dict>
+<dict>
+<key>identifier</key><string>075f6329-de1d-4034-ac1a-55fe74b754ee</string><key>stan_name</key><string>萧山越华彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83081.9580</string><key>y</key><string>60430.3240</string></dict>
+<dict>
+<key>identifier</key><string>d71029a2-655c-4d62-ba09-e74bcc872962</string><key>stan_name</key><string>杭州萧山超达包装厂</string><key>multi_info</key><string> </string><key>x</key><string>87407.4907</string><key>y</key><string>61093.0339</string></dict>
+<dict>
+<key>identifier</key><string>029e4eab-e834-4465-b247-568a5dd30e0b</string><key>stan_name</key><string>航旗五金包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84272.3079</string><key>y</key><string>61156.80</string></dict>
+<dict>
+<key>identifier</key><string>c57b3e09-4d75-4f69-884b-6bdf25e3f85e</string><key>stan_name</key><string>虎爪包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84153.4940</string><key>y</key><string>61179.3069</string></dict>
+<dict>
+<key>identifier</key><string>66afe0ea-4865-4a8d-a7bc-f65c37acc16e</string><key>stan_name</key><string>杭州泰德印刷技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83904.2550</string><key>y</key><string>64253.6719</string></dict>
+<dict>
+<key>identifier</key><string>3a82bb0d-cc81-4573-8331-0d6c0aaf428d</string><key>stan_name</key><string>浙江彩通印刷包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82103.30</string><key>y</key><string>65518.1190</string></dict>
+<dict>
+<key>identifier</key><string>88d5686b-e56e-4113-9bc6-da3293d1b23a</string><key>stan_name</key><string>杭州之江塑料包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85226.2980</string><key>y</key><string>64471.1490</string></dict>
+<dict>
+<key>identifier</key><string>d8c2d015-7668-4d97-ae9f-61b745bfc482</string><key>stan_name</key><string>杭州七一纸板箱厂</string><key>multi_info</key><string> </string><key>x</key><string>74147.8922</string><key>y</key><string>64829.1157</string></dict>
+<dict>
+<key>identifier</key><string>8ed93bc5-61bb-4cd9-abc1-69a72c4ee169</string><key>stan_name</key><string>珠江包装</string><key>multi_info</key><string> </string><key>x</key><string>93836.2079</string><key>y</key><string>63546.9330</string></dict>
+<dict>
+<key>identifier</key><string>1f033223-e88d-45d7-87d1-670ddef6b999</string><key>stan_name</key><string>杭州萧山山海包装厂</string><key>multi_info</key><string> </string><key>x</key><string>93469.0690</string><key>y</key><string>63659.1940</string></dict>
+<dict>
+<key>identifier</key><string>d5115844-c6f8-472c-aa49-3d5412f5abd2</string><key>stan_name</key><string>杭州大和包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93104.2340</string><key>y</key><string>63723.2440</string></dict>
+<dict>
+<key>identifier</key><string>abbda341-388c-4729-b698-16dc7a821d7a</string><key>stan_name</key><string>国桥包装</string><key>multi_info</key><string> </string><key>x</key><string>93205.6770</string><key>y</key><string>63730.9769</string></dict>
+<dict>
+<key>identifier</key><string>49da7436-f220-484d-9581-380204f41cf4</string><key>stan_name</key><string>浙江大胜达包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92294.4210</string><key>y</key><string>74244.8410</string></dict>
+<dict>
+<key>identifier</key><string>f4f51f60-f340-42b2-8378-866b635be027</string><key>stan_name</key><string>蓝天软包装厂</string><key>multi_info</key><string> </string><key>x</key><string>91442.9260</string><key>y</key><string>66256.8550</string></dict>
+<dict>
+<key>identifier</key><string>0e7d171d-b003-4d1f-8f81-1d4bc6c17818</string><key>stan_name</key><string>杭州朝阳彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89811.6770</string><key>y</key><string>66343.3190</string></dict>
+<dict>
+<key>identifier</key><string>11ae9a2d-2136-44d8-ba4a-9f3b460c4b85</string><key>stan_name</key><string>杭州杭新印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75120.3651</string><key>y</key><string>66409.0894</string></dict>
+<dict>
+<key>identifier</key><string>d0bb59d3-000f-44f5-8cd1-7dd9454cfd3c</string><key>stan_name</key><string>杭州萧山前程印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92264.8689</string><key>y</key><string>66433.9319</string></dict>
+<dict>
+<key>identifier</key><string>e27691c3-97d3-470d-a18c-49995df8c01e</string><key>stan_name</key><string>杭州万方印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>76353.3330</string><key>y</key><string>66467.1677</string></dict>
+<dict>
+<key>identifier</key><string>b5ad3c70-9388-4455-895c-199eaa039a24</string><key>stan_name</key><string>杭州迪宝彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90330.4390</string><key>y</key><string>66468.6270</string></dict>
+<dict>
+<key>identifier</key><string>c77fcd53-7ad1-4a5c-8c4e-8b248c887e98</string><key>stan_name</key><string>杭州程强五金纸箱包装厂</string><key>multi_info</key><string> </string><key>x</key><string>76611.8128</string><key>y</key><string>66499.8021</string></dict>
+<dict>
+<key>identifier</key><string>44c83c19-4818-4483-adeb-f1de1f2f917c</string><key>stan_name</key><string>九堡包装五金厂</string><key>multi_info</key><string> </string><key>x</key><string>90346.4141</string><key>y</key><string>88440.5938</string></dict>
+<dict>
+<key>identifier</key><string>00d4871c-d8bc-44d5-bd14-1c92def53acf</string><key>stan_name</key><string>杭州杭叉桥箱有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82803.4774</string><key>y</key><string>90177.3104</string></dict>
+<dict>
+<key>identifier</key><string>0773fedd-f2e7-4adc-b101-cf6500c672db</string><key>stan_name</key><string>杭州杭钢印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80956.0858</string><key>y</key><string>91948.9592</string></dict>
+<dict>
+<key>identifier</key><string>b21a54aa-81fd-414c-ae1e-1a58d0638fb9</string><key>stan_name</key><string>杭州天佑木材包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100790.7211</string><key>y</key><string>91976.6399</string></dict>
+<dict>
+<key>identifier</key><string>a264fac1-1107-45e2-a962-5b29b9a61741</string><key>stan_name</key><string>杭州理想精包装厂</string><key>multi_info</key><string> </string><key>x</key><string>85241.75</string><key>y</key><string>87976.7344</string></dict>
+<dict>
+<key>identifier</key><string>c59c1d5a-9551-4a27-bb58-a5ca007a9dec</string><key>stan_name</key><string>杭州天时印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79825.6342</string><key>y</key><string>88460.5079</string></dict>
+<dict>
+<key>identifier</key><string>37640304-9963-4984-a5c9-4d90e4c7dacc</string><key>stan_name</key><string>印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>84211.0312</string><key>y</key><string>88473.5313</string></dict>
+<dict>
+<key>identifier</key><string>3843900e-394a-49dc-8c7a-241a379495e9</string><key>stan_name</key><string>杭州华英贸易仓储包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77215.5151</string><key>y</key><string>90297.9979</string></dict>
+<dict>
+<key>identifier</key><string>53406397-8c9d-4e68-bc67-6dd569c29810</string><key>stan_name</key><string>三力印刷集团</string><key>multi_info</key><string> </string><key>x</key><string>75080.5029</string><key>y</key><string>90326.4866</string></dict>
+<dict>
+<key>identifier</key><string>969066db-1ac4-4f4e-a7fa-50a65df35f7f</string><key>stan_name</key><string>杭州科隆包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89515.0625</string><key>y</key><string>87068.0859</string></dict>
+<dict>
+<key>identifier</key><string>a9450933-4cc8-4879-8e49-acaf22435fcc</string><key>stan_name</key><string>江滨包装厂</string><key>multi_info</key><string> </string><key>x</key><string>87618.9766</string><key>y</key><string>87079.7813</string></dict>
+<dict>
+<key>identifier</key><string>e24abd3b-4ef7-4d93-a09a-16ceaf9f54ee</string><key>stan_name</key><string>杭州富春电子印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70525.0863</string><key>y</key><string>87083.2102</string></dict>
+<dict>
+<key>identifier</key><string>4fbea32c-9592-485b-bbb9-3dcd3b93a77b</string><key>stan_name</key><string>九堡包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>90201.9375</string><key>y</key><string>87983.3437</string></dict>
+<dict>
+<key>identifier</key><string>4a7c44ec-b52d-4d6f-941d-348d351a8d8c</string><key>stan_name</key><string>三墩印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>71753.5703</string><key>y</key><string>88525.1328</string></dict>
+<dict>
+<key>identifier</key><string>1a6da6db-f973-462a-8aad-81180be1c962</string><key>stan_name</key><string>杭州新达彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>89942.1172</string><key>y</key><string>88530.4453</string></dict>
+<dict>
+<key>identifier</key><string>fb009e4e-ab2d-419b-a183-7381dd56d142</string><key>stan_name</key><string>万茂印刷</string><key>multi_info</key><string> </string><key>x</key><string>74286.3750</string><key>y</key><string>90382.5625</string></dict>
+<dict>
+<key>identifier</key><string>b7766ae5-a6fd-42b1-953a-1b719f48bd57</string><key>stan_name</key><string>浙江圣山染整有限公司</string><key>multi_info</key><string> </string><key>x</key><string>118134.2091</string><key>y</key><string>88041.7890</string></dict>
+<dict>
+<key>identifier</key><string>b80cddbe-7951-45f5-ac2b-82f149ac474c</string><key>stan_name</key><string>杭州金杭包装印业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79742.3842</string><key>y</key><string>89081.3155</string></dict>
+<dict>
+<key>identifier</key><string>1a01e1d5-6931-4d37-830b-0157f796e00e</string><key>stan_name</key><string>浙江下沙荣成包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98794.5362</string><key>y</key><string>90508.5228</string></dict>
+<dict>
+<key>identifier</key><string>c32c2011-95f6-4352-907e-bc9ab5ab809f</string><key>stan_name</key><string>杭州一方印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78328.4453</string><key>y</key><string>88104.6094</string></dict>
+<dict>
+<key>identifier</key><string>7ad07161-dc9d-4743-8e62-00688771cca4</string><key>stan_name</key><string>富康纸业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84748.7656</string><key>y</key><string>88120.4297</string></dict>
+<dict>
+<key>identifier</key><string>3c9f5346-7499-402a-9807-bfe76e9f1430</string><key>stan_name</key><string>西湖印业</string><key>multi_info</key><string> </string><key>x</key><string>75018.6484</string><key>y</key><string>89090.7969</string></dict>
+<dict>
+<key>identifier</key><string>f9b7450b-0438-4fc2-8e32-cf20d2e0f82e</string><key>stan_name</key><string>中冠金属彩印公司</string><key>multi_info</key><string> </string><key>x</key><string>85391.6328</string><key>y</key><string>87217.4453</string></dict>
+<dict>
+<key>identifier</key><string>b13a5986-54ed-4bda-a735-9233488a0fc4</string><key>stan_name</key><string>杭州伟东包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89532.6016</string><key>y</key><string>87225.3906</string></dict>
+<dict>
+<key>identifier</key><string>f261c9e7-101c-4cba-bdd6-0b5b592d0c67</string><key>stan_name</key><string>杭州建爱包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>62125.4550</string><key>y</key><string>88172.7729</string></dict>
+<dict>
+<key>identifier</key><string>8f790396-5737-478b-9e9c-96f94c3c459d</string><key>stan_name</key><string>杭州迅达包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>66254.0390</string><key>y</key><string>88188.5649</string></dict>
+<dict>
+<key>identifier</key><string>9c8f4ca7-0b95-45f2-8ae2-8e00fb692bf2</string><key>stan_name</key><string>杭州风荷彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>82521.2943</string><key>y</key><string>88200.4623</string></dict>
+<dict>
+<key>identifier</key><string>63e30734-c8c7-44fd-a7c8-80c9d3ae203c</string><key>stan_name</key><string>新昌包装厂</string><key>multi_info</key><string> </string><key>x</key><string>86797.3437</string><key>y</key><string>88207.4922</string></dict>
+<dict>
+<key>identifier</key><string>a032eb44-81bf-40a8-85fc-e1f6f4b8ed4b</string><key>stan_name</key><string>杭州百年远大包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82455.4426</string><key>y</key><string>89246.4832</string></dict>
+<dict>
+<key>identifier</key><string>19f02cc4-19dc-47f0-9375-a5200c6c775a</string><key>stan_name</key><string>杭州余杭杭乐包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>51842.4141</string><key>y</key><string>90748.3259</string></dict>
+<dict>
+<key>identifier</key><string>2f1dcc6f-02fd-4552-90b6-76641268350b</string><key>stan_name</key><string>原三墩科教印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>72062.1953</string><key>y</key><string>88218.4297</string></dict>
+<dict>
+<key>identifier</key><string>e40fd152-e5df-4df3-9010-f40c095651b8</string><key>stan_name</key><string>杭州东帆印刷包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85535.3564</string><key>y</key><string>90791.1007</string></dict>
+<dict>
+<key>identifier</key><string>06d07466-49a9-4aa9-ab4d-d0482915b1f8</string><key>stan_name</key><string>科汇印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84748.9658</string><key>y</key><string>90804.9772</string></dict>
+<dict>
+<key>identifier</key><string>2849e3ef-37ba-43eb-8130-12f8f8ccd9ad</string><key>stan_name</key><string>杭州华伟纸箱包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84745.91</string><key>y</key><string>90821.0491</string></dict>
+<dict>
+<key>identifier</key><string>3b12d777-93cb-4412-870c-49a334c0d436</string><key>stan_name</key><string>江东包装彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>110519.4860</string><key>y</key><string>87343.9170</string></dict>
+<dict>
+<key>identifier</key><string>314f3f82-b392-4f05-adf2-8fca9026a25b</string><key>stan_name</key><string>浙江大安实业股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98842.5780</string><key>y</key><string>87355.0922</string></dict>
+<dict>
+<key>identifier</key><string>be6dbf9c-5adb-499f-b417-ab081075bbb1</string><key>stan_name</key><string>杭州正晟纸股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70498.8572</string><key>y</key><string>88646.6421</string></dict>
+<dict>
+<key>identifier</key><string>c10657ab-cfc3-4889-8696-17075e25a2b3</string><key>stan_name</key><string>永建喷印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>112941.3539</string><key>y</key><string>89350.8920</string></dict>
+<dict>
+<key>identifier</key><string>8527f9df-32f0-4866-8c27-53f5f3a73737</string><key>stan_name</key><string>杭州天时印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81346.8208</string><key>y</key><string>89360.1739</string></dict>
+<dict>
+<key>identifier</key><string>ade65b62-6e62-415a-a89c-08c01c3a8fce</string><key>stan_name</key><string>杭州九堡塑料泡沫包装厂</string><key>multi_info</key><string> </string><key>x</key><string>89369.9333</string><key>y</key><string>89387.5467</string></dict>
+<dict>
+<key>identifier</key><string>e7ec9518-62df-4f73-810b-2bc5c22f9b61</string><key>stan_name</key><string>杭州宏达印铁罐厂</string><key>multi_info</key><string> </string><key>x</key><string>86022.9210</string><key>y</key><string>90899.7478</string></dict>
+<dict>
+<key>identifier</key><string>f5fc2dd1-dbeb-40ef-978d-1e1396e86b03</string><key>stan_name</key><string>杭州万星印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81558.0689</string><key>y</key><string>90923.2012</string></dict>
+<dict>
+<key>identifier</key><string>ceaaf271-c687-4887-a6c4-0dff7a8ab0a6</string><key>stan_name</key><string>宏达印制制品厂</string><key>multi_info</key><string> </string><key>x</key><string>85947.8594</string><key>y</key><string>90930.8828</string></dict>
+<dict>
+<key>identifier</key><string>394b2243-4ae7-4e00-9bb8-19e142f565dd</string><key>stan_name</key><string>杭州华丰纸箱包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84716.0126</string><key>y</key><string>90932.4449</string></dict>
+<dict>
+<key>identifier</key><string>e4fa8a5e-33e6-4582-9caf-06cb98db9e43</string><key>stan_name</key><string>杭州鑫锐印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74643.6038</string><key>y</key><string>87368.1965</string></dict>
+<dict>
+<key>identifier</key><string>537b46ad-34dd-423d-bd33-1e81cb039208</string><key>stan_name</key><string>杭州九堡印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>87622.2344</string><key>y</key><string>88712.6719</string></dict>
+<dict>
+<key>identifier</key><string>ae912387-8a46-4492-8abc-f661fd8d44e7</string><key>stan_name</key><string>杭州中杭印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75422.2578</string><key>y</key><string>89387.7578</string></dict>
+<dict>
+<key>identifier</key><string>44e0ceaf-9130-4744-8f70-d7f4e306e321</string><key>stan_name</key><string>杭州好旺龙包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89675.1669</string><key>y</key><string>89396.9887</string></dict>
+<dict>
+<key>identifier</key><string>55b30aae-376d-4879-9ff5-38d58786d6db</string><key>stan_name</key><string>杭州江山印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85244.8441</string><key>y</key><string>89440.9880</string></dict>
+<dict>
+<key>identifier</key><string>427cf07f-4277-4ebe-b9b9-b5d0e94d3070</string><key>stan_name</key><string>余杭新华印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>73130.9940</string><key>y</key><string>90944.4553</string></dict>
+<dict>
+<key>identifier</key><string>f0ca9526-7f72-4af6-a6bf-ee8fe7e83970</string><key>stan_name</key><string>浙江新华彩色印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70729.8281</string><key>y</key><string>87468.5608</string></dict>
+<dict>
+<key>identifier</key><string>28980b12-73c2-4e15-8867-79d86cad0c23</string><key>stan_name</key><string>杭州银翔纸箱包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84650.5110</string><key>y</key><string>88810.1118</string></dict>
+<dict>
+<key>identifier</key><string>81f7581e-d802-487c-b6b9-66fe00dc1c8a</string><key>stan_name</key><string>杭州胜利印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>68207.7109</string><key>y</key><string>88838.5234</string></dict>
+<dict>
+<key>identifier</key><string>5110928e-0da8-4a62-85d0-056660fa66cb</string><key>stan_name</key><string>东海印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>68257.6875</string><key>y</key><string>89472.1172</string></dict>
+<dict>
+<key>identifier</key><string>c3c3dea6-7d3b-4067-87de-0c8c99705a33</string><key>stan_name</key><string>包装厂</string><key>multi_info</key><string> </string><key>x</key><string>88722.5938</string><key>y</key><string>89499.0547</string></dict>
+<dict>
+<key>identifier</key><string>582560b9-a97d-4187-991e-0c5cf0f76562</string><key>stan_name</key><string>杭州龙源标牌彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91461.9565</string><key>y</key><string>91091.3616</string></dict>
+<dict>
+<key>identifier</key><string>8ddc803b-0219-4a20-8207-79a096e9ae43</string><key>stan_name</key><string>瑞奇包装系统(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99098.3225</string><key>y</key><string>84990.3385</string></dict>
+<dict>
+<key>identifier</key><string>bed05e6b-d7d3-4f8b-8ebd-91b04d27dccb</string><key>stan_name</key><string>余杭市西坝印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>67903.0318</string><key>y</key><string>81011.8223</string></dict>
+<dict>
+<key>identifier</key><string>259110d0-7d26-4dec-b08c-8f119d76ad45</string><key>stan_name</key><string>杭州天鹰包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>108871.7370</string><key>y</key><string>86968.3379</string></dict>
+<dict>
+<key>identifier</key><string>a782337b-708e-49bc-818b-ace12b0a9e2c</string><key>stan_name</key><string>天杭印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>82756.8672</string><key>y</key><string>84064.6406</string></dict>
+<dict>
+<key>identifier</key><string>2866e45e-24cd-44a8-b871-7b09483f5928</string><key>stan_name</key><string>凯宁包装材料(杭州)有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98642.5427</string><key>y</key><string>85036.7528</string></dict>
+<dict>
+<key>identifier</key><string>f6829381-afea-4f6a-a034-9b6c88e10c6f</string><key>stan_name</key><string>浙江省出版印刷公司</string><key>multi_info</key><string> </string><key>x</key><string>81301.4453</string><key>y</key><string>85072.1875</string></dict>
+<dict>
+<key>identifier</key><string>c24e160c-3194-44a7-94f2-4eb8493696a3</string><key>stan_name</key><string>杭州南运河包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>54082.5480</string><key>y</key><string>85704.3280</string></dict>
+<dict>
+<key>identifier</key><string>8c5da3c5-6825-4a76-854e-811e2477ea17</string><key>stan_name</key><string>杭州新华印刷物资公司</string><key>multi_info</key><string> </string><key>x</key><string>83285.4609</string><key>y</key><string>84107.4141</string></dict>
+<dict>
+<key>identifier</key><string>91f8e869-977b-4361-b645-de647cb90210</string><key>stan_name</key><string>杭州兴龙包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87051.69</string><key>y</key><string>85773.24</string></dict>
+<dict>
+<key>identifier</key><string>c1bb8fac-ab31-437f-a091-3d6a28c75dd3</string><key>stan_name</key><string>杭州华贸商标印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75805.1332</string><key>y</key><string>83037.6339</string></dict>
+<dict>
+<key>identifier</key><string>a95c897d-bd28-469a-b35d-6945a45a1091</string><key>stan_name</key><string>医药包装厂</string><key>multi_info</key><string> </string><key>x</key><string>84798.1250</string><key>y</key><string>84243.6641</string></dict>
+<dict>
+<key>identifier</key><string>c58d3b99-d25f-44b3-9f74-b3c9346354c4</string><key>stan_name</key><string>西冷厂</string><key>multi_info</key><string> </string><key>x</key><string>89116.0547</string><key>y</key><string>85791.4844</string></dict>
+<dict>
+<key>identifier</key><string>410270e9-5f97-4622-8f65-42184dff8561</string><key>stan_name</key><string>杭州美坚华医药包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>99682.9389</string><key>y</key><string>85805.1409</string></dict>
+<dict>
+<key>identifier</key><string>4484e60b-b1cb-4ebe-b8ae-83dd77fa0169</string><key>stan_name</key><string>萧山市典浩彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>109389.5590</string><key>y</key><string>83084.7719</string></dict>
+<dict>
+<key>identifier</key><string>8ac454d3-1bb4-4c65-89be-1c1af2bea93f</string><key>stan_name</key><string>之江印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>80991.5234</string><key>y</key><string>83103.9844</string></dict>
+<dict>
+<key>identifier</key><string>5020abb3-9d3e-486b-91a5-bd3d9c75737b</string><key>stan_name</key><string>杭州之江印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>81409.7266</string><key>y</key><string>84296.9141</string></dict>
+<dict>
+<key>identifier</key><string>6e0a95f4-c612-4a07-9fca-8e78202f7621</string><key>stan_name</key><string>杭州吉伟纸塑包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74935.3851</string><key>y</key><string>85265.9497</string></dict>
+<dict>
+<key>identifier</key><string>91c9cdc7-a3b0-4424-af16-c68ba21bc4d2</string><key>stan_name</key><string>杭州漆氏工艺包装制品厂</string><key>multi_info</key><string> </string><key>x</key><string>54155.6230</string><key>y</key><string>85908.9080</string></dict>
+<dict>
+<key>identifier</key><string>ea341099-0f9f-486c-a392-2a8d9c25d4ad</string><key>stan_name</key><string>杭州高新包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>75158.1934</string><key>y</key><string>85314.4066</string></dict>
+<dict>
+<key>identifier</key><string>d077b6e1-a3a8-4a60-9316-12c002037107</string><key>stan_name</key><string>博世包装技术有限公司</string><key>multi_info</key><string> </string><key>x</key><string>100451.0655</string><key>y</key><string>85328.9950</string></dict>
+<dict>
+<key>identifier</key><string>2c2d7699-c64c-42bd-a8cf-c1d546423ebb</string><key>stan_name</key><string>杭州兴龙包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>87053.2090</string><key>y</key><string>85926.2840</string></dict>
+<dict>
+<key>identifier</key><string>8f657f82-637f-45ed-b54a-8fb38b8aefe9</string><key>stan_name</key><string>杭州恒力通印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75966.9748</string><key>y</key><string>85938.8917</string></dict>
+<dict>
+<key>identifier</key><string>3283f5ab-779f-4dbe-af8e-5c618dcaebbe</string><key>stan_name</key><string>杭州阳丽印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75956.1339</string><key>y</key><string>85965.5076</string></dict>
+<dict>
+<key>identifier</key><string>1bb60e27-914d-4561-92df-d414879aaeef</string><key>stan_name</key><string>杭州兴龙包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>86769.8984</string><key>y</key><string>85353.2344</string></dict>
+<dict>
+<key>identifier</key><string>e4725f0e-67dd-4eeb-b394-b9436e63aab4</string><key>stan_name</key><string>浙江民振印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75878.9218</string><key>y</key><string>85976.8288</string></dict>
+<dict>
+<key>identifier</key><string>5f8da27d-7eab-4b88-b537-0eb881d7c517</string><key>stan_name</key><string>杭州宏润包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75511.6689</string><key>y</key><string>86333.2729</string></dict>
+<dict>
+<key>identifier</key><string>29e574fa-25cd-48f1-bf2f-9204f6ea7514</string><key>stan_name</key><string>杭州科导实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58503.6620</string><key>y</key><string>84499.7970</string></dict>
+<dict>
+<key>identifier</key><string>86a099cf-6636-4368-bccf-b863f80c1d42</string><key>stan_name</key><string>包装公司</string><key>multi_info</key><string> </string><key>x</key><string>88333.0781</string><key>y</key><string>85418.4844</string></dict>
+<dict>
+<key>identifier</key><string>d5e8cfcb-b17a-4164-8d69-49199f772d0e</string><key>stan_name</key><string>杭州新彩包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>81529.6676</string><key>y</key><string>85469.1071</string></dict>
+<dict>
+<key>identifier</key><string>5d59621e-4797-481f-830e-cc148c3f3d2b</string><key>stan_name</key><string>浙江印刷集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80349.5938</string><key>y</key><string>83293.3984</string></dict>
+<dict>
+<key>identifier</key><string>900e2fd1-7eaf-4054-ad7c-6b3a04ae0898</string><key>stan_name</key><string>杭州江南包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84739.1490</string><key>y</key><string>84529.1150</string></dict>
+<dict>
+<key>identifier</key><string>27dcf3ff-b829-49e5-ba43-b384b66a2c3b</string><key>stan_name</key><string>杭州东亚瓦楞彩印包装厂</string><key>multi_info</key><string> </string><key>x</key><string>89337.61</string><key>y</key><string>85555.4030</string></dict>
+<dict>
+<key>identifier</key><string>39ef7ef8-b76b-4222-8282-4ccc69abaf20</string><key>stan_name</key><string>讯知印务</string><key>multi_info</key><string> </string><key>x</key><string>67493.9531</string><key>y</key><string>86499.4531</string></dict>
+<dict>
+<key>identifier</key><string>08fdeebc-a814-4cc9-9b14-5766bb65fc9c</string><key>stan_name</key><string>杭州杭东印刷厂（一楼）</string><key>multi_info</key><string> </string><key>x</key><string>83975.4141</string><key>y</key><string>86508.2109</string></dict>
+<dict>
+<key>identifier</key><string>8a84a8f7-3f12-402b-92c2-6d3f87046315</string><key>stan_name</key><string>杭州纸张有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77900.1953</string><key>y</key><string>86524.1875</string></dict>
+<dict>
+<key>identifier</key><string>9d6d246b-1d06-4886-90d3-7720f009fb9a</string><key>stan_name</key><string>杭州茶叶包装厂</string><key>multi_info</key><string> </string><key>x</key><string>78285.4844</string><key>y</key><string>83674.6094</string></dict>
+<dict>
+<key>identifier</key><string>ba925723-119c-4e2d-85eb-3124ad968cba</string><key>stan_name</key><string>道道化纤纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>111008.2384</string><key>y</key><string>83726.3210</string></dict>
+<dict>
+<key>identifier</key><string>e47f047c-8500-437c-850e-193b18792dcf</string><key>stan_name</key><string>运萨(杭州)包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>98726.1379</string><key>y</key><string>84667.1194</string></dict>
+<dict>
+<key>identifier</key><string>f8dd75c1-ed18-4438-8cf0-a5d0309815de</string><key>stan_name</key><string>杭州兴乐印刷包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>111064.3294</string><key>y</key><string>84697.9510</string></dict>
+<dict>
+<key>identifier</key><string>cfbaf76c-2e9a-4ac2-b05f-44ad3080b966</string><key>stan_name</key><string>花园电梯配件包装厂</string><key>multi_info</key><string> </string><key>x</key><string>85358.4297</string><key>y</key><string>86544.6094</string></dict>
+<dict>
+<key>identifier</key><string>7e563edc-54b1-4efd-bf2e-3a950a79148e</string><key>stan_name</key><string>杭州美佳印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84073.6797</string><key>y</key><string>86554.2813</string></dict>
+<dict>
+<key>identifier</key><string>79c32d15-297a-43a3-b3d1-e8dd386a8648</string><key>stan_name</key><string>东亚水产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>125942.2871</string><key>y</key><string>86565.3810</string></dict>
+<dict>
+<key>identifier</key><string>f95d2134-ef38-48ae-aa79-929bc77b7dd4</string><key>stan_name</key><string>杭州仙宅印刷包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>54171.0930</string><key>y</key><string>86097.7440</string></dict>
+<dict>
+<key>identifier</key><string>5f38f180-bdde-4ba8-8ddc-748305ea9108</string><key>stan_name</key><string>杭州锦鸿包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>106328.1679</string><key>y</key><string>83800.8359</string></dict>
+<dict>
+<key>identifier</key><string>95d11c7b-e7c2-4cb1-bc75-b1762ddf99c6</string><key>stan_name</key><string>永诚包装厂</string><key>multi_info</key><string> </string><key>x</key><string>114053.6720</string><key>y</key><string>82308.8810</string></dict>
+<dict>
+<key>identifier</key><string>560803f1-1acf-4bb8-bdb4-675d073cc894</string><key>stan_name</key><string>浙江省邮电印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>83001.50</string><key>y</key><string>80272.9766</string></dict>
+<dict>
+<key>identifier</key><string>b743d5ee-d2ce-4d7d-ab0d-1016cec09637</string><key>stan_name</key><string>小营印刷分厂</string><key>multi_info</key><string> </string><key>x</key><string>80781.1562</string><key>y</key><string>81444.9922</string></dict>
+<dict>
+<key>identifier</key><string>7cfeb2aa-b532-43ca-9a4c-9fc38998d773</string><key>stan_name</key><string>彩印包装厂</string><key>multi_info</key><string> </string><key>x</key><string>88185.4070</string><key>y</key><string>81446.7671</string></dict>
+<dict>
+<key>identifier</key><string>abef533c-7148-4fb5-ae32-e8e0ac0a4879</string><key>stan_name</key><string>杭州市新雅印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74427.6641</string><key>y</key><string>82387.2656</string></dict>
+<dict>
+<key>identifier</key><string>beebd2b6-c372-4592-9d8f-d9a5384404c4</string><key>stan_name</key><string>杭州亚泰包装器有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89610.5789</string><key>y</key><string>82410.1590</string></dict>
+<dict>
+<key>identifier</key><string>9c983db7-d620-4268-97ab-d7a5f524d027</string><key>stan_name</key><string>杭州公共交通公司印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>74402.8125</string><key>y</key><string>82419.0078</string></dict>
+<dict>
+<key>identifier</key><string>cadb7cd0-ad9e-47c3-b318-2a97b0fca88f</string><key>stan_name</key><string>浙江国广彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72066.1592</string><key>y</key><string>81474.5539</string></dict>
+<dict>
+<key>identifier</key><string>8e538ba6-711a-4671-b510-3d803deb91a0</string><key>stan_name</key><string>杭州西溪包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>72946.3499</string><key>y</key><string>81495.0204</string></dict>
+<dict>
+<key>identifier</key><string>c2bb058c-9ee7-41e2-a52b-a228979e494a</string><key>stan_name</key><string>杭州创美包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72355.3823</string><key>y</key><string>81507.3231</string></dict>
+<dict>
+<key>identifier</key><string>90838951-5a87-4829-b23c-debc1bb46962</string><key>stan_name</key><string>杭州四色印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72293.9202</string><key>y</key><string>81528.2469</string></dict>
+<dict>
+<key>identifier</key><string>5a3a8228-8741-4571-885a-5e98a20a6f99</string><key>stan_name</key><string>杭州甘人印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74244.3705</string><key>y</key><string>82449.6851</string></dict>
+<dict>
+<key>identifier</key><string>ef745d1d-6357-4b6c-9a4e-699b79905ae0</string><key>stan_name</key><string>杭州中泰印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>57067.2110</string><key>y</key><string>80500.4540</string></dict>
+<dict>
+<key>identifier</key><string>32247ce6-fd6b-47c5-bb0a-57abcd1ceb9e</string><key>stan_name</key><string>杭州t天地印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70076.4189</string><key>y</key><string>80692.0047</string></dict>
+<dict>
+<key>identifier</key><string>bd09b1a7-a208-4ff7-b2b7-5e4904289c11</string><key>stan_name</key><string>杭州余杭宇人印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>58781.6910</string><key>y</key><string>82609.4830</string></dict>
+<dict>
+<key>identifier</key><string>4b8addee-e7cc-4b16-8e52-4aa49e53b8a4</string><key>stan_name</key><string>杭州胜业印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71140.6783</string><key>y</key><string>80774.4802</string></dict>
+<dict>
+<key>identifier</key><string>a29e7bd9-84c9-4dd9-ae11-d2ce81db3f68</string><key>stan_name</key><string>杭州永美包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71253.4375</string><key>y</key><string>80804.2109</string></dict>
+<dict>
+<key>identifier</key><string>bc6a22ef-fca8-4459-8a50-eb1a9275f90c</string><key>stan_name</key><string>工行印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>83104.5625</string><key>y</key><string>80918.1797</string></dict>
+<dict>
+<key>identifier</key><string>a40fabf5-b4d8-4eb1-b31f-ff28afb529f4</string><key>stan_name</key><string>杭州华达印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72707.5763</string><key>y</key><string>81860.8006</string></dict>
+<dict>
+<key>identifier</key><string>7fe96414-3094-4c75-b6e1-44f4acc00582</string><key>stan_name</key><string>余杭市五常联胜彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>67576.0450</string><key>y</key><string>81899.95</string></dict>
+<dict>
+<key>identifier</key><string>20ce9c78-1d37-4e37-ad9c-8d942a16ed3f</string><key>stan_name</key><string>杭州新隆包装印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92415.4219</string><key>y</key><string>66547.6131</string></dict>
+<dict>
+<key>identifier</key><string>3e343afb-0ddc-4172-bad2-455c2a1c47d7</string><key>stan_name</key><string>求实塑料包装厂</string><key>multi_info</key><string> </string><key>x</key><string>94259.7459</string><key>y</key><string>71366.7491</string></dict>
+<dict>
+<key>identifier</key><string>9ff0772c-16cf-4cae-8ba7-744f664a7363</string><key>stan_name</key><string>杭州萧山群益包装彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>115792.0030</string><key>y</key><string>71378.1550</string></dict>
+<dict>
+<key>identifier</key><string>86e284d0-9f90-4d95-a536-2d2237ec888f</string><key>stan_name</key><string>杭州双龙印刷</string><key>multi_info</key><string> </string><key>x</key><string>82959.9844</string><key>y</key><string>71249.4375</string></dict>
+<dict>
+<key>identifier</key><string>a166e75d-03d7-494e-8450-c1f26058abbd</string><key>stan_name</key><string>杭州美佳塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89291.1010</string><key>y</key><string>66567.4390</string></dict>
+<dict>
+<key>identifier</key><string>6dd8c096-bd9b-4f90-9072-b3ab510f00bb</string><key>stan_name</key><string>杭州新星医药包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73577.1797</string><key>y</key><string>66602.9688</string></dict>
+<dict>
+<key>identifier</key><string>6b987e22-a360-4994-ad54-867eaf1e42d1</string><key>stan_name</key><string>萧山区朝阳纸制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89677.8821</string><key>y</key><string>66678.2650</string></dict>
+<dict>
+<key>identifier</key><string>3feec1d9-e206-49c6-99e9-21f5ee187e24</string><key>stan_name</key><string>杭州英华印业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>69025.2422</string><key>y</key><string>67458.9922</string></dict>
+<dict>
+<key>identifier</key><string>88e2b695-1ee8-49ba-b7d9-082e96f76b46</string><key>stan_name</key><string>萧山市万达包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82005.6699</string><key>y</key><string>67921.6920</string></dict>
+<dict>
+<key>identifier</key><string>1bead6c4-10ba-43b8-ad4a-bf263cd90b7d</string><key>stan_name</key><string>顺昌印刷公司</string><key>multi_info</key><string> </string><key>x</key><string>91201.77</string><key>y</key><string>67941.2770</string></dict>
+<dict>
+<key>identifier</key><string>52a8517e-ac05-4535-a27b-3b342cb760e7</string><key>stan_name</key><string>杭州市红星装订厂</string><key>multi_info</key><string> </string><key>x</key><string>76082.2184</string><key>y</key><string>67499.5924</string></dict>
+<dict>
+<key>identifier</key><string>8e6b4c5f-e846-4370-8186-2cff55b21632</string><key>stan_name</key><string>杭州供销印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73705.1170</string><key>y</key><string>93374.1940</string></dict>
+<dict>
+<key>identifier</key><string>492a94b9-9c94-485f-a9fa-a5c6ad0a8729</string><key>stan_name</key><string>杭州真威包装厂</string><key>multi_info</key><string> </string><key>x</key><string>70006.3359</string><key>y</key><string>89710.1250</string></dict>
+<dict>
+<key>identifier</key><string>988d6e3e-e99a-443e-94c9-f53083b42426</string><key>stan_name</key><string>西湖轴瓦远景包装</string><key>multi_info</key><string> </string><key>x</key><string>74426.7266</string><key>y</key><string>89678.9922</string></dict>
+<dict>
+<key>identifier</key><string>55d49563-f673-46ea-9cbc-70aa9348706b</string><key>stan_name</key><string>杭州吴氏包装印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71387.1328</string><key>y</key><string>89717.8438</string></dict>
+<dict>
+<key>identifier</key><string>d08219c6-f7f7-4a4e-8602-2293a538f7a5</string><key>stan_name</key><string>杭州环宇包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>78464.3922</string><key>y</key><string>89742.7971</string></dict>
+<dict>
+<key>identifier</key><string>146ba92c-ab83-46c4-908d-39a503e1dddc</string><key>stan_name</key><string>华联印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>68188.6980</string><key>y</key><string>91350.6773</string></dict>
+<dict>
+<key>identifier</key><string>e18bfc52-6838-47f9-9762-cf0704f8017b</string><key>stan_name</key><string>杭州三园包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82661.7599</string><key>y</key><string>89034.33</string></dict>
+<dict>
+<key>identifier</key><string>2cfd78b1-93cb-48c1-9800-392f7c5356c7</string><key>stan_name</key><string>杭州振卫塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83080.9758</string><key>y</key><string>89059.2293</string></dict>
+<dict>
+<key>identifier</key><string>689efb32-aab2-4b03-bf91-d3d9de2de118</string><key>stan_name</key><string>杭州宝徕包装厂</string><key>multi_info</key><string> </string><key>x</key><string>86858.0234</string><key>y</key><string>88246.7031</string></dict>
+<dict>
+<key>identifier</key><string>d7a2ed7b-6f51-492d-9991-94235e3d70b7</string><key>stan_name</key><string>杭州致远包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85627.2109</string><key>y</key><string>88247.1797</string></dict>
+<dict>
+<key>identifier</key><string>62f3fc53-0318-497a-b48d-a8b25cbf4c43</string><key>stan_name</key><string>杭州三墩塑化印务公司</string><key>multi_info</key><string> </string><key>x</key><string>70032.3516</string><key>y</key><string>89781.6797</string></dict>
+<dict>
+<key>identifier</key><string>dd693bdb-0856-4cbb-bbe4-ef562a073cb1</string><key>stan_name</key><string>杭州西湖印刷实业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74412.8804</string><key>y</key><string>89805.2036</string></dict>
+<dict>
+<key>identifier</key><string>dd53a8bd-7816-493c-b61f-9efc817e73d7</string><key>stan_name</key><string>金印包装公司</string><key>multi_info</key><string> </string><key>x</key><string>74686.8047</string><key>y</key><string>89811.2656</string></dict>
+<dict>
+<key>identifier</key><string>94fb09b6-0e89-483d-9583-5ab5c8be9fe6</string><key>stan_name</key><string>杭州龙鹏印刷包装厂</string><key>multi_info</key><string> </string><key>x</key><string>73510.5664</string><key>y</key><string>87690.5456</string></dict>
+<dict>
+<key>identifier</key><string>63e3b74b-8df3-47dc-b373-bb19963211d6</string><key>stan_name</key><string>浙江中瑞印业年有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70277.7422</string><key>y</key><string>87704.4968</string></dict>
+<dict>
+<key>identifier</key><string>abeca19c-5492-47fb-af40-9aa68775f173</string><key>stan_name</key><string>杭州远东纸箱包装厂</string><key>multi_info</key><string> </string><key>x</key><string>71977.6950</string><key>y</key><string>87727.5024</string></dict>
+<dict>
+<key>identifier</key><string>59d9a60a-aced-49ae-9347-ba17bb0d2d81</string><key>stan_name</key><string>杭州麦克斯包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80591.4296</string><key>y</key><string>87743.7367</string></dict>
+<dict>
+<key>identifier</key><string>74a89250-6f08-41af-843c-b1ff5ab059d1</string><key>stan_name</key><string>杭州华裕塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86208.6641</string><key>y</key><string>91670.8672</string></dict>
+<dict>
+<key>identifier</key><string>81ab03a2-2c57-4656-af6b-d2cf476c6f9e</string><key>stan_name</key><string>杭州苇航包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85020.2161</string><key>y</key><string>91706.5616</string></dict>
+<dict>
+<key>identifier</key><string>8f90998c-7ce7-484b-af4a-35c600f5a64d</string><key>stan_name</key><string>杭州景顺包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72337.4090</string><key>y</key><string>91748.3320</string></dict>
+<dict>
+<key>identifier</key><string>b23e505e-2f35-4549-b8fe-eebe634bf6fb</string><key>stan_name</key><string>杭州新奥彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>67940.1406</string><key>y</key><string>87791.7813</string></dict>
+<dict>
+<key>identifier</key><string>9af61d6d-2490-42f6-98ba-1bdbb9b270a2</string><key>stan_name</key><string>杭州俊佳印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71648.2306</string><key>y</key><string>88299.8920</string></dict>
+<dict>
+<key>identifier</key><string>4fea2b95-f357-4cbe-8cbd-aeb7dd485b3f</string><key>stan_name</key><string>浙江影天印业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75085.3367</string><key>y</key><string>89953.2745</string></dict>
+<dict>
+<key>identifier</key><string>cb532a2d-6fb8-46f9-8722-cef5c082c859</string><key>stan_name</key><string>杭州武林印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81398.8773</string><key>y</key><string>89975.7425</string></dict>
+<dict>
+<key>identifier</key><string>0ccf30c5-afb6-4d94-b33d-ed46f7ffab3c</string><key>stan_name</key><string>杭州余杭区乔司天彩印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>92407.9890</string><key>y</key><string>91787.3237</string></dict>
+<dict>
+<key>identifier</key><string>26cb93fb-2274-442d-a6ff-a40758762f2d</string><key>stan_name</key><string>丁桥印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>85954.8516</string><key>y</key><string>91792.1250</string></dict>
+<dict>
+<key>identifier</key><string>471393ef-71bd-4325-b5db-f85421cfb14e</string><key>stan_name</key><string>致中印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>84985.6953</string><key>y</key><string>87800.2266</string></dict>
+<dict>
+<key>identifier</key><string>6d030488-36f2-42ac-87a4-cddfbdc96114</string><key>stan_name</key><string>天杭打印耗材公司</string><key>multi_info</key><string> </string><key>x</key><string>75228</string><key>y</key><string>88339.0234</string></dict>
+<dict>
+<key>identifier</key><string>25ce01d7-f4e5-4dc1-a8aa-e257c238829a</string><key>stan_name</key><string>杭州新生复合彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>72818.82</string><key>y</key><string>88339.8880</string></dict>
+<dict>
+<key>identifier</key><string>ea377436-c622-4f78-b66c-d2970712418c</string><key>stan_name</key><string>浙江华泰印业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81606.0578</string><key>y</key><string>88345.3316</string></dict>
+<dict>
+<key>identifier</key><string>6cd151c4-62d9-4d25-9d28-6d64c554892b</string><key>stan_name</key><string>杭州地山印业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71859.4746</string><key>y</key><string>88376.7637</string></dict>
+<dict>
+<key>identifier</key><string>0417e040-9113-4862-b164-ee9b5fa6d012</string><key>stan_name</key><string>杭州吞余包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>90201.4245</string><key>y</key><string>91843.1948</string></dict>
+<dict>
+<key>identifier</key><string>a426aef5-2434-495c-a3f5-e560c3c8213c</string><key>stan_name</key><string>杭州大陆友谊印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>65457.9660</string><key>y</key><string>91873.1670</string></dict>
+<dict>
+<key>identifier</key><string>1b1ce1b6-f789-4d9d-b158-aa06117ea9e0</string><key>stan_name</key><string>杭州南方包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93644.9650</string><key>y</key><string>87907.2822</string></dict>
+<dict>
+<key>identifier</key><string>34ee8437-2d50-4d77-83c5-8af767df43e8</string><key>stan_name</key><string>杭州科龙包装制品厂</string><key>multi_info</key><string> </string><key>x</key><string>81477.3670</string><key>y</key><string>87919.4926</string></dict>
+<dict>
+<key>identifier</key><string>0458125f-d445-498e-854d-6bf680bc7378</string><key>stan_name</key><string>杭州盛大包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85812.0547</string><key>y</key><string>88404.0234</string></dict>
+<dict>
+<key>identifier</key><string>3f629e12-8f0c-4e47-96c3-b3f02af7bebd</string><key>stan_name</key><string>树大印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>78751.7734</string><key>y</key><string>88425.7031</string></dict>
+<dict>
+<key>identifier</key><string>34bffdcb-e109-4cec-9dea-3aa2075909a0</string><key>stan_name</key><string>杭州良和包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78004.7161</string><key>y</key><string>98500.0910</string></dict>
+<dict>
+<key>identifier</key><string>89886fe5-a649-475b-9925-c2a432007d40</string><key>stan_name</key><string>杭州天源包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79907.4290</string><key>y</key><string>98679.5751</string></dict>
+<dict>
+<key>identifier</key><string>4a74a76c-7432-458a-9ec4-2612e5db7907</string><key>stan_name</key><string>杭州余杭孟飞包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>80352.9460</string><key>y</key><string>98685.6541</string></dict>
+<dict>
+<key>identifier</key><string>04fbc96d-7eb6-4295-a74d-8d6510c5e477</string><key>stan_name</key><string>杭州顺通印刷材料公司</string><key>multi_info</key><string> </string><key>x</key><string>37337.8650</string><key>y</key><string>103323.84</string></dict>
+<dict>
+<key>identifier</key><string>8d82b50d-c130-46a7-b2de-60881ae5b3dc</string><key>stan_name</key><string>杭州余杭人民印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73382.8960</string><key>y</key><string>92238.8701</string></dict>
+<dict>
+<key>identifier</key><string>82656109-f8f7-4594-ab17-6f0e07588051</string><key>stan_name</key><string>杭州成宏彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>56555.2610</string><key>y</key><string>94788.2710</string></dict>
+<dict>
+<key>identifier</key><string>1f3dfd18-c23b-4aab-a36c-1d1ba6869d19</string><key>stan_name</key><string>杭州新天地彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>63478.0230</string><key>y</key><string>94883.3939</string></dict>
+<dict>
+<key>identifier</key><string>b53d90df-515a-454c-aaca-0f1e0293f36d</string><key>stan_name</key><string>杭州恒康专用车辆制造有限公司</string><key>multi_info</key><string> </string><key>x</key><string>55327.4249</string><key>y</key><string>98892.7620</string></dict>
+<dict>
+<key>identifier</key><string>ea9b2730-159f-4a1d-ae14-a376797f790b</string><key>stan_name</key><string>杭州金湖印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>45703.6920</string><key>y</key><string>103832.8320</string></dict>
+<dict>
+<key>identifier</key><string>1ee5c8be-a3f5-471d-b8d6-f62051b2a09a</string><key>stan_name</key><string>杭州飞乐印刷材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>40104.77</string><key>y</key><string>103861.7290</string></dict>
+<dict>
+<key>identifier</key><string>dae3ea93-5737-4b5b-9bf6-c315d0e5036c</string><key>stan_name</key><string>杭州余杭天彩印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>94847.7310</string><key>y</key><string>92346.9982</string></dict>
+<dict>
+<key>identifier</key><string>af548c89-dd0e-45b6-b22f-069bae1db06d</string><key>stan_name</key><string>杭州伟盛印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>59599.1601</string><key>y</key><string>94930.3530</string></dict>
+<dict>
+<key>identifier</key><string>15b01312-f8ce-444b-9930-2e48af6e9b37</string><key>stan_name</key><string>杭州余杭华兴印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>69819.3960</string><key>y</key><string>95005.7151</string></dict>
+<dict>
+<key>identifier</key><string>62eae6b3-2c66-4be1-a75f-598cadbc57df</string><key>stan_name</key><string>明丰包装厂</string><key>multi_info</key><string> </string><key>x</key><string>44762.9991</string><key>y</key><string>99302.3950</string></dict>
+<dict>
+<key>identifier</key><string>4bf77ba5-801e-421b-8e3d-3ff8ce60da40</string><key>stan_name</key><string>杭州华硕包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73653.7290</string><key>y</key><string>99308.3489</string></dict>
+<dict>
+<key>identifier</key><string>c20d6909-e31d-4de0-a8a6-2a9d53afab9b</string><key>stan_name</key><string>杭州余行羊诚包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61737.7990</string><key>y</key><string>95233.4320</string></dict>
+<dict>
+<key>identifier</key><string>ed43afc3-8cff-4852-aef1-671df4ba976f</string><key>stan_name</key><string>杭州瓶窑制版有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61491.2780</string><key>y</key><string>95284.7470</string></dict>
+<dict>
+<key>identifier</key><string>6c0f662b-e5a3-48b3-b033-5354512e0256</string><key>stan_name</key><string>杭州长命印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>64630.4840</string><key>y</key><string>95305.7121</string></dict>
+<dict>
+<key>identifier</key><string>ca43e816-c23e-4587-9f52-9b62f54906a5</string><key>stan_name</key><string>杭州乐思达包装印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>69754.55</string><key>y</key><string>95333.3331</string></dict>
+<dict>
+<key>identifier</key><string>6a04b994-e318-4a38-9b01-3e0bcbec76b3</string><key>stan_name</key><string>杭州海力服饰有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82213.4609</string><key>y</key><string>95359.2344</string></dict>
+<dict>
+<key>identifier</key><string>f07a8177-6371-4e4f-8c69-f7b63bbc855d</string><key>stan_name</key><string>杭州望湖纸业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79466.1910</string><key>y</key><string>104393.1731</string></dict>
+<dict>
+<key>identifier</key><string>12b3e636-bb89-499d-bf79-8728989db01c</string><key>stan_name</key><string>余杭新星印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>72542.6910</string><key>y</key><string>92585.22</string></dict>
+<dict>
+<key>identifier</key><string>a68be02d-d425-4200-947d-3c2025aa8083</string><key>stan_name</key><string>余杭区南苑街道万常社区居民委员会</string><key>multi_info</key><string> </string><key>x</key><string>93814.4729</string><key>y</key><string>92671.8509</string></dict>
+<dict>
+<key>identifier</key><string>0deeb60a-981a-4afb-94f1-cef5e13716f7</string><key>stan_name</key><string>杭州西湖轴承厂</string><key>multi_info</key><string> </string><key>x</key><string>84958.5937</string><key>y</key><string>92703.7813</string></dict>
+<dict>
+<key>identifier</key><string>f5b42da8-6e95-4ccb-80c9-8ca94954e85a</string><key>stan_name</key><string>好又多超市</string><key>multi_info</key><string> </string><key>x</key><string>51907.1810</string><key>y</key><string>95428.8970</string></dict>
+<dict>
+<key>identifier</key><string>1af9630c-5495-4b7f-8ab0-0b49dd788d50</string><key>stan_name</key><string>杭州永欣时装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92634.8814</string><key>y</key><string>95456.0244</string></dict>
+<dict>
+<key>identifier</key><string>142bc833-f54f-425f-a748-242af08dfa69</string><key>stan_name</key><string>杭州吴泰印刷包装机械有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86864.0469</string><key>y</key><string>104769.8879</string></dict>
+<dict>
+<key>identifier</key><string>94d6348d-f7f4-407f-9cb1-61d130cf79f2</string><key>stan_name</key><string>杭州亭趾包装塑料厂</string><key>multi_info</key><string> </string><key>x</key><string>93218.4981</string><key>y</key><string>104917.2546</string></dict>
+<dict>
+<key>identifier</key><string>69c45b95-a7a8-4999-b84e-7e7d1d58d920</string><key>stan_name</key><string>塑料包装厂</string><key>multi_info</key><string> </string><key>x</key><string>93180.5128</string><key>y</key><string>104928.3053</string></dict>
+<dict>
+<key>identifier</key><string>b3ae4de5-36d7-4ae7-a0da-f5116d1f3898</string><key>stan_name</key><string>杭州印联印刷</string><key>multi_info</key><string> </string><key>x</key><string>91456.3462</string><key>y</key><string>92736.8487</string></dict>
+<dict>
+<key>identifier</key><string>b1da1e57-c19f-4f5f-a2a4-5ead9a53d46a</string><key>stan_name</key><string>杭州三星化妆品包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>52132.9850</string><key>y</key><string>95649.8680</string></dict>
+<dict>
+<key>identifier</key><string>e79fa78d-0ecb-40e8-b608-c5b14383a0b2</string><key>stan_name</key><string>余杭包装彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>93118.8242</string><key>y</key><string>99912.3831</string></dict>
+<dict>
+<key>identifier</key><string>4fdadc5c-7c03-4007-b3eb-e89fdd86e149</string><key>stan_name</key><string>杭州松井包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73130.5370</string><key>y</key><string>99933.6460</string></dict>
+<dict>
+<key>identifier</key><string>039cf9a9-f0fe-4d34-b853-dc7e58e59753</string><key>stan_name</key><string>杭州半山印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>81253.4884</string><key>y</key><string>92913.4873</string></dict>
+<dict>
+<key>identifier</key><string>25f80ac6-f47b-4628-bfe7-4a05534ee8f9</string><key>stan_name</key><string>杭州余杭万信彩印包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>74119.5490</string><key>y</key><string>92961.3421</string></dict>
+<dict>
+<key>identifier</key><string>d37cc134-5845-4305-b723-533e26ee055d</string><key>stan_name</key><string>临平丘山印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>91743.0828</string><key>y</key><string>100107.2177</string></dict>
+<dict>
+<key>identifier</key><string>4126eef3-a6a3-491a-9603-362294da856e</string><key>stan_name</key><string>佳丽印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>83780.5080</string><key>y</key><string>105724.1440</string></dict>
+<dict>
+<key>identifier</key><string>d7147acb-a544-407c-aed2-5e82733c0622</string><key>stan_name</key><string>杭州精美纸塑包装厂</string><key>multi_info</key><string> </string><key>x</key><string>78826.8719</string><key>y</key><string>93214.8548</string></dict>
+<dict>
+<key>identifier</key><string>8526df62-c40b-4533-ad7d-3171cc3c27dd</string><key>stan_name</key><string>杭州富临印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>88728.4708</string><key>y</key><string>100400.2379</string></dict>
+<dict>
+<key>identifier</key><string>ef29e42a-a6c9-421d-96af-468babf614c6</string><key>stan_name</key><string>杭州腾迅涂层有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82494.6290</string><key>y</key><string>106473.4580</string></dict>
+<dict>
+<key>identifier</key><string>83cecaba-115a-4a05-8113-3c43bcd39075</string><key>stan_name</key><string>浙江康达包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78847.0235</string><key>y</key><string>93318.9922</string></dict>
+<dict>
+<key>identifier</key><string>7e2d610a-fcfa-4496-8b2e-5db29453d75d</string><key>stan_name</key><string>杭州丁桥吸收包装厂</string><key>multi_info</key><string> </string><key>x</key><string>85878.4054</string><key>y</key><string>93355.7906</string></dict>
+<dict>
+<key>identifier</key><string>7b42b9c3-025c-476c-988e-53668d0971e5</string><key>stan_name</key><string>康桥包装装璜厂</string><key>multi_info</key><string> </string><key>x</key><string>78514.7891</string><key>y</key><string>93362.1953</string></dict>
+<dict>
+<key>identifier</key><string>c12d4e9e-4a1c-4fdc-bf67-122d5b76473e</string><key>stan_name</key><string>杭州盛联印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91810.2647</string><key>y</key><string>91137.6491</string></dict>
+<dict>
+<key>identifier</key><string>2c043e2c-e67a-43ec-927c-e23e97c139f9</string><key>stan_name</key><string>天堂鸟印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>87110.9844</string><key>y</key><string>87498.4531</string></dict>
+<dict>
+<key>identifier</key><string>413de61f-fee8-4396-b077-f26eef3cb24a</string><key>stan_name</key><string>杭州杭新印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75720.0786</string><key>y</key><string>87510.0539</string></dict>
+<dict>
+<key>identifier</key><string>0ee70d52-9b1a-422c-9078-382b91d24ab4</string><key>stan_name</key><string>杭州日益包装材料公司</string><key>multi_info</key><string> </string><key>x</key><string>75573.7656</string><key>y</key><string>87511.1875</string></dict>
+<dict>
+<key>identifier</key><string>fb393c0e-8574-4b48-a2d4-f28bfb776e81</string><key>stan_name</key><string>耀盛包袋厂</string><key>multi_info</key><string> </string><key>x</key><string>75005.50</string><key>y</key><string>88840.5781</string></dict>
+<dict>
+<key>identifier</key><string>bd45df23-176b-4550-97a6-c16057066a98</string><key>stan_name</key><string>浙江财政后勤服务中心印刷车间</string><key>multi_info</key><string> </string><key>x</key><string>73752.9144</string><key>y</key><string>89586.2129</string></dict>
+<dict>
+<key>identifier</key><string>65c4fdf8-f12c-4ebb-8e6a-8b132a03e785</string><key>stan_name</key><string>海天特种印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>93709.5806</string><key>y</key><string>87563.9135</string></dict>
+<dict>
+<key>identifier</key><string>490ccb92-bd8a-44a5-a74c-69819ce1d1a6</string><key>stan_name</key><string>杭州青联印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>68028.2031</string><key>y</key><string>88992.4688</string></dict>
+<dict>
+<key>identifier</key><string>c3c123ea-35a1-4225-9b47-2f632fca732a</string><key>stan_name</key><string>群乐包装</string><key>multi_info</key><string> </string><key>x</key><string>74296.2020</string><key>y</key><string>89571.3147</string></dict>
+<dict>
+<key>identifier</key><string>9a2c4c1b-c40f-4c4e-89eb-7bc3a5d2d8b1</string><key>stan_name</key><string>杭州涛兴印刷设备有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89312.4748</string><key>y</key><string>89635.5004</string></dict>
+<dict>
+<key>identifier</key><string>c295f923-b2e6-4ef9-a05c-a9481a1f0e57</string><key>stan_name</key><string>杭州市公安印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>80215.3516</string><key>y</key><string>79957.1953</string></dict>
+<dict>
+<key>identifier</key><string>c30d7f1c-2c25-499a-a642-82b7467fb1ce</string><key>stan_name</key><string>杭州美雅包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71527.6563</string><key>y</key><string>81179.7813</string></dict>
+<dict>
+<key>identifier</key><string>0a088a63-a5a9-44f9-b9ff-61aaedf1db36</string><key>stan_name</key><string>杭州骏宏包装制品有限公司</string><key>multi_info</key><string> </string><key>x</key><string>71369.2939</string><key>y</key><string>81316.2268</string></dict>
+<dict>
+<key>identifier</key><string>5187a100-e3f9-4753-9364-e10f2489c98b</string><key>stan_name</key><string>小林印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>88453.5938</string><key>y</key><string>100492.6045</string></dict>
+<dict>
+<key>identifier</key><string>71512849-2c64-4de4-b6f2-733a1e9c639f</string><key>stan_name</key><string>康桥包装厂店面房</string><key>multi_info</key><string> </string><key>x</key><string>78502.8985</string><key>y</key><string>93395.0234</string></dict>
+<dict>
+<key>identifier</key><string>7e765c26-e2bc-49e7-9064-14f891f83906</string><key>stan_name</key><string>杭州金马金属包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79932.9755</string><key>y</key><string>93422.4751</string></dict>
+<dict>
+<key>identifier</key><string>93e3dd5d-85fe-4ba6-bf66-96e0564014cc</string><key>stan_name</key><string>利华印务</string><key>multi_info</key><string> </string><key>x</key><string>72035.8470</string><key>y</key><string>93481.3210</string></dict>
+<dict>
+<key>identifier</key><string>b1d51f62-dbe5-48e7-a32e-100ea1e884aa</string><key>stan_name</key><string>集优塑料包装公司</string><key>multi_info</key><string> </string><key>x</key><string>79103.1719</string><key>y</key><string>93517.6875</string></dict>
+<dict>
+<key>identifier</key><string>2e81c38c-23cc-4023-8d81-3af326a7def1</string><key>stan_name</key><string>余杭区大华印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>74745.9470</string><key>y</key><string>96511.4610</string></dict>
+<dict>
+<key>identifier</key><string>244eab9f-aff5-4f92-9a6a-00d7260618cb</string><key>stan_name</key><string>豪欣胶带包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86850.4401</string><key>y</key><string>100769.5530</string></dict>
+<dict>
+<key>identifier</key><string>afebe8cd-2fa8-4374-ad63-866c57c4bfc5</string><key>stan_name</key><string>杭州余杭区新丰包装彩印厂</string><key>multi_info</key><string> </string><key>x</key><string>87294.1950</string><key>y</key><string>100774.2090</string></dict>
+<dict>
+<key>identifier</key><string>c72fdb80-9827-4927-aa35-ec5830a6724e</string><key>stan_name</key><string>杭州风祥箱包有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92179.4909</string><key>y</key><string>107181.3901</string></dict>
+<dict>
+<key>identifier</key><string>882f07eb-72a1-4461-9f34-2730c3aeff05</string><key>stan_name</key><string>杭州迦南印刷有限公司</string><key>multi_info</key><string> </string><key>x</key><string>70687.5570</string><key>y</key><string>93647.0250</string></dict>
+<dict>
+<key>identifier</key><string>40bd41ba-acea-46b8-841a-5f96738a4366</string><key>stan_name</key><string>杭州瑞达塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85938.8494</string><key>y</key><string>93711.2761</string></dict>
+<dict>
+<key>identifier</key><string>214c40e0-7145-4745-af41-5c69cd8a8537</string><key>stan_name</key><string>杭州日益包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72528.8321</string><key>y</key><string>101034.1720</string></dict>
+<dict>
+<key>identifier</key><string>841bde97-cff0-4f23-8751-63fed5aa0ec1</string><key>stan_name</key><string>杭州赛德包装纸业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>72347.9171</string><key>y</key><string>101062.9580</string></dict>
+<dict>
+<key>identifier</key><string>9740e789-72ca-4b72-bcbd-9affdf667f7a</string><key>stan_name</key><string>和兴纸业</string><key>multi_info</key><string> </string><key>x</key><string>90768.5010</string><key>y</key><string>108166.4270</string></dict>
+<dict>
+<key>identifier</key><string>3f3aceaa-0be4-449e-b36f-691cca090f18</string><key>stan_name</key><string>杭州万信彩印包装公司</string><key>multi_info</key><string> </string><key>x</key><string>75406.9080</string><key>y</key><string>93799.2480</string></dict>
+<dict>
+<key>identifier</key><string>47cb3bea-9691-4756-8b99-455c50c0bd99</string><key>stan_name</key><string>杭州力达包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80399.4140</string><key>y</key><string>93858.0742</string></dict>
+<dict>
+<key>identifier</key><string>d6fab123-9f66-421a-9f85-d7c85fb64117</string><key>stan_name</key><string>杭州双安包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>56243.8189</string><key>y</key><string>97274.7270</string></dict>
+<dict>
+<key>identifier</key><string>a32679d8-eb9d-4981-90b8-492a9adbcddc</string><key>stan_name</key><string>双溪包装材料厂</string><key>multi_info</key><string> </string><key>x</key><string>44841.5701</string><key>y</key><string>97282.0960</string></dict>
+<dict>
+<key>identifier</key><string>5436d46b-560b-4de2-99d1-e28833c99b24</string><key>stan_name</key><string>杭州天马印铁制罐有限公司</string><key>multi_info</key><string> </string><key>x</key><string>56382.1630</string><key>y</key><string>97286.8430</string></dict>
+<dict>
+<key>identifier</key><string>a72dc4fd-2ac9-4f63-9b8d-2df925d0284e</string><key>stan_name</key><string>崇览纸箱厂</string><key>multi_info</key><string> </string><key>x</key><string>84254.5121</string><key>y</key><string>97298.9141</string></dict>
+<dict>
+<key>identifier</key><string>0472d9bd-7a4b-4911-be0c-2799536b9647</string><key>stan_name</key><string>杭州宏投包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94085.6648</string><key>y</key><string>101292.0950</string></dict>
+<dict>
+<key>identifier</key><string>3fef1d2b-a0aa-42a9-8d2f-41f9eecaef36</string><key>stan_name</key><string>杭州丁佳纸塑包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86596.2969</string><key>y</key><string>94025.2734</string></dict>
+<dict>
+<key>identifier</key><string>1ce4c58f-ac42-4811-9883-093f8c78cd94</string><key>stan_name</key><string>杭州余杭永明塑料包装厂</string><key>multi_info</key><string> </string><key>x</key><string>82006.8360</string><key>y</key><string>97442.3241</string></dict>
+<dict>
+<key>identifier</key><string>52a73b15-e516-42e7-8ea2-c97c32d5cb0a</string><key>stan_name</key><string>杭州彩艺印染公司</string><key>multi_info</key><string> </string><key>x</key><string>72675.9660</string><key>y</key><string>101743.38</string></dict>
+<dict>
+<key>identifier</key><string>36fc98d5-a02d-42c1-b9a0-4649767376f7</string><key>stan_name</key><string>丁佳包装</string><key>multi_info</key><string> </string><key>x</key><string>87316.9535</string><key>y</key><string>94190.6093</string></dict>
+<dict>
+<key>identifier</key><string>d42e293e-8de3-4809-b21c-75aec5334655</string><key>stan_name</key><string>杭州长青包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>64165.1209</string><key>y</key><string>94210.4610</string></dict>
+<dict>
+<key>identifier</key><string>35044fe6-5b40-40ac-8f43-31ec9d16ffa6</string><key>stan_name</key><string>杭州三星化妆品包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>56452.8480</string><key>y</key><string>97741.0249</string></dict>
+<dict>
+<key>identifier</key><string>df01a452-cb77-4a91-b930-3288f2c67ceb</string><key>stan_name</key><string>杭州高翔包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>89114.9635</string><key>y</key><string>97769.7202</string></dict>
+<dict>
+<key>identifier</key><string>a8da8cfc-b960-43c2-a428-945ab152d259</string><key>stan_name</key><string>杭州宏畔纸塑包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79831.0230</string><key>y</key><string>102336.3820</string></dict>
+<dict>
+<key>identifier</key><string>74709c2e-a8aa-4f57-b533-2801d81d3205</string><key>stan_name</key><string>胡桥印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>95141.0641</string><key>y</key><string>102340.6886</string></dict>
+<dict>
+<key>identifier</key><string>cb9bbd8f-ada2-4077-aba8-b329741c3836</string><key>stan_name</key><string>杭州南华木业包装箱有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86088.4328</string><key>y</key><string>94283.2824</string></dict>
+<dict>
+<key>identifier</key><string>0680de1e-9df2-4ef0-873d-1b98fa4d0f62</string><key>stan_name</key><string>杭州瓶窑彩色印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>63230.2569</string><key>y</key><string>94318.6440</string></dict>
+<dict>
+<key>identifier</key><string>29a01c3f-69da-4369-98c8-d084eda4c1fd</string><key>stan_name</key><string>市申达化妆品包装厂</string><key>multi_info</key><string> </string><key>x</key><string>60073.5590</string><key>y</key><string>97869.16</string></dict>
+<dict>
+<key>identifier</key><string>3738d0bc-e5f6-40e2-929e-6aa9819a806e</string><key>stan_name</key><string>杭州宏欣包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81165.4830</string><key>y</key><string>98012.1480</string></dict>
+<dict>
+<key>identifier</key><string>9a29e4ca-be0f-4268-9ac7-6e68d9470ed0</string><key>stan_name</key><string>杭州宏峰塑料包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80954.8770</string><key>y</key><string>98044.9930</string></dict>
+<dict>
+<key>identifier</key><string>7fa6629e-f65a-490b-bbd1-1c272df9dcd3</string><key>stan_name</key><string>杭州龙辉包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85441.5129</string><key>y</key><string>92018.2570</string></dict>
+<dict>
+<key>identifier</key><string>b02cab25-bb34-4355-a8c9-9503b3390f07</string><key>stan_name</key><string>杭州飞达工艺美术印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>82578.5442</string><key>y</key><string>92021.4928</string></dict>
+<dict>
+<key>identifier</key><string>029fc836-0626-4ed2-9ef3-977094f1fac1</string><key>stan_name</key><string>杭州柯华包装中心</string><key>multi_info</key><string> </string><key>x</key><string>85327.1483</string><key>y</key><string>92083.6923</string></dict>
+<dict>
+<key>identifier</key><string>3ca4756a-b615-4e48-9822-ebce531d18bd</string><key>stan_name</key><string>杭州凌云包装材料有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85426.2756</string><key>y</key><string>94416.6742</string></dict>
+<dict>
+<key>identifier</key><string>414f7287-91e8-46a6-b475-8e652b51c1ad</string><key>stan_name</key><string>杭州美好包装印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79237.65</string><key>y</key><string>98216.6160</string></dict>
+<dict>
+<key>identifier</key><string>8ff21e38-d51a-4a58-b6cc-4bc648a3caf6</string><key>stan_name</key><string>杭州大关印务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>82887.5470</string><key>y</key><string>103046.5850</string></dict>
+<dict>
+<key>identifier</key><string>29c4604d-71a9-4225-ad9d-8eff43d9ba10</string><key>stan_name</key><string>杭州福达包装彩印有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92456.0119</string><key>y</key><string>103053.2697</string></dict>
+<dict>
+<key>identifier</key><string>f8bf2ccf-ef3d-4be9-b4e3-a697dff54233</string><key>stan_name</key><string>杭州宏扬正亚包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85126.6059</string><key>y</key><string>92105.3790</string></dict>
+<dict>
+<key>identifier</key><string>df02a7cb-f217-42de-ba38-b3d86f26d50b</string><key>stan_name</key><string>余杭人民印刷厂</string><key>multi_info</key><string> </string><key>x</key><string>72479.3819</string><key>y</key><string>92153.7960</string></dict>
+<dict>
+<key>identifier</key><string>e995929b-5f6e-4ddf-9850-ca25c85040ae</string><key>stan_name</key><string>杭州保力洁包装有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77928.5703</string><key>y</key><string>94637.4375</string></dict>
+</array>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>43094dd0-e3a1-4958-a9a4-b4e36844736b</string><key>stan_name</key><string>现代印象广场</string><key>multi_info</key><string> </string><key>x</key><string>80513.75</string><key>y</key><string>73355.8144</string></dict>
+<dict>
+<key>identifier</key><string>96859242-644c-49a0-8574-c854636c8ebe</string><key>stan_name</key><string>市民中心</string><key>multi_info</key><string> </string><key>x</key><string>84314.2950</string><key>y</key><string>80081.1744</string></dict>
+<dict>
+<key>identifier</key><string>57fe8560-197d-4a9e-8c5d-1e5fe8d613c1</string><key>stan_name</key><string>通策广场</string><key>multi_info</key><string> </string><key>x</key><string>79869.5313</string><key>y</key><string>73238.8066</string></dict>
+<dict>
+<key>identifier</key><string>4fcaab40-6544-48f3-bb30-85046328f735</string><key>stan_name</key><string>龙禧硅谷广场</string><key>multi_info</key><string> </string><key>x</key><string>78481.3532</string><key>y</key><string>72726.8214</string></dict>
+<dict>
+<key>identifier</key><string>e65360de-b795-4546-b9ab-f662e051d0ae</string><key>stan_name</key><string>华洲广场</string><key>multi_info</key><string> </string><key>x</key><string>82837.0781</string><key>y</key><string>74725.4315</string></dict>
+<dict>
+<key>identifier</key><string>f27da2ca-780c-42d7-96fe-135f9fd7023f</string><key>stan_name</key><string>钱江世纪城</string><key>multi_info</key><string> </string><key>x</key><string>89364.5920</string><key>y</key><string>76472.6593</string></dict>
+<dict>
+<key>identifier</key><string>a7666cdb-bf1a-4a2b-b14a-26c97f913eac</string><key>stan_name</key><string>许阿月烈士墓</string><key>multi_info</key><string> </string><key>x</key><string>62394.6070</string><key>y</key><string>78836.8414</string></dict>
+<dict>
+<key>identifier</key><string>4c20a2c8-0ead-4bd4-a819-639f6b3bc65b</string><key>stan_name</key><string>盖叫天墓</string><key>multi_info</key><string> </string><key>x</key><string>76650.0938</string><key>y</key><string>78963.2363</string></dict>
+<dict>
+<key>identifier</key><string>90e1d567-5546-4959-a284-5486ba0ead65</string><key>stan_name</key><string>钱塘第一井</string><key>multi_info</key><string> </string><key>x</key><string>80510.5469</string><key>y</key><string>79264.0097</string></dict>
+<dict>
+<key>identifier</key><string>d6f2cf84-3774-4604-ba63-6e65ec8c3922</string><key>stan_name</key><string>软件广场（在建）</string><key>multi_info</key><string> </string><key>x</key><string>78221.0703</string><key>y</key><string>83609.4081</string></dict>
+<dict>
+<key>identifier</key><string>a483f91b-9dcf-4a07-8570-e158a1cce424</string><key>stan_name</key><string>和平广场</string><key>multi_info</key><string> </string><key>x</key><string>81037.9141</string><key>y</key><string>84986.9628</string></dict>
+<dict>
+<key>identifier</key><string>cb697217-fcd9-4008-bcc1-c8cfb90aef27</string><key>stan_name</key><string>燕南寄庐</string><key>multi_info</key><string> </string><key>x</key><string>76488.2422</string><key>y</key><string>80235.0644</string></dict>
+<dict>
+<key>identifier</key><string>be8c1152-9a90-4917-8e2e-f1372295102a</string><key>stan_name</key><string>吴山广场</string><key>multi_info</key><string> </string><key>x</key><string>80015.75</string><key>y</key><string>79416.2987</string></dict>
+<dict>
+<key>identifier</key><string>8859ed69-9c9f-4e3c-a9d6-2af2b4fd0aee</string><key>stan_name</key><string>杭州钱江新城城市主阳台</string><key>multi_info</key><string> </string><key>x</key><string>85011.2760</string><key>y</key><string>79551.3433</string></dict>
+<dict>
+<key>identifier</key><string>6321050f-f965-4a20-9a76-b97f3e6b150d</string><key>stan_name</key><string>钱王祠</string><key>multi_info</key><string> </string><key>x</key><string>79294.9609</string><key>y</key><string>79675.2284</string></dict>
+<dict>
+<key>identifier</key><string>d31d8075-2dad-429d-b1a4-13f4da14c623</string><key>stan_name</key><string>城站广场</string><key>multi_info</key><string> </string><key>x</key><string>81543.6953</string><key>y</key><string>79676.7362</string></dict>
+<dict>
+<key>identifier</key><string>73949867-7fb1-45c4-b2e8-a2b6898576dc</string><key>stan_name</key><string>望湖亭</string><key>multi_info</key><string> </string><key>x</key><string>73365.0938</string><key>y</key><string>79687.7987</string></dict>
+<dict>
+<key>identifier</key><string>1de6d27a-0cd8-4219-80fa-72e925f794cc</string><key>stan_name</key><string>人民广场</string><key>multi_info</key><string> </string><key>x</key><string>93760.5355</string><key>y</key><string>98710.7159</string></dict>
+<dict>
+<key>identifier</key><string>dc6bfef6-130a-4083-9b42-bdfb735e051f</string><key>stan_name</key><string>邮政大楼</string><key>multi_info</key><string> </string><key>x</key><string>92790.9058</string><key>y</key><string>99739.0097</string></dict>
+<dict>
+<key>identifier</key><string>26c28c34-7d55-43da-982c-7896a7f0de1d</string><key>stan_name</key><string>转塘绿色中心广场</string><key>multi_info</key><string> </string><key>x</key><string>71908.4870</string><key>y</key><string>70826.8853</string></dict>
+</array>
+</plist>

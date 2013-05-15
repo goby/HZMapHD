@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>identifier</key><string>7e90a819-7313-4cc6-9410-73f06ba73ef0</string><key>stan_name</key><string>杭州温兴房地产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>85995.6797</string><key>y</key><string>73831.9297</string></dict>
+<dict>
+<key>identifier</key><string>3af5b9c5-c2b1-4797-968e-c8e043cd8e77</string><key>stan_name</key><string>永翔房产</string><key>multi_info</key><string> </string><key>x</key><string>86423.2514</string><key>y</key><string>56266.8659</string></dict>
+<dict>
+<key>identifier</key><string>ec8aff7c-55bf-4ed7-8d87-fb5b375b19f7</string><key>stan_name</key><string>天乐云都售展中心</string><key>multi_info</key><string> </string><key>x</key><string>94921.2990</string><key>y</key><string>61797.0501</string></dict>
+<dict>
+<key>identifier</key><string>3c5f1516-dc26-406f-b67e-92eb50d16a82</string><key>stan_name</key><string>杭州萧山所前镇房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>91559.3490</string><key>y</key><string>64311.1051</string></dict>
+<dict>
+<key>identifier</key><string>44a9fd5d-ff7b-495e-82a4-af903f18eb7e</string><key>stan_name</key><string>浙江中强建工集团开发部</string><key>multi_info</key><string> </string><key>x</key><string>82905.1120</string><key>y</key><string>64220.6320</string></dict>
+<dict>
+<key>identifier</key><string>4c615e3b-4249-4485-91c4-397b790d4a72</string><key>stan_name</key><string>华成天地墅园销售展示处</string><key>multi_info</key><string> </string><key>x</key><string>91141.9460</string><key>y</key><string>65897.2460</string></dict>
+<dict>
+<key>identifier</key><string>c8d8374e-bbe2-4c42-8ad1-23fc79fc8542</string><key>stan_name</key><string>浙江东南房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97026.2161</string><key>y</key><string>74343.5940</string></dict>
+<dict>
+<key>identifier</key><string>08e1cc0d-c84d-4f13-812e-ff722083b3bd</string><key>stan_name</key><string>中豪湘座</string><key>multi_info</key><string> </string><key>x</key><string>84579.0640</string><key>y</key><string>83404.3730</string></dict>
+<dict>
+<key>identifier</key><string>76ccdfdf-d967-483d-af38-b2a89027218a</string><key>stan_name</key><string>三产用房</string><key>multi_info</key><string> </string><key>x</key><string>81701.7813</string><key>y</key><string>71734.5078</string></dict>
+<dict>
+<key>identifier</key><string>5523f819-1e7a-4d9b-ab8f-47dcbe8de827</string><key>stan_name</key><string>高尔夫置业公司</string><key>multi_info</key><string> </string><key>x</key><string>70307.7656</string><key>y</key><string>72114.2969</string></dict>
+<dict>
+<key>identifier</key><string>c29a2fd2-a04a-418a-b86d-153be42b7c8e</string><key>stan_name</key><string>杭州火炬房地产发展有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79538.2266</string><key>y</key><string>73427.3203</string></dict>
+<dict>
+<key>identifier</key><string>d5eb5064-2805-4950-91eb-792e7f042f29</string><key>stan_name</key><string>裕兴房产</string><key>multi_info</key><string> </string><key>x</key><string>80698.9375</string><key>y</key><string>76552.8438</string></dict>
+<dict>
+<key>identifier</key><string>8f66b0db-c306-4a9b-bc93-e8a9798a7934</string><key>stan_name</key><string>航宇房地产开发公司</string><key>multi_info</key><string> </string><key>x</key><string>80496.8281</string><key>y</key><string>76270.4766</string></dict>
+<dict>
+<key>identifier</key><string>7b8e0f95-484f-4224-8e51-57a26ecc822e</string><key>stan_name</key><string>恒逸南岸明珠</string><key>multi_info</key><string> </string><key>x</key><string>90072.70</string><key>y</key><string>75968.1790</string></dict>
+<dict>
+<key>identifier</key><string>434da1ef-ebd2-4ba7-94fb-126d42175bd6</string><key>stan_name</key><string>华谊房产公司</string><key>multi_info</key><string> </string><key>x</key><string>80617.7187</string><key>y</key><string>76727.3516</string></dict>
+<dict>
+<key>identifier</key><string>65b6dbcb-b952-4b27-b718-c4127196ccf2</string><key>stan_name</key><string>明新广场</string><key>multi_info</key><string> </string><key>x</key><string>90155.6950</string><key>y</key><string>77321.9820</string></dict>
+<dict>
+<key>identifier</key><string>48a4a64e-0eca-4634-917a-c0c807cdf49a</string><key>stan_name</key><string>时代房地产开发公司</string><key>multi_info</key><string> </string><key>x</key><string>78977.6641</string><key>y</key><string>78385.8594</string></dict>
+<dict>
+<key>identifier</key><string>ade07e2f-fb20-4185-8291-18b519c4767e</string><key>stan_name</key><string>杭州铭元房地产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>84267.8920</string><key>y</key><string>92429.4240</string></dict>
+<dict>
+<key>identifier</key><string>b9cfba85-9371-4f7f-8e92-e9d8af90b452</string><key>stan_name</key><string>紫阳房管站</string><key>multi_info</key><string> </string><key>x</key><string>80520.4766</string><key>y</key><string>79307.1328</string></dict>
+<dict>
+<key>identifier</key><string>b443afd5-7a21-40e0-9c74-b6d7265d98f1</string><key>stan_name</key><string>浙江高天物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81344.3361</string><key>y</key><string>86170.3975</string></dict>
+<dict>
+<key>identifier</key><string>ca7112c6-7507-4458-85d5-155056f7b714</string><key>stan_name</key><string>浙江兴隆建设有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77256.0547</string><key>y</key><string>86625.4219</string></dict>
+<dict>
+<key>identifier</key><string>d0dd5e5d-f6d7-45a7-a2f3-a18ec00814c7</string><key>stan_name</key><string>浙江中联房产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78245.0781</string><key>y</key><string>84828.8047</string></dict>
+<dict>
+<key>identifier</key><string>d4b93038-ebbd-40c7-8d86-3b3c553cd3e2</string><key>stan_name</key><string>浙华商品房筹建处</string><key>multi_info</key><string> </string><key>x</key><string>77224.3594</string><key>y</key><string>84835.0781</string></dict>
+<dict>
+<key>identifier</key><string>9e46f5cb-8a45-4fb4-9f01-ad650a164402</string><key>stan_name</key><string>浙江文华物业管理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>73323.8644</string><key>y</key><string>84876.7571</string></dict>
+<dict>
+<key>identifier</key><string>47ef344f-c6c0-4cf5-9460-23404bda31b3</string><key>stan_name</key><string>杭州远洋莱福房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>77960.0815</string><key>y</key><string>86827.7947</string></dict>
+<dict>
+<key>identifier</key><string>8be5c65e-9b17-473c-9384-ce176d3a8d89</string><key>stan_name</key><string>杭州中豪建设工程有限公司滨江.金色蓝庭B标段项目部</string><key>multi_info</key><string> </string><key>x</key><string>75266.1588</string><key>y</key><string>84953.4259</string></dict>
+<dict>
+<key>identifier</key><string>833011c4-97dd-43bb-9028-9c4b94cd2c46</string><key>stan_name</key><string>浙江兽王地产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80432.2421</string><key>y</key><string>85004.3221</string></dict>
+<dict>
+<key>identifier</key><string>a8e2e48c-ad4e-4e3d-95a6-0cb504e5bd43</string><key>stan_name</key><string>杭州市房地产物资公司</string><key>multi_info</key><string> </string><key>x</key><string>80306.5469</string><key>y</key><string>84072.3047</string></dict>
+<dict>
+<key>identifier</key><string>55ea1d7e-e54e-4fee-9b8c-51f89c37d7a4</string><key>stan_name</key><string>我爱我家</string><key>multi_info</key><string> </string><key>x</key><string>77562.2656</string><key>y</key><string>84086.1172</string></dict>
+<dict>
+<key>identifier</key><string>45a5eb32-9543-4d5f-8efc-5d9d9c62ef9a</string><key>stan_name</key><string>东方豪园</string><key>multi_info</key><string> </string><key>x</key><string>79789.6719</string><key>y</key><string>85054</string></dict>
+<dict>
+<key>identifier</key><string>4a8d9072-90de-4351-b12b-6114ad6a80ee</string><key>stan_name</key><string>伊萨卡国际城</string><key>multi_info</key><string> </string><key>x</key><string>101058.7535</string><key>y</key><string>85088.6692</string></dict>
+<dict>
+<key>identifier</key><string>b8a14c50-13c4-4cb4-a843-2ab3fd38a22d</string><key>stan_name</key><string>浙江省物资房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>79203.5646</string><key>y</key><string>83069.7754</string></dict>
+<dict>
+<key>identifier</key><string>93592c9d-16f8-4c66-ba35-ff65ef65b8cd</string><key>stan_name</key><string>闸弄口房管站</string><key>multi_info</key><string> </string><key>x</key><string>82808.8672</string><key>y</key><string>84314.6406</string></dict>
+<dict>
+<key>identifier</key><string>783c0429-e4a7-4498-969e-97c4c5f41960</string><key>stan_name</key><string>元华房地产公司</string><key>multi_info</key><string> </string><key>x</key><string>84355.3047</string><key>y</key><string>83142.1875</string></dict>
+<dict>
+<key>identifier</key><string>053ff2fe-7a92-4823-91c0-2b5829af1619</string><key>stan_name</key><string>浙江裕兴不动产经济有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78255.6094</string><key>y</key><string>83198.2656</string></dict>
+<dict>
+<key>identifier</key><string>bd6f216d-ec22-4bb3-8eff-7784641f8cdf</string><key>stan_name</key><string>新星集团</string><key>multi_info</key><string> </string><key>x</key><string>81627.2266</string><key>y</key><string>85492.5156</string></dict>
+<dict>
+<key>identifier</key><string>888f0728-f51e-44e4-8aad-8ab112e622b5</string><key>stan_name</key><string>杭州明泰房产置换有限公司</string><key>multi_info</key><string> </string><key>x</key><string>97529.2503</string><key>y</key><string>86478.5706</string></dict>
+<dict>
+<key>identifier</key><string>51ac29d1-97ea-42d8-9e44-25f4394fe49f</string><key>stan_name</key><string>杭州市鼎泰建设有限公司</string><key>multi_info</key><string> </string><key>x</key><string>75532.2055</string><key>y</key><string>83708.9770</string></dict>
+<dict>
+<key>identifier</key><string>ed3b15ba-a903-498d-8ab5-7342d76ea6ea</string><key>stan_name</key><string>浙江杰邦</string><key>multi_info</key><string> </string><key>x</key><string>81361.5989</string><key>y</key><string>84650.5437</string></dict>
+<dict>
+<key>identifier</key><string>cd2a3bcc-dc8e-4569-bd2e-a3f08ddd56eb</string><key>stan_name</key><string>四季名门(福霖房产)</string><key>multi_info</key><string> </string><key>x</key><string>98176.5201</string><key>y</key><string>86543.7920</string></dict>
+<dict>
+<key>identifier</key><string>5c0257d2-4925-4099-8517-b3d814ddca30</string><key>stan_name</key><string>经丰置业</string><key>multi_info</key><string> </string><key>x</key><string>79960.2812</string><key>y</key><string>82357.1875</string></dict>
+<dict>
+<key>identifier</key><string>af24a857-295f-4be6-a0cf-db930fd05df1</string><key>stan_name</key><string>杭州建佳房地产营销代理有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80831.1787</string><key>y</key><string>82365.0813</string></dict>
+<dict>
+<key>identifier</key><string>e671d52a-cc51-4fd3-ae09-3e3f0d378964</string><key>stan_name</key><string>杭州市房地产开发集团有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80194.1786</string><key>y</key><string>81439.6008</string></dict>
+<dict>
+<key>identifier</key><string>74dc5d94-012b-4735-a97e-c851b858e904</string><key>stan_name</key><string>浙江省机关后勤房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78519.5152</string><key>y</key><string>82364.6694</string></dict>
+<dict>
+<key>identifier</key><string>61f3ce84-9dc4-4752-90ae-2b96e08991ed</string><key>stan_name</key><string>下城房产经营公司</string><key>multi_info</key><string> </string><key>x</key><string>79734.7422</string><key>y</key><string>82496.6641</string></dict>
+<dict>
+<key>identifier</key><string>24a7b7a6-41a7-4cd2-b2b9-4c1c079a24d9</string><key>stan_name</key><string>浙江天庐房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>78298.6276</string><key>y</key><string>82502.9381</string></dict>
+<dict>
+<key>identifier</key><string>a3c3e34f-be22-4790-ad90-8053f4792c33</string><key>stan_name</key><string>杭州房产企业公司</string><key>multi_info</key><string> </string><key>x</key><string>80360.2031</string><key>y</key><string>80537.1562</string></dict>
+<dict>
+<key>identifier</key><string>e747ee73-43a8-4fb7-8ec4-1eebd88c639d</string><key>stan_name</key><string>滨江房产</string><key>multi_info</key><string> </string><key>x</key><string>83029.0859</string><key>y</key><string>81603.1797</string></dict>
+<dict>
+<key>identifier</key><string>290c7c6f-650c-4687-ae5e-aeee5eacfa9d</string><key>stan_name</key><string>经贸房地产</string><key>multi_info</key><string> </string><key>x</key><string>81794.0078</string><key>y</key><string>81694.9219</string></dict>
+<dict>
+<key>identifier</key><string>f63c6354-ec28-4058-b685-ce7cf1992ae9</string><key>stan_name</key><string>杭州国大房产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80431.3170</string><key>y</key><string>80730.9477</string></dict>
+<dict>
+<key>identifier</key><string>bcd30dec-3e30-4bec-b023-dff5f321affb</string><key>stan_name</key><string>杭州市城市房屋管理办公室</string><key>multi_info</key><string> </string><key>x</key><string>81128.0703</string><key>y</key><string>81749.6875</string></dict>
+<dict>
+<key>identifier</key><string>a1a68700-8521-4d3a-9dd6-83b7a9550c39</string><key>stan_name</key><string>天水房管站</string><key>multi_info</key><string> </string><key>x</key><string>80031.5078</string><key>y</key><string>82639.7031</string></dict>
+<dict>
+<key>identifier</key><string>42fb73d5-ac63-4a9d-b0ec-e4ffe53f366d</string><key>stan_name</key><string>凯旋房管站</string><key>multi_info</key><string> </string><key>x</key><string>83712.8516</string><key>y</key><string>82685.4062</string></dict>
+<dict>
+<key>identifier</key><string>3bcac357-b450-4dce-94c0-51a778e9df53</string><key>stan_name</key><string>望江房管站</string><key>multi_info</key><string> </string><key>x</key><string>82386.2656</string><key>y</key><string>79722.0703</string></dict>
+<dict>
+<key>identifier</key><string>67d8227a-23b3-486e-a3cb-bc37f1b98a98</string><key>stan_name</key><string>中铁房产</string><key>multi_info</key><string> </string><key>x</key><string>82911.5625</string><key>y</key><string>79739.3203</string></dict>
+<dict>
+<key>identifier</key><string>0be226ec-a067-4ba0-9a39-ead3cf0c8db1</string><key>stan_name</key><string>西湖房产开发物业公司</string><key>multi_info</key><string> </string><key>x</key><string>78453.4844</string><key>y</key><string>82738.2031</string></dict>
+<dict>
+<key>identifier</key><string>579f6ab1-863f-4a75-812a-047438f074bb</string><key>stan_name</key><string>西湖房产开发公司销售处</string><key>multi_info</key><string> </string><key>x</key><string>78483.3594</string><key>y</key><string>82749.6406</string></dict>
+<dict>
+<key>identifier</key><string>1c033b82-5a96-4b7e-8099-81ccca2ea5b0</string><key>stan_name</key><string>杭州西湖房产开发公司</string><key>multi_info</key><string> </string><key>x</key><string>78463.9453</string><key>y</key><string>82760.6719</string></dict>
+<dict>
+<key>identifier</key><string>1bbe9f69-f97c-4a6d-aa79-13fa6dc6dbc0</string><key>stan_name</key><string>下城区长庆房管所</string><key>multi_info</key><string> </string><key>x</key><string>81251.3672</string><key>y</key><string>81953.7812</string></dict>
+<dict>
+<key>identifier</key><string>ac295715-e51a-4750-8470-254b7920d193</string><key>stan_name</key><string>中田房产</string><key>multi_info</key><string> </string><key>x</key><string>76610.5234</string><key>y</key><string>82834.4219</string></dict>
+<dict>
+<key>identifier</key><string>81ec9819-d49f-4f6f-a46e-7084cfc464fb</string><key>stan_name</key><string>宋都</string><key>multi_info</key><string> </string><key>x</key><string>83710.1484</string><key>y</key><string>81039.4375</string></dict>
+<dict>
+<key>identifier</key><string>16c4234c-3780-489e-a2db-9b55e2cd4636</string><key>stan_name</key><string>杭州普天房地产咨询服务有限公司</string><key>multi_info</key><string> </string><key>x</key><string>81331.6756</string><key>y</key><string>83328.1989</string></dict>
+<dict>
+<key>identifier</key><string>263c688c-da48-4420-a1c8-ae67b3316166</string><key>stan_name</key><string>广宇集团股份有限公司</string><key>multi_info</key><string> </string><key>x</key><string>80447.1452</string><key>y</key><string>81220.3854</string></dict>
+<dict>
+<key>identifier</key><string>8b5fe8a3-743e-4a91-b0ac-f032bc4e5a1a</string><key>stan_name</key><string>浙江省省直物业管理中心</string><key>multi_info</key><string> </string><key>x</key><string>78359.9688</string><key>y</key><string>82210.2344</string></dict>
+<dict>
+<key>identifier</key><string>c17d99d1-e0bf-4530-8c22-4fd6d6f8866d</string><key>stan_name</key><string>浙江省宏伟房地产公司</string><key>multi_info</key><string> </string><key>x</key><string>78690.3580</string><key>y</key><string>82264.0389</string></dict>
+<dict>
+<key>identifier</key><string>e3d71839-17ab-4ae5-814d-02e800fb3309</string><key>stan_name</key><string>房管站</string><key>multi_info</key><string> </string><key>x</key><string>82966.8906</string><key>y</key><string>81075.9766</string></dict>
+<dict>
+<key>identifier</key><string>0bd1e17f-8d35-49f4-aa90-0c8acdbd2b96</string><key>stan_name</key><string>杭州余杭振兴房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>61668.4930</string><key>y</key><string>96873.5480</string></dict>
+<dict>
+<key>identifier</key><string>fc267610-f9e7-4c11-86d3-33c17b7fcd1f</string><key>stan_name</key><string>杭州经纬房地产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>92685.0061</string><key>y</key><string>101548.9630</string></dict>
+<dict>
+<key>identifier</key><string>beb4b5ce-4f8c-473e-9f5d-7305bcc9aa98</string><key>stan_name</key><string>华都房产</string><key>multi_info</key><string> </string><key>x</key><string>92660.5912</string><key>y</key><string>98987.9933</string></dict>
+<dict>
+<key>identifier</key><string>ef9a9d27-8aae-4244-beef-be0fb087ea79</string><key>stan_name</key><string>杭州经建房地产公司</string><key>multi_info</key><string> </string><key>x</key><string>92723.2805</string><key>y</key><string>99504.9101</string></dict>
+<dict>
+<key>identifier</key><string>32c7661d-b3f8-4a3e-93cd-da53be4bbcb4</string><key>stan_name</key><string>新世纪房产公司</string><key>multi_info</key><string> </string><key>x</key><string>92711.6259</string><key>y</key><string>99763.9259</string></dict>
+<dict>
+<key>identifier</key><string>274e5115-b170-42e4-ac61-6cba0f1cb851</string><key>stan_name</key><string>九洲房产</string><key>multi_info</key><string> </string><key>x</key><string>93094.7415</string><key>y</key><string>99850.4151</string></dict>
+<dict>
+<key>identifier</key><string>4bd6597f-d856-4122-8c25-4e32d3e0231d</string><key>stan_name</key><string>九洲房产</string><key>multi_info</key><string> </string><key>x</key><string>93100.7469</string><key>y</key><string>99854.4071</string></dict>
+<dict>
+<key>identifier</key><string>64e74b36-dfa6-4fed-a92e-6edf5f9d2cf0</string><key>stan_name</key><string>棕榈湾城</string><key>multi_info</key><string> </string><key>x</key><string>72098.5260</string><key>y</key><string>92793.1280</string></dict>
+<dict>
+<key>identifier</key><string>d3a0d80d-593a-4a12-8c06-deed52d691cc</string><key>stan_name</key><string>新天地房产</string><key>multi_info</key><string> </string><key>x</key><string>92953.9790</string><key>y</key><string>100028.6030</string></dict>
+<dict>
+<key>identifier</key><string>a3d7c571-f54c-4f5b-b60d-5a1c71b1b071</string><key>stan_name</key><string>远东房产公司</string><key>multi_info</key><string> </string><key>x</key><string>92621.3327</string><key>y</key><string>100294.0468</string></dict>
+<dict>
+<key>identifier</key><string>a3995227-65aa-4039-b55b-665ab50a27c5</string><key>stan_name</key><string>杭州新湖美丽洲置业有限公司</string><key>multi_info</key><string> </string><key>x</key><string>63837.0121</string><key>y</key><string>91502.0310</string></dict>
+<dict>
+<key>identifier</key><string>c3cd209f-51dd-4e32-aa6f-e6eade45c484</string><key>stan_name</key><string>三墩房管所</string><key>multi_info</key><string> </string><key>x</key><string>71985.2969</string><key>y</key><string>88279.3906</string></dict>
+<dict>
+<key>identifier</key><string>b77a747e-dcab-47fe-a731-b6f2ab0a420e</string><key>stan_name</key><string>杭州天云房地产有限公司</string><key>multi_info</key><string> </string><key>x</key><string>94970.9770</string><key>y</key><string>88321.7537</string></dict>
+<dict>
+<key>identifier</key><string>81c2d296-265d-48e1-b830-131ee397ce2d</string><key>stan_name</key><string>杭州万事利房地产开发有限公司</string><key>multi_info</key><string> </string><key>x</key><string>86477.1719</string><key>y</key><string>90234.4141</string></dict>
+<dict>
+<key>identifier</key><string>1e5005b3-93a2-482d-a647-ef7c684288e0</string><key>stan_name</key><string>信义房产</string><key>multi_info</key><string> </string><key>x</key><string>80324.1281</string><key>y</key><string>87061.6668</string></dict>
+<dict>
+<key>identifier</key><string>d471394d-4a88-4e4f-9d6b-770089cf9a23</string><key>stan_name</key><string>宝龙物业有限公司杭州分公司</string><key>multi_info</key><string> </string><key>x</key><string>73085.7297</string><key>y</key><string>90922.3648</string></dict>
+<dict>
+<key>identifier</key><string>a05a286c-eb35-4bae-aade-9eac82a191ec</string><key>stan_name</key><string>上城区第四房产</string><key>multi_info</key><string> </string><key>x</key><string>73426.4297</string><key>y</key><string>89398.7656</string></dict>
+<dict>
+<key>identifier</key><string>e04a5cfa-5342-40e3-b3cf-ccefcb1fa9eb</string><key>stan_name</key><string>萧山头蓬商住楼</string><key>multi_info</key><string> </string><key>x</key><string>112689.34</string><key>y</key><string>87456.5160</string></dict>
+<dict>
+<key>identifier</key><string>338cb339-c3a4-4b97-8cb7-0cb20c64f05b</string><key>stan_name</key><string>杭州市房地产联合开发总公司</string><key>multi_info</key><string> </string><key>x</key><string>80815.6963</string><key>y</key><string>80446.1152</string></dict>
+</array>
+</plist>
