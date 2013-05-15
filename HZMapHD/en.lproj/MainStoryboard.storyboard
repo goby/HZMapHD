@@ -139,33 +139,6 @@
         <image name="curl_button.png" width="83" height="128"/>
         <image name="navigation.png" width="48" height="48"/>
     </resources>
-    <classes>
-        <class className="AGSMapView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/AGSMapView.h"/>
-        </class>
-        <class className="NSLayoutConstraint" superclassName="NSObject">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
-        </class>
-        <class className="UIFolderTableView" superclassName="UITableView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UIFolderTableView.h"/>
-            <relationships>
-                <relationship kind="outlet" name="folderDelegate"/>
-            </relationships>
-        </class>
-        <class className="ZGSLayersViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/ZGSLayersViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="tableView" candidateClass="UIFolderTableView"/>
-            </relationships>
-        </class>
-        <class className="ZGSViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/ZGSViewController.h"/>
-            <relationships>
-                <relationship kind="action" name="zoomToMyPosition:" candidateClass="UIButton"/>
-                <relationship kind="outlet" name="mapView" candidateClass="AGSMapView"/>
-            </relationships>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackTranslucent"/>
         <simulatedOrientationMetrics key="orientation"/>
