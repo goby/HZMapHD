@@ -14,9 +14,12 @@
                                                 AGSLocationDisplayInfoTemplateDelegate,
                                                 AGSCalloutDelegate,
                                                 AGSMapViewTouchDelegate,
+                                                CLLocationManagerDelegate,
                                                 UIActionSheetDelegate>
 
+@property (strong, nonatomic) CLLocationManager *locationManager;
 @property (weak, nonatomic) IBOutlet AGSMapView *mapView;
 - (IBAction)zoomToMyPosition:(UIButton *)sender;
+
 
 @end
