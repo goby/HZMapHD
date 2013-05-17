@@ -247,6 +247,20 @@
 		F0CE9B191741D62C0084A2F7 /* ArcGIS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0CE9B181741D62C0084A2F7 /* ArcGIS.framework */; };
 		F0DBB527174526F600E5EBC9 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB526174526F600E5EBC9 /* AppIcon.png */; };
 		F0DBB529174526FD00E5EBC9 /* AppIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */; };
+		F0DBB52C1745D46500E5EBC9 /* pin_pink_48.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB52B1745D46500E5EBC9 /* pin_pink_48.png */; };
+		F0DBB536174601FF00E5EBC9 /* REMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DBB52F174601FF00E5EBC9 /* REMenu.m */; };
+		F0DBB537174601FF00E5EBC9 /* REMenuContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DBB531174601FF00E5EBC9 /* REMenuContainerView.m */; };
+		F0DBB538174601FF00E5EBC9 /* REMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DBB533174601FF00E5EBC9 /* REMenuItem.m */; };
+		F0DBB539174601FF00E5EBC9 /* REMenuItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DBB535174601FF00E5EBC9 /* REMenuItemView.m */; };
+		F0DBB5421746456D00E5EBC9 /* Icon_Activity.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53A1746456C00E5EBC9 /* Icon_Activity.png */; };
+		F0DBB5431746456D00E5EBC9 /* Icon_Activity@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53B1746456C00E5EBC9 /* Icon_Activity@2x.png */; };
+		F0DBB5441746456D00E5EBC9 /* Icon_Explore.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53C1746456C00E5EBC9 /* Icon_Explore.png */; };
+		F0DBB5451746456D00E5EBC9 /* Icon_Explore@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53D1746456C00E5EBC9 /* Icon_Explore@2x.png */; };
+		F0DBB5461746456D00E5EBC9 /* Icon_Home.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53E1746456C00E5EBC9 /* Icon_Home.png */; };
+		F0DBB5471746456D00E5EBC9 /* Icon_Home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB53F1746456C00E5EBC9 /* Icon_Home@2x.png */; };
+		F0DBB5481746456D00E5EBC9 /* Icon_Profile.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB5401746456C00E5EBC9 /* Icon_Profile.png */; };
+		F0DBB5491746456D00E5EBC9 /* Icon_Profile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB5411746456C00E5EBC9 /* Icon_Profile@2x.png */; };
+		F0DBB54B174646DA00E5EBC9 /* Menu.plist in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB54A174646DA00E5EBC9 /* Menu.plist */; };
 		F0F56E6917422EF80044A0CE /* FolderCoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6417422EF80044A0CE /* FolderCoverView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F0F56E6A17422EF80044A0CE /* UIFolderTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6617422EF80044A0CE /* UIFolderTableView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F0F56E6B17422EF80044A0CE /* UIView+screenshot.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6817422EF80044A0CE /* UIView+screenshot.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -530,8 +544,26 @@
 		F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = ArcGIS.bundle; path = ../../../../Library/SDKs/ArcGIS/iOS/ArcGIS.framework/Versions/Current/Resources/ArcGIS.bundle; sourceTree = "<group>"; };
 		F0CE9B161741D4740084A2F7 /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigation.png; sourceTree = "<group>"; };
 		F0CE9B181741D62C0084A2F7 /* ArcGIS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ArcGIS.framework; path = /Library/SDKs/ArcGIS/ArcGIS.framework; sourceTree = "<absolute>"; };
-		F0DBB526174526F600E5EBC9 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
-		F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
+		F0DBB526174526F600E5EBC9 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppIcon.png; path = ../AppIcon.png; sourceTree = "<group>"; };
+		F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon@2x.png"; path = "../AppIcon@2x.png"; sourceTree = "<group>"; };
+		F0DBB52B1745D46500E5EBC9 /* pin_pink_48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin_pink_48.png; sourceTree = "<group>"; };
+		F0DBB52E174601FF00E5EBC9 /* REMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REMenu.h; sourceTree = "<group>"; };
+		F0DBB52F174601FF00E5EBC9 /* REMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMenu.m; sourceTree = "<group>"; };
+		F0DBB530174601FF00E5EBC9 /* REMenuContainerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REMenuContainerView.h; sourceTree = "<group>"; };
+		F0DBB531174601FF00E5EBC9 /* REMenuContainerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMenuContainerView.m; sourceTree = "<group>"; };
+		F0DBB532174601FF00E5EBC9 /* REMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REMenuItem.h; sourceTree = "<group>"; };
+		F0DBB533174601FF00E5EBC9 /* REMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMenuItem.m; sourceTree = "<group>"; };
+		F0DBB534174601FF00E5EBC9 /* REMenuItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REMenuItemView.h; sourceTree = "<group>"; };
+		F0DBB535174601FF00E5EBC9 /* REMenuItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMenuItemView.m; sourceTree = "<group>"; };
+		F0DBB53A1746456C00E5EBC9 /* Icon_Activity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_Activity.png; sourceTree = "<group>"; };
+		F0DBB53B1746456C00E5EBC9 /* Icon_Activity@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_Activity@2x.png"; sourceTree = "<group>"; };
+		F0DBB53C1746456C00E5EBC9 /* Icon_Explore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_Explore.png; sourceTree = "<group>"; };
+		F0DBB53D1746456C00E5EBC9 /* Icon_Explore@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_Explore@2x.png"; sourceTree = "<group>"; };
+		F0DBB53E1746456C00E5EBC9 /* Icon_Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_Home.png; sourceTree = "<group>"; };
+		F0DBB53F1746456C00E5EBC9 /* Icon_Home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_Home@2x.png"; sourceTree = "<group>"; };
+		F0DBB5401746456C00E5EBC9 /* Icon_Profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_Profile.png; sourceTree = "<group>"; };
+		F0DBB5411746456C00E5EBC9 /* Icon_Profile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_Profile@2x.png"; sourceTree = "<group>"; };
+		F0DBB54A174646DA00E5EBC9 /* Menu.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Menu.plist; sourceTree = "<group>"; };
 		F0F56E6317422EF80044A0CE /* FolderCoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FolderCoverView.h; sourceTree = "<group>"; };
 		F0F56E6417422EF80044A0CE /* FolderCoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FolderCoverView.m; sourceTree = "<group>"; };
 		F0F56E6517422EF80044A0CE /* UIFolderTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIFolderTableView.h; sourceTree = "<group>"; };
@@ -781,8 +813,6 @@
 		F0AE652D1741C72B00EEAC78 = {
 			isa = PBXGroup;
 			children = (
-				F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */,
-				F0DBB526174526F600E5EBC9 /* AppIcon.png */,
 				F0AE653F1741C72B00EEAC78 /* HZMapHD */,
 				F0B152CA1741D787009DA271 /* Libraries */,
 				F0AE65761741C9F800EEAC78 /* Resources */,
@@ -883,6 +913,18 @@
 		F0AE65761741C9F800EEAC78 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */,
+				F0DBB526174526F600E5EBC9 /* AppIcon.png */,
+				F00A96061743C5300042A1AA /* Data */,
+				F0DBB53A1746456C00E5EBC9 /* Icon_Activity.png */,
+				F0DBB53B1746456C00E5EBC9 /* Icon_Activity@2x.png */,
+				F0DBB53C1746456C00E5EBC9 /* Icon_Explore.png */,
+				F0DBB53D1746456C00E5EBC9 /* Icon_Explore@2x.png */,
+				F0DBB53E1746456C00E5EBC9 /* Icon_Home.png */,
+				F0DBB53F1746456C00E5EBC9 /* Icon_Home@2x.png */,
+				F0DBB5401746456C00E5EBC9 /* Icon_Profile.png */,
+				F0DBB5411746456C00E5EBC9 /* Icon_Profile@2x.png */,
+				F0DBB52B1745D46500E5EBC9 /* pin_pink_48.png */,
 				F00A97681744B7EF0042A1AA /* 大类_餐饮.png */,
 				F00A97691744B7F00042A1AA /* 大类_服务.png */,
 				F00A976A1744B7F10042A1AA /* 大类_购物.png */,
@@ -897,16 +939,16 @@
 				F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */,
 				F00A97741744B7F90042A1AA /* 大类_政府机构.png */,
 				F00A97751744B7F90042A1AA /* 大类_住宿.png */,
-				F00A96061743C5300042A1AA /* Data */,
+				F0DBB54A174646DA00E5EBC9 /* Menu.plist */,
 				F00A96071743CB990042A1AA /* Theme.plist */,
 				F0F56EAB17432BF10044A0CE /* layer_sub_selected.png */,
 				F0F56E7D174264CC0044A0CE /* check.png */,
+				F0AE65741741C9F300EEAC78 /* curl_button.png */,
 				F0F56E7B174258150044A0CE /* layer_sub.png */,
 				F0F56E79174257080044A0CE /* layer_hospital.png */,
 				F0F56E7717423E570044A0CE /* bg_furley.png */,
 				F0CE9B161741D4740084A2F7 /* navigation.png */,
 				F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */,
-				F0AE65741741C9F300EEAC78 /* curl_button.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -931,6 +973,7 @@
 		F0B152CA1741D787009DA271 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				F0DBB52D174601FF00E5EBC9 /* REMenu */,
 				F00A96041743A8A50042A1AA /* openssl */,
 				F0F56E6217422EF80044A0CE /* Floder */,
 				F0B153551741DB13009DA271 /* AFNetworking */,
@@ -974,6 +1017,22 @@
 			);
 			name = AFNetworking;
 			path = Libraries/AFNetworking;
+			sourceTree = "<group>";
+		};
+		F0DBB52D174601FF00E5EBC9 /* REMenu */ = {
+			isa = PBXGroup;
+			children = (
+				F0DBB52E174601FF00E5EBC9 /* REMenu.h */,
+				F0DBB52F174601FF00E5EBC9 /* REMenu.m */,
+				F0DBB530174601FF00E5EBC9 /* REMenuContainerView.h */,
+				F0DBB531174601FF00E5EBC9 /* REMenuContainerView.m */,
+				F0DBB532174601FF00E5EBC9 /* REMenuItem.h */,
+				F0DBB533174601FF00E5EBC9 /* REMenuItem.m */,
+				F0DBB534174601FF00E5EBC9 /* REMenuItemView.h */,
+				F0DBB535174601FF00E5EBC9 /* REMenuItemView.m */,
+			);
+			name = REMenu;
+			path = Libraries/REMenu;
 			sourceTree = "<group>";
 		};
 		F0F56E6217422EF80044A0CE /* Floder */ = {
@@ -1267,6 +1326,16 @@
 				F00A97831744B7F90042A1AA /* 大类_住宿.png in Resources */,
 				F0DBB527174526F600E5EBC9 /* AppIcon.png in Resources */,
 				F0DBB529174526FD00E5EBC9 /* AppIcon@2x.png in Resources */,
+				F0DBB52C1745D46500E5EBC9 /* pin_pink_48.png in Resources */,
+				F0DBB5421746456D00E5EBC9 /* Icon_Activity.png in Resources */,
+				F0DBB5431746456D00E5EBC9 /* Icon_Activity@2x.png in Resources */,
+				F0DBB5441746456D00E5EBC9 /* Icon_Explore.png in Resources */,
+				F0DBB5451746456D00E5EBC9 /* Icon_Explore@2x.png in Resources */,
+				F0DBB5461746456D00E5EBC9 /* Icon_Home.png in Resources */,
+				F0DBB5471746456D00E5EBC9 /* Icon_Home@2x.png in Resources */,
+				F0DBB5481746456D00E5EBC9 /* Icon_Profile.png in Resources */,
+				F0DBB5491746456D00E5EBC9 /* Icon_Profile@2x.png in Resources */,
+				F0DBB54B174646DA00E5EBC9 /* Menu.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1339,6 +1408,10 @@
 				F0F56E7317423BCC0044A0CE /* ZGSLayerTableViewCell.m in Sources */,
 				F0F56E7617423D200044A0CE /* ZGSSubLayersViewController.m in Sources */,
 				F0F56E8117431B920044A0CE /* ZGSHorizonCurl.m in Sources */,
+				F0DBB536174601FF00E5EBC9 /* REMenu.m in Sources */,
+				F0DBB537174601FF00E5EBC9 /* REMenuContainerView.m in Sources */,
+				F0DBB538174601FF00E5EBC9 /* REMenuItem.m in Sources */,
+				F0DBB539174601FF00E5EBC9 /* REMenuItemView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

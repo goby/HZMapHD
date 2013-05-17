@@ -13,13 +13,25 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yW7-EC-6uF" customClass="AGSMapView">
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kYS-ff-WKi">
                                 <items>
-                                    <barButtonItem title="概述" id="XDA-zN-F14"/>
-                                    <barButtonItem title="区县" id="Jnn-1E-YOc"/>
-                                    <barButtonItem title="专题" id="WU8-qD-BEu"/>
+                                    <barButtonItem tag="1" title="概述" id="XDA-zN-F14">
+                                        <connections>
+                                            <action selector="popupMenu:" destination="2" id="Izn-XB-arY"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem tag="2" title="区县" id="Jnn-1E-YOc">
+                                        <connections>
+                                            <action selector="popupMenu:" destination="2" id="LcM-zH-f9o"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem tag="3" title="专题" id="WU8-qD-BEu">
+                                        <connections>
+                                            <action selector="popupMenu:" destination="2" id="Wpy-dV-Q8Q"/>
+                                        </connections>
+                                    </barButtonItem>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="NQJ-1f-7rS"/>
                                     <barButtonItem width="200" style="plain" id="fOY-6W-xRh">
                                         <searchBar key="customView" contentMode="redraw" placeholder="搜索感兴趣的内容" showsSearchResultsButton="YES" showsScopeBar="YES" id="H9k-vq-dDR">
@@ -37,7 +49,7 @@
                                     </barButtonItem>
                                     <barButtonItem style="plain" id="qtJ-xa-Zwc">
                                         <segmentedControl key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="Da8-46-5la">
-                                            <rect key="frame" x="546" y="8" width="161" height="31"/>
+                                            <rect key="frame" x="546" y="7" width="161" height="31"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <segments>
                                                 <segment title="矢量图"/>
@@ -97,6 +109,7 @@
                     <connections>
                         <outlet property="mapView" destination="yW7-EC-6uF" id="piz-7y-Zfv"/>
                         <outlet property="searchArea" destination="H9k-vq-dDR" id="3ed-UJ-dP9"/>
+                        <outlet property="toolbar" destination="kYS-ff-WKi" id="HMI-O9-6re"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3" sceneMemberID="firstResponder"/>
@@ -144,7 +157,7 @@
         <image name="navigation.png" width="48" height="48"/>
     </resources>
     <classes>
-        <class className="AGSMapView" superclassName="AGSMapViewBase">
+        <class className="AGSMapView" superclassName="UIView">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/AGSMapView.h"/>
         </class>
         <class className="NSLayoutConstraint" superclassName="NSObject">
@@ -168,6 +181,7 @@
                 <relationship kind="action" name="zoomToMyPosition:" candidateClass="UIButton"/>
                 <relationship kind="outlet" name="mapView" candidateClass="AGSMapView"/>
                 <relationship kind="outlet" name="searchArea" candidateClass="UISearchBar"/>
+                <relationship kind="outlet" name="toolbar" candidateClass="UIToolbar"/>
             </relationships>
         </class>
     </classes>

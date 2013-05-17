@@ -63,6 +63,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)viewDidDisappear:(BOOL)animated
+{
+    if ([self.delegate respondsToSelector:@selector(layerView:selected:)]) {
+        [self.delegate layerView:self selected:self.selectedLayers];
+    }
+}
+
 #pragma mark - Table view data source
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
@@ -138,10 +145,10 @@
 {
     btn.selected = !btn.selected;
     if (btn.selected) {
-        [((NSMutableArray *)_selectedLayers) addObject: [NSNumber numberWithInt:btn.tag]];
+        [((NSMutableArray *)self.selectedLayers) addObject: [NSNumber numberWithInt:btn.tag]];
     }else {
         NSNumber *willRemove = [self themeWithCode: btn.tag];
-        [((NSMutableArray *)_selectedLayers) removeObject: willRemove];
+        [((NSMutableArray *)self.selectedLayers) removeObject: willRemove];
     }
 }
 

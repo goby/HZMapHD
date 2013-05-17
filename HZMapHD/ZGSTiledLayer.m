@@ -76,25 +76,13 @@ int MakeAGSUnits(NSString* wkt){
 		NSString* confXML = [NSString stringWithFormat:@"%@/conf.xml", path]; //[path stringByAppendingPathComponent: @"conf.xml"];
         NSURL *url = [NSURL URLWithString:confXML];
         NSString *key = [confXML MD5Hash];
+        NSLog(@"%@", key);
         NSData *data = [FTWCache objectForKey:key];
         if (data) {
             [self loadConfigFromXml:data];
         }
         else {
             NSURLRequest *request = [NSURLRequest requestWithURL:url];
-//            AFXMLRequestOperation *operation =
-//                [AFXMLRequestOperation XMLParserRequestOperationWithRequest:request
-//                                                                    success:^(NSURLRequest *request, NSHTTPURLResponse *response, NSXMLParser *XMLParser) {
-//                                                                        //[FTWCache setObject: forKey:strkey];
-//                                                                        
-//                                                                        [self loadConfigWithParser:XMLParser];
-//                                                                    }
-//                                                                    failure:^(NSURLRequest *request, NSHTTPURLResponse *response, NSError *error, NSXMLParser *XMLParser) {
-//                                                                        NSLog(@"the error is %@",error);
-//                                                                        UIAlertView *   alert = [[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil];
-//                                                                        assert(alert != nil);
-//                                                                        [alert show];
-//                                                                    }];
             AFXMLRequestOperation *requestOperation = [[AFXMLRequestOperation alloc] initWithRequest:request];
             [requestOperation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
                 [FTWCache setObject: operation.responseData forKey:key];

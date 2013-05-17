@@ -19,7 +19,10 @@
 #define ZRotation           0
 #define ZTranslation        0
 
-@interface ZGSViewController ()
+@interface ZGSViewController () {
+    NSArray *_selectedLayers;
+    AGSGraphicsLayer *_graphicsLayer;
+}
 
 @end
 
@@ -45,16 +48,20 @@
     //bind delegate
     self.mapView.layerDelegate = self;
     self.mapView.touchDelegate = self;
+    self.mapView.backgroundColor = [AGSColor colorWithRed:255.0/255.0 green:255/255.0 blue:222.0/255.0 alpha:0.3];
+    self.mapView.gridLineColor = [AGSColor colorWithRed:255/255.0 green:255/255.0 blue:222.0/255.0 alpha:0.3];
+    self.mapView.gridLineWidth = 0;
     //self.mapView.locationDisplay.dataSource = self;
     NSError* err;
-	ZGSTiledLayer* tiledLyr = [[ZGSTiledLayer alloc] initWithDataFramePath:@"http://202.121.180.49/arcgiscache/hzgh/Layers" error:&err];
+	ZGSTiledLayer* tiledLyr = [[ZGSTiledLayer alloc] initWithDataFramePath:@"http://202.121.180.49/arcgiscache/hzgh/Layers"
+                                                                     error:&err];
     
 	//If layer was initialized properly, add to the map
 	if(tiledLyr!=nil){
         [self.mapView addMapLayer:tiledLyr withName: @"Tiled Base Map"];
         
-        //graphicsLayer = [AGSGraphicsLayer graphicsLayer];
-        //[self.mapView addMapLayer:graphicsLayer withName:@"Graphics Layer"];
+        _graphicsLayer = [AGSGraphicsLayer graphicsLayer];
+        [self.mapView addMapLayer:_graphicsLayer withName:@"Graphics Layer"];
         
 	}else{
 		//layer encountered an error
@@ -93,7 +100,7 @@
     point.x = newLocation.coordinate.longitude;
     point.y = newLocation.coordinate.latitude;
     
-    CGPoint hzPoint = [self lngLat2LocalGCS:point];
+    //CGPoint hzPoint = [self lngLat2LocalGCS:point];
     
     //AGSPoint *mappoint =[[AGSPoint alloc] initWithX:hzPoint.x y:hzPoint.y spatialReference:nil ];
 }
@@ -139,6 +146,10 @@
     printf("[X: %.0f, Y: %.0f]\n",mappoint.x, mappoint.y);
 }
 
+-(void)mapView:(AGSMapView *)mapView didClickAtPoint:(CGPoint)screen mapPoint:(AGSPoint *)mappoint graphics:(NSDictionary *)graphics {
+    [_searchArea resignFirstResponder];
+}
+
 - (void)searchBarTextDidEndEditing:(UISearchBar *)searchBar{
     [searchBar resignFirstResponder];
 }
@@ -156,13 +167,87 @@
                        context:(void *)context {
     if ([keyPath isEqual:@"mapLocation"]) {
         //self.locationInfoLabel.text = [NSString stringWithFormat:@"[X:%.2f, Y:%.2f]",self.mapView.locationDisplay.mapLocation.x, self.mapView.locationDisplay.mapLocation.y];
-        printf("[X: %.0f, Y: %.0f]\n",self.mapView.locationDisplay.mapLocation.x, self.mapView.locationDisplay.mapLocation.y);
+        //printf("[X: %.0f, Y: %.0f]\n",self.mapView.locationDisplay.mapLocation.x, self.mapView.locationDisplay.mapLocation.y);
     }
 }
 
-- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation
-           fromLocation:(CLLocation *)oldLocation {
+-(void)layerView:(ZGSLayersViewController *)viewController selected:(NSArray *)selectedLayers {
+    _selectedLayers = selectedLayers;
+    [_graphicsLayer removeAllGraphics];
+    for (NSNumber *code in selectedLayers) {
+        NSArray *points = [NSArray arrayWithContentsOfURL:[[NSBundle mainBundle] URLForResource:code.stringValue withExtension:@"plist"]];
+        for (NSDictionary *item in points) {
+            double x = [[NSString stringWithFormat:@"%@", [item objectForKey:@"x"]] doubleValue];
+            double y = [[NSString stringWithFormat:@"%@", [item objectForKey:@"y"]] doubleValue];
+            AGSPoint *point = [AGSPoint pointWithX:x y:y spatialReference:nil];
+            //[point setValue:[item objectForKey:@"stan_name"] forKey:@"title"];
+            [self addGraphicAtPoint:point withAttributes:item];
+        }
+    }
+    //_graphicsLayer
+}
+
+-(void) addGraphicAtPoint:(AGSPoint*)point withAttributes:(NSDictionary *)attributes
+{
+    AGSPictureMarkerSymbol *picMarkerSymbol = [AGSPictureMarkerSymbol pictureMarkerSymbolWithImageNamed:@"pin_pink_48.png"];
+    picMarkerSymbol.size = CGSizeMake(48, 48);
+    picMarkerSymbol.offset = CGPointMake(0, 24);
+    AGSGraphic* myGraphic =[AGSGraphic graphicWithGeometry:point
+                                                    symbol:picMarkerSymbol
+                                                attributes:attributes
+                                      infoTemplateDelegate:self];
+    //Add the graphic to the Graphics layer
+    [_graphicsLayer addGraphic:myGraphic];
+}
+
+-(void)didClickAccessoryButtonForCallout:(AGSCallout *)callout {
+    //
+}
+
+- (NSString *)titleForGraphic:(AGSGraphic *)graphic screenPoint:(CGPoint)screen mapPoint:(AGSPoint *)mapPoint
+{
+    return [graphic attributeAsStringForKey:@"stan_name"];
+}
+
+
+- (IBAction)popupMenu:(UIBarButtonItem *)sender {
+    [self showMenu:sender.tag];
+}
+
+- (void)showMenu:(int)button
+{
+    if (_menu.isOpen)
+        return [_menu close];
     
+    // Sample icons from http://icons8.com/download-free-icons-for-ios-tab-bar
+    //
+    NSArray *points = [NSArray arrayWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Menu" withExtension:@"plist"]];
+    NSDictionary *menu = [points objectAtIndex: button - 1];
+    
+    NSArray *subMenus = [menu objectForKey:@"submenu"];
+    
+    NSMutableArray *menuItems = [[NSMutableArray alloc]init];
+    
+    for (NSDictionary *submenu in subMenus) {
+        REMenuItem *item = [[REMenuItem alloc] initWithTitle: [submenu objectForKey:@"title"]
+                                                    subtitle: [submenu objectForKey:@"subtitle"]
+                                                       image: [UIImage imageNamed:[submenu objectForKey:@"icon"]]
+                                            highlightedImage: nil
+                                                      action: ^(REMenuItem *item) {
+                                                          NSLog(@"Item: %@", item);
+                                                      }];
+        item.tag = [[submenu objectForKey:@"code"] intValue];
+        [menuItems addObject:item];
+    }
+    
+    _menu = [[REMenu alloc] initWithItems: menuItems ];
+    _menu.cornerRadius = 4;
+    _menu.shadowColor = [UIColor blackColor];
+    _menu.shadowOffset = CGSizeMake(1, 1);
+    _menu.shadowOpacity = 1;
+    _menu.imageOffset = CGSizeMake(5, -1);
+    
+    [_menu showFromToolbar: self.toolbar];
 }
 
 @end
