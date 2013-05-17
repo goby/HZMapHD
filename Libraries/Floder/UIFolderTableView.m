@@ -12,7 +12,9 @@
 
 #define COVERALPHA 0.6
 
-@interface UIFolderTableView ()
+@interface UIFolderTableView () {
+    CGFloat currentRowHeight;
+}
 
 @property (nonatomic, strong) FolderCoverView *top, *bottom;
 @property (nonatomic) CGPoint oldTopPoint, oldBottomPoint;
@@ -57,6 +59,10 @@
     self.openBlock = openBlock;
     self.completionBlock = completionBlock;
     self.closing = NO;
+    
+    if ([self.delegate respondsToSelector:@selector(tableView:heightForRowAtIndexPath:)]) {
+        currentRowHeight = [self.delegate tableView:self heightForRowAtIndexPath:indexPath];
+    }
     
     // 位置和高度参数
     UITableViewCell *cell = [self cellForRowAtIndexPath:indexPath];
@@ -263,7 +269,7 @@
     
     FolderCoverView *button;
     if (isTop) {
-        button = [[[FolderCoverView alloc] initWithFrame:aRect offset:self.rowHeight] autorelease];
+        button = [[[FolderCoverView alloc] initWithFrame:aRect offset:currentRowHeight] autorelease];
         
         UIImageView *notch = [[[UIImageView alloc] initWithImage:[UIImage imageNamed:@"tip.png"]] autorelease];
         notch.center = CGPointMake(position.x, height - 2);

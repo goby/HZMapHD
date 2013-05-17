@@ -182,6 +182,20 @@
 		F00A97621743CBE00042A1AA /* 11991000.plist in Resources */ = {isa = PBXBuildFile; fileRef = F00A96B41743CBE00042A1AA /* 11991000.plist */; };
 		F00A97631743CBE00042A1AA /* 11991300.plist in Resources */ = {isa = PBXBuildFile; fileRef = F00A96B51743CBE00042A1AA /* 11991300.plist */; };
 		F00A97641743CBE00042A1AA /* 11999900.plist in Resources */ = {isa = PBXBuildFile; fileRef = F00A96B61743CBE00042A1AA /* 11999900.plist */; };
+		F00A97761744B7F90042A1AA /* 大类_餐饮.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97681744B7EF0042A1AA /* 大类_餐饮.png */; };
+		F00A97771744B7F90042A1AA /* 大类_服务.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97691744B7F00042A1AA /* 大类_服务.png */; };
+		F00A97781744B7F90042A1AA /* 大类_购物.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976A1744B7F10042A1AA /* 大类_购物.png */; };
+		F00A97791744B7F90042A1AA /* 大类_交通.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976B1744B7F10042A1AA /* 大类_交通.png */; };
+		F00A977A1744B7F90042A1AA /* 大类_教育机构.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976C1744B7F20042A1AA /* 大类_教育机构.png */; };
+		F00A977B1744B7F90042A1AA /* 大类_金融.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976D1744B7F30042A1AA /* 大类_金融.png */; };
+		F00A977C1744B7F90042A1AA /* 大类_景点.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976E1744B7F30042A1AA /* 大类_景点.png */; };
+		F00A977D1744B7F90042A1AA /* 大类_汽车服务.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A976F1744B7F50042A1AA /* 大类_汽车服务.png */; };
+		F00A977E1744B7F90042A1AA /* 大类_文化设施.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97701744B7F50042A1AA /* 大类_文化设施.png */; };
+		F00A977F1744B7F90042A1AA /* 大类_新建楼盘.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97711744B7F60042A1AA /* 大类_新建楼盘.png */; };
+		F00A97801744B7F90042A1AA /* 大类_医疗设施.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97721744B7F60042A1AA /* 大类_医疗设施.png */; };
+		F00A97811744B7F90042A1AA /* 大类_已建楼宇.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */; };
+		F00A97821744B7F90042A1AA /* 大类_政府机构.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97741744B7F90042A1AA /* 大类_政府机构.png */; };
+		F00A97831744B7F90042A1AA /* 大类_住宿.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97751744B7F90042A1AA /* 大类_住宿.png */; };
 		F0AE653A1741C72B00EEAC78 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE65391741C72B00EEAC78 /* UIKit.framework */; };
 		F0AE653C1741C72B00EEAC78 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653B1741C72B00EEAC78 /* Foundation.framework */; };
 		F0AE653E1741C72B00EEAC78 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653D1741C72B00EEAC78 /* CoreGraphics.framework */; };
@@ -231,6 +245,8 @@
 		F0CE9B151741D09F0084A2F7 /* ArcGIS.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */; };
 		F0CE9B171741D4740084A2F7 /* navigation.png in Resources */ = {isa = PBXBuildFile; fileRef = F0CE9B161741D4740084A2F7 /* navigation.png */; };
 		F0CE9B191741D62C0084A2F7 /* ArcGIS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0CE9B181741D62C0084A2F7 /* ArcGIS.framework */; };
+		F0DBB527174526F600E5EBC9 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB526174526F600E5EBC9 /* AppIcon.png */; };
+		F0DBB529174526FD00E5EBC9 /* AppIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */; };
 		F0F56E6917422EF80044A0CE /* FolderCoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6417422EF80044A0CE /* FolderCoverView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F0F56E6A17422EF80044A0CE /* UIFolderTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6617422EF80044A0CE /* UIFolderTableView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F0F56E6B17422EF80044A0CE /* UIView+screenshot.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E6817422EF80044A0CE /* UIView+screenshot.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -257,7 +273,7 @@
 
 /* Begin PBXFileReference section */
 		F00A960217439FFF0042A1AA /* libcommonCrypto.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcommonCrypto.dylib; path = usr/lib/system/libcommonCrypto.dylib; sourceTree = SDKROOT; };
-		F00A96071743CB990042A1AA /* Theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Theme.plist; path = Resources/Theme.plist; sourceTree = "<group>"; };
+		F00A96071743CB990042A1AA /* Theme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Theme.plist; sourceTree = "<group>"; };
 		F00A96091743CBE00042A1AA /* 11850100.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11850100.plist; sourceTree = "<group>"; };
 		F00A960A1743CBE00042A1AA /* 11850200.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11850200.plist; sourceTree = "<group>"; };
 		F00A960B1743CBE00042A1AA /* 11850300.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11850300.plist; sourceTree = "<group>"; };
@@ -432,6 +448,20 @@
 		F00A96B41743CBE00042A1AA /* 11991000.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11991000.plist; sourceTree = "<group>"; };
 		F00A96B51743CBE00042A1AA /* 11991300.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11991300.plist; sourceTree = "<group>"; };
 		F00A96B61743CBE00042A1AA /* 11999900.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 11999900.plist; sourceTree = "<group>"; };
+		F00A97681744B7EF0042A1AA /* 大类_餐饮.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_餐饮.png"; sourceTree = "<group>"; };
+		F00A97691744B7F00042A1AA /* 大类_服务.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_服务.png"; sourceTree = "<group>"; };
+		F00A976A1744B7F10042A1AA /* 大类_购物.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_购物.png"; sourceTree = "<group>"; };
+		F00A976B1744B7F10042A1AA /* 大类_交通.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_交通.png"; sourceTree = "<group>"; };
+		F00A976C1744B7F20042A1AA /* 大类_教育机构.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_教育机构.png"; sourceTree = "<group>"; };
+		F00A976D1744B7F30042A1AA /* 大类_金融.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_金融.png"; sourceTree = "<group>"; };
+		F00A976E1744B7F30042A1AA /* 大类_景点.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_景点.png"; sourceTree = "<group>"; };
+		F00A976F1744B7F50042A1AA /* 大类_汽车服务.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_汽车服务.png"; sourceTree = "<group>"; };
+		F00A97701744B7F50042A1AA /* 大类_文化设施.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_文化设施.png"; sourceTree = "<group>"; };
+		F00A97711744B7F60042A1AA /* 大类_新建楼盘.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_新建楼盘.png"; sourceTree = "<group>"; };
+		F00A97721744B7F60042A1AA /* 大类_医疗设施.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_医疗设施.png"; sourceTree = "<group>"; };
+		F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_已建楼宇.png"; sourceTree = "<group>"; };
+		F00A97741744B7F90042A1AA /* 大类_政府机构.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_政府机构.png"; sourceTree = "<group>"; };
+		F00A97751744B7F90042A1AA /* 大类_住宿.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_住宿.png"; sourceTree = "<group>"; };
 		F0AE65361741C72B00EEAC78 /* HZMapHD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HZMapHD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AE65391741C72B00EEAC78 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F0AE653B1741C72B00EEAC78 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -454,7 +484,7 @@
 		F0AE65671741C72C00EEAC78 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F0AE65691741C72C00EEAC78 /* HZMapHDTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HZMapHDTests.h; sourceTree = "<group>"; };
 		F0AE656A1741C72C00EEAC78 /* HZMapHDTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HZMapHDTests.m; sourceTree = "<group>"; };
-		F0AE65741741C9F300EEAC78 /* curl_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = curl_button.png; path = HZMapHD/curl_button.png; sourceTree = "<group>"; };
+		F0AE65741741C9F300EEAC78 /* curl_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = curl_button.png; sourceTree = "<group>"; };
 		F0B152C01741D73C009DA271 /* ZGSTiledCacheParserDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSTiledCacheParserDelegate.h; sourceTree = "<group>"; };
 		F0B152C11741D73C009DA271 /* ZGSTiledCacheParserDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSTiledCacheParserDelegate.m; sourceTree = "<group>"; };
 		F0B152C21741D73C009DA271 /* ZGSTiledLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSTiledLayer.h; sourceTree = "<group>"; };
@@ -497,9 +527,11 @@
 		F0CE9B091741D02D0084A2F7 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		F0CE9B0A1741D02D0084A2F7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		F0CE9B0B1741D02D0084A2F7 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
-		F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = ArcGIS.bundle; path = ../../../Library/SDKs/ArcGIS/iOS/ArcGIS.framework/Versions/Current/Resources/ArcGIS.bundle; sourceTree = "<group>"; };
-		F0CE9B161741D4740084A2F7 /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = navigation.png; path = Resources/navigation.png; sourceTree = "<group>"; };
+		F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = ArcGIS.bundle; path = ../../../../Library/SDKs/ArcGIS/iOS/ArcGIS.framework/Versions/Current/Resources/ArcGIS.bundle; sourceTree = "<group>"; };
+		F0CE9B161741D4740084A2F7 /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigation.png; sourceTree = "<group>"; };
 		F0CE9B181741D62C0084A2F7 /* ArcGIS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ArcGIS.framework; path = /Library/SDKs/ArcGIS/ArcGIS.framework; sourceTree = "<absolute>"; };
+		F0DBB526174526F600E5EBC9 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
+		F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
 		F0F56E6317422EF80044A0CE /* FolderCoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FolderCoverView.h; sourceTree = "<group>"; };
 		F0F56E6417422EF80044A0CE /* FolderCoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FolderCoverView.m; sourceTree = "<group>"; };
 		F0F56E6517422EF80044A0CE /* UIFolderTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIFolderTableView.h; sourceTree = "<group>"; };
@@ -512,13 +544,13 @@
 		F0F56E7217423BCC0044A0CE /* ZGSLayerTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSLayerTableViewCell.m; sourceTree = "<group>"; };
 		F0F56E7417423D200044A0CE /* ZGSSubLayersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSSubLayersViewController.h; sourceTree = "<group>"; };
 		F0F56E7517423D200044A0CE /* ZGSSubLayersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSSubLayersViewController.m; sourceTree = "<group>"; };
-		F0F56E7717423E570044A0CE /* bg_furley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg_furley.png; path = Resources/bg_furley.png; sourceTree = "<group>"; };
-		F0F56E79174257080044A0CE /* layer_hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = layer_hospital.png; path = Resources/layer_hospital.png; sourceTree = "<group>"; };
-		F0F56E7B174258150044A0CE /* layer_sub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = layer_sub.png; path = Resources/layer_sub.png; sourceTree = "<group>"; };
-		F0F56E7D174264CC0044A0CE /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = check.png; path = Resources/check.png; sourceTree = "<group>"; };
+		F0F56E7717423E570044A0CE /* bg_furley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_furley.png; sourceTree = "<group>"; };
+		F0F56E79174257080044A0CE /* layer_hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layer_hospital.png; sourceTree = "<group>"; };
+		F0F56E7B174258150044A0CE /* layer_sub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layer_sub.png; sourceTree = "<group>"; };
+		F0F56E7D174264CC0044A0CE /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
 		F0F56E7F17431B920044A0CE /* ZGSHorizonCurl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSHorizonCurl.h; sourceTree = "<group>"; };
 		F0F56E8017431B920044A0CE /* ZGSHorizonCurl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSHorizonCurl.m; sourceTree = "<group>"; };
-		F0F56EAB17432BF10044A0CE /* layer_sub_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = layer_sub_selected.png; path = Resources/layer_sub_selected.png; sourceTree = "<group>"; };
+		F0F56EAB17432BF10044A0CE /* layer_sub_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layer_sub_selected.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -743,13 +775,14 @@
 				F00A96B51743CBE00042A1AA /* 11991300.plist */,
 				F00A96B61743CBE00042A1AA /* 11999900.plist */,
 			);
-			name = Data;
-			path = Resources/Data;
+			path = Data;
 			sourceTree = "<group>";
 		};
 		F0AE652D1741C72B00EEAC78 = {
 			isa = PBXGroup;
 			children = (
+				F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */,
+				F0DBB526174526F600E5EBC9 /* AppIcon.png */,
 				F0AE653F1741C72B00EEAC78 /* HZMapHD */,
 				F0B152CA1741D787009DA271 /* Libraries */,
 				F0AE65761741C9F800EEAC78 /* Resources */,
@@ -850,8 +883,22 @@
 		F0AE65761741C9F800EEAC78 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F00A96071743CB990042A1AA /* Theme.plist */,
+				F00A97681744B7EF0042A1AA /* 大类_餐饮.png */,
+				F00A97691744B7F00042A1AA /* 大类_服务.png */,
+				F00A976A1744B7F10042A1AA /* 大类_购物.png */,
+				F00A976B1744B7F10042A1AA /* 大类_交通.png */,
+				F00A976C1744B7F20042A1AA /* 大类_教育机构.png */,
+				F00A976D1744B7F30042A1AA /* 大类_金融.png */,
+				F00A976E1744B7F30042A1AA /* 大类_景点.png */,
+				F00A976F1744B7F50042A1AA /* 大类_汽车服务.png */,
+				F00A97701744B7F50042A1AA /* 大类_文化设施.png */,
+				F00A97711744B7F60042A1AA /* 大类_新建楼盘.png */,
+				F00A97721744B7F60042A1AA /* 大类_医疗设施.png */,
+				F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */,
+				F00A97741744B7F90042A1AA /* 大类_政府机构.png */,
+				F00A97751744B7F90042A1AA /* 大类_住宿.png */,
 				F00A96061743C5300042A1AA /* Data */,
+				F00A96071743CB990042A1AA /* Theme.plist */,
 				F0F56EAB17432BF10044A0CE /* layer_sub_selected.png */,
 				F0F56E7D174264CC0044A0CE /* check.png */,
 				F0F56E7B174258150044A0CE /* layer_sub.png */,
@@ -861,7 +908,7 @@
 				F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */,
 				F0AE65741741C9F300EEAC78 /* curl_button.png */,
 			);
-			name = Resources;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		F0B152C91741D740009DA271 /* TiledLayer */ = {
@@ -1204,6 +1251,22 @@
 				F00A97621743CBE00042A1AA /* 11991000.plist in Resources */,
 				F00A97631743CBE00042A1AA /* 11991300.plist in Resources */,
 				F00A97641743CBE00042A1AA /* 11999900.plist in Resources */,
+				F00A97761744B7F90042A1AA /* 大类_餐饮.png in Resources */,
+				F00A97771744B7F90042A1AA /* 大类_服务.png in Resources */,
+				F00A97781744B7F90042A1AA /* 大类_购物.png in Resources */,
+				F00A97791744B7F90042A1AA /* 大类_交通.png in Resources */,
+				F00A977A1744B7F90042A1AA /* 大类_教育机构.png in Resources */,
+				F00A977B1744B7F90042A1AA /* 大类_金融.png in Resources */,
+				F00A977C1744B7F90042A1AA /* 大类_景点.png in Resources */,
+				F00A977D1744B7F90042A1AA /* 大类_汽车服务.png in Resources */,
+				F00A977E1744B7F90042A1AA /* 大类_文化设施.png in Resources */,
+				F00A977F1744B7F90042A1AA /* 大类_新建楼盘.png in Resources */,
+				F00A97801744B7F90042A1AA /* 大类_医疗设施.png in Resources */,
+				F00A97811744B7F90042A1AA /* 大类_已建楼宇.png in Resources */,
+				F00A97821744B7F90042A1AA /* 大类_政府机构.png in Resources */,
+				F00A97831744B7F90042A1AA /* 大类_住宿.png in Resources */,
+				F0DBB527174526F600E5EBC9 /* AppIcon.png in Resources */,
+				F0DBB529174526FD00E5EBC9 /* AppIcon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,13 +17,14 @@
 @property (strong, nonatomic) ZGSSubLayersViewController *subVc;
 @property (strong, nonatomic) NSDictionary *currentCate;
 
-
 @end
 
 @implementation ZGSLayersViewController
 
 @synthesize layers = _layers;
 @synthesize tableView = _tableView;
+@synthesize selectedLayers = _selectedLayers;
+
 -(NSArray *)layers {
     if (_layers == nil){
         NSURL *url = [[NSBundle mainBundle] URLForResource:@"Theme" withExtension:@"plist"];
@@ -31,6 +32,14 @@
     }
         
     return _layers;
+}
+
+-(NSArray *)selectedLayers {
+    if (!_selectedLayers) {
+        _selectedLayers = [NSMutableArray array];
+    }
+    
+    return _selectedLayers;
 }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -76,13 +85,13 @@
     }
     
     NSDictionary *layers = [self.layers objectAtIndex:indexPath.row];
-    cell.thumb.image = [UIImage imageNamed:[[layers objectForKey:@"thumb"] stringByAppendingString:@".png"]];
-    cell.name.text = [layers objectForKey:@"name"];
+    cell.thumb.image = [UIImage imageNamed:[[layers objectForKey:@"themeicon"] stringByAppendingString:@".png"]];
+    cell.name.text = [layers objectForKey:@"themename"];
     
     NSMutableArray *subTitles = [[NSMutableArray alloc] init];
-    NSArray *subLayers = [layers objectForKey:@"sub"];
+    NSArray *subLayers = [layers objectForKey:@"subtheme"];
     for (int i=0; i < MIN(4,  subLayers.count); i++) {
-        [subTitles addObject:[[subLayers objectAtIndex:i] objectForKey:@"name"]];
+        [subTitles addObject:[[subLayers objectAtIndex:i] objectForKey:@"themename"]];
     }
     cell.subTtile.text = [subTitles componentsJoinedByString:@"/"];
     
@@ -92,7 +101,7 @@
 #pragma mark - Table view delegate
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{
-    return 80;
+    return 44;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
@@ -100,7 +109,7 @@
     
     ZGSSubLayersViewController *subVc = [[ZGSSubLayersViewController alloc] init];
     NSDictionary *cate = [self.layers objectAtIndex:indexPath.row];
-    subVc.subLayers = [cate objectForKey:@"sub"];
+    subVc.subLayers = [cate objectForKey:@"subtheme"];
     self.currentCate = cate;
     subVc.layersViewController = self;
     
@@ -128,5 +137,18 @@
 -(void)subLayerBtnAction:(UIButton *)btn
 {
     btn.selected = !btn.selected;
+    if (btn.selected) {
+        [((NSMutableArray *)_selectedLayers) addObject: [NSNumber numberWithInt:btn.tag]];
+    }else {
+        NSNumber *willRemove = [self themeWithCode: btn.tag];
+        [((NSMutableArray *)_selectedLayers) removeObject: willRemove];
+    }
 }
+
+-(NSNumber *) themeWithCode:(int)value{
+    NSArray *filteredUsers = [self.selectedLayers filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"intValue == %d", value]];
+	return (filteredUsers.count > 0) ? [filteredUsers lastObject] : nil;
+}
+
+
 @end

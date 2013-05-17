@@ -48,13 +48,14 @@
         UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
         
         btn.frame = CGRectMake(15, 15, 50, 50);
-        btn.tag = i;
+        btn.tag =  [[NSString stringWithFormat:@"%@", [data objectForKey:@"main_code"]] intValue];
         [btn addTarget:self.layersViewController action:@selector(subLayerBtnAction:) forControlEvents:UIControlEventTouchUpInside];
-       
-        [btn setBackgroundImage:[UIImage imageNamed:[[data objectForKey:@"thumb"] stringByAppendingFormat:@".png"]]
+        //
+        NSString *iconName = @"layer_sub";//[data objectForKey:@"themeicon"];
+        [btn setBackgroundImage:[UIImage imageNamed:[iconName stringByAppendingFormat:@".png"]]
                        forState:UIControlStateNormal];
         
-        [btn setBackgroundImage:[UIImage imageNamed:[[data objectForKey:@"thumb"] stringByAppendingFormat:@"_selected.png"]]
+        [btn setBackgroundImage:[UIImage imageNamed:[iconName stringByAppendingFormat:@"_selected.png"]]
                        forState:UIControlStateSelected];
         
         [view addSubview:btn];
@@ -67,14 +68,14 @@
                                         alpha:1.0];
         lbl.font = [UIFont systemFontOfSize:12.0f];
         lbl.backgroundColor = [UIColor clearColor];
-        lbl.text = [data objectForKey:@"name"];
+        lbl.text = [data objectForKey:@"themename"];
         [view addSubview:lbl];
         
         [self.view addSubview:view];
     }
     
     CGRect viewFrame = self.view.frame;
-    viewFrame.size.height = (ROWHEIHT + 10) * rows;
+    viewFrame.size.height = ROWHEIHT * rows + 19;
     self.view.frame = viewFrame;
 }
 

@@ -8,6 +8,7 @@
 
 #import "ZGSViewController.h"
 #import "ZGSTiledLayer.h"
+#import "ZGSLayersViewController.h"
 
 @interface ZGSViewController ()
 
@@ -22,7 +23,7 @@
     //bind delegate
     self.mapView.layerDelegate = self;
     self.mapView.touchDelegate = self;
-    
+    //self.mapView.locationDisplay.dataSource = self;
     NSError* err;
 	ZGSTiledLayer* tiledLyr = [[ZGSTiledLayer alloc] initWithDataFramePath:@"http://202.121.180.49/arcgiscache/hzgh/Layers" error:&err];
     
@@ -73,11 +74,20 @@
     [self.mapView centerAtPoint: self.mapView.locationDisplay.mapLocation animated:YES];
 }
 
+#pragma mark - Storyboard Segue -
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    if ([[segue identifier] isEqualToString:@"showLayersList"]){
+        ZGSLayersViewController *layerVC = [segue destinationViewController];
+        [layerVC setDelegate:self];
+    }
+}
+
 #pragma mark - ArcGIS Map View delegate -
 -(void) mapViewDidLoad:(AGSMapView*)mapView {
 	// comment to disable the GPS on start up
     //self.mapView.gps.autoPanMode = AGSGPSAutoPanModeCompassNavigation;
     self.mapView.locationDisplay.infoTemplateDelegate = self;
+    NSLog(@"%@", self.mapView.locationDisplay.class);
     self.mapView.callout.delegate = self;
     [self registerAsObserver];
 	[self.mapView.locationDisplay startDataSource];
@@ -86,6 +96,10 @@
 #pragma mark - ArcGIS Map View Touch delegate -
 -(void)mapView:(AGSMapView *)mapView didTapAndHoldAtPoint:(CGPoint)screen mapPoint:(AGSPoint *)mappoint graphics:(NSDictionary *)graphics{
     printf("[X: %.0f, Y: %.0f]\n",mappoint.x, mappoint.y);
+}
+
+- (void)searchBarTextDidEndEditing:(UISearchBar *)searchBar{
+    [searchBar resignFirstResponder];
 }
 
 - (void)registerAsObserver {
@@ -101,7 +115,13 @@
                        context:(void *)context {
     if ([keyPath isEqual:@"mapLocation"]) {
         //self.locationInfoLabel.text = [NSString stringWithFormat:@"[X:%.2f, Y:%.2f]",self.mapView.locationDisplay.mapLocation.x, self.mapView.locationDisplay.mapLocation.y];
+        printf("[X: %.0f, Y: %.0f]\n",self.mapView.locationDisplay.mapLocation.x, self.mapView.locationDisplay.mapLocation.y);
     }
+}
+
+- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation
+           fromLocation:(CLLocation *)oldLocation {
+    
 }
 
 @end
