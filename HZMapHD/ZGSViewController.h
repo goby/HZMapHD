@@ -8,21 +8,21 @@
 
 #import <UIKit/UIKit.h>
 #import <ArcGIS/ArcGIS.h>
-
-@protocol ZGSLayersDelegate;
+#import "ZGSLayersViewController.h"
 
 @interface ZGSViewController : UIViewController<AGSMapViewLayerDelegate,
                                                 AGSLocationDisplayInfoTemplateDelegate,
                                                 AGSCalloutDelegate,
                                                 AGSMapViewTouchDelegate,
                                                 UIActionSheetDelegate,
-                                                AGSLocationDisplayDataSource,
                                                 UISearchBarDelegate,
                                                 ZGSLayersDelegate,
                                                 CLLocationManagerDelegate>
 
 @property (weak, nonatomic) IBOutlet UISearchBar *searchArea;
+@property (strong, nonatomic) CLLocationManager *locationManager;
 @property (weak, nonatomic) IBOutlet AGSMapView *mapView;
 - (IBAction)zoomToMyPosition:(UIButton *)sender;
+
 
 @end

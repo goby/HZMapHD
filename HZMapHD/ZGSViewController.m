@@ -10,11 +10,33 @@
 #import "ZGSTiledLayer.h"
 #import "ZGSLayersViewController.h"
 
+// Seven parameters
+#define ScaleTranslation    0
+#define XRotation           0
+#define XTranslation        0
+#define YRotation           0
+#define YTranslation        0
+#define ZRotation           0
+#define ZTranslation        0
+
 @interface ZGSViewController ()
 
 @end
 
 @implementation ZGSViewController
+
+@synthesize locationManager = _locationManager;
+
+-(CLLocationManager *)locationManager {
+    if (!_locationManager) {
+        _locationManager = [[CLLocationManager alloc] init];
+        _locationManager.delegate = self;
+        //_locationManager.distanceFilter = 20;
+    }
+    
+    return _locationManager;
+}
+
 
 - (void)viewDidLoad
 {
@@ -62,6 +84,25 @@
 
 -(void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
+}
+
+#pragma mark - Location Manager delegate -
+-(void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations {
+    CLLocation *newLocation = [locations lastObject];
+    CGPoint point;
+    point.x = newLocation.coordinate.longitude;
+    point.y = newLocation.coordinate.latitude;
+    
+    CGPoint hzPoint = [self lngLat2LocalGCS:point];
+    
+    //AGSPoint *mappoint =[[AGSPoint alloc] initWithX:hzPoint.x y:hzPoint.y spatialReference:nil ];
+}
+
+-(CGPoint)lngLat2LocalGCS:(CGPoint) point {
+    CGPoint newPoint;
+    newPoint.x = (1 + ScaleTranslation) * point.x + XTranslation;
+    newPoint.y = (1 + ScaleTranslation) * point.y + YTranslation;
+    return newPoint;
 }
 
 
