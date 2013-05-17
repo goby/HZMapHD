@@ -119,6 +119,7 @@
     [self addSubview:self.bottom];
     
     CGRect viewFrame = subClassContentView.frame;
+    viewFrame.origin.x = 1; // adjust offset // TODO:
     if (position.y - deltaY + viewFrame.size.height > height) {
         viewFrame.origin.y = height + deltaY - viewFrame.size.height;
     } else {

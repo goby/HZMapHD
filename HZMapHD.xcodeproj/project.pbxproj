@@ -544,8 +544,8 @@
 		F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = ArcGIS.bundle; path = ../../../../Library/SDKs/ArcGIS/iOS/ArcGIS.framework/Versions/Current/Resources/ArcGIS.bundle; sourceTree = "<group>"; };
 		F0CE9B161741D4740084A2F7 /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigation.png; sourceTree = "<group>"; };
 		F0CE9B181741D62C0084A2F7 /* ArcGIS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ArcGIS.framework; path = /Library/SDKs/ArcGIS/ArcGIS.framework; sourceTree = "<absolute>"; };
-		F0DBB526174526F600E5EBC9 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppIcon.png; path = ../AppIcon.png; sourceTree = "<group>"; };
-		F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon@2x.png"; path = "../AppIcon@2x.png"; sourceTree = "<group>"; };
+		F0DBB526174526F600E5EBC9 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
+		F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
 		F0DBB52B1745D46500E5EBC9 /* pin_pink_48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin_pink_48.png; sourceTree = "<group>"; };
 		F0DBB52E174601FF00E5EBC9 /* REMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REMenu.h; sourceTree = "<group>"; };
 		F0DBB52F174601FF00E5EBC9 /* REMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REMenu.m; sourceTree = "<group>"; };
@@ -880,6 +880,8 @@
 		F0AE65401741C72B00EEAC78 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */,
+				F0DBB526174526F600E5EBC9 /* AppIcon.png */,
 				F0AE65411741C72B00EEAC78 /* HZMapHD-Info.plist */,
 				F0AE65421741C72B00EEAC78 /* InfoPlist.strings */,
 				F0AE65451741C72B00EEAC78 /* main.m */,
@@ -913,8 +915,6 @@
 		F0AE65761741C9F800EEAC78 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F0DBB528174526FD00E5EBC9 /* AppIcon@2x.png */,
-				F0DBB526174526F600E5EBC9 /* AppIcon.png */,
 				F00A96061743C5300042A1AA /* Data */,
 				F0DBB53A1746456C00E5EBC9 /* Icon_Activity.png */,
 				F0DBB53B1746456C00E5EBC9 /* Icon_Activity@2x.png */,

@@ -161,7 +161,7 @@
     //
     _menuWrapperView.frame = CGRectMake(0,
                                         - self.combinedHeight,
-                                        view.frame.size.width,
+                                        200,
                                         self.combinedHeight);
     _menuView.frame = _menuWrapperView.bounds;
     _containerView.frame = CGRectMake(0,
@@ -184,7 +184,7 @@
     //
     __typeof (&*self) __weak weakSelf = self;
     [UIView animateWithDuration:_animationDuration animations:^{
-        CGRect frame = weakSelf.containerView.frame;
+        CGRect frame = weakSelf.menuView.frame;
         frame.origin.y = -40 - _separatorHeight;
         weakSelf.menuWrapperView.frame = frame;
     } completion:nil];

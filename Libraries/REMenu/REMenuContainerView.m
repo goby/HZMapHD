@@ -34,7 +34,7 @@
     CGRect frame = self.frame;
     //UIInterfaceOrientation orientation = [UIApplication sharedApplication].statusBarOrientation;
     frame.origin.y = _navigationBar.frame.origin.y + 44;//(UIDeviceOrientationIsPortrait(orientation) ? 44 : 32);
-    frame.size.width = frame.size.width > 200 ? 200 : frame.size.width;
+    frame.size.width = frame.size.width;
     self.frame = frame;
 }
 

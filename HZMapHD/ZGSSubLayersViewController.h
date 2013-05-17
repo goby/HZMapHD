@@ -13,6 +13,7 @@
 @interface ZGSSubLayersViewController : UIViewController
 
 @property (strong, nonatomic) NSArray *subLayers;
+@property (strong, nonatomic) NSArray *selectedLayers;
 @property (strong, nonatomic) ZGSLayersViewController *layersViewController;
 
 @end

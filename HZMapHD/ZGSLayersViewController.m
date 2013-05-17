@@ -15,7 +15,7 @@
 @interface ZGSLayersViewController () <UIFolderTableViewDelegate>
 
 @property (strong, nonatomic) ZGSSubLayersViewController *subVc;
-@property (strong, nonatomic) NSDictionary *currentCate;
+@property (strong, nonatomic) NSDictionary *currentLayer;
 
 @end
 
@@ -40,6 +40,11 @@
     }
     
     return _selectedLayers;
+}
+
+-(void)setSelectedLayers:(NSArray *)selectedLayers {
+    _selectedLayers = [NSMutableArray arrayWithArray:selectedLayers];
+    [self.tableView reloadData];
 }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -95,6 +100,10 @@
     cell.thumb.image = [UIImage imageNamed:[[layers objectForKey:@"themeicon"] stringByAppendingString:@".png"]];
     cell.name.text = [layers objectForKey:@"themename"];
     
+    if ([self checkSubLayerSelected: [layers objectForKey:@"themeid"]]) {
+        cell.accessoryType = UITableViewCellAccessoryCheckmark;
+    }
+    
     NSMutableArray *subTitles = [[NSMutableArray alloc] init];
     NSArray *subLayers = [layers objectForKey:@"subtheme"];
     for (int i=0; i < MIN(4,  subLayers.count); i++) {
@@ -115,16 +124,17 @@
 {
     
     ZGSSubLayersViewController *subVc = [[ZGSSubLayersViewController alloc] init];
-    NSDictionary *cate = [self.layers objectAtIndex:indexPath.row];
-    subVc.subLayers = [cate objectForKey:@"subtheme"];
-    self.currentCate = cate;
+    NSDictionary *currentLayer = [self.layers objectAtIndex:indexPath.row];
+    subVc.subLayers = [currentLayer objectForKey:@"subtheme"];
+    subVc.selectedLayers = self.selectedLayers;
+    self.currentLayer = currentLayer;
     subVc.layersViewController = self;
     
     self.tableView.scrollEnabled = NO;
     UIFolderTableView *folderTableView = (UIFolderTableView *)tableView;
     [folderTableView openFolderAtIndexPath:indexPath WithContentView:subVc.view
                                  openBlock:^(UIView *subClassView, CFTimeInterval duration, CAMediaTimingFunction *timingFunction){
-                                     // opening actions
+                                     // opening action
                                  }
                                 closeBlock:^(UIView *subClassView, CFTimeInterval duration, CAMediaTimingFunction *timingFunction){
                                     // closing actions
@@ -155,6 +165,11 @@
 -(NSNumber *) themeWithCode:(int)value{
     NSArray *filteredUsers = [self.selectedLayers filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"intValue == %d", value]];
 	return (filteredUsers.count > 0) ? [filteredUsers lastObject] : nil;
+}
+
+- (BOOL)checkSubLayerSelected:(NSString *)code {
+    NSArray *filteredUsers = [self.selectedLayers filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"stringValue BEGINSWITH[cd] %@", code]];
+    return filteredUsers.count > 0;
 }
 
 
