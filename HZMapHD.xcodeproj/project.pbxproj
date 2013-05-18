@@ -196,6 +196,9 @@
 		F00A97811744B7F90042A1AA /* 大类_已建楼宇.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */; };
 		F00A97821744B7F90042A1AA /* 大类_政府机构.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97741744B7F90042A1AA /* 大类_政府机构.png */; };
 		F00A97831744B7F90042A1AA /* 大类_住宿.png in Resources */ = {isa = PBXBuildFile; fileRef = F00A97751744B7F90042A1AA /* 大类_住宿.png */; };
+		F04F020017475A0900645A9B /* matrix.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F01FF17475A0900645A9B /* matrix.c */; };
+		F04F020217475C3C00645A9B /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F04F020117475C3C00645A9B /* Accelerate.framework */; };
+		F04F02051747740900645A9B /* wgs84_bj54.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F02041747740900645A9B /* wgs84_bj54.c */; };
 		F0AE653A1741C72B00EEAC78 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE65391741C72B00EEAC78 /* UIKit.framework */; };
 		F0AE653C1741C72B00EEAC78 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653B1741C72B00EEAC78 /* Foundation.framework */; };
 		F0AE653E1741C72B00EEAC78 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653D1741C72B00EEAC78 /* CoreGraphics.framework */; };
@@ -476,6 +479,11 @@
 		F00A97731744B7F80042A1AA /* 大类_已建楼宇.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_已建楼宇.png"; sourceTree = "<group>"; };
 		F00A97741744B7F90042A1AA /* 大类_政府机构.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_政府机构.png"; sourceTree = "<group>"; };
 		F00A97751744B7F90042A1AA /* 大类_住宿.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大类_住宿.png"; sourceTree = "<group>"; };
+		F04F01FF17475A0900645A9B /* matrix.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = matrix.c; sourceTree = "<group>"; };
+		F04F020117475C3C00645A9B /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		F04F020317475F7200645A9B /* matrix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = matrix.h; sourceTree = "<group>"; };
+		F04F02041747740900645A9B /* wgs84_bj54.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wgs84_bj54.c; sourceTree = "<group>"; };
+		F04F0206174775FA00645A9B /* coord_transformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = coord_transformer.h; sourceTree = "<group>"; };
 		F0AE65361741C72B00EEAC78 /* HZMapHD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HZMapHD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AE65391741C72B00EEAC78 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F0AE653B1741C72B00EEAC78 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -590,6 +598,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F04F020217475C3C00645A9B /* Accelerate.framework in Frameworks */,
 				F0B153721741DB40009DA271 /* SystemConfiguration.framework in Frameworks */,
 				F0B1534D1741D8FF009DA271 /* CFNetwork.framework in Frameworks */,
 				F0CE9B191741D62C0084A2F7 /* ArcGIS.framework in Frameworks */,
@@ -810,6 +819,17 @@
 			path = Data;
 			sourceTree = "<group>";
 		};
+		F04F01FE174759EC00645A9B /* Transformer */ = {
+			isa = PBXGroup;
+			children = (
+				F04F01FF17475A0900645A9B /* matrix.c */,
+				F04F020317475F7200645A9B /* matrix.h */,
+				F04F02041747740900645A9B /* wgs84_bj54.c */,
+				F04F0206174775FA00645A9B /* coord_transformer.h */,
+			);
+			name = Transformer;
+			sourceTree = "<group>";
+		};
 		F0AE652D1741C72B00EEAC78 = {
 			isa = PBXGroup;
 			children = (
@@ -834,6 +854,7 @@
 		F0AE65381741C72B00EEAC78 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F04F020117475C3C00645A9B /* Accelerate.framework */,
 				F00A960217439FFF0042A1AA /* libcommonCrypto.dylib */,
 				F0B153531741DA57009DA271 /* SystemConfiguration.framework */,
 				F0B1534C1741D8FF009DA271 /* CFNetwork.framework */,
@@ -858,6 +879,7 @@
 		F0AE653F1741C72B00EEAC78 /* HZMapHD */ = {
 			isa = PBXGroup;
 			children = (
+				F04F01FE174759EC00645A9B /* Transformer */,
 				F0B152C91741D740009DA271 /* TiledLayer */,
 				F0AE65481741C72B00EEAC78 /* ZGSAppDelegate.h */,
 				F0AE65491741C72B00EEAC78 /* ZGSAppDelegate.m */,
@@ -1412,6 +1434,8 @@
 				F0DBB537174601FF00E5EBC9 /* REMenuContainerView.m in Sources */,
 				F0DBB538174601FF00E5EBC9 /* REMenuItem.m in Sources */,
 				F0DBB539174601FF00E5EBC9 /* REMenuItemView.m in Sources */,
+				F04F020017475A0900645A9B /* matrix.c in Sources */,
+				F04F02051747740900645A9B /* wgs84_bj54.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

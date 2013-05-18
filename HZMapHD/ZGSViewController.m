@@ -130,10 +130,9 @@
     // comment to disable the GPS on start up
     //self.mapView.gps.autoPanMode = AGSGPSAutoPanModeCompassNavigation;
     self.mapView.locationDisplay.infoTemplateDelegate = self;
-    NSLog(@"%@", self.mapView.locationDisplay.class);
     self.mapView.callout.delegate = self;
     [self registerAsObserver];
-    //[self.mapView.locationDisplay startDataSource];
+    [self.mapView.locationDisplay startDataSource];
 }
 
 #pragma mark - ArcGIS Map View Touch delegate -
