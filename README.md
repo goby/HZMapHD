@@ -1,4 +1,4 @@
 HZMapHD
 =======
 
-A app for practising
+A app for practice
