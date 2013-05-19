@@ -67,10 +67,6 @@
     }
     
     double xmin, ymin, xmax, ymax;
-    /* xmin = 40496418.8722965;
-     ymin = 3319960.4319613;
-     xmax = 40542545.7777764;
-     ymax = 3381623.52026086; */
     xmin =  61233.7016445426;
     ymin =  52585.8605198758;
     xmax = 107066.301644543;
@@ -79,6 +75,7 @@
     AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKID:2437];
     AGSEnvelope *env = [AGSEnvelope envelopeWithXmin:xmin ymin:ymin xmax:xmax ymax:ymax spatialReference:sr];
     [self.mapView zoomToEnvelope:env animated:YES];
+    [self readMapConfig];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -93,6 +90,9 @@
 
 -(void)viewDidDisappear:(BOOL)animated {
     [super viewDidDisappear:animated];
+}
+
+-(void)saveMapConfig {
     NSMutableDictionary *user = (NSMutableDictionary *)[ZGSAppDelegate sharedInstance].userData;
     NSMutableDictionary *mapConfig = [NSMutableDictionary dictionaryWithDictionary:[user objectForKey:@"map"]];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapScale ] forKey: @"scale"];
@@ -100,6 +100,18 @@
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.x] forKey:@"centerX"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.y] forKey:@"centerY"];
     [user setObject:mapConfig forKey:@"map"];
+}
+
+-(void)readMapConfig {
+    NSDictionary *user = [ZGSAppDelegate sharedInstance].userData;
+    NSDictionary *mapConfig = [user objectForKey:@"map"];
+    double scale = [[mapConfig objectForKey:@"scale"] doubleValue];
+    double x =[[mapConfig objectForKey:@"centerX"] doubleValue];
+    double y = [[mapConfig objectForKey:@"centerY"] doubleValue];
+    double angle = [[mapConfig objectForKey:@"rotateAngle"] doubleValue];
+    AGSPoint *center = [AGSPoint pointWithX:x y:y spatialReference:nil];
+    [self.mapView zoomToScale:scale withCenterPoint:center animated:YES];
+    [self.mapView setRotationAngle:angle animated:YES];
 }
 
 #pragma mark - Location Manager delegate -
@@ -154,7 +166,7 @@
     self.mapView.locationDisplay.infoTemplateDelegate = self;
     self.mapView.callout.delegate = self;
     [self registerAsObserver];
-    [self.mapView.locationDisplay startDataSource];
+    //[self.mapView.locationDisplay startDataSource];
 }
 
 - (void)observeMapDidEndPanning:(NSNotification *)notifier {

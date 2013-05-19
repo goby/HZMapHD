@@ -91,6 +91,8 @@ static const NSString *CSToastActivityViewKey  = @"CSToastActivityViewKey";
 }
 
 - (void)showToast:(UIView *)toast duration:(CGFloat)interval position:(id)point {
+    if ([self.subviews containsObject:toast]) return;
+    
     toast.center = [self centerPointForPosition:point withToast:toast];
     toast.alpha = 0.0;
     [self addSubview:toast];

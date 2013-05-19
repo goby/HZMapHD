@@ -7,8 +7,11 @@
 //
 
 #import "ZGSAppDelegate.h"
+#import "ZGSViewController.h"
 
 @implementation ZGSAppDelegate
+
+@synthesize userData = _userData;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -40,23 +43,25 @@
 }
 
 -(NSDictionary *)userData {
-    NSDictionary *dict = nil;
-    NSFileManager *fileManager = [NSFileManager defaultManager];
-    
-    NSString *filename = [[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject]
-                           stringByAppendingPathComponent:@"user_data.plist"];
-    
-    if ([fileManager fileExistsAtPath:filename]) {
-        dict = [NSDictionary dictionaryWithContentsOfFile: filename];
+    if (!_userData) {
+        NSDictionary *dict = nil;
+        NSFileManager *fileManager = [NSFileManager defaultManager];
+        
+        NSString *filename = [[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject]
+                              stringByAppendingPathComponent:@"user_data.plist"];
+        
+        if ([fileManager fileExistsAtPath:filename]) {
+            dict = [NSDictionary dictionaryWithContentsOfFile:filename];
+        }
+        
+        _userData = [NSMutableDictionary dictionaryWithDictionary:dict];
     }
-    
-    NSMutableDictionary *userData = [NSMutableDictionary dictionaryWithDictionary:dict];
-    return userData;
+    return _userData;
 }
 
 -(void)saveUserData {
-    NSFileManager *fileManager = [NSFileManager defaultManager];
-    
+    id root = (id)self.window.rootViewController;
+    [root saveMapConfig];
     NSString *filename = [[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject]
                           stringByAppendingPathComponent:@"user_data.plist"];
     [self.userData writeToFile:filename atomically:YES];

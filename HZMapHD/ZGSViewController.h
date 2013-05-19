@@ -27,6 +27,6 @@
 @property (strong, nonatomic) REMenu *menu;
 @property (weak, nonatomic) IBOutlet AGSMapView *mapView;
 - (IBAction)zoomToMyPosition:(UIButton *)sender;
-
+-(void)saveMapConfig;
 
 @end
