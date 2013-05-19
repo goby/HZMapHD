@@ -11,5 +11,10 @@
 @interface ZGSAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (strong, nonatomic) NSDictionary *userData;
+
++ (NSString *)offlineDirectory;
++ (NSString *)cacheDirectory;
++ (ZGSAppDelegate *)sharedInstance;
 
 @end

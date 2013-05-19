@@ -9,7 +9,7 @@
 #include "matrix.h"
 #include <stdlib.h>
 #include <Accelerate/Accelerate.h>
-
+double parameters[7];
 int matrix_invert(double *matrix, int N) {
     int error = 0;
     int *pivot = (int *)malloc(sizeof(int) * (N + 1));

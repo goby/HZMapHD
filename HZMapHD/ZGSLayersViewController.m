@@ -109,7 +109,7 @@
     for (int i=0; i < MIN(4,  subLayers.count); i++) {
         [subTitles addObject:[[subLayers objectAtIndex:i] objectForKey:@"themename"]];
     }
-    cell.subTtile.text = [subTitles componentsJoinedByString:@"/"];
+    cell.subTitle.text = [subTitles componentsJoinedByString:@"/"];
     
     return cell;
 }

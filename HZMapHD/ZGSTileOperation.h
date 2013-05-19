@@ -15,27 +15,24 @@
 
 @class AFImageRequestOperation;
 
-@interface ZGSTileOperation : NSOperation {//<AGSTileOperation> {
-
+@interface ZGSTileOperation : NSOperation { //<AGSTileOperation> {
 @private
-	id _target;
-	SEL _action;
-	NSString *_allLayersPath;
-	AGSTileKey* _tile;
-    NSData* _data;
+    id _target;
+    SEL _action;
+    NSString *_allLayersPath;
+    AGSTileKey *_tile;
+    NSData *_data;
     AFImageRequestOperation *_operation;
 }
 
 - (id)initWithTile:(AGSTileKey *)tile dataFramePath:(NSString *)path target:(id)target action:(SEL)action;
 
 
-@property (nonatomic,retain) AGSTileKey* tile;
+@property (nonatomic, retain) AGSTileKey *tile;
 
 @property (nonatomic, retain) id target;
 @property (nonatomic, assign) SEL action;
-@property (nonatomic, retain) NSString* allLayersPath;
-@property (nonatomic, retain) NSData* data;
+@property (nonatomic, retain) NSString *allLayersPath;
+@property (nonatomic, retain) NSData *data;
 
 @end
-
-

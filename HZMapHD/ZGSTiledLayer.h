@@ -15,14 +15,14 @@
 
 @interface ZGSTiledLayer : AGSTiledLayer  {
 @protected
-	NSString* _dataFramePath;
-	AGSTileInfo* _tileInfo;
-	AGSEnvelope* _fullEnvelope;	
-	AGSUnits _units;
+    NSString *_dataFramePath;
+    AGSTileInfo *_tileInfo;
+    AGSEnvelope *_fullEnvelope;
+    AGSUnits _units;
     NSOperationQueue *_queue;
 }
 
-@property (nonatomic,retain,readwrite) NSString* dataFramePath;
-- (id)initWithDataFramePath: (NSString *)path error:(NSError**)outError ;
+@property (nonatomic, retain, readwrite) NSString *dataFramePath;
+- (id)initWithDataFramePath:(NSString *)path error:(NSError **)outError;
 
 @end

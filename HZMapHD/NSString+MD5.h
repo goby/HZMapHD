@@ -12,7 +12,6 @@
 
 @interface NSString (MD5)
 
-- (NSString *) MD5Hash;
+- (NSString *)MD5Hash;
 
 @end
-

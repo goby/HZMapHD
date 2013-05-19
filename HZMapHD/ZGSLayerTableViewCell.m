@@ -26,15 +26,15 @@
         self.name.opaque = NO;
         [self.contentView addSubview:self.name];
         
-        self.subTtile = [[UILabel alloc] initWithFrame:CGRectMake(44, 26, 230, 14)];
-        self.subTtile.font = [UIFont systemFontOfSize:12.0f];
-        self.subTtile.textColor = [UIColor colorWithRed:158/255.0
+        self.subTitle = [[UILabel alloc] initWithFrame:CGRectMake(44, 26, 230, 14)];
+        self.subTitle.font = [UIFont systemFontOfSize:12.0f];
+        self.subTitle.textColor = [UIColor colorWithRed:158/255.0
                                                   green:158/255.0
                                                    blue:158/255.0
                                                   alpha:1.0];
-        self.subTtile.backgroundColor = [UIColor clearColor];
-        self.subTtile.opaque = NO;
-        [self.contentView addSubview:self.subTtile];
+        self.subTitle.backgroundColor = [UIColor clearColor];
+        self.subTitle.opaque = NO;
+        [self.contentView addSubview:self.subTitle];
         
         UILabel *sLine1 = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 1, 44)];
         sLine1.backgroundColor = [UIColor colorWithRed:198/255.0

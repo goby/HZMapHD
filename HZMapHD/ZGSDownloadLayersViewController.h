@@ -10,4 +10,7 @@
 
 @interface ZGSDownloadLayersViewController : UITableViewController
 
+- (IBAction)cancelDownload:(UIBarButtonItem *)sender;
+- (IBAction)doneDownload:(id)sender;
+
 @end

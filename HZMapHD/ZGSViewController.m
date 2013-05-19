@@ -9,6 +9,7 @@
 #import "ZGSViewController.h"
 #import "ZGSTiledLayer.h"
 #import "ZGSLayersViewController.h"
+#import "ZGSAppDelegate.h"
 
 // Seven parameters
 #define ScaleTranslation 0
@@ -83,10 +84,22 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    [[NSNotificationCenter defaultCenter] removeObserver: self];
 }
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
+}
+
+-(void)viewDidDisappear:(BOOL)animated {
+    [super viewDidDisappear:animated];
+    NSMutableDictionary *user = (NSMutableDictionary *)[ZGSAppDelegate sharedInstance].userData;
+    NSMutableDictionary *mapConfig = [NSMutableDictionary dictionaryWithDictionary:[user objectForKey:@"map"]];
+    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapScale ] forKey: @"scale"];
+    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.rotationAngle] forKey:@"rotateAngle"];
+    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.x] forKey:@"centerX"];
+    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.y] forKey:@"centerY"];
+    [user setObject:mapConfig forKey:@"map"];
 }
 
 #pragma mark - Location Manager delegate -
@@ -127,12 +140,25 @@
 
 #pragma mark - ArcGIS Map View delegate -
 - (void)mapViewDidLoad:(AGSMapView *)mapView {
+    // add map extent changed
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(observeMapDidEndPanning:)
+                                                 name:AGSMapViewDidEndZoomingNotification
+                                               object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(observeMapDidEndPanning:)
+                                                 name:AGSMapViewDidEndPanningNotification
+                                               object:nil];
     // comment to disable the GPS on start up
     //self.mapView.gps.autoPanMode = AGSGPSAutoPanModeCompassNavigation;
     self.mapView.locationDisplay.infoTemplateDelegate = self;
     self.mapView.callout.delegate = self;
     [self registerAsObserver];
     [self.mapView.locationDisplay startDataSource];
+}
+
+- (void)observeMapDidEndPanning:(NSNotification *)notifier {
+    [self.mapView makeToast:@"当前地图中心位于杭州市市区" duration:2.0 position:@"top"];
 }
 
 #pragma mark - ArcGIS Map View Touch delegate -

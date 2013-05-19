@@ -16,55 +16,50 @@
 
 @implementation ZGSTileOperation
 
-@synthesize tile=_tile;
-@synthesize target=_target;
-@synthesize action=_action;
-@synthesize allLayersPath=_allLayersPath;
-@synthesize data=_data;
+@synthesize tile = _tile;
+@synthesize target = _target;
+@synthesize action = _action;
+@synthesize allLayersPath = _allLayersPath;
+@synthesize data = _data;
 
 - (id)initWithTile:(AGSTileKey *)tile dataFramePath:(NSString *)path target:(id)target action:(SEL)action {
-	
-	if (self = [super init]) {
-		self.target = target;
-		self.action = action;
-		self.allLayersPath = [NSString stringWithFormat:@"%@/_allLayers", path];//[path stringByAppendingPathComponent:@"_alllayers"]  ;
-		self.tile = tile;
-		
-	}
-	return self;
+    if (self = [super init]) {
+        self.target = target;
+        self.action = action;
+        self.allLayersPath = [NSString stringWithFormat:@"%@/_allLayers", path];        //[path stringByAppendingPathComponent:@"_alllayers"]  ;
+        self.tile = tile;
+    }
+    return self;
 }
 
--(void)main {
-	//Fetch the tile for the requested Level, Row, Column
-	@try {
-		//Level ('L' followed by 2 decimal digits)
-		NSString *decLevel = [NSString stringWithFormat:@"L%02d",self.tile.level];
-		//Row ('R' followed by 8 hex digits)
-		NSString *hexRow = [NSString stringWithFormat:@"R%08x",self.tile.row];
-		//Column ('C' followed by 8 hex digits)  
-		NSString *hexCol = [NSString stringWithFormat:@"C%08x",self.tile.column];
-		
-        NSString* imageUrl = [NSString stringWithFormat:@"%@/%@/%@/%@.png",_allLayersPath, decLevel,hexRow, hexCol];
+- (void)main {
+    //Fetch the tile for the requested Level, Row, Column
+    @try {
+        //Level ('L' followed by 2 decimal digits)
+        NSString *decLevel = [NSString stringWithFormat:@"L%02d", self.tile.level];
+        //Row ('R' followed by 8 hex digits)
+        NSString *hexRow = [NSString stringWithFormat:@"R%08x", self.tile.row];
+        //Column ('C' followed by 8 hex digits)
+        NSString *hexCol = [NSString stringWithFormat:@"C%08x", self.tile.column];
+        
+        NSString *imageUrl = [NSString stringWithFormat:@"%@/%@/%@/%@.png", _allLayersPath, decLevel, hexRow, hexCol];
         NSURL *aURL = [NSURL URLWithString:imageUrl];
         NSString *key = [imageUrl MD5Hash];
         _data = [FTWCache objectForKey:key];
         if (!_data) {
             [self requestData:aURL];
-        }
-        else {
+        } else {
             [_target performSelector:_action withObject:self];
         }
         
         //
         //NSLog(@"%@", aURL);
-	}
-	@catch (NSException *exception) {
-		NSLog(@"main: Caught Exception %@: %@", [exception name], [exception reason]);
-	}
+    } @catch (NSException *exception) {
+        NSLog(@"main: Caught Exception %@: %@", [exception name], [exception reason]);
+    }
 }
 
-- (void)requestData:(NSURL*) url
-{
+- (void)requestData:(NSURL *)url {
     if (!_operation) {
         NSURLRequest *request = [NSURLRequest requestWithURL:url];
         _operation = [AFImageRequestOperation imageRequestOperationWithRequest:request success:^(UIImage *image) {
@@ -72,16 +67,14 @@
             NSString *strkey = [[url absoluteString] MD5Hash];
             [FTWCache setObject:_data forKey:strkey];
             [_target performSelector:_action withObject:self];
-        }]; 
+        }];
     }
     [_operation start];
 }
 
--(void)cancel{
+- (void)cancel {
     [_operation cancel];
     [super cancel];
 }
 
 @end
-
-

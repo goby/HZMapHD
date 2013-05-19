@@ -10,5 +10,5 @@
 
 @interface ZGSLayerTableViewCell : UITableViewCell
 @property (strong, nonatomic) UIImageView *thumb;
-@property (strong, nonatomic) UILabel *name, *subTtile;
+@property (strong, nonatomic) UILabel *name, *subTitle;
 @end

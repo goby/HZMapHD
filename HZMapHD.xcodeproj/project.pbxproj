@@ -199,6 +199,14 @@
 		F04F020017475A0900645A9B /* matrix.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F01FF17475A0900645A9B /* matrix.c */; };
 		F04F020217475C3C00645A9B /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F04F020117475C3C00645A9B /* Accelerate.framework */; };
 		F04F02051747740900645A9B /* wgs84_bj54.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F02041747740900645A9B /* wgs84_bj54.c */; };
+		F04F020B1748B39600645A9B /* iOS_icons_401.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F02091748B39600645A9B /* iOS_icons_401.png */; };
+		F04F020C1748B39600645A9B /* iOS_icons_401@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F020A1748B39600645A9B /* iOS_icons_401@2x.png */; };
+		F04F020E1748B79000645A9B /* OfflineLayers.plist in Resources */ = {isa = PBXBuildFile; fileRef = F04F020D1748B79000645A9B /* OfflineLayers.plist */; };
+		F04F02111748BB1600645A9B /* ZGSDownloadLayersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F04F02101748BB1600645A9B /* ZGSDownloadLayersViewController.m */; };
+		F04F02151748C46E00645A9B /* Toast+UIView.m in Sources */ = {isa = PBXBuildFile; fileRef = F04F02141748C46E00645A9B /* Toast+UIView.m */; };
+		F04F02181748F0C900645A9B /* AFDownloadRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = F04F02171748F0C900645A9B /* AFDownloadRequestOperation.m */; };
+		F04F021A1748FC2600645A9B /* ipad_download_start.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F02191748FC2600645A9B /* ipad_download_start.png */; };
+		F04F021C1748FC3300645A9B /* ipad_download_pause.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F021B1748FC3300645A9B /* ipad_download_pause.png */; };
 		F0AE653A1741C72B00EEAC78 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE65391741C72B00EEAC78 /* UIKit.framework */; };
 		F0AE653C1741C72B00EEAC78 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653B1741C72B00EEAC78 /* Foundation.framework */; };
 		F0AE653E1741C72B00EEAC78 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653D1741C72B00EEAC78 /* CoreGraphics.framework */; };
@@ -271,7 +279,6 @@
 		F0F56E7317423BCC0044A0CE /* ZGSLayerTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E7217423BCC0044A0CE /* ZGSLayerTableViewCell.m */; };
 		F0F56E7617423D200044A0CE /* ZGSSubLayersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E7517423D200044A0CE /* ZGSSubLayersViewController.m */; };
 		F0F56E7817423E570044A0CE /* bg_furley.png in Resources */ = {isa = PBXBuildFile; fileRef = F0F56E7717423E570044A0CE /* bg_furley.png */; };
-		F0F56E7A174257080044A0CE /* layer_hospital.png in Resources */ = {isa = PBXBuildFile; fileRef = F0F56E79174257080044A0CE /* layer_hospital.png */; };
 		F0F56E7C174258150044A0CE /* layer_sub.png in Resources */ = {isa = PBXBuildFile; fileRef = F0F56E7B174258150044A0CE /* layer_sub.png */; };
 		F0F56E7E174264CC0044A0CE /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = F0F56E7D174264CC0044A0CE /* check.png */; };
 		F0F56E8117431B920044A0CE /* ZGSHorizonCurl.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F56E8017431B920044A0CE /* ZGSHorizonCurl.m */; };
@@ -484,6 +491,17 @@
 		F04F020317475F7200645A9B /* matrix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = matrix.h; sourceTree = "<group>"; };
 		F04F02041747740900645A9B /* wgs84_bj54.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = wgs84_bj54.c; sourceTree = "<group>"; };
 		F04F0206174775FA00645A9B /* coord_transformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = coord_transformer.h; sourceTree = "<group>"; };
+		F04F02091748B39600645A9B /* iOS_icons_401.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iOS_icons_401.png; sourceTree = "<group>"; };
+		F04F020A1748B39600645A9B /* iOS_icons_401@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS_icons_401@2x.png"; sourceTree = "<group>"; };
+		F04F020D1748B79000645A9B /* OfflineLayers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = OfflineLayers.plist; sourceTree = "<group>"; };
+		F04F020F1748BB1600645A9B /* ZGSDownloadLayersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSDownloadLayersViewController.h; sourceTree = "<group>"; };
+		F04F02101748BB1600645A9B /* ZGSDownloadLayersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSDownloadLayersViewController.m; sourceTree = "<group>"; };
+		F04F02131748C46E00645A9B /* Toast+UIView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Toast+UIView.h"; sourceTree = "<group>"; };
+		F04F02141748C46E00645A9B /* Toast+UIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Toast+UIView.m"; sourceTree = "<group>"; };
+		F04F02161748F0C900645A9B /* AFDownloadRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFDownloadRequestOperation.h; sourceTree = "<group>"; };
+		F04F02171748F0C900645A9B /* AFDownloadRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFDownloadRequestOperation.m; sourceTree = "<group>"; };
+		F04F02191748FC2600645A9B /* ipad_download_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipad_download_start.png; sourceTree = "<group>"; };
+		F04F021B1748FC3300645A9B /* ipad_download_pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipad_download_pause.png; sourceTree = "<group>"; };
 		F0AE65361741C72B00EEAC78 /* HZMapHD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HZMapHD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AE65391741C72B00EEAC78 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F0AE653B1741C72B00EEAC78 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -585,7 +603,6 @@
 		F0F56E7417423D200044A0CE /* ZGSSubLayersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSSubLayersViewController.h; sourceTree = "<group>"; };
 		F0F56E7517423D200044A0CE /* ZGSSubLayersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGSSubLayersViewController.m; sourceTree = "<group>"; };
 		F0F56E7717423E570044A0CE /* bg_furley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_furley.png; sourceTree = "<group>"; };
-		F0F56E79174257080044A0CE /* layer_hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layer_hospital.png; sourceTree = "<group>"; };
 		F0F56E7B174258150044A0CE /* layer_sub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layer_sub.png; sourceTree = "<group>"; };
 		F0F56E7D174264CC0044A0CE /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
 		F0F56E7F17431B920044A0CE /* ZGSHorizonCurl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGSHorizonCurl.h; sourceTree = "<group>"; };
@@ -830,6 +847,15 @@
 			name = Transformer;
 			sourceTree = "<group>";
 		};
+		F04F02121748C46E00645A9B /* Toast */ = {
+			isa = PBXGroup;
+			children = (
+				F04F02131748C46E00645A9B /* Toast+UIView.h */,
+				F04F02141748C46E00645A9B /* Toast+UIView.m */,
+			);
+			path = Toast;
+			sourceTree = "<group>";
+		};
 		F0AE652D1741C72B00EEAC78 = {
 			isa = PBXGroup;
 			children = (
@@ -894,6 +920,8 @@
 				F0F56E7517423D200044A0CE /* ZGSSubLayersViewController.m */,
 				F0F56E7F17431B920044A0CE /* ZGSHorizonCurl.h */,
 				F0F56E8017431B920044A0CE /* ZGSHorizonCurl.m */,
+				F04F020F1748BB1600645A9B /* ZGSDownloadLayersViewController.h */,
+				F04F02101748BB1600645A9B /* ZGSDownloadLayersViewController.m */,
 				F0AE65401741C72B00EEAC78 /* Supporting Files */,
 			);
 			path = HZMapHD;
@@ -937,6 +965,10 @@
 		F0AE65761741C9F800EEAC78 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F04F021B1748FC3300645A9B /* ipad_download_pause.png */,
+				F04F02191748FC2600645A9B /* ipad_download_start.png */,
+				F04F02091748B39600645A9B /* iOS_icons_401.png */,
+				F04F020A1748B39600645A9B /* iOS_icons_401@2x.png */,
 				F00A96061743C5300042A1AA /* Data */,
 				F0DBB53A1746456C00E5EBC9 /* Icon_Activity.png */,
 				F0DBB53B1746456C00E5EBC9 /* Icon_Activity@2x.png */,
@@ -967,10 +999,10 @@
 				F0F56E7D174264CC0044A0CE /* check.png */,
 				F0AE65741741C9F300EEAC78 /* curl_button.png */,
 				F0F56E7B174258150044A0CE /* layer_sub.png */,
-				F0F56E79174257080044A0CE /* layer_hospital.png */,
 				F0F56E7717423E570044A0CE /* bg_furley.png */,
 				F0CE9B161741D4740084A2F7 /* navigation.png */,
 				F0CE9B141741D09F0084A2F7 /* ArcGIS.bundle */,
+				F04F020D1748B79000645A9B /* OfflineLayers.plist */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -995,6 +1027,7 @@
 		F0B152CA1741D787009DA271 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				F04F02121748C46E00645A9B /* Toast */,
 				F0DBB52D174601FF00E5EBC9 /* REMenu */,
 				F00A96041743A8A50042A1AA /* openssl */,
 				F0F56E6217422EF80044A0CE /* Floder */,
@@ -1017,6 +1050,8 @@
 		F0B153551741DB13009DA271 /* AFNetworking */ = {
 			isa = PBXGroup;
 			children = (
+				F04F02161748F0C900645A9B /* AFDownloadRequestOperation.h */,
+				F04F02171748F0C900645A9B /* AFDownloadRequestOperation.m */,
 				F0B153561741DB13009DA271 /* AFHTTPClient.h */,
 				F0B153571741DB13009DA271 /* AFHTTPClient.m */,
 				F0B153581741DB13009DA271 /* AFHTTPRequestOperation.h */,
@@ -1153,7 +1188,6 @@
 				F0CE9B151741D09F0084A2F7 /* ArcGIS.bundle in Resources */,
 				F0CE9B171741D4740084A2F7 /* navigation.png in Resources */,
 				F0F56E7817423E570044A0CE /* bg_furley.png in Resources */,
-				F0F56E7A174257080044A0CE /* layer_hospital.png in Resources */,
 				F0F56E7C174258150044A0CE /* layer_sub.png in Resources */,
 				F0F56E7E174264CC0044A0CE /* check.png in Resources */,
 				F0F56EAC17432BF20044A0CE /* layer_sub_selected.png in Resources */,
@@ -1358,6 +1392,11 @@
 				F0DBB5481746456D00E5EBC9 /* Icon_Profile.png in Resources */,
 				F0DBB5491746456D00E5EBC9 /* Icon_Profile@2x.png in Resources */,
 				F0DBB54B174646DA00E5EBC9 /* Menu.plist in Resources */,
+				F04F020B1748B39600645A9B /* iOS_icons_401.png in Resources */,
+				F04F020C1748B39600645A9B /* iOS_icons_401@2x.png in Resources */,
+				F04F020E1748B79000645A9B /* OfflineLayers.plist in Resources */,
+				F04F021A1748FC2600645A9B /* ipad_download_start.png in Resources */,
+				F04F021C1748FC3300645A9B /* ipad_download_pause.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1436,6 +1475,9 @@
 				F0DBB539174601FF00E5EBC9 /* REMenuItemView.m in Sources */,
 				F04F020017475A0900645A9B /* matrix.c in Sources */,
 				F04F02051747740900645A9B /* wgs84_bj54.c in Sources */,
+				F04F02111748BB1600645A9B /* ZGSDownloadLayersViewController.m in Sources */,
+				F04F02151748C46E00645A9B /* Toast+UIView.m in Sources */,
+				F04F02181748F0C900645A9B /* AFDownloadRequestOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

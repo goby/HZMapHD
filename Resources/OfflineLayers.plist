@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
+<array>
+	<dict>
+		<key>code</key>
+		<integer>0</integer>
+		<key>layername</key>
+		<string>中心城区图</string>
+		<key>description</key>
+		<string></string>
+		<key>isbasemap</key>
+		<true/>
+		<key>url</key>
+		<string>http://202.121.180.49/arcgiscache/hzgh/Layers.zip?id=41</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>code</key>
+		<integer>1</integer>
+		<key>layername</key>
+		<string>影像图</string>
+		<key>description</key>
+		<string></string>
+		<key>isbasemap</key>
+		<true/>
+		<key>url</key>
+		<string>http://202.121.180.49/arcgiscache/hzgh/Layers.zip?id=123</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+</array>
 </plist>

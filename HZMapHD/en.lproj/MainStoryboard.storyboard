@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="12A269" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="2">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="12D78" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="2">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="2083"/>
     </dependencies>
@@ -136,9 +136,27 @@
                                     <outlet property="folderDelegate" destination="5Fg-31-WrF" id="mus-au-HfQ"/>
                                 </connections>
                             </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CZN-Em-zD4">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="41" id="aPd-bw-oP7"/>
+                                    <constraint firstAttribute="width" constant="197" id="ezD-GT-U6z"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" size="button"/>
+                                <state key="normal" title="下载离线地图包" image="iOS_icons_401.png">
+                                    <color key="titleColor" red="0.19607843137254902" green="0.30980392156862746" blue="0.52156862745098043" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="CZl-AP-TQy" kind="modal" modalPresentationStyle="formSheet" modalTransitionStyle="flipHorizontal" id="coM-06-ZOP"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
                         <constraints>
+                            <constraint firstAttribute="bottom" secondItem="CZN-Em-zD4" secondAttribute="bottom" constant="20" symbolic="YES" type="default" id="O8O-d7-zYe"/>
+                            <constraint firstItem="CZN-Em-zD4" firstAttribute="leading" secondItem="vUl-wk-dKq" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="PID-g5-7fI"/>
                             <constraint firstItem="0s7-k9-IZL" firstAttribute="bottom" secondItem="vUl-wk-dKq" secondAttribute="bottom" type="default" id="ThQ-4m-kB0"/>
                             <constraint firstItem="0s7-k9-IZL" firstAttribute="trailing" secondItem="vUl-wk-dKq" secondAttribute="trailing" type="default" id="eLL-QE-zM0"/>
                         </constraints>
@@ -151,12 +169,65 @@
             </objects>
             <point key="canvasLocation" x="991" y="-309"/>
         </scene>
+        <!--Download Layers View Controller - 下载离线地图包-->
+        <scene sceneID="hO5-Fj-MU7">
+            <objects>
+                <tableViewController id="Guc-bN-XwO" customClass="ZGSDownloadLayersViewController" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="1VB-wT-4la">
+                        <rect key="frame" x="0.0" y="64" width="540" height="556"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <connections>
+                            <outlet property="dataSource" destination="Guc-bN-XwO" id="3PV-Eq-5uu"/>
+                            <outlet property="delegate" destination="Guc-bN-XwO" id="NTy-RW-Lih"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="下载离线地图包" id="aJR-kb-ZZw">
+                        <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="iCE-BJ-n9o">
+                            <connections>
+                                <action selector="cancelDownload:" destination="Guc-bN-XwO" id="wSL-2t-RNJ"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="XZS-g8-Hzt">
+                            <connections>
+                                <action selector="doneDownload:" destination="Guc-bN-XwO" id="P4Y-W9-O7c"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OAV-vw-mFg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2831" y="-107"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="rAi-EZ-Rb4">
+            <objects>
+                <navigationController id="CZl-AP-TQy" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="blackOpaque" id="hnT-zU-le7">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Guc-bN-XwO" kind="relationship" relationship="rootViewController" id="ja5-Px-O99"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="AQu-8k-872" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2085" y="-107"/>
+        </scene>
     </scenes>
     <resources>
         <image name="curl_button.png" width="83" height="128"/>
+        <image name="iOS_icons_401.png" width="30" height="30"/>
         <image name="navigation.png" width="48" height="48"/>
     </resources>
     <classes>
+        <class className="AGSMapView" superclassName="UIView">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AGSMapView.h"/>
+        </class>
         <class className="NSLayoutConstraint" superclassName="NSObject">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
         </class>
@@ -164,6 +235,13 @@
             <source key="sourceIdentifier" type="project" relativePath="./Classes/UIFolderTableView.h"/>
             <relationships>
                 <relationship kind="outlet" name="folderDelegate"/>
+            </relationships>
+        </class>
+        <class className="ZGSDownloadLayersViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ZGSDownloadLayersViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="cancelDownload:" candidateClass="UIBarButtonItem"/>
+                <relationship kind="action" name="doneDownload:"/>
             </relationships>
         </class>
         <class className="ZGSLayersViewController" superclassName="UIViewController">
