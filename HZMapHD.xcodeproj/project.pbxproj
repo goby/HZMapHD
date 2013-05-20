@@ -1077,7 +1077,7 @@
 				F0B153551741DB13009DA271 /* AFNetworking */,
 				F0B153461741D8A0009DA271 /* Reachability */,
 			);
-			name = Libraries;
+			path = Libraries;
 			sourceTree = "<group>";
 		};
 		F0B153461741D8A0009DA271 /* Reachability */ = {
@@ -1086,8 +1086,7 @@
 				F0B153471741D8A0009DA271 /* Reachability.h */,
 				F0B153481741D8A0009DA271 /* Reachability.m */,
 			);
-			name = Reachability;
-			path = Libraries/Reachability;
+			path = Reachability;
 			sourceTree = "<group>";
 		};
 		F0B153551741DB13009DA271 /* AFNetworking */ = {
@@ -1115,8 +1114,7 @@
 				F0B153671741DB13009DA271 /* UIImageView+AFNetworking.h */,
 				F0B153681741DB13009DA271 /* UIImageView+AFNetworking.m */,
 			);
-			name = AFNetworking;
-			path = Libraries/AFNetworking;
+			path = AFNetworking;
 			sourceTree = "<group>";
 		};
 		F0DBB52D174601FF00E5EBC9 /* REMenu */ = {
@@ -1131,8 +1129,7 @@
 				F0DBB534174601FF00E5EBC9 /* REMenuItemView.h */,
 				F0DBB535174601FF00E5EBC9 /* REMenuItemView.m */,
 			);
-			name = REMenu;
-			path = Libraries/REMenu;
+			path = REMenu;
 			sourceTree = "<group>";
 		};
 		F0F56E6217422EF80044A0CE /* Floder */ = {
@@ -1145,8 +1142,7 @@
 				F0F56E6717422EF80044A0CE /* UIView+screenshot.h */,
 				F0F56E6817422EF80044A0CE /* UIView+screenshot.m */,
 			);
-			name = Floder;
-			path = Libraries/Floder;
+			path = Floder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

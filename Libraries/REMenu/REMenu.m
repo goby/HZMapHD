@@ -34,7 +34,9 @@
 
 @end
 
-@interface REMenu ()
+@interface REMenu () {
+    int _selectItemTag;
+}
 
 @property (strong, nonatomic) UIView *menuView;
 @property (strong, nonatomic) UIView *menuWrapperView;
@@ -87,8 +89,8 @@
     
     self.highlightedBackgroundColor = [UIColor colorWithRed:28/255.0 green:28/255.0 blue:27/255.0 alpha:1];
     self.highlightedSeparatorColor = [UIColor colorWithRed:28/255.0 green:28/255.0 blue:27/255.0 alpha:1];
-    self.highlightedTextColor = [UIColor colorWithRed:128/255.0 green:126/255.0 blue:124/255.0 alpha:1];
-    self.highlightedTextShadowColor = [UIColor blackColor];
+    self.highlightedTextColor = [UIColor colorWithRed:0.327 green:0.698 blue:0.794 alpha:1.000];
+    self.highlightedTextShadowColor = [UIColor colorWithRed:0.225 green:0.484 blue:0.557 alpha:1.000];
     self.highlightedTextShadowOffset = CGSizeMake(0, -1);
     
     self.subtitleTextColor = [UIColor colorWithWhite:0.425 alpha:1.000];
@@ -102,7 +104,8 @@
     self.borderWidth = 1;
     self.borderColor =  [UIColor colorWithRed:28/255.0 green:28/255.0 blue:27/255.0 alpha:1];
     self.animationDuration = 0.3;
-
+    
+    _selectItemTag = -1;
     
     return self;
 }
@@ -179,7 +182,7 @@
     [_containerView addSubview:_backgroundButton];
     [_containerView addSubview:_menuWrapperView];
     [view.superview addSubview:_containerView];
-    
+
     // Animate appearance
     //
     __typeof (&*self) __weak weakSelf = self;
@@ -187,10 +190,23 @@
         CGRect frame = weakSelf.menuView.frame;
         frame.origin.y = -40 - _separatorHeight;
         weakSelf.menuWrapperView.frame = frame;
-    } completion:nil];
+    } completion:^(BOOL isFinish) {
+        if (isFinish) {
+            [self selectMenu: _selectItemTag];
+        }
+    }];
 }
 
-
+- (void)selectMenu:(int)itemTag {
+    _selectItemTag = itemTag == _selectItemTag ? -1 : itemTag;
+    
+    for (REMenuItem *item in _items) {
+        item.selected = NO;
+        if (item.tag == _selectItemTag) {
+            item.selected = YES;
+        }
+    }
+}
 
 - (void)closeWithCompletion:(void (^)(void))completion
 {

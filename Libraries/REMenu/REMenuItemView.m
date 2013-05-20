@@ -98,42 +98,18 @@
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
-    self.backgroundColor = _menu.highlightedBackgroundColor;
-    _separatorView.backgroundColor = _menu.highlightedSeparatorColor;
-    _imageView.image = _item.higlightedImage ? _item.higlightedImage : _item.image;
-    _titleLabel.textColor = _menu.highlightedTextColor;
-    _titleLabel.shadowColor = _menu.highlightedTextShadowColor;
-    _titleLabel.shadowOffset = _menu.highlightedTextShadowOffset;
-    _subtitleLabel.textColor = _menu.subtitleHighlightedTextColor;
-    _subtitleLabel.shadowColor = _menu.subtitleHighlightedTextShadowColor;
-    _subtitleLabel.shadowOffset = _menu.subtitleHighlightedTextShadowOffset;
+    self.selected = YES;
 }
 
 - (void)touchesCancelled:(NSSet *)touches withEvent:(UIEvent *)event
 {
-    self.backgroundColor = [UIColor clearColor];
-    _separatorView.backgroundColor = _menu.separatorColor;
-    _imageView.image = _item.image;
-    _titleLabel.textColor = _menu.textColor;
-    _titleLabel.shadowColor = _menu.textShadowColor;
-    _titleLabel.shadowOffset = _menu.textShadowOffset;
-    _subtitleLabel.textColor = _menu.subtitleTextColor;
-    _subtitleLabel.shadowColor = _menu.subtitleTextShadowColor;
-    _subtitleLabel.shadowOffset = _menu.subtitleTextShadowOffset;
+    self.selected = NO;
     
 }
 
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
 {
-    self.backgroundColor = [UIColor clearColor];
-    _separatorView.backgroundColor = _menu.separatorColor;
-    _imageView.image = _item.image;
-    _titleLabel.textColor = _menu.textColor;
-    _titleLabel.shadowColor = _menu.textShadowColor;
-    _titleLabel.shadowOffset = _menu.textShadowOffset;
-    _subtitleLabel.textColor = _menu.subtitleTextColor;
-    _subtitleLabel.shadowColor = _menu.subtitleTextShadowColor;
-    _subtitleLabel.shadowOffset = _menu.subtitleTextShadowOffset;
+    //self.selected = NO;
     
     if (_menu.waitUntilAnimationIsComplete) {
         __typeof (&*self) __weak weakSelf = self;
@@ -147,6 +123,31 @@
         if (self.item.action) {
             self.item.action(self.item);
         }
+    }
+}
+
+-(void)setSelected:(BOOL)selected {
+    _selected = selected;
+    if (selected) {
+        self.backgroundColor = _menu.highlightedBackgroundColor;
+        _separatorView.backgroundColor = _menu.highlightedSeparatorColor;
+        _imageView.image = _item.higlightedImage ? _item.higlightedImage : _item.image;
+        _titleLabel.textColor = _menu.highlightedTextColor;
+        _titleLabel.shadowColor = _menu.highlightedTextShadowColor;
+        _titleLabel.shadowOffset = _menu.highlightedTextShadowOffset;
+        _subtitleLabel.textColor = _menu.subtitleHighlightedTextColor;
+        _subtitleLabel.shadowColor = _menu.subtitleHighlightedTextShadowColor;
+        _subtitleLabel.shadowOffset = _menu.subtitleHighlightedTextShadowOffset;
+    } else {
+        self.backgroundColor = [UIColor clearColor];
+        _separatorView.backgroundColor = _menu.separatorColor;
+        _imageView.image = _item.image;
+        _titleLabel.textColor = _menu.textColor;
+        _titleLabel.shadowColor = _menu.textShadowColor;
+        _titleLabel.shadowOffset = _menu.textShadowOffset;
+        _subtitleLabel.textColor = _menu.subtitleTextColor;
+        _subtitleLabel.shadowColor = _menu.subtitleTextShadowColor;
+        _subtitleLabel.shadowOffset = _menu.subtitleTextShadowOffset;
     }
 }
 

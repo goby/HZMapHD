@@ -262,17 +262,17 @@
 }
 
 - (IBAction)popupMenu:(UIBarButtonItem *)sender {
-    [self showMenu:sender.tag];
+    [self showMenu:sender];
 }
 
-- (void)showMenu:(int)button {
+- (void)showMenu:(UIBarButtonItem *)sender  {
     if (_menu.isOpen) return [_menu close];
     
     // Sample icons from http://icons8.com/download-free-icons-for-ios-tab-bar
     //
     NSArray *points = [NSArray arrayWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Menu" withExtension:@"plist"]];
-    NSDictionary *menu = [points objectAtIndex:button - 1];
-    
+    NSDictionary *menu = [points objectAtIndex:sender.tag - 1];
+
     NSArray *subMenus = [menu objectForKey:@"submenu"];
     
     NSMutableArray *menuItems = [[NSMutableArray alloc]init];
@@ -284,6 +284,7 @@
                                             highlightedImage:nil
                                                       action: ^(REMenuItem *item) {
                                                           NSLog(@"Item: %@", item);
+                                                          [sender setTitle: item.title];
                                                       }];
         item.tag = [[submenu objectForKey:@"code"] intValue];
         [menuItems addObject:item];

@@ -85,5 +85,6 @@
 - (void)showFromToolbar:(UIToolbar *)toolbar;
 - (void)closeWithCompletion:(void (^)(void))completion;
 - (void)close;
+- (void)selectMenu:(int)itemTag;
 
 @end

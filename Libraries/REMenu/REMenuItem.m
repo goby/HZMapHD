@@ -87,5 +87,9 @@
     _itemView.imageView.image = image;
 }
 
+-(void)setSelected:(BOOL)selected {
+    _selected = selected;
+    _itemView.selected = selected;
+}
 
 @end

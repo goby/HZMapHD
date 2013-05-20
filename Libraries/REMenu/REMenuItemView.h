@@ -35,6 +35,7 @@
 @property (strong, nonatomic) UILabel *subtitleLabel;
 @property (strong, nonatomic) UIImageView *imageView;
 @property (strong, nonatomic) REMenuItem *item;
+@property (assign, nonatomic) BOOL selected;
 
 - (id)initWithFrame:(CGRect)frame menu:(REMenu *)menu hasSubtitle:(BOOL)hasSubtitle;
 
