@@ -14,6 +14,11 @@
 #import "FTWCache.h"
 #import "AFImageRequestOperation.h"
 
+@interface ZGSTileOperation () {
+    BOOL isOnline;
+}
+@end
+
 @implementation ZGSTileOperation
 
 @synthesize tile = _tile;
@@ -26,7 +31,8 @@
     if (self = [super init]) {
         self.target = target;
         self.action = action;
-        self.allLayersPath = [NSString stringWithFormat:@"%@/_allLayers", path];        //[path stringByAppendingPathComponent:@"_alllayers"]  ;
+        isOnline = [[path lowercaseString] hasPrefix:@"http://"] || [[path lowercaseString] hasPrefix:@"https://"];
+        self.allLayersPath = [path stringByAppendingPathComponent:@"_alllayers"];
         self.tile = tile;
     }
     return self;
@@ -43,15 +49,19 @@
         NSString *hexCol = [NSString stringWithFormat:@"C%08x", self.tile.column];
         
         NSString *imageUrl = [NSString stringWithFormat:@"%@/%@/%@/%@.png", _allLayersPath, decLevel, hexRow, hexCol];
-        NSURL *aURL = [NSURL URLWithString:imageUrl];
-        NSString *key = [imageUrl MD5Hash];
-        _data = [FTWCache objectForKey:key];
-        if (!_data) {
-            [self requestData:aURL];
+
+        if (isOnline) {
+            NSURL *aURL = [NSURL URLWithString:imageUrl];
+            NSString *key = [imageUrl MD5Hash];
+            _data = [FTWCache objectForKey:key];
+            if (!_data)
+                return [self requestData:aURL];
         } else {
-            [_target performSelector:_action withObject:self];
+            // Offline PNG
+            _data = [NSData dataWithContentsOfFile:imageUrl];
         }
         
+        [_target performSelector:_action withObject:self];
         //
         //NSLog(@"%@", aURL);
     } @catch (NSException *exception) {

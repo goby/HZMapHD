@@ -20,7 +20,7 @@
 @interface ZGSTiledCacheParserDelegate : NSObject<NSXMLParserDelegate> {
 @protected
     NSString *_currentElement;
-    
+    BOOL _isStartElement;
     int _dpi;
     int _WKID;
     int _level;

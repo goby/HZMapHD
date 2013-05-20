@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+static  NSString *const ZGSBasemapDownloaded = @"ZGSBasemapDownloaded";
+
 @interface ZGSAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;

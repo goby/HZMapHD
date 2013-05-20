@@ -15,6 +15,7 @@
 
 @interface ZGSTiledLayer : AGSTiledLayer  {
 @protected
+    BOOL _isOnline;
     NSString *_dataFramePath;
     AGSTileInfo *_tileInfo;
     AGSEnvelope *_fullEnvelope;

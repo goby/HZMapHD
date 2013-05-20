@@ -71,29 +71,58 @@ int MakeAGSUnits(NSString *wkt) {
         self.dataFramePath = path;
         _queue = [[NSOperationQueue alloc] init];
         [_queue setMaxConcurrentOperationCount:4];
-        NSString *confXML = [NSString stringWithFormat:@"%@/conf.xml", path];         //[path stringByAppendingPathComponent: @"conf.xml"];
+        _isOnline = [[path lowercaseString] hasPrefix:@"http://"] || [[path lowercaseString] hasPrefix:@"https://"];
+        NSString *confXML = [path stringByAppendingPathComponent: @"conf.xml"];
         NSURL *url = [NSURL URLWithString:confXML];
-        NSString *key = [confXML MD5Hash];
-        NSLog(@"%@", key);
-        NSData *data = [FTWCache objectForKey:key];
-        if (data) {
-            [self loadConfigFromXml:data];
+        if (_isOnline) {
+            NSString *key = [confXML MD5Hash];
+            NSLog(@"%@", key);
+            NSData *data = [FTWCache objectForKey:key];
+            if (data) {
+                [self loadConfigFromXml:data];
+            } else {
+                NSURLRequest *request = [NSURLRequest requestWithURL:url];
+                AFXMLRequestOperation *requestOperation = [[AFXMLRequestOperation alloc] initWithRequest:request];
+                [requestOperation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+                    [FTWCache setObject:operation.responseData forKey:key];
+                    [self loadConfigWithParser:(NSXMLParser *)responseObject];
+                } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+                    NSLog(@"the error is %@", error);
+                    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil];
+                    assert(alert != nil);
+                    [alert show];
+                }];
+                [requestOperation start];
+            }
         } else {
-            NSURLRequest *request = [NSURLRequest requestWithURL:url];
-            AFXMLRequestOperation *requestOperation = [[AFXMLRequestOperation alloc] initWithRequest:request];
-            [requestOperation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
-                [FTWCache setObject:operation.responseData forKey:key];
-                [self loadConfigWithParser:(NSXMLParser *)responseObject];
-            } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-                NSLog(@"the error is %@", error);
-                UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"获取切片失败" message:error.localizedDescription delegate:nil cancelButtonTitle:@"忽略" otherButtonTitles:nil];
-                assert(alert != nil);
-                [alert show];
-            }];
-            [requestOperation start];
+            self.dataFramePath = [self findDataFramePath:path];
+            confXML = [self.dataFramePath stringByAppendingPathComponent:@"conf.xml"];
+            NSLog(@"%@", confXML);
+            [self loadConfigFromXml:[NSData dataWithContentsOfFile:confXML]];
         }
     }
     return self;
+}
+
+- (NSString *)findDataFramePath:(NSString *)path {
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    NSError *err;
+    NSArray *files = [fileManager contentsOfDirectoryAtPath:path error:&err];
+    for (NSString *subfile in files) {
+        if ([subfile hasSuffix:@"conf.xml"]) {
+            return path;
+        }
+    }
+    for (NSString *subfile in files) {
+        BOOL isDir;
+        NSString *subDir = [path stringByAppendingPathComponent:subfile];
+        [fileManager fileExistsAtPath:subDir isDirectory:&isDir];
+        if (isDir) {
+            return [self findDataFramePath:subDir];
+        }
+    }
+    
+    return path;
 }
 
 - (void)loadConfigFromXml:(NSData *)xmlData {
@@ -151,8 +180,8 @@ int MakeAGSUnits(NSString *wkt) {
 
 - (void)requestTileForKey:(AGSTileKey *)key {
     if (_queue.operationCount > 8) {
-        ZGSTileOperation *op = [_queue.operations objectAtIndex:0];
-        [op cancel];
+        //ZGSTileOperation *op = [_queue.operations objectAtIndex:0];
+        //[op cancel];
         //NSLog(@"remove old op");
     }
     //Create an operation to fetch tile from local cache

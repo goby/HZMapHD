@@ -207,6 +207,11 @@
 		F04F02181748F0C900645A9B /* AFDownloadRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = F04F02171748F0C900645A9B /* AFDownloadRequestOperation.m */; };
 		F04F021A1748FC2600645A9B /* ipad_download_start.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F02191748FC2600645A9B /* ipad_download_start.png */; };
 		F04F021C1748FC3300645A9B /* ipad_download_pause.png in Resources */ = {isa = PBXBuildFile; fileRef = F04F021B1748FC3300645A9B /* ipad_download_pause.png */; };
+		F04F022C174A017700645A9B /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F0222174A017700645A9B /* ioapi.c */; };
+		F04F022D174A017700645A9B /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F0224174A017700645A9B /* mztools.c */; };
+		F04F022E174A017700645A9B /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F0226174A017700645A9B /* unzip.c */; };
+		F04F022F174A017700645A9B /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = F04F0228174A017700645A9B /* zip.c */; };
+		F04F0230174A017700645A9B /* ZipArchive.mm in Sources */ = {isa = PBXBuildFile; fileRef = F04F022B174A017700645A9B /* ZipArchive.mm */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F0AE653A1741C72B00EEAC78 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE65391741C72B00EEAC78 /* UIKit.framework */; };
 		F0AE653C1741C72B00EEAC78 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653B1741C72B00EEAC78 /* Foundation.framework */; };
 		F0AE653E1741C72B00EEAC78 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AE653D1741C72B00EEAC78 /* CoreGraphics.framework */; };
@@ -502,6 +507,17 @@
 		F04F02171748F0C900645A9B /* AFDownloadRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFDownloadRequestOperation.m; sourceTree = "<group>"; };
 		F04F02191748FC2600645A9B /* ipad_download_start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipad_download_start.png; sourceTree = "<group>"; };
 		F04F021B1748FC3300645A9B /* ipad_download_pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipad_download_pause.png; sourceTree = "<group>"; };
+		F04F0221174A017700645A9B /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
+		F04F0222174A017700645A9B /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		F04F0223174A017700645A9B /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		F04F0224174A017700645A9B /* mztools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
+		F04F0225174A017700645A9B /* mztools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
+		F04F0226174A017700645A9B /* unzip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
+		F04F0227174A017700645A9B /* unzip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
+		F04F0228174A017700645A9B /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		F04F0229174A017700645A9B /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		F04F022A174A017700645A9B /* ZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZipArchive.h; sourceTree = "<group>"; };
+		F04F022B174A017700645A9B /* ZipArchive.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ZipArchive.mm; sourceTree = "<group>"; };
 		F0AE65361741C72B00EEAC78 /* HZMapHD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HZMapHD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AE65391741C72B00EEAC78 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F0AE653B1741C72B00EEAC78 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -856,6 +872,32 @@
 			path = Toast;
 			sourceTree = "<group>";
 		};
+		F04F021F174A017700645A9B /* ZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+				F04F0220174A017700645A9B /* minizip */,
+				F04F022A174A017700645A9B /* ZipArchive.h */,
+				F04F022B174A017700645A9B /* ZipArchive.mm */,
+			);
+			path = ZipArchive;
+			sourceTree = "<group>";
+		};
+		F04F0220174A017700645A9B /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+				F04F0221174A017700645A9B /* crypt.h */,
+				F04F0222174A017700645A9B /* ioapi.c */,
+				F04F0223174A017700645A9B /* ioapi.h */,
+				F04F0224174A017700645A9B /* mztools.c */,
+				F04F0225174A017700645A9B /* mztools.h */,
+				F04F0226174A017700645A9B /* unzip.c */,
+				F04F0227174A017700645A9B /* unzip.h */,
+				F04F0228174A017700645A9B /* zip.c */,
+				F04F0229174A017700645A9B /* zip.h */,
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
 		F0AE652D1741C72B00EEAC78 = {
 			isa = PBXGroup;
 			children = (
@@ -1027,6 +1069,7 @@
 		F0B152CA1741D787009DA271 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				F04F021F174A017700645A9B /* ZipArchive */,
 				F04F02121748C46E00645A9B /* Toast */,
 				F0DBB52D174601FF00E5EBC9 /* REMenu */,
 				F00A96041743A8A50042A1AA /* openssl */,
@@ -1478,6 +1521,11 @@
 				F04F02111748BB1600645A9B /* ZGSDownloadLayersViewController.m in Sources */,
 				F04F02151748C46E00645A9B /* Toast+UIView.m in Sources */,
 				F04F02181748F0C900645A9B /* AFDownloadRequestOperation.m in Sources */,
+				F04F022C174A017700645A9B /* ioapi.c in Sources */,
+				F04F022D174A017700645A9B /* mztools.c in Sources */,
+				F04F022E174A017700645A9B /* unzip.c in Sources */,
+				F04F022F174A017700645A9B /* zip.c in Sources */,
+				F04F0230174A017700645A9B /* ZipArchive.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

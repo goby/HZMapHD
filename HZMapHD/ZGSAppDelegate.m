@@ -83,9 +83,14 @@ static NSString *_cacheDirectory = nil;
 
 + (NSString *)offlineDirectory {
     if (!_offlineDirectory) {
+        NSFileManager *fileManager = [NSFileManager defaultManager];
         NSArray *paths = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
         NSString *cacheDirectory = [paths objectAtIndex:0];
         _offlineDirectory = [cacheDirectory stringByAppendingPathComponent:@"OfflineLayers"];
+        BOOL isDir = YES;
+        if (![fileManager fileExistsAtPath:_offlineDirectory isDirectory:&isDir]) {
+            [fileManager createDirectoryAtPath:_offlineDirectory withIntermediateDirectories:NO attributes:nil error:nil];
+        }
     }
     return _offlineDirectory;
 }
@@ -95,6 +100,11 @@ static NSString *_cacheDirectory = nil;
         NSArray *paths = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
         _cacheDirectory = [paths objectAtIndex:0];
         _cacheDirectory = [_cacheDirectory stringByAppendingPathComponent:@"MapCaches"];
+        BOOL isDir = YES;
+        NSFileManager *fileManager = [NSFileManager defaultManager];
+        if (![fileManager fileExistsAtPath:_cacheDirectory isDirectory:&isDir]) {
+            [fileManager createDirectoryAtPath:_cacheDirectory withIntermediateDirectories:NO attributes:nil error:nil];
+        }
     }
     
     return _cacheDirectory;

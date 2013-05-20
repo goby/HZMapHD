@@ -9,6 +9,7 @@
 #import "ZGSDownloadLayersViewController.h"
 #import "ZGSAppDelegate.h"
 #import "AFDownloadRequestOperation.h"
+#import "ZipArchive.h"
 
 @interface ZGSDownloadLayersViewController (){
     NSArray *dataSource;
@@ -238,8 +239,25 @@
         filename = [[ZGSAppDelegate offlineDirectory] stringByAppendingPathComponent:filename];
         NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:3600];
         operation = [[AFDownloadRequestOperation alloc] initWithRequest:request targetPath:filename shouldResume:YES];
+        __typeof (&*self) __weak weakself = self;
+        __block UIColor *blockStartColor = startColor;
+        operation.deleteTempFileOnCancel = YES;
         [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
             NSLog(@"Successfully downloaded file to %@", filename);
+            weakself.controlButton.backgroundColor = blockStartColor;
+            weakself.progress.hidden = YES;
+            weakself.subTitle.hidden = NO;
+            [weakself makeToastActivity];
+            NSRange range = [filename rangeOfString:@"/" options: NSBackwardsSearch];
+            NSString *file = [[filename substringToIndex:range.location] stringByAppendingFormat:@"/%d",weakself.tag];
+            dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^{
+                ZipArchive *zipArchive = [[ZipArchive alloc] init];
+                [zipArchive UnzipOpenFile:filename];
+                [zipArchive UnzipFileTo:file overWrite:YES];
+                [zipArchive UnzipCloseFile];
+                [weakself hideToastActivity];
+                [[NSNotificationCenter defaultCenter] postNotificationName:ZGSBasemapDownloaded object: file];
+            });
         } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
             NSLog(@"Error: %@", error);
         }];

@@ -38,12 +38,16 @@
 
 - (void)parser:(NSXMLParser *)parser didStartElement:(NSString *)elementName namespaceURI:(NSString *)namespaceURI qualifiedName:(NSString *)qName attributes:(NSDictionary *)attributeDict {
     self.currentElement = elementName;
+    _isStartElement = YES;
     if ([self.currentElement isEqualToString:@"LODInfos"]) {
         self.lods = [NSMutableArray array];
     }
 }
 
 - (void)parser:(NSXMLParser *)parser foundCharacters:(NSString *)value {
+    if (!_isStartElement) {
+        return;
+    }
     if ([self.currentElement isEqualToString:@"XMin"]) {
         _xmin = [value doubleValue];
     } else if ([self.currentElement isEqualToString:@"YMin"]) {
@@ -88,6 +92,7 @@
 }
 
 - (void)parser:(NSXMLParser *)parser didEndElement:(NSString *)elementName namespaceURI:(NSString *)namespaceURI qualifiedName:(NSString *)qName {
+    _isStartElement = NO;
     if ([elementName isEqualToString:@"LODInfo"]) {
         self.lod = [[AGSLOD alloc]initWithLevel:_level resolution:_resolution scale:_scale];
         [self.lods addObject:_lod];

@@ -23,6 +23,7 @@
 @interface ZGSViewController () {
     NSArray *_selectedLayers;
     AGSGraphicsLayer *_graphicsLayer;
+    NSString *_baseMapUrl;
 }
 
 @end
@@ -43,7 +44,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    NSDictionary *user = [ZGSAppDelegate sharedInstance].userData;
+    NSDictionary *mapConfig = [user objectForKey:@"map"];
+    _baseMapUrl = [mapConfig objectForKey:@"basemap"];
+    if (!_baseMapUrl) {
+        //_baseMapUrl = [[ZGSAppDelegate offlineDirectory] stringByAppendingPathComponent:@"0/Layers"];
+        _baseMapUrl = @"http://202.121.180.49/arcgiscache/hzgh/Layers";
+    }
     //bind delegate
     self.mapView.layerDelegate = self;
     self.mapView.touchDelegate = self;
@@ -52,7 +59,7 @@
     self.mapView.gridLineWidth = 0;
     //self.mapView.locationDisplay.dataSource = self;
     NSError *err;
-    ZGSTiledLayer *tiledLyr = [[ZGSTiledLayer alloc] initWithDataFramePath:@"http://202.121.180.49/arcgiscache/hzgh/Layers"
+    ZGSTiledLayer *tiledLyr = [[ZGSTiledLayer alloc] initWithDataFramePath:_baseMapUrl
                                                                      error:&err];
     
     //If layer was initialized properly, add to the map
@@ -72,10 +79,23 @@
     xmax = 107066.301644543;
     ymax = 114185.708449647;
     //AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKT:@"PROJCS[\"Xian_1980_3_Degree_GK_Zone_40\",GEOGCS[\"GCS_Xian_1980\",DATUM[\"D_\",SPHEROID[\"Xian_1980\",6378140.0,298.257]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",40500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",120.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"];
-    AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKID:2437];
-    AGSEnvelope *env = [AGSEnvelope envelopeWithXmin:xmin ymin:ymin xmax:xmax ymax:ymax spatialReference:sr];
+    //AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKID:nil];
+    AGSEnvelope *env = [AGSEnvelope envelopeWithXmin:xmin ymin:ymin xmax:xmax ymax:ymax spatialReference:tiledLyr.spatialReference];
     [self.mapView zoomToEnvelope:env animated:YES];
     [self readMapConfig];
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(observeBasemapDownloaded:)
+                                                 name:ZGSBasemapDownloaded
+                                               object:nil];
+    // add map extent changed
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(observeMapDidEndPanning:)
+                                                 name:AGSMapViewDidEndZoomingNotification
+                                               object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(observeMapDidEndPanning:)
+                                                 name:AGSMapViewDidEndPanningNotification
+                                               object:nil];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -99,19 +119,22 @@
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.rotationAngle] forKey:@"rotateAngle"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.x] forKey:@"centerX"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.y] forKey:@"centerY"];
+    [mapConfig setObject:_baseMapUrl forKey:@"basemap"];
     [user setObject:mapConfig forKey:@"map"];
 }
 
 -(void)readMapConfig {
     NSDictionary *user = [ZGSAppDelegate sharedInstance].userData;
     NSDictionary *mapConfig = [user objectForKey:@"map"];
-    double scale = [[mapConfig objectForKey:@"scale"] doubleValue];
-    double x =[[mapConfig objectForKey:@"centerX"] doubleValue];
-    double y = [[mapConfig objectForKey:@"centerY"] doubleValue];
-    double angle = [[mapConfig objectForKey:@"rotateAngle"] doubleValue];
-    AGSPoint *center = [AGSPoint pointWithX:x y:y spatialReference:nil];
-    [self.mapView zoomToScale:scale withCenterPoint:center animated:YES];
-    [self.mapView setRotationAngle:angle animated:YES];
+    if (mapConfig) {
+        double scale = [[mapConfig objectForKey:@"scale"] doubleValue];
+        double x =[[mapConfig objectForKey:@"centerX"] doubleValue];
+        double y = [[mapConfig objectForKey:@"centerY"] doubleValue];
+        double angle = [[mapConfig objectForKey:@"rotateAngle"] doubleValue];
+        AGSPoint *center = [AGSPoint pointWithX:x y:y spatialReference:nil];
+        [self.mapView zoomToScale:scale withCenterPoint:center animated:YES];
+        [self.mapView setRotationAngle:angle animated:YES];
+    }
 }
 
 #pragma mark - Location Manager delegate -
@@ -152,15 +175,6 @@
 
 #pragma mark - ArcGIS Map View delegate -
 - (void)mapViewDidLoad:(AGSMapView *)mapView {
-    // add map extent changed
-    [[NSNotificationCenter defaultCenter] addObserver:self
-                                             selector:@selector(observeMapDidEndPanning:)
-                                                 name:AGSMapViewDidEndZoomingNotification
-                                               object:nil];
-    [[NSNotificationCenter defaultCenter] addObserver:self
-                                             selector:@selector(observeMapDidEndPanning:)
-                                                 name:AGSMapViewDidEndPanningNotification
-                                               object:nil];
     // comment to disable the GPS on start up
     //self.mapView.gps.autoPanMode = AGSGPSAutoPanModeCompassNavigation;
     self.mapView.locationDisplay.infoTemplateDelegate = self;
@@ -171,6 +185,14 @@
 
 - (void)observeMapDidEndPanning:(NSNotification *)notifier {
     [self.mapView makeToast:@"当前地图中心位于杭州市市区" duration:2.0 position:@"top"];
+}
+
+-(void)observeBasemapDownloaded:(NSNotification *)notifier {
+    [self.mapView removeMapLayerWithName:@"Tiled Base Map"];
+    NSError *err;
+    ZGSTiledLayer *layer = [[ZGSTiledLayer alloc] initWithDataFramePath:notifier.object error:&err];
+    _baseMapUrl = layer.dataFramePath;
+    [self.mapView insertMapLayer:layer withName:@"Tiled Base Map" atIndex:0];
 }
 
 #pragma mark - ArcGIS Map View Touch delegate -
