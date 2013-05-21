@@ -28,6 +28,11 @@
 @property (strong, nonatomic) UIImageView *thumb;
 @property (strong, nonatomic) UIButton *controlButton;
 @property (copy, nonatomic)   NSString *url;
+@property (strong, nonatomic) UILabel *progressLabel;
+@property (strong, nonatomic) UILabel *currentSizeLabel;
+@property (strong, nonatomic) UILabel *totalSizeLabel;
+
+-(BOOL)checkLayerExist;
 
 @end
 
@@ -87,7 +92,7 @@
     cell.subTitle.text = [dict objectForKey:@"description"];
     cell.tag = [[dict objectForKey:@"code"] intValue];
     cell.url = [dict objectForKey:@"url"];
-    cell.controlButton.titleLabel.text =[self checkCachesExist: cell.tag] ? @"重新下载" : @"下载";
+    cell.progressLabel.text =[self checkCachesExist: cell.tag] ? @"100%" : @"0%";
     NSLog(@"%@",NSStringFromCGRect(cell.frame));
     return cell;
 }
@@ -181,15 +186,24 @@
         self.thumb.backgroundColor = [UIColor clearColor];
         [self.contentView addSubview:self.thumb];
         
-        self.name = [[UILabel alloc] initWithFrame:CGRectMake(80, 20, 380, 40)];
-        self.name.font = [UIFont systemFontOfSize:16.0f];
+        self.name = [[UILabel alloc] initWithFrame:CGRectMake(100, 15, 260, 40)];
+        self.name.font = [UIFont systemFontOfSize:25.0f];
         self.name.autoresizingMask = UIViewAutoresizingFlexibleWidth;
         self.name.backgroundColor = [UIColor clearColor];
         //self.name.textColor = [UIColor blackColor];
         self.name.opaque = NO;
         [self.contentView addSubview:self.name];
         
-        self.subTitle = [[UILabel alloc] initWithFrame:CGRectMake(80, 60, 380, 20)];
+        self.progressLabel = [[UILabel alloc] initWithFrame:CGRectMake(358, 15, 112, 40)];
+        self.progressLabel.font = [UIFont systemFontOfSize:30.0f];
+        //self.progressLabel.autoresizingMask = UIViewAutoresizingFlexibleWidth;
+        self.progressLabel.textAlignment = NSTextAlignmentRight;
+        self.progressLabel.backgroundColor = [UIColor clearColor];
+        //self.name.textColor = [UIColor blackColor];
+        self.progressLabel.opaque = NO;
+        [self.contentView addSubview:self.progressLabel];
+        
+        self.subTitle = [[UILabel alloc] initWithFrame:CGRectMake(100, 55, 360, 20)];
         self.subTitle.font = [UIFont systemFontOfSize:12.0f];
         self.subTitle.textColor = [UIColor colorWithRed:158/255.0
                                                   green:158/255.0
@@ -207,7 +221,7 @@
         [self.contentView addSubview:self.controlButton];
         
         self.progress = [[UIProgressView alloc] initWithProgressViewStyle: UIProgressViewStyleBar];
-        self.progress.frame = CGRectMake(80, 60, 380, 20);
+        self.progress.frame = CGRectMake(100, 60, 380, 20);
         [self.progress setHidden:YES];
         [self.contentView addSubview:self.progress];
     }
@@ -267,7 +281,7 @@
             float percentDone = totalBytesReadForFile/(float)totalBytesExpectedToReadForFile;
             
             [weakSelf.progress setProgress:percentDone animated:YES];
-//            self.progressLabel.text = [NSString stringWithFormat:@"%.0f%%",percentDone*100];
+            weakSelf.progressLabel.text = [NSString stringWithFormat:@"%.0f%%",percentDone*100];
 //            
 //            self.currentSizeLabel.text = [NSString stringWithFormat:@"CUR : %lli M",totalBytesReadForFile/1024/1024];
 //            self.totalSizeLabel.text = [NSString stringWithFormat:@"TOTAL : %lli M",totalBytesExpectedToReadForFile/1024/1024];
