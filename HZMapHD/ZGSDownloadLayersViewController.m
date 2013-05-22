@@ -274,7 +274,7 @@
                     [weakself hideToastActivity];
                     [[NSNotificationCenter defaultCenter] postNotificationName:ZGSBasemapDownloaded object: file];
                 }); 
-            });  
+            });
         } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
             NSLog(@"Error: %@", error);
         }];
