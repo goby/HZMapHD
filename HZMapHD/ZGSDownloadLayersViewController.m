@@ -269,8 +269,11 @@
                 [zipArchive UnzipOpenFile:filename];
                 [zipArchive UnzipFileTo:file overWrite:YES];
                 [zipArchive UnzipCloseFile];
-                [weakself hideToastActivity];
-                [[NSNotificationCenter defaultCenter] postNotificationName:ZGSBasemapDownloaded object: file];
+                // Send to main thread
+                dispatch_async(dispatch_get_main_queue(), ^{
+                    [weakself hideToastActivity];
+                    [[NSNotificationCenter defaultCenter] postNotificationName:ZGSBasemapDownloaded object: file];
+                }); 
             });
         } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
             NSLog(@"Error: %@", error);
