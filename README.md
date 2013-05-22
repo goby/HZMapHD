@@ -1,7 +1,7 @@
 HZMapHD
 =======
 
-A app for practice, test on XCode 4.6, iOS 6
+A app for practice, test on XCode 4.6, iOS 6 with ARC
 
 Depends
 -------
