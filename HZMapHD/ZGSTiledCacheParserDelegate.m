@@ -106,10 +106,10 @@
          _xmax = 40542545.7777764;
          _ymax = 3381623.52026086;*/
         
-        _xmin =  61233.7016445426;
-        _ymin =  52585.8605198758;
-        _xmax = 107066.301644543;
-        _ymax = 114185.708449647;
+        _xmin =  65000;
+        _ymin =  58200;
+        _xmax = 103800;
+        _ymax = 107700;
         
         self.fullEnvelope = [AGSEnvelope envelopeWithXmin:_xmin
                                                      ymin:_ymin

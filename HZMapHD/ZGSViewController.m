@@ -73,15 +73,6 @@
         NSLog(@"Error encountered: %@", err);
     }
     
-    double xmin, ymin, xmax, ymax;
-    xmin =  61233.7016445426;
-    ymin =  52585.8605198758;
-    xmax = 107066.301644543;
-    ymax = 114185.708449647;
-    //AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKT:@"PROJCS[\"Xian_1980_3_Degree_GK_Zone_40\",GEOGCS[\"GCS_Xian_1980\",DATUM[\"D_\",SPHEROID[\"Xian_1980\",6378140.0,298.257]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",40500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",120.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]"];
-    //AGSSpatialReference *sr = [AGSSpatialReference spatialReferenceWithWKID:nil];
-    AGSEnvelope *env = [AGSEnvelope envelopeWithXmin:xmin ymin:ymin xmax:xmax ymax:ymax spatialReference:tiledLyr.spatialReference];
-    [self.mapView zoomToEnvelope:env animated:YES];
     [self readMapConfig];
     [[NSNotificationCenter defaultCenter] addObserver:self
                                              selector:@selector(observeBasemapDownloaded:)
@@ -98,24 +89,28 @@
                                                object:nil];
 }
 
+-(BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation {
+    return YES;
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-    [[NSNotificationCenter defaultCenter] removeObserver: self];
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
 }
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
 }
 
--(void)viewDidDisappear:(BOOL)animated {
+- (void)viewDidDisappear:(BOOL)animated {
     [super viewDidDisappear:animated];
 }
 
--(void)saveMapConfig {
+- (void)saveMapConfig {
     NSMutableDictionary *user = (NSMutableDictionary *)[ZGSAppDelegate sharedInstance].userData;
     NSMutableDictionary *mapConfig = [NSMutableDictionary dictionaryWithDictionary:[user objectForKey:@"map"]];
-    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapScale ] forKey: @"scale"];
+    [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapScale ] forKey:@"scale"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.rotationAngle] forKey:@"rotateAngle"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.x] forKey:@"centerX"];
     [mapConfig setObject:[NSNumber numberWithDouble:self.mapView.mapAnchor.y] forKey:@"centerY"];
@@ -123,12 +118,12 @@
     [user setObject:mapConfig forKey:@"map"];
 }
 
--(void)readMapConfig {
+- (void)readMapConfig {
     NSDictionary *user = [ZGSAppDelegate sharedInstance].userData;
     NSDictionary *mapConfig = [user objectForKey:@"map"];
     if (mapConfig) {
         double scale = [[mapConfig objectForKey:@"scale"] doubleValue];
-        double x =[[mapConfig objectForKey:@"centerX"] doubleValue];
+        double x = [[mapConfig objectForKey:@"centerX"] doubleValue];
         double y = [[mapConfig objectForKey:@"centerY"] doubleValue];
         double angle = [[mapConfig objectForKey:@"rotateAngle"] doubleValue];
         AGSPoint *center = [AGSPoint pointWithX:x y:y spatialReference:nil];
@@ -175,6 +170,16 @@
 
 #pragma mark - ArcGIS Map View delegate -
 - (void)mapViewDidLoad:(AGSMapView *)mapView {
+    double  _xmin =  68000,
+            _ymin =  58200,
+            _xmax = 103800,
+            _ymax = 107700;
+    
+    self.mapView.maxEnvelope = [AGSEnvelope envelopeWithXmin:_xmin
+                                                        ymin:_ymin
+                                                        xmax:_xmax
+                                                        ymax:_ymax
+                                            spatialReference:self.mapView.spatialReference];
     // comment to disable the GPS on start up
     //self.mapView.gps.autoPanMode = AGSGPSAutoPanModeCompassNavigation;
     self.mapView.locationDisplay.infoTemplateDelegate = self;
@@ -187,7 +192,7 @@
     [self.mapView makeToast:@"当前地图中心位于杭州市市区" duration:2.0 position:@"top"];
 }
 
--(void)observeBasemapDownloaded:(NSNotification *)notifier {
+- (void)observeBasemapDownloaded:(NSNotification *)notifier {
     [self.mapView removeMapLayerWithName:@"Tiled Base Map"];
     NSError *err;
     ZGSTiledLayer *layer = [[ZGSTiledLayer alloc] initWithDataFramePath:notifier.object error:&err];
@@ -197,7 +202,7 @@
 
 #pragma mark - ArcGIS Map View Touch delegate -
 - (void)mapView:(AGSMapView *)mapView didTapAndHoldAtPoint:(CGPoint)screen mapPoint:(AGSPoint *)mappoint graphics:(NSDictionary *)graphics {
-    printf("[X: %.0f, Y: %.0f]\n", mappoint.x, mappoint.y);
+    printf("[X: %.0f, Y: %.0f] at %f\n", mappoint.x, mappoint.y, mapView.mapScale);
 }
 
 - (void)mapView:(AGSMapView *)mapView didClickAtPoint:(CGPoint)screen mapPoint:(AGSPoint *)mappoint graphics:(NSDictionary *)graphics {
@@ -272,7 +277,7 @@
     //
     NSArray *points = [NSArray arrayWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Menu" withExtension:@"plist"]];
     NSDictionary *menu = [points objectAtIndex:sender.tag - 1];
-
+    
     NSArray *subMenus = [menu objectForKey:@"submenu"];
     
     NSMutableArray *menuItems = [[NSMutableArray alloc]init];
@@ -284,7 +289,7 @@
                                             highlightedImage:nil
                                                       action: ^(REMenuItem *item) {
                                                           NSLog(@"Item: %@", item);
-                                                          [sender setTitle: item.title];
+                                                          [sender setTitle:item.title];
                                                       }];
         item.tag = [[submenu objectForKey:@"code"] intValue];
         [menuItems addObject:item];

@@ -172,5 +172,18 @@
     return filteredUsers.count > 0;
 }
 
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    if ([segue.identifier isEqualToString: @"showDownloader"]) {
+        UINavigationController *navigation = [segue destinationViewController];
+        ZGSDownloadLayersViewController *downloader = [navigation.childViewControllers objectAtIndex:0];
+        downloader.delegate = self;
+    }
+}
+
+-(void)downloader:(ZGSDownloadLayersViewController *)downloader closeWithAnimated:(BOOL)animated
+{
+    //[downloader dismissViewControllerAnimated:YES completion:nil];
+    [self dismissModalViewControllerAnimated:YES];
+}
 
 @end

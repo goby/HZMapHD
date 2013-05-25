@@ -84,7 +84,7 @@ static NSString *_cacheDirectory = nil;
 + (NSString *)offlineDirectory {
     if (!_offlineDirectory) {
         NSFileManager *fileManager = [NSFileManager defaultManager];
-        NSArray *paths = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
+        NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
         NSString *cacheDirectory = [paths objectAtIndex:0];
         _offlineDirectory = [cacheDirectory stringByAppendingPathComponent:@"OfflineLayers"];
         BOOL isDir = YES;

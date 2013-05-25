@@ -8,9 +8,21 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ZGSDownloadLayersViewController : UITableViewController
+@protocol ZGSDownloadLayersDelegate;
+@interface ZGSDownloadLayersViewController : UITableViewController 
+
+@property (weak, nonatomic) id<ZGSDownloadLayersDelegate> delegate;
 
 - (IBAction)cancelDownload:(UIBarButtonItem *)sender;
 - (IBAction)doneDownload:(id)sender;
+
+@end
+
+
+@protocol ZGSDownloadLayersDelegate <NSObject>
+
+@optional
+-(void)downloader:(ZGSDownloadLayersViewController *) downloader closeWithAnimated:(BOOL) animated;
+-(void)downloader:(ZGSDownloadLayersViewController *) downloader doneWithAnimated:(BOOL) animated;
 
 @end

@@ -7,10 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ZGSDownloadLayersViewController.h"
+
 @class UIFolderTableView;
 @protocol ZGSLayersDelegate;
 
-@interface ZGSLayersViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>
+@interface ZGSLayersViewController : UIViewController<UITableViewDataSource,
+                                                      UITableViewDelegate,
+                                                      ZGSDownloadLayersDelegate>
 
 @property (strong, nonatomic) NSArray *layers;
 @property (strong, nonatomic) NSArray *selectedLayers;

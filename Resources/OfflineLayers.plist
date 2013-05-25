@@ -18,7 +18,7 @@
 	</dict>
 	<dict>
 		<key>code</key>
-		<integer>1</integer>
+		<integer>3</integer>
 		<key>layername</key>
 		<string>影像图</string>
 		<key>description</key>
@@ -26,7 +26,35 @@
 		<key>isbasemap</key>
 		<true/>
 		<key>url</key>
-		<string>http://202.121.180.49/arcgiscache/hzgh/Layers.zip?id=123</string>
+		<string>http://202.121.180.49/arcgiscache/hzgh/3.zip</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>code</key>
+		<integer>4</integer>
+		<key>layername</key>
+		<string>城区图</string>
+		<key>description</key>
+		<string></string>
+		<key>isbasemap</key>
+		<true/>
+		<key>url</key>
+		<string>http://202.121.180.49/arcgiscache/hzgh/4.zip</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>code</key>
+		<integer>5</integer>
+		<key>layername</key>
+		<string>城区图5</string>
+		<key>description</key>
+		<string></string>
+		<key>isbasemap</key>
+		<true/>
+		<key>url</key>
+		<string>http://202.121.180.49/arcgiscache/hzgh/5.zip</string>
 		<key>type</key>
 		<integer>0</integer>
 	</dict>
